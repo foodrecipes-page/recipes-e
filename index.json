@@ -1,9 +1,15 @@
-{
-  "version": 1,
-  "shard": "e",
-  "description": "Recipe cache shard for foodrecipes.page. Contains recipes whose slug starts with 'the letter 'e''.",
-  "cdn": "https://cdn.jsdelivr.net/gh/foodrecipes-page/recipes-e@main/",
-  "license": "CC-BY-NC-SA-4.0",
-  "generatedAt": null,
-  "count": 0
-}
+[
+  {
+    "slug": "eco-tamarin-delight",
+    "title": "Eco-Tamarin Delight",
+    "tags": [
+      "tamarind",
+      "almond",
+      "flaxseed",
+      "coconut"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 45,
+    "shard": "e"
+  }
+]

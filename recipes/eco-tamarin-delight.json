@@ -1,0 +1,83 @@
+{
+  "title": "Eco-Tamarin Delight",
+  "description": "An earthy and dense Dutch dish featuring a tamarind ball poach that is dairy-free-friendly.",
+  "cuisine": "Dutch",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "tamarind concentrate",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "almond milk",
+      "amount": "4 cups"
+    },
+    {
+      "name": "almond butter",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "ground flaxseed",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "unsweetened shredded coconut flakes",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "3 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat almond milk in a pot until warm.",
+    "Add tamarind concentrate, ground flaxseed, and vanilla extract. Simmer for about 5 minutes or until thickened.",
+    "In a separate bowl, mix together almond flour and coconut oil to form a paste. Gradually add this mixture into the simmering milk, stirring constantly to prevent lumps.",
+    "Cook on low heat for another 10-15 minutes, stirring occasionally, until fully incorporated and smooth.",
+    "Remove from heat and let cool slightly. Once cooled, pour into a mold or dish to set (approximately 30 minutes).",
+    "Serve with unsweetened coconut flakes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "tamarind",
+    "almond",
+    "flaxseed",
+    "coconut"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 14
+  },
+  "slug": "eco-tamarin-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/eco-tamarin-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T02:33:51Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "dense",
+    "mood": "light",
+    "technique": "poach",
+    "primaryIngredient": "tamarind ball",
+    "diet": "dairy-free",
+    "region": null
+  }
+}
