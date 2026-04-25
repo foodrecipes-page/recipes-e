@@ -1,0 +1,77 @@
+{
+  "title": "Sour Vivace Vegan",
+  "description": "A festive Spanish dish featuring extra virgin olive oil and sous-vide cooking for a light and sour flavor profile.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh Lemon Juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Dill, Fresh",
+      "amount": "1 tablespoon, finely chopped"
+    },
+    {
+      "name": "Garlic, Clove(s)",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "grated zest of 1 lemon"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together the Extra Virgin Olive Oil, Fresh Lemon Juice, Red Wine Vinegar, Dill, Garlic, Sea Salt, and Black Pepper. Stir well until smooth.",
+    "Transfer the mixture to a sous-vide bag and vacuum seal it for even distribution of flavors during cooking.",
+    "Set your sous-vide at 160°F (71°C) and cook the mixture for about 30 minutes or until desired doneness is achieved."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 30,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "sour",
+    "light",
+    "festive",
+    "spanish",
+    "extra-virgin-olive-oil",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 2,
+    "carbs": 6,
+    "fat": 14
+  },
+  "slug": "extra-virgin-vivace",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/extra-virgin-vivace",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T04:17:31Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "sous-vide",
+    "primaryIngredient": "extra virgin olive oil",
+    "diet": "vegan",
+    "region": null
+  }
+}

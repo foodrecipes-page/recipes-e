@@ -11,5 +11,20 @@
     "cuisine": "Dutch",
     "totalTimeMin": 45,
     "shard": "e"
+  },
+  {
+    "slug": "extra-virgin-vivace",
+    "title": "Sour Vivace Vegan",
+    "tags": [
+      "sour",
+      "light",
+      "festive",
+      "spanish",
+      "extra-virgin-olive-oil",
+      "sous-vide"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 35,
+    "shard": "e"
   }
 ]
