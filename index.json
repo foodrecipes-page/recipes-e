@@ -69,6 +69,18 @@
     "shard": "e"
   },
   {
+    "slug": "eggplant-requiem",
+    "title": "Eggplant Requiem",
+    "tags": [
+      "eggplant",
+      "caramelized",
+      "raw-friendly"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 60,
+    "shard": "e"
+  },
+  {
     "slug": "extra-virgin-vivace",
     "title": "Sour Vivace Vegan",
     "tags": [
