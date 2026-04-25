@@ -28,6 +28,19 @@
     "shard": "e"
   },
   {
+    "slug": "earthly-rice-vermicelli",
+    "title": "Earthly Rice Vermicelli",
+    "tags": [
+      "vegan",
+      "grilled",
+      "vermicelli",
+      "earthly"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": null,
+    "shard": "e"
+  },
+  {
     "slug": "earthmassaman",
     "title": "EarthMassaman",
     "tags": [

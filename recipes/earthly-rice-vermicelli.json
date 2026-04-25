@@ -1,0 +1,70 @@
+{
+  "title": "Earthly Rice Vermicelli",
+  "description": "An earthy and silky German dish featuring rice vermicelli, cooked and grilled to perfection, suitable for a crowd-pleasing dinner or snack option that is also fodmap-friendly.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice vermicelli",
+      "amount": "1 cup",
+      "notes": "Use gluten-free rice vermicelli if needed."
+    },
+    {
+      "name": "Grilled vegetables (e.g., zucchini, bell peppers)",
+      "amount": "2 cups total",
+      "notes": "Pre-cut and pre-washed for convenience."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking the vermicelli."
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh herbs (e.g., parsley, thyme)",
+      "amount": "1 tablespoon dried or 2-3 fresh sprigs",
+      "notes": "For garnish and added flavor."
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat.",
+    "Boil the rice vermicelli according to package instructions until al dente, then drain well. Rinse with cold water if preferred for a lighter texture.",
+    "In a large skillet, heat olive oil over medium heat and add salt. Add drained rice vermicelli and toss to coat evenly.",
+    "Transfer the vermicelli to your preheated grill and cook for about 1 minute per side or until golden brown and slightly crispy.",
+    "While the vermicelli grills, slice your vegetables into thin strips if not already done. Season them with a bit of olive oil, salt, and herbs (optional).",
+    "Arrange grilled vegetables on plates and top each serving with cooked rice vermicelli.",
+    "prepTimeMin: 15",
+    "cookTimeMin: 20",
+    "totalTimeMin: 35",
+    "servings: 4",
+    "difficulty: "
+  ],
+  "tags": [
+    "vegan",
+    "grilled",
+    "vermicelli",
+    "earthly"
+  ],
+  "slug": "earthly-rice-vermicelli",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthly-rice-vermicelli",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T17:57:15Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "silky",
+    "mood": "crowd-pleaser",
+    "technique": "grill",
+    "primaryIngredient": "rice vermicelli",
+    "diet": "fodmap",
+    "region": null
+  }
+}
