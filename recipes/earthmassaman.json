@@ -1,0 +1,93 @@
+{
+  "title": "EarthMassaman",
+  "description": "An earthy and silky comforting dish featuring massaman curry paste, prepared with sous-vide for optimal tenderness and flavor.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "Uncooked"
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "4 pieces",
+      "notes": "Boneless, skinless"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Light soy sauce for a milder flavor"
+    },
+    {
+      "name": "Massaman Curry Paste",
+      "amount": "1/4 cup",
+      "notes": "Pre-made or homemade with garlic, shallots, lemongrass, and other Thai spices"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For the sous-vide process and as a cooking oil"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves",
+      "notes": "For massaman curry paste"
+    },
+    {
+      "name": "Shallots",
+      "amount": "8-10 pieces",
+      "notes": "Sliced for the sauce"
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "2 stalks",
+      "notes": "Grated for flavor infusion"
+    }
+  ],
+  "instructions": [
+    "Prepare the sous-vide cooker by setting the water temperature to a safe level, typically around 60°C (140°F). Preheat your oven.",
+    "In a large bowl, marinate the chicken breasts with soy sauce and place them in a plastic bag. Seal the bag and refrigerate for at least an hour.",
+    "After marination, cook the chicken sous-vide at 60°C for about 1 hour, ensuring even cooking by flipping halfway through.",
+    "While the chicken is cooking, prepare the massaman curry paste. Finely chop garlic cloves, shallots, and lemongrass into smaller pieces.",
+    "Heat olive oil in a wok or large skillet over medium heat. Add chopped garlic, shallots, and lemongrass, sautéing until fragrant (about 3-5 minutes).",
+    "Increase the heat to high, add massaman curry paste, stirring continuously for about 1 minute to avoid burning.",
+    "Pour in reserved marinade from the chicken breasts, along with any additional liquid as needed to achieve desired consistency. Simmer and let it thicken slightly.",
+    "Add cooked sous-vide chicken to the sauce mixture and stir gently until well combined. Cook for another 3-5 minutes to allow flavors to meld together.",
+    "Serve the EarthMassaman over steamed rice, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 60,
+  "cookTimeMin": 60,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "sous-vide",
+    "massaman curry",
+    "earthly",
+    "silky",
+    "comforting"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 24,
+    "carbs": 56,
+    "fat": 16
+  },
+  "slug": "earthmassaman",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthmassaman",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T08:24:11Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "silky",
+    "mood": "comforting",
+    "technique": "sous-vide",
+    "primaryIngredient": "massaman curry paste",
+    "diet": "halal",
+    "region": null
+  }
+}

@@ -1,5 +1,20 @@
 [
   {
+    "slug": "earthmassaman",
+    "title": "EarthMassaman",
+    "tags": [
+      "thai",
+      "sous-vide",
+      "massaman curry",
+      "earthly",
+      "silky",
+      "comforting"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 120,
+    "shard": "e"
+  },
+  {
     "slug": "eco-tamarin-delight",
     "title": "Eco-Tamarin Delight",
     "tags": [
