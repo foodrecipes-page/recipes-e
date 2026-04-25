@@ -69,9 +69,9 @@
     "carbs": 64,
     "fat": 37
   },
-  "slug": "earthcrumble",
+  "slug": "earth-crumble",
   "source": "ollama-qwen2.5:3b",
-  "canonicalUrl": "https://foodrecipes.page/r/earthcrumble",
+  "canonicalUrl": "https://foodrecipes.page/r/earth-crumble",
   "providerUsed": "ollama-qwen2.5:3b",
   "createdAt": "2026-04-25T19:21:34Z",
   "axes": {

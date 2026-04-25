@@ -76,9 +76,9 @@
     "carbs": 56,
     "fat": 16
   },
-  "slug": "earthmassaman",
+  "slug": "earth-massaman",
   "source": "ollama-qwen2.5:3b",
-  "canonicalUrl": "https://foodrecipes.page/r/earthmassaman",
+  "canonicalUrl": "https://foodrecipes.page/r/earth-massaman",
   "providerUsed": "ollama-qwen2.5:3b",
   "createdAt": "2026-04-25T08:24:11Z",
   "axes": {

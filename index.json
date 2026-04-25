@@ -25,7 +25,7 @@
     "shard": "e"
   },
   {
-    "slug": "earthcrumble",
+    "slug": "earth-crumble",
     "title": "EarthCrumble",
     "tags": [
       "algerian-earthcrumble",
@@ -34,6 +34,21 @@
     ],
     "cuisine": "Algerian",
     "totalTimeMin": 75,
+    "shard": "e"
+  },
+  {
+    "slug": "earth-massaman",
+    "title": "EarthMassaman",
+    "tags": [
+      "thai",
+      "sous-vide",
+      "massaman curry",
+      "earthly",
+      "silky",
+      "comforting"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 120,
     "shard": "e"
   },
   {
@@ -62,21 +77,6 @@
     ],
     "cuisine": "German",
     "totalTimeMin": null,
-    "shard": "e"
-  },
-  {
-    "slug": "earthmassaman",
-    "title": "EarthMassaman",
-    "tags": [
-      "thai",
-      "sous-vide",
-      "massaman curry",
-      "earthly",
-      "silky",
-      "comforting"
-    ],
-    "cuisine": "Thai",
-    "totalTimeMin": 120,
     "shard": "e"
   },
   {
