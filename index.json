@@ -1,5 +1,18 @@
 [
   {
+    "slug": "earth-apple-fold",
+    "title": "Earth Apple Fold",
+    "tags": [
+      "earth-apple-fold",
+      "vegan-friendly",
+      "gluten-free",
+      "jamaican-dish"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
     "slug": "earthmassaman",
     "title": "EarthMassaman",
     "tags": [

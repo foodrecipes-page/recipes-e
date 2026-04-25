@@ -1,0 +1,74 @@
+{
+  "title": "Earth Apple Fold",
+  "description": "An earthy and velvety weeknight Jamaican dish featuring a fruit mix folded with gluten-free-friendly elements.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 ripe apples, peeled and chopped",
+      "amount": "medium"
+    },
+    {
+      "name": "1/4 cup mashed bananas",
+      "amount": "small bowl"
+    },
+    {
+      "name": "3 tablespoons unsweetened cocoa powder",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "1 tablespoon honey or agave nectar",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "1 cup almond milk (or any non-dairy milk)",
+      "amount": "cup"
+    }
+  ],
+  "instructions": [
+    "Combine the chopped apples, mashed bananas, cocoa powder, honey or agave nectar, and salt in a mixing bowl.",
+    "Add the almond milk gradually while stirring continuously to form a smooth consistency.",
+    "Divide the mixture into 2 bowls for folding. Ensure each bowl has enough batter (about 1/4 cup per fold).",
+    "Fold one apple-banana-cocoa-almond-milk mix over another in alternating layers, creating patterns or designs as desired.",
+    "Place folded apples on a baking sheet and bake at 350°F for 20 minutes until golden brown.",
+    "Serve warm with a scoop of vanilla yogurt or a drizzle of maple syrup."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "earth-apple-fold",
+    "vegan-friendly",
+    "gluten-free",
+    "jamaican-dish"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 3,
+    "carbs": 37,
+    "fat": 9
+  },
+  "slug": "earth-apple-fold",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/earth-apple-fold",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T08:45:59Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "weeknight",
+    "technique": "fold",
+    "primaryIngredient": "fruit mix",
+    "diet": "gluten-free",
+    "region": null
+  }
+}
