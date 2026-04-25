@@ -1,0 +1,91 @@
+{
+  "title": "Earth Baked Quinoa Feast",
+  "description": "An earthy and tender one-pot Indian dish featuring quinoa baked until crispy and golden, perfect for a light meal or snack.",
+  "cuisine": "Indian",
+  "diet": [
+    "low-fat-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can (15 oz)"
+    },
+    {
+      "name": "onions",
+      "amount": "2, finely chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "a pinch"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "for garnish, optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Rinse quinoa under cold water and cook according to package instructions.",
+    "In a large mixing bowl, combine cooked quinoa with chickpeas, onions, garlic, tomatoes, cumin seeds, coriander powder, turmeric powder, salt, and oil. Mix well until all ingredients are evenly distributed.",
+    "Transfer the mixture into an oven-safe baking dish. Bake for 20 minutes or until edges are golden brown and top is crispy.",
+    "Serve hot with fresh cilantro on top (optional)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "earth_baked_quinoa",
+    "indian_snack",
+    "low_fat"
+  ],
+  "nutrition": {
+    "calories": 185,
+    "protein": 9,
+    "carbs": 23,
+    "fat": 7
+  },
+  "slug": "earth-baked-quinoa-feast",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/earth-baked-quinoa-feast",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T18:58:26Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "tender",
+    "mood": "one-pot",
+    "technique": "bake",
+    "primaryIngredient": "quinoa",
+    "diet": "low-fat",
+    "region": null
+  }
+}

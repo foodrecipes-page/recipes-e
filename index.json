@@ -13,6 +13,18 @@
     "shard": "e"
   },
   {
+    "slug": "earth-baked-quinoa-feast",
+    "title": "Earth Baked Quinoa Feast",
+    "tags": [
+      "earth_baked_quinoa",
+      "indian_snack",
+      "low_fat"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
     "slug": "earthly-bean-delight",
     "title": "Earthly Bean Delight",
     "tags": [
