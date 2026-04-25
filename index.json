@@ -41,6 +41,19 @@
     "shard": "e"
   },
   {
+    "slug": "egg-white-encrusted-toast",
+    "title": "Egg White Encrusted Toast",
+    "tags": [
+      "egg_white",
+      "encrusted",
+      "toast",
+      "portuguese"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 22,
+    "shard": "e"
+  },
+  {
     "slug": "extra-virgin-vivace",
     "title": "Sour Vivace Vegan",
     "tags": [

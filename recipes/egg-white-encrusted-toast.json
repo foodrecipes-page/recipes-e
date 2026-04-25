@@ -1,0 +1,67 @@
+{
+  "title": "Egg White Encrusted Toast",
+  "description": "This earthy and fluffy Portuguese dish features egg whites encrusted on toast, suitable for a whole30-friendly brunch mood.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "2 slices of bread",
+      "amount": "each"
+    },
+    {
+      "name": "1 egg white",
+      "amount": "per slice of bread"
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch per egg white"
+    },
+    {
+      "name": "Optional: Fresh herbs like parsley or dill",
+      "notes": "for added flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "Toast slices of bread lightly until golden brown, about 2-3 minutes per side.",
+    "In a small bowl, beat one egg white and add a pinch of salt. Mix well.",
+    "Dip each slice of toast into the beaten egg mixture to coat evenly on both sides.",
+    "Place coated slices of toast on a baking sheet lined with parchment paper.",
+    "Bake in preheated oven for 5-7 minutes or until the egg whites are set and golden brown, flipping once if needed.",
+    "Let cool slightly before serving. Optionally sprinkle fresh herbs over the top to add more flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egg_white",
+    "encrusted",
+    "toast",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 5,
+    "carbs": 10,
+    "fat": 2
+  },
+  "slug": "egg-white-encrusted-toast",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/egg-white-encrusted-toast",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T12:26:59Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "fluffy",
+    "mood": "brunch-mood",
+    "technique": "cure",
+    "primaryIngredient": "egg white",
+    "diet": "whole30",
+    "region": null
+  }
+}
