@@ -25,6 +25,18 @@
     "shard": "e"
   },
   {
+    "slug": "earthcrumble",
+    "title": "EarthCrumble",
+    "tags": [
+      "algerian-earthcrumble",
+      "vegan-alternative",
+      "pescatarian-friendly"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 75,
+    "shard": "e"
+  },
+  {
     "slug": "earthly-bean-delight",
     "title": "Earthly Bean Delight",
     "tags": [
