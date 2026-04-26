@@ -1,0 +1,92 @@
+{
+  "title": "Energizing Smoky Middle Eastern Fermented Black Beans Stir-fry",
+  "description": "This savory and energizing Middle Eastern dish features smoked fermented black beans in a flavorful sauce that's perfect for any meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fermented Black Beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium, finely chopped"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves, minced"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add onions and garlic, sauté until softened and translucent.",
+    "Stir in tomato paste, smoked paprika, coriander powder, and turmeric powder. Cook for another minute.",
+    "Pour in the fermented black beans and water, mix well to combine.",
+    "Simmer on medium-low heat for about 10 minutes or until sauce thickens slightly.",
+    "Serve hot with your favorite side dishes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "energizing",
+    "middle-eastern",
+    "savory",
+    "juicy",
+    "fermented-black-beans",
+    "smoke"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "energizing-smoky-middle-eastern-fermented-black-beans-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-smoky-middle-eastern-fermented-black-beans-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T15:48:41Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "smoke",
+    "primaryIngredient": "fermented black beans",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Fermented Black Beans",
+    "descriptor": "Energizing Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
