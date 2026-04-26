@@ -1,0 +1,82 @@
+{
+  "title": "Energetic Slovakian Kielbasa Stir-fry",
+  "description": "A salty and dense low-fat-friendly dish featuring succulent kielbasa in a vibrant stir-fry, perfect for a quick breakfast or snack that will energize your day.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "low-fat",
+    "salty"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Energetic Kielbasa",
+      "amount": "100g"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "2 medium, finely chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small, finely chopped"
+    },
+    {
+      "name": "Garlic Clove(s)",
+      "amount": "3-4 cloves, minced"
+    },
+    {
+      "name": "Low-Sodium Soy Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Red Pepper Flakes (optional)",
+      "amount": "a few pinches",
+      "notes": "for a spicy kick"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a skillet over medium heat.",
+    "Add onions and garlic, sauté until translucent.",
+    "Fold in kielbasa pieces; cook for about 3 minutes per side to add flavor.",
+    "Stir in bell peppers and soy sauce. Cook for another 5-7 minutes.",
+    "Optional: Add red pepper flakes for a little spice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "energetic-slovakian-stir-fry",
+    "salt-and-pepper-kielbasa",
+    "low-fat-friendly-dish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 12,
+    "fat": 6
+  },
+  "slug": "energetic-slovakian-kielbasa-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/energetic-slovakian-kielbasa-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T13:52:58Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "energizing",
+    "technique": "fold",
+    "primaryIngredient": "kielbasa",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Kielbasa",
+    "descriptor": "salty dense energizing low fat friendly",
+    "dishForm": "Stir-fry"
+  }
+}
