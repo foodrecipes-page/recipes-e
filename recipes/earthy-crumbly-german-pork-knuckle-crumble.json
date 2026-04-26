@@ -1,0 +1,101 @@
+{
+  "title": "Earthy Crumbly German Pork Knuckle Crockpot Creme Fraiche",
+  "description": "This brunch-mood dish poaches tender pork knuckle in a rich creme fraiche sauce with earthy vegetables for a comforting and egg-free-friendly meal.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Pork Knuckle",
+      "amount": "1 kg"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 large"
+    },
+    {
+      "name": "Leek",
+      "amount": "1 bulb"
+    },
+    {
+      "name": "Turnip",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Canned Tomato Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Creme Fraiche",
+      "amount": "200ml"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "Rinse pork knuckle and pat dry. Slice onion, dice leek, cut carrots into thin sticks, slice turnips.",
+    "In a saucepan over medium heat, add oil. Brown meat on all sides, then set aside.",
+    "Sauté diced onions in the same pan until translucent. Add leeks, carrots, and turnips; cook for 5 minutes.",
+    "Stir in tomato paste with some flour to make a roux. Slowly pour in water while stirring continuously.",
+    "Reduce heat to low and add white wine vinegar, salt, pork knuckle, and all vegetables. Simmer gently for about 2 hours until tender.",
+    "In a separate pan, heat creme fraiche over medium heat; stir occasionally until slightly thickened.",
+    "Pour the stewed mixture into a slow cooker with the creme fraiche. Cover and cook on low for another hour.",
+    "Serve hot with crusty bread or as part of a brunch spread."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "earthly-crumbly-german-pork-knuckle-crumble",
+    "egg-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 372,
+    "protein": 26.9,
+    "carbs": 48.1,
+    "fat": 15.2
+  },
+  "slug": "earthy-crumbly-german-pork-knuckle-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-crumbly-german-pork-knuckle-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T16:29:42Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crumbly",
+    "mood": "brunch-mood",
+    "technique": "poach",
+    "primaryIngredient": "pork knuckle",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pork",
+    "descriptor": "Earthy Crumbly",
+    "dishForm": "Crumble"
+  }
+}
