@@ -1,0 +1,85 @@
+{
+  "title": "Earthy Crunchy Garlic Italian Stir-fry",
+  "description": "A festive Italian dish featuring garlic, red chili flakes, and earthy flavors that are perfect for a light dinner or snack.",
+  "cuisine": "Italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4 cloves"
+    },
+    {
+      "name": "Red chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Kosher salt",
+      "amount": "To taste"
+    },
+    {
+      "name": "Italian herbs (thyme, oregano)",
+      "amount": "A few sprigs"
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pitted cherry peppers",
+      "amount": "2-3 pcs"
+    },
+    {
+      "name": "Garlic butter sauce base (optional)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat. Add garlic cloves, red chili flakes, and Italian herbs.",
+    "Stir-fry for about 2 minutes until fragrant but not burnt.",
+    "Add salt to taste based on preference or dish requirements.",
+    "Drain rice noodles and add them directly into the pan with the garlic mixture, stirring well to coat evenly.",
+    "Fold in pitted cherry peppers and stir-fry briefly to heat through.",
+    "For a creamy texture, mix in a tablespoon of prepared garlic butter sauce base if desired. Stir until fully combined.",
+    "Serve hot as is or garnish with extra herbs for visual appeal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "earthly",
+    "crunchy",
+    "festive"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 16,
+    "carbs": 34,
+    "fat": 9
+  },
+  "slug": "earthy-crunchy-garlic-italian-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-crunchy-garlic-italian-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T09:19:00Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crunchy",
+    "mood": "festive",
+    "technique": "simmer",
+    "primaryIngredient": "red chilli flakes",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Earthy Crunchy Festive",
+    "dishForm": "Stir-fry"
+  }
+}

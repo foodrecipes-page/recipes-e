@@ -94,6 +94,19 @@
     "shard": "e"
   },
   {
+    "slug": "earthy-crunchy-garlic-italian-stir-fry",
+    "title": "Earthy Crunchy Garlic Italian Stir-fry",
+    "tags": [
+      "italian",
+      "earthly",
+      "crunchy",
+      "festive"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
     "slug": "earthy-flaky-german-peanut-crumble",
     "title": "Earthy Flaky German Peanut Crumble",
     "tags": [
