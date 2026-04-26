@@ -108,6 +108,19 @@
     "shard": "e"
   },
   {
+    "slug": "earthy-flour-stir-fry",
+    "title": "Earthy Flour Stir-fry",
+    "tags": [
+      "whole30",
+      "flour",
+      "stir-fry",
+      "slovakian"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
     "slug": "eco-tamarin-delight",
     "title": "Eco-Tamarin Delight",
     "tags": [

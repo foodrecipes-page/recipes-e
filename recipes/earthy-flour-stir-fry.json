@@ -1,0 +1,74 @@
+{
+  "title": "Earthy Flour Stir-fry",
+  "description": "This one-pot Slovakian dish features red pepper paste and is both earthy and fluffy, suitable for the Whole30 diet.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flaxseed Meal",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Red Pepper Paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Combine flaxseed meal, red pepper paste, garlic powder, olive oil, and water in a mixing bowl.",
+    "Stir until all ingredients are fully combined and well-blended into a smooth batter. Make sure there are no lumps.",
+    "Transfer the mixture to an oven-safe dish (preferably cast iron) and spread it evenly across the surface.",
+    "Bake for 25 minutes or until golden brown and crispy on top.",
+    "Serve hot as a side dish with your choice of protein and vegetables."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "whole30",
+    "flour",
+    "stir-fry",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 167,
+    "protein": 8.2,
+    "carbs": 5.4,
+    "fat": 9.4
+  },
+  "slug": "earthy-flour-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-flour-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T08:34:02Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "fluffy",
+    "mood": "one-pot",
+    "technique": "fold",
+    "primaryIngredient": "red pepper paste",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "flour",
+    "descriptor": "Earthy",
+    "dishForm": "Stir-fry"
+  }
+}
