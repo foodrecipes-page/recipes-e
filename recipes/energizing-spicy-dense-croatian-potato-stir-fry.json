@@ -1,0 +1,97 @@
+{
+  "title": "Energizing Spicy Dense Croatian Potato Stir-fry",
+  "description": "This energizing dish combines the spicy flavors of paprika and red pepper flakes with dense potatoes cooked to a creamy texture. Ideal for a quick lunch or snack, it’s both smoked and fodmap-friendly.",
+  "cuisine": "Croatian",
+  "diet": [
+    "smoked",
+    "fodmap-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 medium-sized",
+      "notes": "Washed and peeled"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tbsp",
+      "notes": "Crushed to release color and flavor"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1 tsp",
+      "notes": "For a mild heat, you can reduce this amount."
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium-sized",
+      "notes": "Sliced thinly"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tbsp",
+      "notes": "For sautéing vegetables and potatoes"
+    },
+    {
+      "name": "Water or Chicken Stock",
+      "amount": "2 cups",
+      "notes": "To cook the potatoes in a creamy sauce"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch",
+      "notes": "Optional, for taste adjustment"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Dice the potatoes and sauté them in olive oil with chopped onions until they turn golden brown.",
+    "Add minced garlic, paprika, and red pepper flakes to the mixture. Stir well for a minute or two.",
+    "Pour water or chicken stock into the pot, bring it to a boil, then reduce heat to low, cover the pot, and simmer until the potatoes are tender (about 20 minutes).",
+    "Add salt if desired, mix well with the vegetables, and cook for an additional 5-7 minutes.",
+    "Once done, remove from heat. The mixture should have a creamy, dense texture. Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "energizing",
+    "spicy",
+    "dense",
+    "croatian",
+    "smoked",
+    "fodmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 37,
+    "fat": 8
+  },
+  "slug": "energizing-spicy-dense-croatian-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-spicy-dense-croatian-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T12:55:06Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "dense",
+    "mood": "energizing",
+    "technique": "smoke",
+    "primaryIngredient": "starch",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Potato",
+    "descriptor": "Spicy Dense Energizing",
+    "dishForm": "Stir-fry"
+  }
+}
