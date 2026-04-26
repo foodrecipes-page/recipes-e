@@ -1,0 +1,83 @@
+{
+  "title": "Energizing Smoky Toast Stir-fry",
+  "description": "This gluten-free and energizing American dish features toast, tahini paste, and other nutritious ingredients for a healthy breakfast option.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "toast",
+      "amount": "2 slices",
+      "notes": "preferably gluten-free"
+    },
+    {
+      "name": "tahini paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "scallions",
+      "amount": "4",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Toast the slices of gluten-free bread and let them cool.",
+    "In a small bowl, mix tahini paste, garlic, scallions, red pepper flakes, water, and vegetable oil until smooth.",
+    "Warm a pan over medium heat and add the mixture from step 2 to it.",
+    "Add cooled toast slices on top of the sauce. Cook for about 3 minutes or until golden brown on both sides.",
+    "Serve hot with additional tahini sauce if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "energizing",
+    "smoky",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 12,
+    "carbs": 49,
+    "fat": 18
+  },
+  "slug": "energizing-smoky-toast-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-smoky-toast-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T17:10:23Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "gooey",
+    "mood": "energizing",
+    "technique": "toast",
+    "primaryIngredient": "tahini paste",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "toast",
+    "descriptor": "Energizing Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
