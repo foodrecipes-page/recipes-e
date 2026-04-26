@@ -1,0 +1,85 @@
+{
+  "title": "Energizing Gooey Smoky Cumin Stir-fry",
+  "description": "This nut-free energizing Chinese dish features gooey caramelized ground cumin with smoky flavors that are perfect for a quick breakfast or snack.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Cumin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves, minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1/2 medium, sliced"
+    },
+    {
+      "name": "Chopped Fresh Thyme",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Water or Chicken Broth",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add ground cumin and cook for about 30 seconds until fragrant.",
+    "Add garlic, onion, bell pepper, and thyme. Stir-fry for another 2-3 minutes until vegetables are slightly softened.",
+    "Pour water or chicken broth into the pan. Bring to a boil.",
+    "Reduce heat and simmer for about 5 minutes to caramelize the mixture.",
+    "Stir in sesame seeds, ensuring they cook evenly on all sides without burning."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "energizing",
+    "smoky",
+    "gooey",
+    "cumin",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 125,
+    "protein": 3,
+    "carbs": 7,
+    "fat": 6
+  },
+  "slug": "energizing-gooey-smoky-cumin-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-gooey-smoky-cumin-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T22:50:25Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "gooey",
+    "mood": "energizing",
+    "technique": "caramelize",
+    "primaryIngredient": "ground cumin",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "cumin",
+    "descriptor": "Energizing Gooey Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
