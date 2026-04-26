@@ -1,0 +1,80 @@
+{
+  "title": "Energizing British Butter Fry",
+  "description": "A velvety and buttery dish featuring apricot jam as a key ingredient, perfect for an energizing breakfast.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Apricot Jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Thyme Leaves",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Pinch of Salt",
+      "notes": "For added flavor and color"
+    },
+    {
+      "name": "Vegetable Garnish (optional)",
+      "amount": "Grated lemon zest or edible flowers",
+      "notes": "To enhance the dish's aesthetic appeal"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F.",
+    "Whisk together the apricot jam, vegetable oil, breadcrumbs, thyme leaves, and a pinch of salt in a mixing bowl until well combined.",
+    "Place the bowl with the mixture on a baking sheet lined with parchment paper or aluminum foil.",
+    "Bake for about 12 minutes or until golden brown and crispy.",
+    "Serve warm alongside your choice of breakfast items. Garnish with optional vegetable garnish if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "energizing",
+    "british",
+    "buttery",
+    "jam",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 15
+  },
+  "slug": "energizing-british-butter-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-british-butter-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T06:03:57Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "velvety",
+    "mood": "energizing",
+    "technique": "fry",
+    "primaryIngredient": "apricot jam",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Butter",
+    "descriptor": "Energizing",
+    "dishForm": "Fry"
+  }
+}
