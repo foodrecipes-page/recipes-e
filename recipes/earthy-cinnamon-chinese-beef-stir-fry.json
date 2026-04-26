@@ -1,0 +1,76 @@
+{
+  "title": "Earthy Cinnamon Chinese Beef Stir-fry",
+  "description": "A nostalgic and earthy Chinese dish featuring mixed beef cuts in a flavorful Mediterranean-inspired sauce that is both crisp and simmered to perfection.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "200 grams"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Green Onions (Scallions)",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "1 small"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add onions, garlic, and bell peppers. Stir-fry for about 5 minutes until the vegetables are slightly softened.",
+    "Cut beef into thin strips and add to the wok. Season with salt, pepper, and a pinch of red chili flakes if preferred.",
+    "Pour in vegetable broth or water, stir gently, and cook for another minute to allow flavors to meld together.",
+    "Add sliced green onions on top just before serving. Ensure the beef is cooked through but still tender.",
+    "Serve hot with steamed rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "earthy",
+    "crisp",
+    "nostalgic",
+    "chinese-beef-stir-fry",
+    "mediterranean-friendly"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 28,
+    "carbs": 14,
+    "fat": 9
+  },
+  "slug": "earthy-cinnamon-chinese-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-cinnamon-chinese-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T06:19:04Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crisp",
+    "mood": "nostalgic",
+    "technique": "simmer",
+    "primaryIngredient": "mixed beef cuts",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "beef",
+    "descriptor": "Earthy Cinnamon",
+    "dishForm": "Stir-fry"
+  }
+}

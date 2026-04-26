@@ -80,6 +80,20 @@
     "shard": "e"
   },
   {
+    "slug": "earthy-cinnamon-chinese-beef-stir-fry",
+    "title": "Earthy Cinnamon Chinese Beef Stir-fry",
+    "tags": [
+      "earthy",
+      "crisp",
+      "nostalgic",
+      "chinese-beef-stir-fry",
+      "mediterranean-friendly"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
     "slug": "eco-tamarin-delight",
     "title": "Eco-Tamarin Delight",
     "tags": [
