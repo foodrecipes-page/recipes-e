@@ -1,0 +1,87 @@
+{
+  "title": "Energizing Umami Portuguese Kielbasa Stir-fry",
+  "description": "This dish combines the umami richness of kielbasa with a poached flavor profile to create an energizing and flavorful meal that is both Jain-friendly and suitable for quick weekday dinners.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegan",
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kielbasa Sticks",
+      "amount": "1 pack (60g) per person"
+    },
+    {
+      "name": "Chopped Onion",
+      "amount": "1 medium onion, finely chopped"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 large, diced"
+    },
+    {
+      "name": "Zucchini Slices",
+      "amount": "2 large zucchinis, sliced"
+    },
+    {
+      "name": "Tapioca Sticks",
+      "amount": "50g per person"
+    },
+    {
+      "name": "Soja Sauce",
+      "amount": "1 tbsp per person"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a pan over medium heat.",
+    "Add kielbasa and cook for about 5 minutes until lightly browned. Remove from the pan and set aside.",
+    "In the same pan, add onion and garlic to sauté for about 2-3 minutes until translucent.",
+    "Add red bell pepper and zucchini slices, continuing to stir-fry for an additional 4 minutes or until vegetables are tender.",
+    "Return kielbasa to the pan with vegetables. Add tapioca sticks and soja sauce to the pan and mix well.",
+    "Stir continuously for about 2-3 more minutes until all ingredients are heated through and evenly coated in sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "energizing",
+    "umami",
+    "portuguese",
+    "jiin-friendly"
+  ],
+  "nutrition": {
+    "calories": 370,
+    "protein": 16,
+    "carbs": 28,
+    "fat": 14
+  },
+  "slug": "energizing-umami-portuguese-kielbasa-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-umami-portuguese-kielbasa-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T18:33:44Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "dense",
+    "mood": "energizing",
+    "technique": "poach",
+    "primaryIngredient": "kielbasa",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Kielbasa",
+    "descriptor": "Umami Dense Energizing",
+    "dishForm": "Stir-fry"
+  }
+}
