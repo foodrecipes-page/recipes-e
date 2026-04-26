@@ -94,6 +94,19 @@
     "shard": "e"
   },
   {
+    "slug": "earthy-crisp-tunisian-pea-stir-fry",
+    "title": "Earthy Crisp Tunisian Pea Stir-fry",
+    "tags": [
+      "earthy",
+      "tunisian",
+      "stir-fry",
+      "crisp"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 15,
+    "shard": "e"
+  },
+  {
     "slug": "earthy-crunchy-garlic-italian-stir-fry",
     "title": "Earthy Crunchy Garlic Italian Stir-fry",
     "tags": [

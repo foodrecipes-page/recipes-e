@@ -1,0 +1,72 @@
+{
+  "title": "Earthy Crisp Tunisian Pea Stir-fry",
+  "description": "A romantic and earthy dish featuring frozen peas in a pressure cooker to create an aromatic and crisp texture, suitable for Jain-friendly diets.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Frozen Peas",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh Thyme leaves",
+      "amount": "1-2 sprigs"
+    },
+    {
+      "name": "Vegetable Broth or Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Jaggery (optional for sweetness)",
+      "amount": "1-2 tsp"
+    }
+  ],
+  "instructions": [
+    "Pressurize the mixture of peas, garlic, and water in a pressure cooker for about 5 minutes.",
+    "Remove from heat and allow to cool slightly before carefully venting the cooker. Stir in minced fresh thyme leaves.",
+    "If desired, stir in jaggery for an extra touch of sweetness without sugar."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "earthy",
+    "tunisian",
+    "stir-fry",
+    "crisp"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 6
+  },
+  "slug": "earthy-crisp-tunisian-pea-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-crisp-tunisian-pea-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T13:28:15Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "pressure-cook",
+    "primaryIngredient": "frozen peas",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Peas",
+    "descriptor": "Earthy Crisp",
+    "dishForm": "Stir-fry"
+  }
+}
