@@ -1,0 +1,86 @@
+{
+  "title": "Earthy Flaky German Peanut Crumble",
+  "description": "A kid-friendly and low-carb friendly dish featuring earthy flavors with a touch of nuttiness from peanut oil. Perfect for breakfast or as a snack.",
+  "cuisine": "German",
+  "diet": [
+    "low-carb",
+    "kids-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "peanut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pumpkin seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ginger root",
+      "amount": "1 small piece"
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "3 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat peanut oil in a pan over medium heat.",
+    "Add almonds and pumpkin seeds to the pan, stirring occasionally until lightly toasted, about 5 minutes.",
+    "Remove from heat and let cool slightly.",
+    "Grate ginger root using a microplane or box grater.",
+    "In a separate bowl, combine cooled nuts, coconut flakes, grated ginger, and honey. Slowly add water while mixing to create a crumble-like consistency.",
+    "Press mixture into the bottom of an 8x8 inch baking dish.",
+    "Bake at 350°F for 20 minutes or until golden brown on top.",
+    "Allow to cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "earthly-flaky",
+    "german-dish",
+    "peanut-oil",
+    "blanching-friendly",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 4,
+    "fat": 9
+  },
+  "slug": "earthy-flaky-german-peanut-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-flaky-german-peanut-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T06:54:50Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "blanch",
+    "primaryIngredient": "peanut oil",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "peanuts",
+    "descriptor": "Earthy Flaky",
+    "dishForm": "Crumble"
+  }
+}
