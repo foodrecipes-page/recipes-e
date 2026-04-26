@@ -196,6 +196,18 @@
     "shard": "e"
   },
   {
+    "slug": "energetic-light-mexican-tofu-stir-fry",
+    "title": "Energetic Light Mexican Tofu Stir-fry",
+    "tags": [
+      "energetic",
+      "light_mexican",
+      "vegan_tofu_stir_fry"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
+    "shard": "e"
+  },
+  {
     "slug": "energetic-slovakian-kielbasa-stir-fry",
     "title": "Energetic Slovakian Kielbasa Stir-fry",
     "tags": [

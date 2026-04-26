@@ -1,0 +1,77 @@
+{
+  "title": "Energetic Light Mexican Tofu Stir-fry",
+  "description": "A tangy and light vegan mexican dish featuring bouillon cubes, air-fried tofu for an energizing breakfast option.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 can black beans",
+      "amount": "drained and rinsed"
+    },
+    {
+      "name": "200g extra firm tofu",
+      "amount": "air-fried until crispy"
+    },
+    {
+      "name": "1 tbsp vegetable bouillon cube",
+      "amount": ""
+    },
+    {
+      "name": "1 red bell pepper, diced",
+      "amount": ""
+    },
+    {
+      "name": "1 onion, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 350°F (175°C).",
+    "Air-fry the tofu for about 10-15 minutes or until crispy and golden.",
+    "In a wok or large skillet, sauté the onion and garlic until softened.",
+    "Add the red bell pepper and continue cooking for another minute.",
+    "Stir in the black beans, bouillon cube, and air-fried tofu. Mix well.",
+    "Cook for an additional 2-3 minutes to meld flavors."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "energetic",
+    "light_mexican",
+    "vegan_tofu_stir_fry"
+  ],
+  "nutrition": {
+    "calories": 379,
+    "protein": 10,
+    "carbs": 56,
+    "fat": 12
+  },
+  "slug": "energetic-light-mexican-tofu-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/energetic-light-mexican-tofu-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T17:36:33Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "light",
+    "mood": "energizing",
+    "technique": "air-fry",
+    "primaryIngredient": "bouillon cubes",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "tofu",
+    "descriptor": "Energetic Light",
+    "dishForm": "Stir-fry"
+  }
+}
