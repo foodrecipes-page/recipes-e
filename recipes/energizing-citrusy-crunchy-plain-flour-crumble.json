@@ -1,0 +1,78 @@
+{
+  "title": "Energizing Citrusy Crunchy Plain Flour Crumble",
+  "description": "A diabetic-friendly and energizing Brazilian dish featuring plain flour crumble with a citrusy twist for a crunchy texture, perfect as a breakfast or snack option.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "plain all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coarse sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "fresh lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix all ingredients except the butter until well combined.",
+    "Fold in softened butter using your hands, just until crumbly and moistened slightly but not melted into a ball.",
+    "Press mixture evenly onto an ungreased baking sheet lined with parchment paper for easy removal.",
+    "Bake for 12-15 minutes or until golden brown and crisp on the edges.",
+    "Let cool slightly before serving. Store leftovers in an airtight container at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "energizing",
+    "citrusy",
+    "crunchy",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 3,
+    "carbs": 26,
+    "fat": 8
+  },
+  "slug": "energizing-citrusy-crunchy-plain-flour-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-citrusy-crunchy-plain-flour-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T15:35:21Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crunchy",
+    "mood": "energizing",
+    "technique": "bhuna",
+    "primaryIngredient": "plain flour",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "plain flour",
+    "descriptor": "Citrusy Crunchy Energizing",
+    "dishForm": "Crumble"
+  }
+}
