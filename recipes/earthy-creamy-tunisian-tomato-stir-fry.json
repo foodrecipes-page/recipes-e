@@ -1,0 +1,90 @@
+{
+  "title": "Earthy Creamy Tunisian Tomato Stir-fry",
+  "description": "An indulgent tunisian dish featuring sherry vinegar to add a unique depth of flavor in this creamy tomato stir-fry.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tomatoes",
+      "amount": "2 large",
+      "notes": "Approximately"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4",
+      "notes": "Sliced or minced"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "A pinch",
+      "notes": ""
+    },
+    {
+      "name": "Sherry vinegar",
+      "amount": "1/4 cup",
+      "notes": "To taste"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil (for drizzling)",
+      "amount": "A few drops",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet over medium-high heat. Add oil and red pepper flakes, then sauté onions until translucent.",
+    "Add garlic and cook for another minute. Stir in tomatoes with their juices. Let simmer uncovered for about 10 minutes or until slightly thickened.",
+    "Stir in sherry vinegar and reduce the sauce by half to concentrate flavors. Slowly stir in heavy cream, then reduce heat to low and let it simmer for an additional 5-7 minutes until creamy.",
+    "Drizzle with olive oil just before serving to add a finishing touch."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tunisian-dish",
+    "creamy-stir-fry",
+    "sherry-vinegar",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 38,
+    "fat": 14
+  },
+  "slug": "earthy-creamy-tunisian-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-creamy-tunisian-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T00:29:59Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "simmer",
+    "primaryIngredient": "sherry vinegar",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Tomato",
+    "descriptor": "Earthy Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
