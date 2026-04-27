@@ -1,0 +1,85 @@
+{
+  "title": "Energizing Sour Tender Moroccan Onion Stir-fry",
+  "description": "A sour and tender Moroccan dish infused with the essence of tandoor cooking, designed to be dash-friendly for a quick, energizing snack.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "onions",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tomatoes (diced)",
+      "amount": "1 can"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "thyme",
+      "amount": "a few sprigs"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add chopped onions and cook until translucent, about 5 minutes.",
+    "Stir in diced tomatoes, thyme, garlic, cumin seeds, and chicken broth.",
+    "Simmer for another 10-15 minutes or until the sauce thickens slightly.",
+    "Reduce heat to low and add vinegar. Simmer for an additional 5 minutes.",
+    "Serve immediately as a snack."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "sour",
+    "energizing",
+    "stir-fry",
+    "dash-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 6,
+    "carbs": 14,
+    "fat": 3
+  },
+  "slug": "energizing-sour-tender-moroccan-onion-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-sour-tender-moroccan-onion-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T21:27:46Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "tandoor",
+    "primaryIngredient": "cooking wine",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Onion",
+    "descriptor": "Sour Tender Energizing",
+    "dishForm": "Stir-fry"
+  }
+}
