@@ -1,0 +1,103 @@
+{
+  "title": "Earthy Fluffy Rice Stir-fry",
+  "description": "This low-sodium-friendly meal-prep Filipino dish features earthy flavors with a touch of Chinese sesame sauce and is perfect for breakfast or lunch.",
+  "cuisine": "Filipino with Chinese influence",
+  "diet": [
+    "low-sodium",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "1 cup",
+      "notes": "Cooked ahead of time"
+    },
+    {
+      "name": "Broccoli florets",
+      "amount": "1/2 cup",
+      "notes": "Wet broccoli can be used instead for added moisture and nutrients"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6 pieces",
+      "notes": "Chopped finely, optional for extra flavor"
+    },
+    {
+      "name": "Scallions, thinly sliced",
+      "amount": "1/4 cup",
+      "notes": "Includes white and green parts"
+    },
+    {
+      "name": "Tofu cubes",
+      "amount": "6 oz",
+      "notes": "Replace with tempeh for a complete protein option"
+    },
+    {
+      "name": "Low-sodium soy sauce",
+      "amount": "1 tbsp",
+      "notes": "For added umami and flavor"
+    },
+    {
+      "name": "Vegetable broth or water",
+      "amount": "1/2 cup",
+      "notes": "Use for deglazing the pan after stir-frying"
+    },
+    {
+      "name": "Chinese sesame oil",
+      "amount": "1 tbsp",
+      "notes": "For added flavor and to prevent sticking"
+    },
+    {
+      "name": "Low-sodium fish sauce or miso paste (optional)",
+      "amount": "1 tsp",
+      "notes": "To enhance umami and balance flavors, optional for low sodium version"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet over medium heat. Add sesame oil and let it coat the pan.",
+    "Add tofu cubes and cook until lightly browned on all sides. Remove from pan and set aside.",
+    "Deglaze the pan with vegetable broth or water, scraping up any bits stuck to the bottom.",
+    "Reduce heat to low. Add chopped garlic and scallions; sauté for 2-3 minutes.",
+    "Add broccoli florets, cover with a lid if your pan allows it, and cook until tender but still crisp-tender, about 5 minutes.",
+    "Return tofu cubes to the skillet along with any juices and add soy sauce. Stir well to combine all ingredients.",
+    "Serve hot over cooked basmati rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "earthly",
+    "fluffy",
+    "meal-prep",
+    "filipino",
+    "chinese-sesame",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 9
+  },
+  "slug": "earthy-fluffy-rice-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-fluffy-rice-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T04:02:06Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "deglaze",
+    "primaryIngredient": "chinese sesame sauce",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "rice",
+    "descriptor": "Earthy Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}

@@ -171,6 +171,21 @@
     "shard": "e"
   },
   {
+    "slug": "earthy-fluffy-rice-stir-fry",
+    "title": "Earthy Fluffy Rice Stir-fry",
+    "tags": [
+      "earthly",
+      "fluffy",
+      "meal-prep",
+      "filipino",
+      "chinese-sesame",
+      "low-sodium"
+    ],
+    "cuisine": "Filipino with Chinese influence",
+    "totalTimeMin": 30,
+    "shard": "e"
+  },
+  {
     "slug": "eco-tamarin-delight",
     "title": "Eco-Tamarin Delight",
     "tags": [
