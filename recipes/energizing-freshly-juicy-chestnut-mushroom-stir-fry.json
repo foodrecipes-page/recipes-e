@@ -1,0 +1,80 @@
+{
+  "title": "Energizing Freshly Juicy Chestnut Mushroom Stir-fry",
+  "description": "This fresh and energizing Turkish dish features freshly picked chestnut mushrooms simmered with a dash of spices for an easy meal that’s perfect for breakfast.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Chestnut Mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Scallions",
+      "amount": "2 slices (green onions)"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Water or Vegetable Stock",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat a large pan with olive oil over medium heat.",
+    "Add scallions and minced garlic, sauté until fragrant.",
+    "Fold in tomato paste to create a glossy texture.",
+    "Gradually add water or vegetable stock, stirring continuously to prevent sticking.",
+    "Once the liquid has reduced slightly and the sauce is thickened, gently fold in chestnut mushrooms.",
+    "Cook for another minute until the mushrooms are tender and fully infused with the flavors."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fresh",
+    "juicy",
+    "energizing",
+    "turkish",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 9,
+    "fat": 3
+  },
+  "slug": "energizing-freshly-juicy-chestnut-mushroom-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-freshly-juicy-chestnut-mushroom-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T04:57:24Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "simmer",
+    "primaryIngredient": "chestnut mushroom",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Chestnut Mushroom",
+    "descriptor": "Freshly Juicy Energizing",
+    "dishForm": "Stir-fry"
+  }
+}
