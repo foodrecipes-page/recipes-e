@@ -1,0 +1,81 @@
+{
+  "title": "Energizing Kenyan Buttermilk Porridge",
+  "description": "This low-carb, energizing porridge combines the traditional flavors of Kenya with a unique twist using bay leaves and pickles for a burst of flavor.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Buttermilk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Low-fat Greek Yogurt",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Oat Flour",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Bay Leaves",
+      "amount": "2-4 leaves"
+    },
+    {
+      "name": "Pickle Relish (optional)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, heat the coconut oil over medium heat.",
+    "Stir in the Buttermilk and Bay Leaves. Bring to a simmer and cook for about 5 minutes until thickened.",
+    "Add the Oat Flour gradually while stirring continuously to prevent lumps from forming. Cook for another minute.",
+    "Gradually stir in the Greek Yogurt, salt, and pickle relish (if using). Continue cooking for an additional 2-3 minutes or until desired consistency is reached.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan-dish",
+    "buttery-porridge",
+    "energizing-recipe",
+    "low-carb-friendly"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 12,
+    "carbs": 36,
+    "fat": 9
+  },
+  "slug": "energizing-kenyan-buttermilk-porridge",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-kenyan-buttermilk-porridge",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T05:58:21Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "fluffy",
+    "mood": "energizing",
+    "technique": "pickle",
+    "primaryIngredient": "bay leaves",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Buttermilk",
+    "descriptor": "Energizing",
+    "dishForm": "Porridge"
+  }
+}
