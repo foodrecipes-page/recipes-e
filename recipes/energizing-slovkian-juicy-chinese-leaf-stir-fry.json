@@ -1,0 +1,95 @@
+{
+  "title": "Energizing Slovkian Juicy Chinese Leaf Stir-fry",
+  "description": "An energizing dish featuring Chinese leaf, infused with a savory and juicy flavor profile that is perfect for the whole30 diet.",
+  "cuisine": "Chinese",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chinese Leaf",
+      "amount": "1 cup fresh",
+      "notes": "Wash and dry thoroughly"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves, minced",
+      "notes": null
+    },
+    {
+      "name": "Scallions",
+      "amount": "2 scallions, sliced thinly",
+      "notes": null
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": "Regular soy sauce is preferred for this recipe"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 teaspoon",
+      "notes": "Use a small amount to prevent overpowering the dish"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For stir-frying and dressing"
+    },
+    {
+      "name": "Water Chestnuts",
+      "amount": "1 cup, peeled and sliced thinly",
+      "notes": "Add for crunchiness and texture"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over medium-high heat. Add olive oil.",
+    "Add minced garlic and scallions to the hot pan and stir until fragrant, about 1 minute.",
+    "Add Chinese leaf to the pan. Stir-fry for 2-3 minutes until just wilted but still slightly crisp.",
+    "Stir in soy sauce and fish sauce. Add red pepper flakes (if using).",
+    "Stir everything together evenly and cook for another 2-3 minutes until all ingredients are well combined and heated through.",
+    "Add water chestnuts to the pan and stir-fry for an additional minute, allowing them to absorb some of the flavors from the sauce.",
+    "Serve hot as a side dish or on its own."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "energizing",
+    "slovnian",
+    "juicy",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 261,
+    "protein": 7,
+    "carbs": 28,
+    "fat": 9
+  },
+  "slug": "energizing-slovkian-juicy-chinese-leaf-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-slovkian-juicy-chinese-leaf-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T13:02:28Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "temper",
+    "primaryIngredient": "chinese leaf",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Chinese Leaf",
+    "descriptor": "Juicy Energizing Whole30-friendly",
+    "dishForm": "Stir-fry"
+  }
+}
