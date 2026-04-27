@@ -1,0 +1,100 @@
+{
+  "title": "Energizing Chinese Eggplant Stir-fry",
+  "description": "This energizing dish is a creamy and fermented treat made with egg plants in a whisked mixture, perfect for a quick lunch or snack.",
+  "cuisine": "Chinese",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Fermented Black Beans",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Green Onions (Scallions)",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Chili Paste (optional)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Slice the eggplant into thin rounds and sprinkle with cornstarch. Set aside.",
+    "Mince garlic and finely chop onion, green onions (scallions).",
+    "In a small bowl, whisk together soy sauce, water, sugar, olive oil, chili paste (if using), and fermented black beans until smooth and well combined.",
+    "Heat a wok or large skillet over medium-high heat. Add 1 tbsp of olive oil and cook the eggplant slices on each side for about 2 minutes per side, until golden brown. Remove from pan and set aside.",
+    "In the same pan, add another 1 tbsp of olive oil if needed. Stir-fry garlic and onion for a minute or two until fragrant.",
+    "Add the whisked sauce to the pan, stir well to coat all ingredients evenly, then return the eggplant slices back into the pan.",
+    "Stir in green onions (scallions) and let everything cook for another 1-2 minutes. The dish is ready when it's heated through and slightly thickened from cornstarch.",
+    "Serve hot as a side or main course with steamed rice, noodles, or any preferred accompaniment."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "energizing-chinese-eggplant-stir-fry",
+    "fermented-black-beans",
+    "creaminess",
+    "jain-friendly-dish"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 9
+  },
+  "slug": "energizing-chinese-eggplant-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-chinese-eggplant-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T18:21:59Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "creamy",
+    "mood": "energizing",
+    "technique": "whisk",
+    "primaryIngredient": "egg plants",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "eggplant",
+    "descriptor": "Fermented Creamy Energizing",
+    "dishForm": "Stir-fry"
+  }
+}
