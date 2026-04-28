@@ -1,0 +1,93 @@
+{
+  "title": "Earthy Crispy Jamaican Celeriac Crumble",
+  "description": "This indulgent dish features celeriac in an earthy and crispy crumble topping, perfect for breakfast or dessert.",
+  "cuisine": "Jamaican",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "celeriac",
+      "amount": "1 medium bulb",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "lightly beaten"
+    },
+    {
+      "name": "flour",
+      "amount": "3 tablespoons",
+      "notes": "all-purpose or gluten-free as needed"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/4 cup",
+      "notes": "packed for best texture"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch",
+      "notes": "to taste"
+    },
+    {
+      "name": "milk",
+      "amount": "2 tablespoons",
+      "notes": "full-fat or alternative as needed"
+    },
+    {
+      "name": "butter",
+      "amount": "8 tablespoons",
+      "notes": "cold, cut into small pieces"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Grease a baking dish.",
+    "Mix celeriac, eggs, flour, brown sugar, salt, and milk in a large bowl until combined.",
+    "Stir in cold butter pieces until mixture is crumbly.",
+    "Pour the mixture into the prepared baking dish.",
+    "Bake for 30-45 minutes or until top crust is golden brown.",
+    "Cool before serving. Can be served warm as dessert or with a scoop of vanilla ice cream."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "celeriac",
+    "crumble",
+    "indulgent",
+    "earthly",
+    "caramelized",
+    "jamaican"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "earthy-crispy-jamaican-celeriac-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-crispy-jamaican-celeriac-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T03:21:14Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crispy",
+    "mood": "indulgent",
+    "technique": "reduce",
+    "primaryIngredient": "celeriac",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "celeriac",
+    "descriptor": "Earthy Crispy",
+    "dishForm": "Crumble"
+  }
+}
