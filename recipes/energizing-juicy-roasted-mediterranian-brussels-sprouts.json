@@ -1,0 +1,89 @@
+{
+  "title": "Energizing Juicy Roasted Mediterranian Brussels Sprouts",
+  "description": "This fermented, juicy Mediterranean dish features brussels sprouts roasted to perfection with a blend of tangy flavors and spices for an energizing snack.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 lb Brussels Sprouts",
+      "amount": "medium sized"
+    },
+    {
+      "name": "2 tbsp lemon juice",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 tsp apple cider vinegar",
+      "notes": "for fermentation if using"
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "cup"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "1 clove garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 tbsp fresh parsley, chopped",
+      "amount": ""
+    },
+    {
+      "name": "1/2 tsp smoked paprika",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Wash the brussels sprouts thoroughly and trim off any tough parts. Remove the core if present.",
+    "In a large bowl, combine the lemon juice, apple cider vinegar (if using for fermentation), olive oil, salt, garlic, parsley, and smoked paprika. Toss to coat evenly.",
+    "Add the brussels sprouts to the bowl and mix well to ensure they are coated with the marinade.",
+    "Place the brussels sprouts on a baking sheet lined with parchment paper. Drizzle additional olive oil over them if needed for better roasting results.",
+    "Preheat your oven to 425°F (218°C). Roast the Brussels Sprouts in the preheated oven for about 30 minutes or until they are golden brown and crispy on the outside but tender inside. Stir occasionally during cooking to ensure even browning.",
+    "Let them cool slightly before serving, as they will continue to steam a bit once removed from the heat."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "energizing",
+    "fermented",
+    "juicy",
+    "mediterranean",
+    "brussels-sprouts",
+    "roasted",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 105,
+    "protein": 4,
+    "carbs": 9,
+    "fat": 6
+  },
+  "slug": "energizing-juicy-roasted-mediterranian-brussels-sprouts",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-juicy-roasted-mediterranian-brussels-sprouts",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T14:11:00Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "roast",
+    "primaryIngredient": "brussels sprouts",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Brussels Sprouts",
+    "descriptor": "Juicy Energizing",
+    "dishForm": "Roast"
+  }
+}
