@@ -1,0 +1,95 @@
+{
+  "title": "Earthy Creamy Bean Sprouts Stir-Fry",
+  "description": "This dish is a perfect representation of an earthy and creamy monsoon-style recipe featuring bean sprouts that are simmered in a flavorful sauce for optimal keto-friendly enjoyment.",
+  "cuisine": "Irish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 oz (115g) butter",
+      "amount": "",
+      "notes": "unsalted"
+    },
+    {
+      "name": "2 garlic cloves, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp fresh ginger, grated",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup (140g) cream cheese",
+      "amount": "",
+      "notes": "full-fat"
+    },
+    {
+      "name": "1/2 cup (75g) heavy whipping cream",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup (90g) unsweetened almond milk",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 cups (60g) trimmed bean sprouts, roughly chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 tsp black pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 425°F (220°C).",
+    "Melt the butter in a large skillet over medium-high heat.",
+    "Add minced garlic and grated ginger, cook for about 1 minute until fragrant.",
+    "Stir in cream cheese, heavy whipping cream, and unsweetened almond milk. Cook for an additional 5 minutes to allow the flavors to meld together and thicken slightly.",
+    "Add chopped bean sprouts into the skillet, stir-fry for 2-3 minutes until they start to soften but still retain their crunchiness.",
+    "Season with black pepper to taste. Serve immediately as a side dish or main course.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bean sprouts",
+    "stir-fry",
+    "creamy",
+    "keto"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 17,
+    "carbs": 26,
+    "fat": 19
+  },
+  "slug": "earthy-creamy-bean-sprouts-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-creamy-bean-sprouts-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T10:32:10Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "monsoon",
+    "technique": "simmer",
+    "primaryIngredient": "bean sprouts",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "bean sprouts",
+    "descriptor": "Earthy Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
