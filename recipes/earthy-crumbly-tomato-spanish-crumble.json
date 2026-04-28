@@ -1,0 +1,94 @@
+{
+  "title": "Earthy Crumbly Tomato Spanish Crumble",
+  "description": "A cozy and earthy crumbly dish featuring shaoxing wine, tomatoes, and other aromatic ingredients that are jain-friendly.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "1 medium",
+      "notes": "preferably sun-dried"
+    },
+    {
+      "name": "onions",
+      "amount": "2 cloves",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced finely"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "shaoxing wine",
+      "amount": "2 oz",
+      "notes": "reduced before use"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "olive oil for drizzling",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese, grated",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Wash and slice the tomatoes into thin pieces.",
+    "Heat olive oil in a pan over medium heat. Add sliced onions and sauté until translucent.",
+    "Add minced garlic and cook for about 30 seconds to let it smell fragrant but not browned.",
+    "Stir in sun-dried tomatoes, reduce shaoxing wine to half its volume using low heat, ensuring no alcohol remains and the liquid thickens slightly. Season with salt as needed.",
+    "Remove from heat and transfer mixture into a mixing bowl or serving dish.",
+    "Sprinkle grated Parmesan cheese evenly over the tomato mixture.",
+    "Drizzle olive oil on top of cheese for added moisture if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "earthly",
+    "crumbly",
+    "spanish",
+    "shaoxing-wine",
+    "cozy"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 8
+  },
+  "slug": "earthy-crumbly-tomato-spanish-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-crumbly-tomato-spanish-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T15:31:53Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "reduce",
+    "primaryIngredient": "shaoxing wine",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "tomato",
+    "descriptor": "Earthy Crumbly",
+    "dishForm": "Crumble"
+  }
+}
