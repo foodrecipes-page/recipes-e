@@ -1,0 +1,86 @@
+{
+  "title": "Earthy Creamy Spanish Doner Meat Stir-fry",
+  "description": "A paleo-friendly meal-prep dish featuring poached doner meat in an earthy, creamy sauce made with almond milk.",
+  "cuisine": "Spanish",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "4 pcs"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6 pieces, minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "parsley",
+      "amount": "handful, chopped fresh"
+    },
+    {
+      "name": "paprika",
+      "amount": "pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "dash"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Season chicken with paprika and black pepper.",
+    "Cook chicken in a skillet over medium heat until golden brown on all sides. Remove from pan.",
+    "In the same skillet, melt butter over low heat. Add garlic and onion; cook for about 2 minutes or until soft.",
+    "Stir in almond milk, reduce to simmer. Simmer for 10-15 minutes or until thickened slightly.",
+    "Return chicken to skillet with sauce. Gently stir in chopped parsley.",
+    "Spoon mixture into a serving bowl and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "paleo-friendly",
+    "earthly",
+    "creamy",
+    "spanish-doner-meat-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 16,
+    "fat": 19
+  },
+  "slug": "earthy-creamy-spanish-doner-meat-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-creamy-spanish-doner-meat-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T20:37:54Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "poach",
+    "primaryIngredient": "doner meat",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "doner meat",
+    "descriptor": "Creamy Earthy",
+    "dishForm": "Stir-fry"
+  }
+}
