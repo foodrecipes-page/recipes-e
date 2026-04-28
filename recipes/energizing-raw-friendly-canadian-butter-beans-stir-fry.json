@@ -1,0 +1,79 @@
+{
+  "title": "Energizing Raw Friendly Canadian Butter Beans Stir-fry",
+  "description": "A pitted black olive infused, raw-friendly Canadian dish featuring buttery and juicy stir-fried beans with a hint of tempeh for an added protein boost.",
+  "cuisine": "Canadian",
+  "diet": [
+    "raw",
+    "plant-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup pitted black olives",
+      "amount": "cup",
+      "notes": "ensure they are raw and not canned"
+    },
+    {
+      "name": "1 cup cooked Canadian butter beans",
+      "amount": "cup",
+      "notes": "soaked and drained if dried"
+    },
+    {
+      "name": "2 tablespoons tempeh slices",
+      "amount": "tablespoons",
+      "notes": "ensure they are raw and not fermented"
+    },
+    {
+      "name": "1 teaspoon fresh ginger, minced",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1 tablespoon sesame oil",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "Pinch of red pepper flakes",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Place pitted black olives, cooked Canadian butter beans, tempeh slices, minced ginger, and red pepper flakes in a bowl.",
+    "Add sesame oil to the mixture and mix well until all ingredients are evenly coated.",
+    "Serve immediately as a raw-friendly snack or meal enhancer."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "energizing",
+    "raw-friendly",
+    "canadian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 30,
+    "protein": 5,
+    "carbs": 4,
+    "fat": 1
+  },
+  "slug": "energizing-raw-friendly-canadian-butter-beans-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-raw-friendly-canadian-butter-beans-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T02:29:39Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "temper",
+    "primaryIngredient": "pitted black olives",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Butter Beans",
+    "descriptor": "Energizing Raw Friendly",
+    "dishForm": "Stir-fry"
+  }
+}
