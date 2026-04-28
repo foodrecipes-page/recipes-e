@@ -1,0 +1,82 @@
+{
+  "title": "Earthy Flaky German Flaxseed Crumble",
+  "description": "This raw-friendly German dish features flaxseeds mixed with coriander leaves for a unique flavor and texture that is perfect for meal prep.",
+  "cuisine": "German",
+  "diet": [
+    "vegan",
+    "raw"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1/2 cup ground flaxseeds",
+      "amount": "",
+      "notes": "Use cold pressed, unprocessed flaxseeds"
+    },
+    {
+      "name": "1 large ripe avocado",
+      "amount": "sliced",
+      "notes": "ripe for best flavor and texture"
+    },
+    {
+      "name": "2 tablespoons fresh cilantro leaves (coriander)",
+      "amount": "",
+      "notes": "fresh is key for optimal taste and nutrition"
+    },
+    {
+      "name": "Pinch of sea salt",
+      "amount": "",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "1 small lemon, juiced",
+      "amount": "",
+      "notes": "optional but enhances flavor"
+    },
+    {
+      "name": "Handful of sliced almonds or walnuts (optional)",
+      "amount": "",
+      "notes": "to add crunch"
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix ground flaxseeds and lemon juice thoroughly.",
+    "Fold in the avocado slices along with coriander leaves and sea salt.",
+    "If desired, sprinkle with optional nuts for additional texture."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "raw-friendly",
+    "meal-prep",
+    "earthly-flaky",
+    "german-dish"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 5,
+    "carbs": 34,
+    "fat": 17
+  },
+  "slug": "earthy-flaky-german-flaxseed-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-flaky-german-flaxseed-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T18:53:07Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "flaky",
+    "mood": "meal-prep",
+    "technique": "rest",
+    "primaryIngredient": "coriander leaves",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "flaxseed",
+    "descriptor": "Earthy Flaky",
+    "dishForm": "Crumble"
+  }
+}
