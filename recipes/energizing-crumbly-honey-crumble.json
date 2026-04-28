@@ -1,0 +1,93 @@
+{
+  "title": "Energizing Crumbly Honey Crumble",
+  "description": "An earthy and crumbly Portuguese dish featuring raw-friendly honey with toast as a side, designed to be an energizing snack or dessert.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1/2 cup raw hazelnuts",
+      "amount": "",
+      "notes": "Pine nuts can be used as a substitute"
+    },
+    {
+      "name": "1/4 cup raw almonds",
+      "amount": "",
+      "notes": "Pecans or cashews can be substituted"
+    },
+    {
+      "name": "3 tablespoons clear honey",
+      "amount": "",
+      "notes": "Use locally sourced honey for best flavor and texture"
+    },
+    {
+      "name": "2 ripe bananas",
+      "amount": "",
+      "notes": "Overripe bananas work better as they will turn into a softer crumble"
+    },
+    {
+      "name": "1/4 cup unsweetened shredded coconut",
+      "amount": "",
+      "notes": "Can be substituted with any raw-friendly sweetener"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "",
+      "notes": "For added tanginess and antioxidant benefits"
+    },
+    {
+      "name": "2 tablespoons almond meal or flour",
+      "amount": "",
+      "notes": "To help with binding and texture"
+    },
+    {
+      "name": "Pinch of sea salt",
+      "amount": "",
+      "notes": "Enhances natural flavors"
+    }
+  ],
+  "instructions": [
+    "Toast hazelnuts in a dry skillet over medium heat until golden brown, about 3-4 minutes.",
+    "In a mixing bowl, combine toasted hazelnuts, almonds, and shredded coconut. Add lemon juice, honey, salt, and almond meal or flour to taste.",
+    "Stir gently with a spatula or your hands until ingredients are evenly distributed.",
+    "Press banana pulp firmly into the mixture, pressing down slightly for a crumbly texture.",
+    "Divide the mixture into 4 portions and shape each portion into an oval shape. Chill in the refrigerator for at least 15 minutes to allow it to firm up.",
+    "Serve as is or dust with additional cinnamon before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "energizing",
+    "crumbly",
+    "honey",
+    "raw-friendly",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "energizing-crumbly-honey-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-crumbly-honey-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T20:36:15Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crumbly",
+    "mood": "energizing",
+    "technique": "toast",
+    "primaryIngredient": "clear honey",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "honey",
+    "descriptor": "Energizing Crumbly",
+    "dishForm": "Crumble"
+  }
+}
