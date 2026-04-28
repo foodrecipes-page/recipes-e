@@ -1,0 +1,99 @@
+{
+  "title": "Energizing Umami Crispy Fettuccine Stir-fry",
+  "description": "An energizing Norwegian dish featuring fettuccine in a slow-cooked umami sauce with a crispy texture, perfect for breakfast or lunch.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fettuccine pasta",
+      "amount": "200 grams"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger root",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion, chopped",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water or vegetable broth",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat. Add onion and garlic, sauté for about 2 minutes until soft.",
+    "Stir in tomato paste, soy sauce, lime juice, water or vegetable broth, red pepper flakes, ginger root, and sesame seeds. Bring to a simmer, then reduce heat to low.",
+    "Cook fettuccine according to package instructions. Drain pasta and add it back into the skillet with the sauce. Cook for an additional 2-3 minutes until pasta is heated through and sauce coats the noodles evenly.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "energizing",
+    "umami",
+    "crispy",
+    "fettuccine",
+    "slow-cook",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 42,
+    "fat": 7
+  },
+  "slug": "energizing-umami-crispy-fettuccine-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-umami-crispy-fettuccine-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T14:21:29Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crunchy",
+    "mood": "energizing",
+    "technique": "slow-cook",
+    "primaryIngredient": "fettuccine",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Fettuccine",
+    "descriptor": "Umami Crunchy Energizing",
+    "dishForm": "Stir-fry"
+  }
+}
