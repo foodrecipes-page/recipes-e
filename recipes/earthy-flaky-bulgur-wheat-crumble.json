@@ -1,0 +1,78 @@
+{
+  "title": "Earthy Flaky Bulgur Wheat Crumble",
+  "description": "A unique take on a sick-day French dish featuring earthy flavors and flaky textures from fermenting bulgur wheat.",
+  "cuisine": "French-inspired Middle Eastern fusion",
+  "diet": [
+    "kosher-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Bulgur Wheat",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh Herbs (e.g., thyme, rosemary)",
+      "amount": "1 tablespoon each"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Fermentation Culture (optional, for added depth of flavor)",
+      "notes": "See package instructions for use and timing"
+    }
+  ],
+  "instructions": [
+    "Rinse the bulgur wheat under cold water to remove excess starch.",
+    "Preheat oven to 350°F (175°C).",
+    "In a large mixing bowl, combine bulgur wheat with olive oil, fresh herbs, garlic powder, and salt. If using fermentation culture, incorporate it now into the mixture.",
+    "Knead the mixture until it starts to hold together, forming small pats that can be dropped from your fingers easily.",
+    "Place crumbles on a lined baking sheet or tray in a single layer.",
+    "Bake for 25-30 minutes, or until golden brown and crispy. Turn occasionally during baking.",
+    "Let cool slightly before serving with a drizzle of olive oil and additional fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "earthly-flaky-bulgur-wheat-crumble",
+    "sick-day-dish",
+    "kosher-friendly-recipe"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "earthy-flaky-bulgur-wheat-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-flaky-bulgur-wheat-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T03:22:49Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "ferment",
+    "primaryIngredient": "bulgur wheat",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Bulgur Wheat",
+    "descriptor": "Earthy Flaky",
+    "dishForm": "Crumble"
+  }
+}
