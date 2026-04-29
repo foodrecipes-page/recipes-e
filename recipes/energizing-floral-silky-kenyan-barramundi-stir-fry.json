@@ -1,0 +1,97 @@
+{
+  "title": "Energizing Floral Silky Kenyan Barramundi Stir-fry",
+  "description": "A floral and silky Kenyan-inspired dish featuring barramundi with a tandoor twist for a pescatarian-friendly meal, bursting with energy.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Barramundi fillets",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Leaves of rosemary and thyme",
+      "amount": "1 bunch each"
+    },
+    {
+      "name": "Thai chili peppers",
+      "amount": "3-4 pieces"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "6-8 cloves"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Soy sauce (optional)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large pan over medium-high heat.",
+    "Add sliced ginger, Thai chili peppers, and garlic. Stir-fry for about 2 minutes until fragrant.",
+    "Throw in the turmeric powder and cumin seeds; continue to stir for another minute.",
+    "Place the barramundi fillets into the wok. Coat evenly with a mixture of cornstarch and soy sauce (if using).",
+    "Pour coconut milk into the wok, ensuring the fish is well coated by the liquid.",
+    "Bring the stir-fry to a boil, then reduce heat to low and simmer for about 10-15 minutes until all liquids are absorbed and the fish is cooked through.",
+    "Stir in leaves of rosemary and thyme. Serve hot as your energizing floral silken Kenyan Barramundi Stir-Fry."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "energizing",
+    "floral",
+    "silky",
+    "kenyan",
+    "barramundi",
+    "tandoor"
+  ],
+  "nutrition": {
+    "calories": 375,
+    "protein": 41,
+    "carbs": 28,
+    "fat": 16
+  },
+  "slug": "energizing-floral-silky-kenyan-barramundi-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-floral-silky-kenyan-barramundi-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T01:23:37Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "tandoor",
+    "primaryIngredient": "barramundi",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Barramundi",
+    "descriptor": "Floral Silky Energizing",
+    "dishForm": "Stir-fry"
+  }
+}
