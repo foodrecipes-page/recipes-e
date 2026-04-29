@@ -1,0 +1,97 @@
+{
+  "title": "Earthy Flaky Chuck Roast Crumble",
+  "description": "A low-fat-friendly monsoon Brazilian dish featuring tender chuck roast layered with a savory crumble that complements the meat beautifully.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chuck Roast",
+      "amount": "500g"
+    },
+    {
+      "name": "Broccoli Florets",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Season chuck roast with salt and black pepper.",
+    "Heat olive oil in a skillet over medium heat. Add onions, garlic, cumin seeds, and coriander powder; sauté for about 2 minutes until fragrant.",
+    "Transfer the mixture to an oven-safe dish. Top with broccoli florets and sprinkle with all-purpose flour.",
+    "Pour coconut milk over the vegetables, ensuring they are fully covered. Stir well to combine.",
+    "Place the dish in the preheated oven and bake for about 30 minutes or until vegetables are tender and meat is cooked through (internal temperature should reach at least 145°F).",
+    "Serve hot as a side dish with rice or quinoa."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "earthy-flaky",
+    "chuck-roast-crumble",
+    "monsoon-brazilian-dish"
+  ],
+  "nutrition": {
+    "calories": 327,
+    "protein": 38,
+    "carbs": 16,
+    "fat": 9
+  },
+  "slug": "earthy-flaky-chuck-roast-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-flaky-chuck-roast-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T02:05:02Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "flaky",
+    "mood": "monsoon",
+    "technique": "broil",
+    "primaryIngredient": "chuck roast",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Chuck Roast",
+    "descriptor": "Earthy Flaky",
+    "dishForm": "Crumble"
+  }
+}
