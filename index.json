@@ -213,6 +213,21 @@
     "shard": "e"
   },
   {
+    "slug": "earthy-dutch-coconut-stew",
+    "title": "Earthy Dutch Coconut Stew",
+    "tags": [
+      "dutch",
+      "coconut",
+      "stew",
+      "earth",
+      "mediterranean",
+      "vegetarian"
+    ],
+    "cuisine": "dutch",
+    "totalTimeMin": 30,
+    "shard": "e"
+  },
+  {
     "slug": "earthy-flaky-bulgur-wheat-crumble",
     "title": "Earthy Flaky Bulgur Wheat Crumble",
     "tags": [

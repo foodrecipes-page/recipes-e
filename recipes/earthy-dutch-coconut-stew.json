@@ -1,0 +1,117 @@
+{
+  "title": "Earthy Dutch Coconut Stew",
+  "description": "A nostalgic Dutch stew featuring rich unsweetened coconut milk, earthy flavors, and Mediterranean-friendly ingredients. Perfect for a cozy, comforting meal.",
+  "cuisine": "dutch",
+  "diet": [
+    "vegetarian",
+    "mediterranean"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "400ml",
+      "notes": "full-fat for richness"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "150g",
+      "notes": "diced into 1cm cubes"
+    },
+    {
+      "name": "celery",
+      "amount": "100g",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dutch tomato paste",
+      "amount": "15ml",
+      "notes": "for depth of flavor"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp",
+      "notes": "freshly ground for best results"
+    },
+    {
+      "name": "thyme",
+      "amount": "1/2 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1",
+      "notes": "remove before serving"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "300ml",
+      "notes": "low-sodium for Mediterranean diet"
+    },
+    {
+      "name": "olive oil",
+      "amount": "20ml",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "use sea salt for better flavor"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a medium pot over medium heat",
+    "Add onions, carrots, and celery; sauté for 5 minutes until softened",
+    "Add garlic, tomato paste, oregano, thyme, and bay leaf; cook for 2 minutes",
+    "Pour in coconut milk and chicken broth; bring to a gentle boil",
+    "Reduce heat to low, cover, and simmer for 20 minutes until vegetables are tender",
+    "Season with salt to taste; remove bay leaf before serving"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 25,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dutch",
+    "coconut",
+    "stew",
+    "earth",
+    "mediterranean",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 285,
+    "protein": 6,
+    "carbs": 32,
+    "fat": 19
+  },
+  "slug": "earthy-dutch-coconut-stew",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-dutch-coconut-stew",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-02T22:52:22Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "chewy",
+    "mood": "nostalgic",
+    "technique": "rest",
+    "primaryIngredient": "unsweetened coconut milk",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "coconut",
+    "descriptor": "Earthy",
+    "dishForm": "Stew"
+  }
+}
