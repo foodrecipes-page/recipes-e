@@ -1,0 +1,105 @@
+{
+  "title": "Earthy Crumbly Vietnamese Beef Kidney Stew",
+  "description": "A comforting and earthy Vietnamese dish featuring beef kidney, whisked with Mediterranean-friendly flavors. This stew is perfect for a cold winter's night.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef kidney",
+      "amount": "1 pound",
+      "notes": "sliced into 1-inch pieces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the sliced beef kidney and cook until browned, about 5 minutes.",
+    "Remove the kidney from the pot and set aside.",
+    "Add more oil if necessary, then add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the fish sauce, soy sauce, and brown sugar, and stir to combine.",
+    "Add the cooked beef kidney back into the pot, along with the star anise and black pepper.",
+    "Pour in 2 cups of beef broth and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1 1/2 hours, or until the kidney is tender.",
+    "Serve hot, garnished with chopped fresh cilantro or scallions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "beef-kidney",
+    "stew",
+    "comfort-food",
+    "earthy",
+    "crumbly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "earthy-crumbly-vietnamese-beef-kidney-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-crumbly-vietnamese-beef-kidney-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T20:52:51Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crumbly",
+    "mood": "comforting",
+    "technique": "whisk",
+    "primaryIngredient": "beef kidney",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "beef kidney",
+    "descriptor": "earthy crumbly",
+    "dishForm": "Stew"
+  }
+}
