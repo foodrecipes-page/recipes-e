@@ -1,0 +1,91 @@
+{
+  "title": "Energizing Earthy Juicy Chinese Custard Powder Pilaf",
+  "description": "This energizing dish features custard powder in a halal-friendly pilaf with earthy and juicy flavors, perfect for breakfast or a quick snack.",
+  "cuisine": "Chinese",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Custard Powder",
+      "amount": "1/4 cup",
+      "notes": "Halal-certified"
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": "White or Brown"
+    },
+    {
+      "name": "Water",
+      "amount": "6 cups",
+      "notes": "Boiling water"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves",
+      "notes": "Halal-certified garlic"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Roasted for flavor"
+    },
+    {
+      "name": "Julienned Bell Peppers",
+      "amount": "1 large",
+      "notes": "To add color and crunch"
+    },
+    {
+      "name": "Fresh Herbs",
+      "amount": "A few sprigs of cilantro, parsley",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "In a pot, bring water to a boil. Add custard powder and stir until fully dissolved.",
+    "Add rice and garlic cloves. Stir well to combine all ingredients.",
+    "Reduce heat to low, cover, and simmer for about 20 minutes or until rice is cooked through.",
+    "Gently fold in roasted carrots and julienned bell peppers.",
+    "Stir gently to ensure everything is evenly mixed and heated through.",
+    "Remove from heat and let cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "energizing",
+    "earthly",
+    "juicy",
+    "chinese",
+    "custard-powder",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 8,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "energizing-earthy-juicy-chinese-custard-powder-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-earthy-juicy-chinese-custard-powder-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T18:26:28Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "simmer",
+    "primaryIngredient": "custard powder",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "custard powder",
+    "descriptor": "Energizing Earthy Juicy",
+    "dishForm": "Pilaf"
+  }
+}
