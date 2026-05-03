@@ -464,6 +464,24 @@
     "shard": "e"
   },
   {
+    "slug": "earthy-velvety-australian-red-potatoes-hash",
+    "title": "Earthy Velvety Australian Red Potatoes Hash",
+    "tags": [
+      "australian",
+      "potatoes",
+      "eggs",
+      "cheese",
+      "yogurt",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "vegetarian"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 40,
+    "shard": "e"
+  },
+  {
     "slug": "earthy-velvety-italian-cure-wrap",
     "title": "Earthy Velvety Italian Cure Wrap",
     "tags": [

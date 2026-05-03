@@ -1,0 +1,115 @@
+{
+  "title": "Earthy Velvety Australian Red Potatoes Hash",
+  "description": "A hearty Australian-inspired dish featuring pressure-cooked red potatoes, perfect for a weeknight meal with high protein content. This recipe combines the earthy flavors of potatoes with the velvety texture of eggs.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "high-protein"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Red potatoes",
+      "amount": "4-6",
+      "notes": "Choose small to medium-sized red potatoes"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Spinach",
+      "amount": "2 cups",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/2 cup",
+      "notes": "For topping"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "1/4 cup",
+      "notes": "Shredded (optional)"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4",
+      "notes": "For topping"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Pressure cook the diced red potatoes for 5-7 minutes until slightly tender. Drain and set aside.",
+    "In a pan, heat the coconut oil over medium heat. Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the cooked red potatoes to the pan and stir to combine with the onion and garlic mixture.",
+    "Add the chopped spinach and stir until wilted. Season with salt, pepper, and paprika.",
+    "Using a spatula, shape the potato mixture into a flat, round shape.",
+    "Top with Greek yogurt, cheddar cheese (if using), and 4 eggs.",
+    "Transfer the pan to the oven and bake at 375°F (190°C) for 15-20 minutes, or until the eggs are cooked to desired doneness.",
+    "Garnish with additional spinach or chives (if desired)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "potatoes",
+    "eggs",
+    "cheese",
+    "yogurt",
+    "breakfast",
+    "lunch",
+    "dinner",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "28g",
+    "carbs": "60g",
+    "fat": "18g"
+  },
+  "slug": "earthy-velvety-australian-red-potatoes-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-velvety-australian-red-potatoes-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:31:28Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "weeknight",
+    "technique": "pressure-cook",
+    "primaryIngredient": "red potatoes",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "red potatoes",
+    "descriptor": "earthy velvety",
+    "dishForm": "Hash"
+  }
+}
