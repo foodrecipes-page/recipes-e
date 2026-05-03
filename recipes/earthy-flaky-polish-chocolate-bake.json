@@ -1,0 +1,105 @@
+{
+  "title": "Earthy Flaky Polish Chocolate Bake",
+  "description": "A low‑fat, flaky pastry filled with rich dark chocolate and a hint of cinnamon, perfect for a cozy Polish dessert.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-fat-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "plain dark chocolate",
+      "amount": "200 g",
+      "notes": "70% cacao"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "200 ml",
+      "notes": "low‑fat"
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "100 g"
+    },
+    {
+      "name": "oat flour",
+      "amount": "30 g"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "applesauce",
+      "amount": "2 Tbsp",
+      "notes": "unsweetened, fat substitute"
+    },
+    {
+      "name": "egg white",
+      "amount": "1 large"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "30 g"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180 °C (350 °F).",
+    "In a small saucepan, gently melt the chocolate over low heat, stirring until smooth. Set aside to cool slightly.",
+    "Whisk the almond milk, applesauce, egg white, and vanilla extract in a bowl until well combined.",
+    "In a separate bowl, combine whole wheat flour, oat flour, baking powder and salt. Add the wet mixture and stir until a soft dough forms.",
+    "Press the dough into a greased 22 cm square baking tin, creating a 1 cm thick base. Bake for 10 min to set the crust.",
+    "Remove from oven and spread the melted chocolate over the crust. Sprinkle the walnuts and cinnamon on top.",
+    "Return to oven and bake for an additional 15 min, or until the chocolate sets and the top is slightly golden.",
+    "Let cool in the tin for 5 min, then cut into 6 squares. Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 12,
+  "cookTimeMin": 25,
+  "totalTimeMin": 37,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "polish",
+    "dessert",
+    "low-fat",
+    "flaky",
+    "earthy",
+    "chocolate-bake"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "earthy-flaky-polish-chocolate-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-flaky-polish-chocolate-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:56:03Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "bake",
+    "primaryIngredient": "plain chocolate",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Chocolate",
+    "descriptor": "Earthy Flaky",
+    "dishForm": "Bake"
+  }
+}
