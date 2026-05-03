@@ -52,6 +52,20 @@
     "shard": "e"
   },
   {
+    "slug": "earthily-crispy-slovakian-potato-hash",
+    "title": "Earthily Crispy Slovakian Potato Hash",
+    "tags": [
+      "gluten-free",
+      "high-fiber",
+      "one-pan",
+      "post-workout",
+      "vegan-friendly"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 30,
+    "shard": "e"
+  },
+  {
     "slug": "earthly-bean-delight",
     "title": "Earthly Bean Delight",
     "tags": [
@@ -979,6 +993,22 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 25,
+    "shard": "e"
+  },
+  {
+    "slug": "elegant-thai-melon-roast",
+    "title": "Elegant Thai Melon Roast",
+    "tags": [
+      "brine-dry",
+      "festive",
+      "low-carb",
+      "one-pan",
+      "quick",
+      "roasted",
+      "thai"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 30,
     "shard": "e"
   },
   {

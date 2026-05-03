@@ -1,0 +1,94 @@
+{
+  "title": "Elegant Thai Melon Roast",
+  "description": "A caramelized, brine-dry roasted melon dish infused with Thai flavors, perfect for a low-carb festive dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cantaloupe",
+      "amount": "200g"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 clove"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C and line a baking sheet with parchment paper.",
+    "Cut the cantaloupe into 1-inch cubes, rinse, and pat dry with paper towels.",
+    "Whisk together coconut oil, fish sauce, lime juice, chili flakes, soy sauce, garlic powder, ginger, and cilantro in a small bowl.",
+    "Toss the melon cubes in the sauce until uniformly coated.",
+    "Spread the coated cubes in a single layer on the prepared baking sheet.",
+    "Roast for 15-18 minutes, turning halfway through, until the edges caramelize.",
+    "Remove from oven, let rest 5 minutes, then serve garnished with extra cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "brine-dry",
+    "festive",
+    "low-carb",
+    "one-pan",
+    "quick",
+    "roasted",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 1,
+    "carbs": 9,
+    "fat": 7
+  },
+  "slug": "elegant-thai-melon-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/elegant-thai-melon-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:21:22Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "silky",
+    "mood": "festive",
+    "technique": "brine-dry",
+    "primaryIngredient": "melons",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Melon",
+    "descriptor": "Elegant",
+    "dishForm": "Roast"
+  }
+}
