@@ -1239,6 +1239,21 @@
     "shard": "e"
   },
   {
+    "slug": "ethereal-argentinian-tofu-broth",
+    "title": "Ethereal Argentinian Tofu Broth",
+    "tags": [
+      "argentinian",
+      "comfort",
+      "gluten-free",
+      "light",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 30,
+    "shard": "e"
+  },
+  {
     "slug": "exotic-creamy-tunisian-chickpea-tagine",
     "title": "Exotic Creamy Tunisian Chickpea Tagine",
     "tags": [

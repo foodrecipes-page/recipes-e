@@ -1,0 +1,112 @@
+{
+  "title": "Ethereal Argentinian Tofu Broth",
+  "description": "A light, savory broth featuring silken tofu and Mediterranean herbs, perfect for a cozy evening.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "silken tofu",
+      "amount": "200g"
+    },
+    {
+      "name": "low-sodium vegetable broth",
+      "amount": "500ml"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "10g"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "shallot",
+      "amount": "1 small, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Gently press silken tofu to remove excess moisture, then cut into 1 cm cubes.",
+    "In a saucepan, heat olive oil over medium heat and sauté diced shallot until translucent.",
+    "Add minced garlic and cook for 30 seconds until fragrant.",
+    "Stir in fresh oregano and chili flakes, cooking for another 30 seconds.",
+    "Pour in low-sodium vegetable broth and bring to a gentle simmer.",
+    "Add sliced tofu cubes to the broth and simmer for 5 minutes, being careful not to boil.",
+    "Stir in lemon zest, lemon juice, and sea salt, adjusting seasoning with black pepper.",
+    "Reduce heat to low and let the broth rest for 5 minutes so flavors meld.",
+    "Just before serving, whisk in a handful of chopped fresh parsley.",
+    "Ladle the broth into warm bowls and drizzle with a light swirl of olive oil.",
+    "Garnish with an extra pinch of oregano if desired.",
+    "Serve immediately while hot for a comforting, light dinner."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "comfort",
+    "gluten-free",
+    "light",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "ethereal-argentinian-tofu-broth",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/ethereal-argentinian-tofu-broth",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:44:02Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "poach",
+    "primaryIngredient": "silken tofu",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "tofu",
+    "descriptor": "Ethereal",
+    "dishForm": "Broth"
+  }
+}
