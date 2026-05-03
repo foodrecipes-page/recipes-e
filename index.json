@@ -725,6 +725,21 @@
     "shard": "e"
   },
   {
+    "slug": "earthy-savory-irish-lamb-stew",
+    "title": "Earthy Savory Irish Lamb Stew",
+    "tags": [
+      "hearty",
+      "irish",
+      "kosher",
+      "lamb",
+      "one-pot",
+      "winter"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 110,
+    "shard": "e"
+  },
+  {
     "slug": "earthy-silky-american-sweet-potato-casserole",
     "title": "Earthy Silky American Sweet Potato Casserole",
     "tags": [

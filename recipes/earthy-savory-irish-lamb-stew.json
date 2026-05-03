@@ -1,0 +1,99 @@
+{
+  "title": "Earthy Savory Irish Lamb Stew",
+  "description": "A hearty one-pot Irish dish featuring lamb, massaman paste, and mushimono steam, with a mustardy and shaggy texture, kosher friendly. This stew is perfect for a cold winter night.",
+  "cuisine": "Irish",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "massaman paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mustard",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium high heat.",
+    "Add the lamb and cook until browned on all sides.",
+    "Add the massaman paste, mustard, carrots, potatoes, onions, and garlic, and cook for 1 minute.",
+    "Add the beef broth and water, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 1 1/2 hours.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley.",
+    "Let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "hearty",
+    "irish",
+    "kosher",
+    "lamb",
+    "one-pot",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "earthy-savory-irish-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-savory-irish-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:18:44Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shaggy",
+    "mood": "one-pot",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "massaman-paste",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "earthy savory",
+    "dishForm": "Stew"
+  }
+}
