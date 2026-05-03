@@ -1,0 +1,100 @@
+{
+  "title": "Elegant Kanto Courgette Onigiri",
+  "description": "A savory, umami-packed onigiri featuring courgette and crisp lardons, perfect for a brunch mood.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Japanese short grain rice",
+      "amount": "200g"
+    },
+    {
+      "name": "Cooked courgette",
+      "amount": "150g"
+    },
+    {
+      "name": "Lardons",
+      "amount": "80g"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "15ml"
+    },
+    {
+      "name": "Mirin",
+      "amount": "15ml"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "5ml"
+    },
+    {
+      "name": "Nori sheets",
+      "amount": "2"
+    },
+    {
+      "name": "Salt",
+      "amount": "1g"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "1g"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "5g"
+    }
+  ],
+  "instructions": [
+    "Rinse 200g uncooked rice and cook in 250ml water until tender, about 18 minutes, then drain.",
+    "While the rice cooks, heat a skillet over medium heat and add 80g lardons, cooking until crispy, then remove and set aside.",
+    "In the same skillet, add 150g courgette and cook for 5 minutes until softened, then stir in soy sauce and mirin, cooking 2 minutes more.",
+    "Let the courgette mixture cool slightly, then mix in the drained lardons.",
+    "Cool the cooked rice until warm, then fold in the courgette-lardons mixture, seasoning with 1g salt and pepper, and add 5ml sesame oil.",
+    "Wet your hands with water, take about 60g of the mixture, shape into an oval onigiri, pressing firmly.",
+    "Cut a sheet of nori into strips, wrap each onigiri loosely, pressing the edges to seal.",
+    "Optionally sprinkle 5g toasted sesame seeds over each onigiri.",
+    "Serve immediately or refrigerate up to 4 hours for a brunch-ready snack.",
+    "Pair with a small side of miso soup and matcha tea if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "japanese",
+    "low-carb",
+    "onigiri",
+    "quick",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 830,
+    "protein": 31,
+    "carbs": 65,
+    "fat": 40
+  },
+  "slug": "elegant-kanto-courgette-onigiri",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/elegant-kanto-courgette-onigiri",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:42:17Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "lardons-render",
+    "primaryIngredient": "courgettes",
+    "diet": "low-carb",
+    "region": "kanto",
+    "cuisineAdjective": "Kanto",
+    "mainIngredient": "Courgette",
+    "descriptor": "Elegant",
+    "dishForm": "Onigiri"
+  }
+}

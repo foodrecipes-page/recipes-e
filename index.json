@@ -996,6 +996,21 @@
     "shard": "e"
   },
   {
+    "slug": "elegant-kanto-courgette-onigiri",
+    "title": "Elegant Kanto Courgette Onigiri",
+    "tags": [
+      "brunch",
+      "japanese",
+      "low-carb",
+      "onigiri",
+      "quick",
+      "savory"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 40,
+    "shard": "e"
+  },
+  {
     "slug": "elegant-thai-melon-roast",
     "title": "Elegant Thai Melon Roast",
     "tags": [
