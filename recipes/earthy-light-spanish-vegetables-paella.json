@@ -1,0 +1,120 @@
+{
+  "title": "Earthy Light Spanish Vegetables Paella",
+  "description": "A crowd-pleasing Spanish dish that combines the earthy flavors of mushrooms and artichokes with the vibrant colors of bell peppers, onions, and tomatoes. This egg-free recipe is perfect for a light and satisfying meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Saffron-infused Vegetable Broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Unsalted Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "Mushroom",
+      "amount": "1 cup",
+      "notes": "button or cremini, sliced"
+    },
+    {
+      "name": "Artichoke Hearts",
+      "amount": "1 can (14 oz)",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Fresh Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the diced onion and cook for 3-4 minutes or until translucent.",
+    "Add the diced bell pepper and cook for an additional 2-3 minutes.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the artichoke hearts, diced tomato, smoked paprika, and garlic powder. Cook for 1-2 minutes, stirring constantly.",
+    "Pour in the saffron-infused vegetable broth and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, for 10-12 minutes or until the liquid has been absorbed and the rice is tender.",
+    "Season with salt to taste.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "gluten-free",
+    "spanish",
+    "paella",
+    "easy-to-make",
+    "egg-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "earthy-light-spanish-vegetables-paella",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-light-spanish-vegetables-paella",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:33:29Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "whisk",
+    "primaryIngredient": "stir-fry vegetables",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "vegetables",
+    "descriptor": "earthy light",
+    "dishForm": "Paella"
+  }
+}
