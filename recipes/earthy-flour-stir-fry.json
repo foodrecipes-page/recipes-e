@@ -29,7 +29,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350°F (175°C).",
+    "Preheat oven to 350\u00b0F (175\u00b0C).",
     "Combine flaxseed meal, red pepper paste, garlic powder, olive oil, and water in a mixing bowl.",
     "Stir until all ingredients are fully combined and well-blended into a smooth batter. Make sure there are no lumps.",
     "Transfer the mixture to an oven-safe dish (preferably cast iron) and spread it evenly across the surface.",
@@ -49,9 +49,9 @@
   ],
   "nutrition": {
     "calories": 167,
-    "protein": 8.2,
-    "carbs": 5.4,
-    "fat": 9.4
+    "protein": 8,
+    "carbs": 5,
+    "fat": 9
   },
   "slug": "earthy-flour-stir-fry",
   "source": "ollama-qwen2.5:3b",

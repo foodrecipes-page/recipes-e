@@ -70,7 +70,7 @@
   ],
   "instructions": [
     "Marinate the beef fillet with salt, pepper, smoked paprika, and olive oil for 15 minutes.",
-    "Preheat a skillet over medium-high heat and sear the steak 3-4 minutes per side, until desired doneness (internal temperature 57-60°C for medium-rare).",
+    "Preheat a skillet over medium-high heat and sear the steak 3-4 minutes per side, until desired doneness (internal temperature 57-60\u00b0C for medium-rare).",
     "Let the steak rest for 5 minutes, then slice thinly against the grain.",
     "Warm the flatbread in a dry skillet or oven for 1-2 minutes.",
     "Layer the sliced steak, onion, tomato, cucumber, and parsley onto the flatbread.",
@@ -95,5 +95,20 @@
     "mainIngredient": "steak",
     "descriptor": "Earthy",
     "dishForm": "Wrap"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "saudi-arabian",
+    "lunch"
+  ]
 }

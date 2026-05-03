@@ -55,8 +55,8 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 375°F (190°C).",
-    "In a pan over medium heat, sauté the sliced mushrooms until they release their moisture and start browning. Season with 1/2 tsp salt and 1 tsp sugar. Set aside.",
+    "Preheat the oven to 375\u00b0F (190\u00b0C).",
+    "In a pan over medium heat, saut\u00e9 the sliced mushrooms until they release their moisture and start browning. Season with 1/2 tsp salt and 1 tsp sugar. Set aside.",
     "In a separate bowl, whisk together the beaten eggs, rice vinegar, and molasses. Pour into the pan with the mushrooms and cook until the eggs are just set.",
     "Meanwhile, prepare the bao dough according to package instructions or roll out homemade dough to 1/4 inch thickness.",
     "Using a round cookie cutter or a glass, cut out circles of dough for the bao buns.",
@@ -70,7 +70,7 @@
   "prepTimeMin": 15,
   "cookTimeMin": 12,
   "totalTimeMin": 27,
-  "servings": "4-6",
+  "servings": 5,
   "difficulty": "medium",
   "tags": [
     "breakfast",

@@ -49,7 +49,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 425°F (220°C).",
+    "Preheat your oven to 425\u00b0F (220\u00b0C).",
     "Melt the butter in a large skillet over medium-high heat.",
     "Add minced garlic and grated ginger, cook for about 1 minute until fragrant.",
     "Stir in cream cheese, heavy whipping cream, and unsweetened almond milk. Cook for an additional 5 minutes to allow the flavors to meld together and thicken slightly.",
@@ -63,7 +63,7 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "bean sprouts",
+    "bean-sprouts",
     "stir-fry",
     "creamy",
     "keto"

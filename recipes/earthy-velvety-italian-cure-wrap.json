@@ -55,7 +55,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F (190°C).",
+    "Preheat oven to 375\u00b0F (190\u00b0C).",
     "Wrap pita bread with a damp paper towel and heat in the oven for 2-3 minutes, or until warm and pliable.",
     "In a small bowl, mix together cream cheese, mushroom duxelles, garlic, salt, black pepper, and Italian seasoning.",
     "Spread the cream cheese mixture evenly over the warmed pita bread.",
@@ -78,9 +78,9 @@
   ],
   "nutrition": {
     "calories": 540,
-    "protein": "32g",
-    "carbs": "10g",
-    "fat": "42g"
+    "protein": 32,
+    "carbs": 10,
+    "fat": 42
   },
   "slug": "earthy-velvety-italian-cure-wrap",
   "source": "groq-llama-3.1-8b-instant",

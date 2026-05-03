@@ -53,7 +53,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F (190°C). Rinse quinoa under cold water and cook according to package instructions.",
+    "Preheat oven to 375\u00b0F (190\u00b0C). Rinse quinoa under cold water and cook according to package instructions.",
     "In a large mixing bowl, combine cooked quinoa with chickpeas, onions, garlic, tomatoes, cumin seeds, coriander powder, turmeric powder, salt, and oil. Mix well until all ingredients are evenly distributed.",
     "Transfer the mixture into an oven-safe baking dish. Bake for 20 minutes or until edges are golden brown and top is crispy.",
     "Serve hot with fresh cilantro on top (optional)."
@@ -64,9 +64,9 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "earth_baked_quinoa",
-    "indian_snack",
-    "low_fat"
+    "earth-baked-quinoa",
+    "indian-snack",
+    "low-fat"
   ],
   "nutrition": {
     "calories": 185,

@@ -1,6 +1,6 @@
 {
   "title": "Earthy Crisp Turkish Tomato Salad",
-  "description": "A quick, low‑fat Turkish salad featuring earthy tomato puree, crisp cucumber, fresh tomatoes, and a lemon‑yogurt‑herb dressing.",
+  "description": "A quick, lowfat Turkish salad featuring earthy tomato puree, crisp cucumber, fresh tomatoes, and a lemonyogurtherb dressing.",
   "cuisine": "Turkish",
   "diet": [
     "low-fat",
@@ -15,17 +15,17 @@
     },
     {
       "name": "Fresh tomatoes",
-      "amount": "2 medium (≈200 g)",
-      "notes": "Chopped into bite‑sized cubes"
+      "amount": "2 medium (\u2248200 g)",
+      "notes": "Chopped into bite\u2011sized cubes"
     },
     {
       "name": "Cucumber",
-      "amount": "1 small (≈120 g)",
+      "amount": "1 small (\u2248120 g)",
       "notes": "Deseeded and sliced thinly"
     },
     {
       "name": "Red onion",
-      "amount": "1/4 medium (≈30 g)",
+      "amount": "1/4 medium (\u224830 g)",
       "notes": "Finely minced"
     },
     {
@@ -39,18 +39,18 @@
       "notes": "Chopped"
     },
     {
-      "name": "Low‑fat plain yogurt",
+      "name": "Low\u2011fat plain yogurt",
       "amount": "100 g",
       "notes": "Room temperature"
     },
     {
       "name": "Olive oil",
-      "amount": "1 tsp (≈5 ml)",
-      "notes": "Extra‑virgin, cold‑pressed"
+      "amount": "1 tsp (\u22485 ml)",
+      "notes": "Extra\u2011virgin, cold\u2011pressed"
     },
     {
       "name": "Lemon juice",
-      "amount": "1 tbsp (≈15 ml)",
+      "amount": "1 tbsp (\u224815 ml)",
       "notes": "Freshly squeezed"
     },
     {
@@ -65,11 +65,11 @@
     }
   ],
   "instructions": [
-    "1. In a medium bowl, whisk together the low‑fat yogurt, lemon juice, olive oil, salt, and pepper until smooth.",
+    "1. In a medium bowl, whisk together the low\u2011fat yogurt, lemon juice, olive oil, salt, and pepper until smooth.",
     "2. Add the tomato puree to the dressing and stir until fully incorporated.",
     "3. Fold in the chopped tomatoes, sliced cucumber, minced red onion, parsley, and mint until everything is evenly coated.",
     "4. Taste and adjust seasoning if needed, adding more salt or lemon juice to taste.",
-    "5. Cover and refrigerate for 5–10 minutes to allow flavors to meld before serving."
+    "5. Cover and refrigerate for 5\u201310 minutes to allow flavors to meld before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 0,
@@ -88,7 +88,7 @@
     "calories": 221,
     "protein": 11,
     "carbs": 36,
-    "fat": 5.8
+    "fat": 6
   },
   "slug": "earthy-crisp-turkish-tomato-salad",
   "source": "ocloud-gpt-oss:20b",

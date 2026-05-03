@@ -62,7 +62,7 @@
   ],
   "instructions": [
     "Heat the olive oil in a large pot over medium heat until shimmering.",
-    "Add the diced onion and sauté for 3-4 minutes until translucent.",
+    "Add the diced onion and saut\u00e9 for 3-4 minutes until translucent.",
     "Stir in the minced garlic, cumin, and smoked paprika; cook for 1 minute until fragrant.",
     "Add the rinsed split peas, diced carrot, and potato to the pot, stirring to combine.",
     "Pour in the vegetable broth, bring the mixture to a gentle boil, then reduce to low heat to maintain a light simmer.",
@@ -88,5 +88,20 @@
     "mainIngredient": "split peas",
     "descriptor": "Earthy Tender",
     "dishForm": "Stew"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "peruvian",
+    "dinner"
+  ]
 }

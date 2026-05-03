@@ -47,11 +47,11 @@
     }
   ],
   "instructions": [
-    "Prepare the sous-vide cooker by setting the water temperature to a safe level, typically around 60°C (140°F). Preheat your oven.",
+    "Prepare the sous-vide cooker by setting the water temperature to a safe level, typically around 60\u00b0C (140\u00b0F). Preheat your oven.",
     "In a large bowl, marinate the chicken breasts with soy sauce and place them in a plastic bag. Seal the bag and refrigerate for at least an hour.",
-    "After marination, cook the chicken sous-vide at 60°C for about 1 hour, ensuring even cooking by flipping halfway through.",
+    "After marination, cook the chicken sous-vide at 60\u00b0C for about 1 hour, ensuring even cooking by flipping halfway through.",
     "While the chicken is cooking, prepare the massaman curry paste. Finely chop garlic cloves, shallots, and lemongrass into smaller pieces.",
-    "Heat olive oil in a wok or large skillet over medium heat. Add chopped garlic, shallots, and lemongrass, sautéing until fragrant (about 3-5 minutes).",
+    "Heat olive oil in a wok or large skillet over medium heat. Add chopped garlic, shallots, and lemongrass, saut\u00e9ing until fragrant (about 3-5 minutes).",
     "Increase the heat to high, add massaman curry paste, stirring continuously for about 1 minute to avoid burning.",
     "Pour in reserved marinade from the chicken breasts, along with any additional liquid as needed to achieve desired consistency. Simmer and let it thicken slightly.",
     "Add cooked sous-vide chicken to the sauce mixture and stir gently until well combined. Cook for another 3-5 minutes to allow flavors to meld together.",
@@ -65,7 +65,7 @@
   "tags": [
     "thai",
     "sous-vide",
-    "massaman curry",
+    "massaman-curry",
     "earthly",
     "silky",
     "comforting"

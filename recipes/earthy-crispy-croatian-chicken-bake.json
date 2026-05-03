@@ -1,6 +1,6 @@
 {
   "title": "Earthy Crispy Croatian Chicken Bake",
-  "description": "A low‑fat, crispy baked chicken dish with a tangy gherkin relish, perfect for post‑workout recovery.",
+  "description": "A lowfat, crispy baked chicken dish with a tangy gherkin relish, perfect for postworkout recovery.",
   "cuisine": "Croatian",
   "diet": [
     "low-fat"
@@ -10,7 +10,7 @@
     {
       "name": "boneless skinless chicken breasts",
       "amount": "4",
-      "notes": "about 180 g each"
+      "notes": "about 180\u202fg each"
     },
     {
       "name": "olive oil",
@@ -18,7 +18,7 @@
       "notes": "for coating"
     },
     {
-      "name": "low‑fat plain Greek yogurt",
+      "name": "low\u2011fat plain Greek yogurt",
       "amount": "1 cup",
       "notes": "acts as a creamy coating"
     },
@@ -36,22 +36,22 @@
     },
     {
       "name": "garlic powder",
-      "amount": "½ teaspoon"
+      "amount": "\u00bd teaspoon"
     },
     {
       "name": "black pepper",
-      "amount": "¼ teaspoon",
+      "amount": "\u00bc teaspoon",
       "notes": "freshly ground preferred"
     },
     {
       "name": "panko breadcrumbs",
-      "amount": "¼ cup",
+      "amount": "\u00bc cup",
       "notes": "for crispness"
     },
     {
       "name": "gherkin relish",
-      "amount": "½ cup",
-      "notes": "store‑bought or homemade"
+      "amount": "\u00bd cup",
+      "notes": "store\u2011bought or homemade"
     },
     {
       "name": "salt",
@@ -59,13 +59,13 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 200 °C (400 °F) and line a baking sheet with parchment paper.",
+    "Preheat the oven to 200\u202f\u00b0C (400\u202f\u00b0F) and line a baking sheet with parchment paper.",
     "In a bowl, whisk together the Greek yogurt, smoked paprika, oregano, rosemary, garlic powder, pepper, and a pinch of salt.",
     "Drizzle each chicken breast with olive oil, then spread the yogurt mixture evenly over all sides.",
     "In a separate shallow dish, combine the panko breadcrumbs with a little salt.",
-    "Press the yogurt‑coated chicken into the breadcrumbs, ensuring an even crust.",
+    "Press the yogurt\u2011coated chicken into the breadcrumbs, ensuring an even crust.",
     "Place the coated breasts on the prepared baking sheet, leaving space between them.",
-    "Bake for 20–25 minutes, or until the chicken is golden brown and reaches an internal temperature of 75 °C (165 °F).",
+    "Bake for 20\u201325 minutes, or until the chicken is golden brown and reaches an internal temperature of 75\u202f\u00b0C (165\u202f\u00b0F).",
     "While the chicken bakes, gently warm the gherkin relish in a saucepan over low heat for about 5 minutes.",
     "Remove the chicken from the oven and let it rest for 5 minutes before serving.",
     "Serve each breast topped with warm gherkin relish and, if desired, a sprinkle of fresh herbs."

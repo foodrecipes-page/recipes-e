@@ -16,7 +16,7 @@
     {
       "name": "Coconut oil",
       "amount": "2 tbsp",
-      "notes": "For sautéing"
+      "notes": "For saut\u00e9ing"
     },
     {
       "name": "Onion",
@@ -69,13 +69,13 @@
     "Add the chopped spinach and stir until wilted. Season with salt, pepper, and paprika.",
     "Using a spatula, shape the potato mixture into a flat, round shape.",
     "Top with Greek yogurt, cheddar cheese (if using), and 4 eggs.",
-    "Transfer the pan to the oven and bake at 375°F (190°C) for 15-20 minutes, or until the eggs are cooked to desired doneness.",
+    "Transfer the pan to the oven and bake at 375\u00b0F (190\u00b0C) for 15-20 minutes, or until the eggs are cooked to desired doneness.",
     "Garnish with additional spinach or chives (if desired)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
   "totalTimeMin": 40,
-  "servings": "4-6",
+  "servings": 5,
   "difficulty": "medium",
   "tags": [
     "australian",
@@ -90,9 +90,9 @@
   ],
   "nutrition": {
     "calories": 420,
-    "protein": "28g",
-    "carbs": "60g",
-    "fat": "18g"
+    "protein": 28,
+    "carbs": 60,
+    "fat": 18
   },
   "slug": "earthy-velvety-australian-red-potatoes-hash",
   "source": "groq-llama-3.1-8b-instant",

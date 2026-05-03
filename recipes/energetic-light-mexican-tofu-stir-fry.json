@@ -33,9 +33,9 @@
     }
   ],
   "instructions": [
-    "Preheat your air fryer to 350°F (175°C).",
+    "Preheat your air fryer to 350\u00b0F (175\u00b0C).",
     "Air-fry the tofu for about 10-15 minutes or until crispy and golden.",
-    "In a wok or large skillet, sauté the onion and garlic until softened.",
+    "In a wok or large skillet, saut\u00e9 the onion and garlic until softened.",
     "Add the red bell pepper and continue cooking for another minute.",
     "Stir in the black beans, bouillon cube, and air-fried tofu. Mix well.",
     "Cook for an additional 2-3 minutes to meld flavors."
@@ -47,8 +47,8 @@
   "difficulty": "easy",
   "tags": [
     "energetic",
-    "light_mexican",
-    "vegan_tofu_stir_fry"
+    "light-mexican",
+    "vegan-tofu-stir-fry"
   ],
   "nutrition": {
     "calories": 379,

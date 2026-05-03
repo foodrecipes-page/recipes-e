@@ -1,6 +1,6 @@
 {
   "title": "Earthy Smoky Mediterranean Snow Peas Grill",
-  "description": "A quick, crunchy Mediterranean dish featuring smoky snow peas, toasted pine nuts, and crumbled feta, perfect for a gluten‑free date night.",
+  "description": "A quick, crunchy Mediterranean dish featuring smoky snow peas, toasted pine nuts, and crumbled feta, perfect for a glutenfree date night.",
   "cuisine": "Mediterranean",
   "diet": [
     "gluten-free",
@@ -49,9 +49,9 @@
     }
   ],
   "instructions": [
-    "Preheat a grill or grill pan to medium‑high heat.",
+    "Preheat a grill or grill pan to medium\u2011high heat.",
     "In a bowl, toss snow peas with olive oil, smoked paprika, sumac, salt, and pepper until evenly coated.",
-    "Spread the peas in a single layer on the grill and cook for 3–4 minutes, turning occasionally until edges are lightly charred.",
+    "Spread the peas in a single layer on the grill and cook for 3\u20134 minutes, turning occasionally until edges are lightly charred.",
     "Remove the peas and transfer to a serving dish.",
     "Drizzle a little extra olive oil, sprinkle toasted pine nuts, and crumble feta over the top.",
     "Add lemon zest for brightness and a final sprinkle of salt if needed.",
@@ -74,5 +74,20 @@
     "mainIngredient": "snow peas",
     "descriptor": "Earthy Smoky",
     "dishForm": "Grill"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "mediterranean",
+    "dinner"
+  ]
 }

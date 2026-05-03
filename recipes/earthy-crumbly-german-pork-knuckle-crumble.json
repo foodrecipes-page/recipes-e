@@ -55,10 +55,10 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 180°C.",
+    "Preheat oven to 180\u00b0C.",
     "Rinse pork knuckle and pat dry. Slice onion, dice leek, cut carrots into thin sticks, slice turnips.",
     "In a saucepan over medium heat, add oil. Brown meat on all sides, then set aside.",
-    "Sauté diced onions in the same pan until translucent. Add leeks, carrots, and turnips; cook for 5 minutes.",
+    "Saut\u00e9 diced onions in the same pan until translucent. Add leeks, carrots, and turnips; cook for 5 minutes.",
     "Stir in tomato paste with some flour to make a roux. Slowly pour in water while stirring continuously.",
     "Reduce heat to low and add white wine vinegar, salt, pork knuckle, and all vegetables. Simmer gently for about 2 hours until tender.",
     "In a separate pan, heat creme fraiche over medium heat; stir occasionally until slightly thickened.",
@@ -76,9 +76,9 @@
   ],
   "nutrition": {
     "calories": 372,
-    "protein": 26.9,
-    "carbs": 48.1,
-    "fat": 15.2
+    "protein": 27,
+    "carbs": 48,
+    "fat": 15
   },
   "slug": "earthy-crumbly-german-pork-knuckle-crumble",
   "source": "ollama-qwen2.5:3b",

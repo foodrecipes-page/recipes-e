@@ -1,6 +1,6 @@
 {
   "title": "Earthy Flaky Polish Chocolate Bake",
-  "description": "A low‑fat, flaky pastry filled with rich dark chocolate and a hint of cinnamon, perfect for a cozy Polish dessert.",
+  "description": "A lowfat, flaky pastry filled with rich dark chocolate and a hint of cinnamon, perfect for a cozy Polish dessert.",
   "cuisine": "Polish",
   "diet": [
     "low-fat-friendly"
@@ -9,25 +9,25 @@
   "ingredients": [
     {
       "name": "plain dark chocolate",
-      "amount": "200 g",
+      "amount": "200\u202fg",
       "notes": "70% cacao"
     },
     {
       "name": "unsweetened almond milk",
-      "amount": "200 ml",
-      "notes": "low‑fat"
+      "amount": "200\u202fml",
+      "notes": "low\u2011fat"
     },
     {
       "name": "whole wheat flour",
-      "amount": "100 g"
+      "amount": "100\u202fg"
     },
     {
       "name": "oat flour",
-      "amount": "30 g"
+      "amount": "30\u202fg"
     },
     {
       "name": "baking powder",
-      "amount": "1 tsp"
+      "amount": "1\u202ftsp"
     },
     {
       "name": "salt",
@@ -35,35 +35,35 @@
     },
     {
       "name": "applesauce",
-      "amount": "2 Tbsp",
+      "amount": "2\u202fTbsp",
       "notes": "unsweetened, fat substitute"
     },
     {
       "name": "egg white",
-      "amount": "1 large"
+      "amount": "1\u202flarge"
     },
     {
       "name": "vanilla extract",
-      "amount": "1 tsp"
+      "amount": "1\u202ftsp"
     },
     {
       "name": "ground cinnamon",
-      "amount": "1 tsp"
+      "amount": "1\u202ftsp"
     },
     {
       "name": "chopped walnuts",
-      "amount": "30 g"
+      "amount": "30\u202fg"
     }
   ],
   "instructions": [
-    "Preheat oven to 180 °C (350 °F).",
+    "Preheat oven to 180\u202f\u00b0C (350\u202f\u00b0F).",
     "In a small saucepan, gently melt the chocolate over low heat, stirring until smooth. Set aside to cool slightly.",
     "Whisk the almond milk, applesauce, egg white, and vanilla extract in a bowl until well combined.",
     "In a separate bowl, combine whole wheat flour, oat flour, baking powder and salt. Add the wet mixture and stir until a soft dough forms.",
-    "Press the dough into a greased 22 cm square baking tin, creating a 1 cm thick base. Bake for 10 min to set the crust.",
+    "Press the dough into a greased 22\u202fcm square baking tin, creating a 1\u202fcm thick base. Bake for 10\u202fmin to set the crust.",
     "Remove from oven and spread the melted chocolate over the crust. Sprinkle the walnuts and cinnamon on top.",
-    "Return to oven and bake for an additional 15 min, or until the chocolate sets and the top is slightly golden.",
-    "Let cool in the tin for 5 min, then cut into 6 squares. Serve warm or at room temperature."
+    "Return to oven and bake for an additional 15\u202fmin, or until the chocolate sets and the top is slightly golden.",
+    "Let cool in the tin for 5\u202fmin, then cut into 6 squares. Serve warm or at room temperature."
   ],
   "prepTimeMin": 12,
   "cookTimeMin": 25,

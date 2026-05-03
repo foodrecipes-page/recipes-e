@@ -25,7 +25,7 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 350°F (175°C).",
+    "Preheat the oven to 350\u00b0F (175\u00b0C).",
     "Toast slices of bread lightly until golden brown, about 2-3 minutes per side.",
     "In a small bowl, beat one egg white and add a pinch of salt. Mix well.",
     "Dip each slice of toast into the beaten egg mixture to coat evenly on both sides.",
@@ -39,7 +39,7 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "egg_white",
+    "egg-white",
     "encrusted",
     "toast",
     "portuguese"
