@@ -1,0 +1,85 @@
+{
+  "title": "Energizing Smoky Potato Starch Pilaf",
+  "description": "This energizing smoky and silky Uruguayan dish uses potato starch for a unique twist, cooked until caramelized to create a satisfyingly rich texture.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-carb",
+    "sodium-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "potato starch",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4, minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1/2 medium, finely chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a small bowl, mix potato starch with 4 cups of water until smooth and dissolved.",
+    "Heat olive oil in a large skillet over medium heat. Add garlic and sauté for about 2 minutes until fragrant.",
+    "Stir in tomato paste and cook for another minute, stirring constantly to prevent burning.",
+    "Gradually add the potato starch mixture to the pan while continuously stirring with a wooden spoon to avoid clumping. Cook until the liquid is absorbed and the mixture starts to thicken and caramelize.",
+    "Fold in chopped red bell pepper and smoked paprika. Stir gently to combine all ingredients evenly.",
+    "Pour the pilaf into an oven-safe baking dish and bake for 10-15 minutes or until it turns golden brown on top.",
+    "Remove from heat, let cool slightly, then serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "energizing",
+    "smoky",
+    "potato-starch",
+    "caramelized"
+  ],
+  "nutrition": {
+    "calories": 185,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 7
+  },
+  "slug": "energizing-smoky-potato-starch-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-smoky-potato-starch-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T17:02:13Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "caramelize",
+    "primaryIngredient": "potato starch",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "potato starch",
+    "descriptor": "Energizing Smoky",
+    "dishForm": "Pilaf"
+  }
+}
