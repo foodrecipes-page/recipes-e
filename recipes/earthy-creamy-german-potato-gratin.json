@@ -1,0 +1,107 @@
+{
+  "title": "Earthy Creamy German Potato Gratin",
+  "description": "A rich and creamy German-inspired potato dish featuring scallions and a blend of earthy flavors, perfect for a solo dinner. This recipe combines the natural sweetness of potatoes with the pungency of scallions and the depth of German temper.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "temper",
+      "amount": "1 tsp",
+      "notes": "German mustard"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "gruyère cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, combine the sliced potatoes and chopped scallions.",
+    "In a separate bowl, mix the minced garlic, German temper, salt, and black pepper.",
+    "Add the garlic-temper mixture to the potato-scallion bowl and toss to coat.",
+    "In a greased 6-inch baking dish, create a layer of potatoes.",
+    "Drizzle with olive oil and sprinkle with shredded gruyère cheese.",
+    "Repeat the layering process until all ingredients are used, finishing with a layer of cheese on top.",
+    "Dot the top of the gratin with sour cream.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20-25 minutes, or until the top is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "potato",
+    "gratin",
+    "scallions",
+    "temper",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "earthy-creamy-german-potato-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-creamy-german-potato-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T17:43:37Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "solo-dinner",
+    "technique": "temper",
+    "primaryIngredient": "scallions",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "potatoes",
+    "descriptor": "earthy creamy",
+    "dishForm": "Gratin"
+  }
+}
