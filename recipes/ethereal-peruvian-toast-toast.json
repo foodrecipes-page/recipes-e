@@ -1,0 +1,93 @@
+{
+  "title": "Ethereal Peruvian Toast",
+  "description": "A dense, romantic peruvian dish featuring gochugaru and toast, perfect for a mediterranean-inspired evening.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gochugaru",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "crushed red pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "toasted bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Arrange the toasted bread on a baking sheet.",
+    "Drizzle olive oil over the bread and sprinkle with gochugaru and crushed red pepper.",
+    "Bake for 5 minutes, or until the bread is crispy and slightly puffed.",
+    "Meanwhile, mix together minced garlic and lemon juice in a small bowl.",
+    "Remove the bread from the oven and brush the garlic-lemon mixture over each slice.",
+    "Top each slice with a sprinkle of chopped cilantro and a crumble of feta cheese.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "gochugaru",
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "peruvian-food",
+    "romantic-dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 28,
+    "fat": 18
+  },
+  "slug": "ethereal-peruvian-toast-toast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/ethereal-peruvian-toast-toast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:21:52Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "toast",
+    "primaryIngredient": "gochugaru",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Toast",
+    "descriptor": "Ethereal",
+    "dishForm": "Toast"
+  }
+}
