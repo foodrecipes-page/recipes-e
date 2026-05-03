@@ -1,0 +1,109 @@
+{
+  "title": "Earthy Dense Venezuelan Tuna Chowder",
+  "description": "A comforting, dense chowder brimming with earthy root vegetables, tender sous‑vade tuna, creamy brie, and a velvety sauce perfect for sick‑day comfort.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tuna fillet",
+      "amount": "400 g"
+    },
+    {
+      "name": "Brie cheese",
+      "amount": "90 g"
+    },
+    {
+      "name": "Sweet potato",
+      "amount": "150 g"
+    },
+    {
+      "name": "Potato",
+      "amount": "150 g"
+    },
+    {
+      "name": "Carrot",
+      "amount": "80 g"
+    },
+    {
+      "name": "Onion",
+      "amount": "60 g"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Kale",
+      "amount": "100 g"
+    },
+    {
+      "name": "Vegetable stock",
+      "amount": "800 ml"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "120 ml"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Spices & acid",
+      "amount": "to taste",
+      "notes": "salt, pepper, thyme, bay leaf, lemon juice"
+    }
+  ],
+  "instructions": [
+    "Prepare the sous‑vide chamber. Vacuum seal the tuna fillet with a pinch of salt and pepper. Set the temperature to 125 °F (52 °C) and cook for 30 minutes.",
+    "While the tuna cooks, heat olive oil in a heavy pot over medium heat. Sauté the diced onion and minced garlic until translucent.",
+    "Add the diced carrots, sweet potato, and potato to the pot. Cook for 5 minutes, stirring occasionally.",
+    "Pour in the vegetable stock, add the bay leaf, and bring to a gentle simmer. Cook until the vegetables are tender, about 15 minutes.",
+    "Remove the bay leaf. Use an immersion blender to blend the soup until smooth, leaving some thickness.",
+    "Stir in the chopped kale and cook for an additional 2 minutes until wilted.",
+    "When the tuna is ready, remove it from the vacuum bag, pat dry, then slice into thin strips.",
+    "Add the sliced tuna to the pot and gently heat through.",
+    "Stir in the heavy cream, then add the brie cheese, allowing it to melt into the chowder.",
+    "Adjust seasoning with salt, pepper, thyme, and a splash of lemon juice. Serve hot, optionally garnished with fresh herbs."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pescatarian",
+    "southern",
+    "venezuelan",
+    "dense",
+    "earthy",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 27,
+    "carbs": 25,
+    "fat": 13
+  },
+  "slug": "earthy-dense-venezuelan-tuna-chowder",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-dense-venezuelan-tuna-chowder",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:05:14Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "dense",
+    "mood": "sick-day",
+    "technique": "sous-vide",
+    "primaryIngredient": "brie",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Tuna",
+    "descriptor": "Earthy Dense",
+    "dishForm": "Chowder"
+  }
+}
