@@ -1,0 +1,105 @@
+{
+  "title": "Earthy Kenyan Navy Beans Stew",
+  "description": "A hearty, post-workout stew featuring dried white navy beans cooked to perfection in a pressure cooker for a juicy, earthy flavor.",
+  "cuisine": "kenyan",
+  "diet": [
+    "plant-based",
+    "high-protein",
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dried white navy beans",
+      "amount": "1 cup",
+      "notes": "soaked overnight or pressure-cooked with water"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      ": ": ", "
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "for depth of flavor"
+    },
+    {
+      "name": "mild chili",
+      "amount": "1 small",
+      "notes": "optional for heat"
+    },
+    {
+      "name": "kenyan spinach",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 small",
+      "notes": "for crunch"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "for creaminess"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "adjust for flavor"
+    }
+  ],
+  "instructions": [
+    "Soak dried navy beans overnight or pressure-cook with 2 cups water for 30 minutes.",
+    "Sauté onion and garlic in a pot over medium heat until soft.",
+    "Add tomato paste and mild chili (if using), cook for 1 minute.",
+    "Pour in soaked beans and 2 cups water, bring to a boil.",
+    "Cover and pressure-cook for 15 minutes until beans are tender.",
+    "Stir in spinach, cucumber, and coconut milk, then season with salt.",
+    "Simmer for 5 minutes until flavors meld.",
+    "Serve hot with a side of rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "navy-beans",
+    "stew",
+    "post-workout",
+    "plant-based",
+    "juicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "earthy-kenyan-navy-beans-stew",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-kenyan-navy-beans-stew",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T02:28:54Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "post-workout",
+    "technique": "pressure-cook",
+    "primaryIngredient": "dried white navy beans",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "navy beans",
+    "descriptor": "Earthy",
+    "dishForm": "Stew"
+  }
+}
