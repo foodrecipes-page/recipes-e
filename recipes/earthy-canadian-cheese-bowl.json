@@ -1,0 +1,74 @@
+{
+  "title": "Earthy Canadian Cheese Bowl",
+  "description": "A post-workout vegan dish featuring creamy emmentaler cheese with earthy notes, served with fresh veggies and a tangy dressing for a satisfying meal.",
+  "cuisine": "canadian",
+  "diet": [
+    "vegan",
+    "plant-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "emmentaler cheese",
+      "amount": "150g",
+      "notes": "fresh, aged 12-18 months"
+    },
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "unsalted, cooked"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "150g",
+      ": ": ", "
+    }
+  ],
+  "instructions": [
+    "Combine cooked quinoa and emmentaler cheese in a bowl.",
+    "Add sliced red onion and cherry tomatoes.",
+    "Drizzle with 1 tbsp balsamic vinegar and 1 tsp maple syrup.",
+    "Mix gently until ingredients are evenly distributed."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "vegan",
+    "cheese",
+    "quinoa",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "earthy-canadian-cheese-bowl",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-canadian-cheese-bowl",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T07:11:54Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "post-workout",
+    "technique": "knead",
+    "primaryIngredient": "emmentaler cheese",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "cheese",
+    "descriptor": "Earthy",
+    "dishForm": "Bowl"
+  }
+}

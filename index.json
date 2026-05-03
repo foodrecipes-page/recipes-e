@@ -80,6 +80,20 @@
     "shard": "e"
   },
   {
+    "slug": "earthy-canadian-cheese-bowl",
+    "title": "Earthy Canadian Cheese Bowl",
+    "tags": [
+      "canadian",
+      "vegan",
+      "cheese",
+      "quinoa",
+      "post-workout"
+    ],
+    "cuisine": "canadian",
+    "totalTimeMin": 5,
+    "shard": "e"
+  },
+  {
     "slug": "earthy-cinnamon-chinese-beef-stir-fry",
     "title": "Earthy Cinnamon Chinese Beef Stir-fry",
     "tags": [
