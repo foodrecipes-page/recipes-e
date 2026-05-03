@@ -1,0 +1,92 @@
+{
+  "title": "Earthy Tender Peruvian Split Peas Stew",
+  "description": "A comforting one-pot stew that blends earthy split peas with Peruvian spices, creating a tender, flavorful bowl perfect for any meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried split peas",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "low-sodium vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "carrot, diced",
+      "amount": "1 large"
+    },
+    {
+      "name": "potato, peeled and diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat until shimmering.",
+    "Add the diced onion and sauté for 3-4 minutes until translucent.",
+    "Stir in the minced garlic, cumin, and smoked paprika; cook for 1 minute until fragrant.",
+    "Add the rinsed split peas, diced carrot, and potato to the pot, stirring to combine.",
+    "Pour in the vegetable broth, bring the mixture to a gentle boil, then reduce to low heat to maintain a light simmer.",
+    "Cover the pot and let the stew simmer for 45-50 minutes, stirring occasionally, until the peas are tender and the vegetables are cooked through.",
+    "Season with sea salt and black pepper to taste; adjust as needed.",
+    "Remove from heat, stir in chopped cilantro, and serve hot.",
+    "If desired, add a splash of lime juice for brightness before serving."
+  ],
+  "slug": "earthy-tender-peruvian-split-peas-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-tender-peruvian-split-peas-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:51:22Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "tender",
+    "mood": "one-pot",
+    "technique": "cure",
+    "primaryIngredient": "split peas",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "split peas",
+    "descriptor": "Earthy Tender",
+    "dishForm": "Stew"
+  }
+}
