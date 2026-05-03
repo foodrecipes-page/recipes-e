@@ -1,0 +1,111 @@
+{
+  "title": "Energising Australian Tofu Stew",
+  "description": "Rich, juicy, hangover cure Aussie dish featuring canola oil and nuka-pickle.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "400g",
+      "notes": "cubed"
+    },
+    {
+      "name": "canola oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "2 tablespoons",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "fresh"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat canola oil in a large pot over medium heat.",
+    "Add chopped onion and carrot, sauté until onion translucent, about 5 minutes.",
+    "Stir in sliced mushrooms and turmeric, cook another 3 minutes.",
+    "Gently add cubed tofu and nuka-pickle, tossing to coat, cook for 2 minutes.",
+    "Pour in vegetable broth and lemon juice, bring to a gentle simmer.",
+    "Add chopped spinach and simmer for 5 minutes until spinach wilts.",
+    "Season with salt, adjust to taste, and remove from heat.",
+    "Serve hot, optionally garnished with fresh herbs or a squeeze of lemon."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "aussie",
+    "hangover-cure",
+    "quick",
+    "satvik-friendly",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 6,
+    "carbs": 6,
+    "fat": 5
+  },
+  "slug": "energizing-australian-tofu-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-australian-tofu-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:25:14Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "hangover-cure",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "canola oil",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "tofu",
+    "descriptor": "Energizing",
+    "dishForm": "Stew"
+  }
+}
