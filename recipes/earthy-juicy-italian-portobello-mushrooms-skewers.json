@@ -1,0 +1,103 @@
+{
+  "title": "Earthy Juicy Italian Portobello Mushrooms Skewers",
+  "description": "A Jain-friendly Italian dish featuring cumin and tandoor flavors, perfect for a dinner party. These skewers are earthy, juicy, and full of flavor.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Portobello mushrooms",
+      "amount": "12 large",
+      "notes": "stems removed and caps sliced 1/2 inch thick"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Tandoor masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Bamboo skewers",
+      "amount": "12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a small bowl, mix together olive oil, cumin seeds, tandoor masala, garlic, salt, and black pepper.",
+    "Brush the mixture onto both sides of the mushroom slices.",
+    "Thread 2-3 mushroom slices onto each bamboo skewer.",
+    "Grill the skewers for 3-4 minutes per side, or until they are tender and slightly charred.",
+    "Brush with lemon juice during the last minute of grilling.",
+    "Garnish with chopped parsley and serve hot.",
+    "Serve with a side of roasted vegetables or a salad for a complete meal.",
+    "Let the skewers rest for a few minutes before serving to allow the juices to redistribute."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "portobello",
+    "mushrooms",
+    "skewers",
+    "jain",
+    "vegetarian",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "earthy-juicy-italian-portobello-mushrooms-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-juicy-italian-portobello-mushrooms-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T18:46:17Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "show-off",
+    "technique": "tandoor",
+    "primaryIngredient": "cumin",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "portobello mushrooms",
+    "descriptor": "earthy juicy",
+    "dishForm": "Skewers"
+  }
+}
