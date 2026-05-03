@@ -1,0 +1,112 @@
+{
+  "title": "Earthy Crispy Croatian Chicken Bake",
+  "description": "A low‑fat, crispy baked chicken dish with a tangy gherkin relish, perfect for post‑workout recovery.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken breasts",
+      "amount": "4",
+      "notes": "about 180 g each"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for coating"
+    },
+    {
+      "name": "low‑fat plain Greek yogurt",
+      "amount": "1 cup",
+      "notes": "acts as a creamy coating"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "½ teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "¼ teaspoon",
+      "notes": "freshly ground preferred"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "¼ cup",
+      "notes": "for crispness"
+    },
+    {
+      "name": "gherkin relish",
+      "amount": "½ cup",
+      "notes": "store‑bought or homemade"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200 °C (400 °F) and line a baking sheet with parchment paper.",
+    "In a bowl, whisk together the Greek yogurt, smoked paprika, oregano, rosemary, garlic powder, pepper, and a pinch of salt.",
+    "Drizzle each chicken breast with olive oil, then spread the yogurt mixture evenly over all sides.",
+    "In a separate shallow dish, combine the panko breadcrumbs with a little salt.",
+    "Press the yogurt‑coated chicken into the breadcrumbs, ensuring an even crust.",
+    "Place the coated breasts on the prepared baking sheet, leaving space between them.",
+    "Bake for 20–25 minutes, or until the chicken is golden brown and reaches an internal temperature of 75 °C (165 °F).",
+    "While the chicken bakes, gently warm the gherkin relish in a saucepan over low heat for about 5 minutes.",
+    "Remove the chicken from the oven and let it rest for 5 minutes before serving.",
+    "Serve each breast topped with warm gherkin relish and, if desired, a sprinkle of fresh herbs."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "low-fat",
+    "post-workout",
+    "crispy",
+    "bake",
+    "chicken",
+    "gherkin-relish",
+    "earthy"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 6
+  },
+  "slug": "earthy-crispy-croatian-chicken-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-crispy-croatian-chicken-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:09:26Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crispy",
+    "mood": "post-workout",
+    "technique": "bake",
+    "primaryIngredient": "gherkin relish",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "chicken",
+    "descriptor": "Earthy Crispy",
+    "dishForm": "Bake"
+  }
+}
