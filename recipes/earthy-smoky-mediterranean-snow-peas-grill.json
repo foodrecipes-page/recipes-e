@@ -1,0 +1,78 @@
+{
+  "title": "Earthy Smoky Mediterranean Snow Peas Grill",
+  "description": "A quick, crunchy Mediterranean dish featuring smoky snow peas, toasted pine nuts, and crumbled feta, perfect for a gluten‑free date night.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "snow peas",
+      "amount": "400g",
+      "notes": "fresh, trimmed"
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground sumac",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "2 tbsp",
+      "notes": "toasted"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "50g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium‑high heat.",
+    "In a bowl, toss snow peas with olive oil, smoked paprika, sumac, salt, and pepper until evenly coated.",
+    "Spread the peas in a single layer on the grill and cook for 3–4 minutes, turning occasionally until edges are lightly charred.",
+    "Remove the peas and transfer to a serving dish.",
+    "Drizzle a little extra olive oil, sprinkle toasted pine nuts, and crumble feta over the top.",
+    "Add lemon zest for brightness and a final sprinkle of salt if needed.",
+    "Serve immediately while hot, with extra feta or a splash of balsamic glaze if desired."
+  ],
+  "slug": "earthy-smoky-mediterranean-snow-peas-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-smoky-mediterranean-snow-peas-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:29:23Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "grill",
+    "primaryIngredient": "snow peas",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "snow peas",
+    "descriptor": "Earthy Smoky",
+    "dishForm": "Grill"
+  }
+}
