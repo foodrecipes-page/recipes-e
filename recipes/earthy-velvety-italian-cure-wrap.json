@@ -1,0 +1,103 @@
+{
+  "title": "Earthy Velvety Italian Cure Wrap",
+  "description": "A keto-friendly, weeknight Italian dish featuring pita bread, cured meats, and earthy flavors.",
+  "cuisine": "Italian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pita Bread (low-carb)",
+      "amount": "2",
+      "notes": "look for a low-carb pita bread alternative"
+    },
+    {
+      "name": "Cured Meat (e.g. Prosciutto)",
+      "amount": "6 slices",
+      "notes": "you can use other cured meats like salami or ham"
+    },
+    {
+      "name": "Cream Cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Mushroom Duxelles",
+      "amount": "1/4 cup",
+      "notes": "see note below for homemade version"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Wrap pita bread with a damp paper towel and heat in the oven for 2-3 minutes, or until warm and pliable.",
+    "In a small bowl, mix together cream cheese, mushroom duxelles, garlic, salt, black pepper, and Italian seasoning.",
+    "Spread the cream cheese mixture evenly over the warmed pita bread.",
+    "Top the cream cheese mixture with the cured meat, leaving a small border around the edges.",
+    "Garnish with fresh parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 2,
+  "totalTimeMin": 12,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "keto",
+    "low-carb",
+    "cured-meat",
+    "cream-cheese",
+    "mushroom-duxelles"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "32g",
+    "carbs": "10g",
+    "fat": "42g"
+  },
+  "slug": "earthy-velvety-italian-cure-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-velvety-italian-cure-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:28:37Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "weeknight",
+    "technique": "cure",
+    "primaryIngredient": "pita bread",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "cure",
+    "descriptor": "earthy velvety",
+    "dishForm": "Wrap"
+  }
+}
