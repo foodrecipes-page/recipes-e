@@ -150,6 +150,20 @@
     "shard": "e"
   },
   {
+    "slug": "earthy-creamy-mediterranean-butternut-squash-stew",
+    "title": "Earthy Creamy Mediterranean Butternut Squash Stew",
+    "tags": [
+      "mediterranean",
+      "stew",
+      "butternut-squash",
+      "vegan",
+      "gluten-free"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 50,
+    "shard": "e"
+  },
+  {
     "slug": "earthy-creamy-russian-beet-soup",
     "title": "Earthy Creamy Russian Beet Soup",
     "tags": [
