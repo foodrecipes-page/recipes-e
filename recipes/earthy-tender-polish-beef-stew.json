@@ -1,0 +1,110 @@
+{
+  "title": "Earthy Tender Polish Beef Stew",
+  "description": "A hearty and indulgent Polish dish featuring tender beef, earthy flavors, and a hint of oregano, made with halal-friendly ingredients. This stew is perfect for a cold winter's night, served with crusty bread or over mashed potatoes.",
+  "cuisine": "Polish",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef chuck",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1.5-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini, sliced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "halal-friendly"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Add the beef cubes and cook until browned on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Add another tablespoon of oil to the pot, then add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the chopped carrots and potatoes, cook for 5 minutes, stirring occasionally.",
+    "Add the browned beef back to the pot, along with the dried oregano, beef broth, tomato paste, salt, and pepper. Stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 2.5 hours, or until the beef is tender.",
+    "Use a whisk to stir the stew and check the seasoning. Adjust as needed.",
+    "Serve the stew hot, garnished with fresh parsley or dill, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "polish-cuisine",
+    "beef-stew",
+    "comfort-food",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "earthy-tender-polish-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-tender-polish-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T22:16:42Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "tender",
+    "mood": "indulgent",
+    "technique": "whisk",
+    "primaryIngredient": "oregano",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "beef",
+    "descriptor": "earthy tender",
+    "dishForm": "Stew"
+  }
+}
