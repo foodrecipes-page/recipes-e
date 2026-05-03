@@ -1,0 +1,85 @@
+{
+  "title": "Ethereal Aerated Russian Potatoes Galette",
+  "description": "A light, airy, and pungent Russian dish made with Yukon gold potatoes, featuring a shio-koji cure for a unique flavor profile, making it a great low-sodium alternative.",
+  "cuisine": "Russian",
+  "diet": [
+    "low-sodium",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Yukon gold potatoes",
+      "amount": "4 large"
+    },
+    {
+      "name": "Shio-koji",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Extra-virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dried dill weed",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh chives",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Peel the potatoes and slice them thinly, using a mandoline or sharp knife.",
+    "In a large bowl, combine the sliced potatoes and shio-koji, making sure the potatoes are evenly coated.",
+    "Transfer the potato mixture to a clean kitchen towel and gather the edges to form a tight bundle.",
+    "Squeeze the towel gently to remove excess moisture from the potatoes.",
+    "Transfer the potatoes to a parchment-lined baking sheet, spreading them out in a single layer.",
+    "Drizzle with olive oil and sprinkle with dried dill weed.",
+    "Season with salt to taste, if needed.",
+    "Bake for 20 minutes or until the potatoes are tender and lightly browned.",
+    "Remove from the oven and garnish with chopped chives, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-sodium",
+    "one-pan",
+    "russian-cuisine",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 3
+  },
+  "slug": "ethereal-aerated-russian-potatoes-galette",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/ethereal-aerated-russian-potatoes-galette",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:14:53Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "aerated",
+    "mood": "light",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "yukon gold potatoes",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Ethereal Aerated",
+    "dishForm": "Galette"
+  }
+}
