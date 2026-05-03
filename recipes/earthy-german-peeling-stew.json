@@ -1,0 +1,107 @@
+{
+  "title": "Earthy German Peeling Stew",
+  "description": "A creamy, vegetable-based stew with a subtle earthiness, slow-cooked to perfection for a hearty vegetarian dinner.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "potato",
+      "amount": "1 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "mushroom",
+      "amount": "150g",
+      "notes": "cremini or button mushrooms, sliced"
+    },
+    {
+      "name": "celery root",
+      "amount": "100g",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "white wine",
+      "amount": "50ml",
+      "notes": "optional, for depth"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1.5l",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "almond milk",
+      "amount": "200ml",
+      "notes": "for creaminess"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large pot, sauté onion and carrot over medium heat until soft.",
+    "Add potato, celery root, and mushrooms; cook for 5 minutes.",
+    "Pour in vegetable broth and white wine (if using), bring to a boil.",
+    "Add thyme and bay leaf (if using), then reduce heat to low.",
+    "Simmer covered for 30 minutes until vegetables are tender.",
+    "Stir in almond milk and cook gently for 5 minutes to thicken.",
+    "Remove bay leaf and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "vegetarian",
+    "stew",
+    "earth",
+    "creamy",
+    "slowcooking"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "earthy-german-peeling-stew",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-german-peeling-stew",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T08:40:33Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "solo-dinner",
+    "technique": "slow-cook",
+    "primaryIngredient": "mixed peel",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "peel",
+    "descriptor": "Earthy",
+    "dishForm": "Stew"
+  }
+}

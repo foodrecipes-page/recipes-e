@@ -321,6 +321,21 @@
     "shard": "e"
   },
   {
+    "slug": "earthy-german-peeling-stew",
+    "title": "Earthy German Peeling Stew",
+    "tags": [
+      "german",
+      "vegetarian",
+      "stew",
+      "earth",
+      "creamy",
+      "slowcooking"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "e"
+  },
+  {
     "slug": "earthy-irish-wholemeal-flour-bread",
     "title": "Earthy Irish Wholemeal Flour Bread",
     "tags": [],
