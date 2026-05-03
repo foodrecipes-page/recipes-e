@@ -1,0 +1,106 @@
+{
+  "title": "Earthy Velvety Brazilian Sweet Potato Bisque",
+  "description": "A rich and creamy Brazilian-inspired sweet potato soup, featuring Jamaican curry powder and a dairy-free friendly option. Perfect for a romantic dinner or a cozy night in.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sweet potatoes (4-5 medium)",
+      "amount": "2 lbs",
+      "notes": "Choose sweet potatoes with a high starch content for the creamiest bisque"
+    },
+    {
+      "name": "Onion (1 large)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Garlic (3 cloves)",
+      "amount": "",
+      "notes": "Mince the garlic before sautéing"
+    },
+    {
+      "name": "Jamaican curry powder (1 tsp)",
+      "amount": "",
+      "notes": "Use a high-quality curry powder for the best flavor"
+    },
+    {
+      "name": "Coconut milk (1 can)",
+      "amount": "14 oz",
+      "notes": "Full-fat coconut milk for a creamy bisque"
+    },
+    {
+      "name": "Vegetable broth (4 cups)",
+      "amount": "",
+      "notes": "Use a low-sodium broth for a healthier option"
+    },
+    {
+      "name": "Salt (to taste)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper (to taste)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro (chopped, for garnish)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C). Pierce the sweet potatoes with a fork several times and bake for 45-60 minutes, or until tender when pierced.",
+    "Sauté the onion and garlic in a large saucepan over medium heat until softened, about 5 minutes.",
+    "Add the Jamaican curry powder and cook for 1-2 minutes, stirring constantly.",
+    "Add the vegetable broth and bring the mixture to a boil.",
+    "Transfer the roasted sweet potatoes to a blender or food processor with the curry-infused broth.",
+    "Blend the mixture until smooth, then return it to the saucepan.",
+    "Stir in the coconut milk and cook over low heat until warmed through.",
+    "Season with salt and black pepper to taste.",
+    "Serve the bisque hot, garnished with chopped cilantro and a dollop of coconut cream (optional)"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "sweet-potato",
+    "bisque",
+    "curry",
+    "vegan",
+    "dairy-free",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": "2g",
+    "carbs": "35g",
+    "fat": "10g"
+  },
+  "slug": "earthy-velvety-brazilian-sweet-potatoes-bisque",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-velvety-brazilian-sweet-potatoes-bisque",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T18:12:51Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "romantic",
+    "technique": "blanch",
+    "primaryIngredient": "jamaican curry powder",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "earthy velvety",
+    "dishForm": "Bisque"
+  }
+}
