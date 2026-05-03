@@ -1,0 +1,111 @@
+{
+  "title": "Ethereal Slovakian Chicken Salad",
+  "description": "A floral crisp salad featuring sous vide chicken thighs dressed in a citrus herb vinaigrette, perfect for low carb meal prep.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken thighs (bone-in, skin-on)",
+      "amount": "500g",
+      "notes": "sous vide 65C 2 hours"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tbsp, chopped"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 tbsp, chopped"
+    },
+    {
+      "name": "Capers",
+      "amount": "1 tsp, rinsed"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 small, thinly sliced"
+    },
+    {
+      "name": "Arugula",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a sous vide water bath to 65C and season chicken thighs with salt and pepper.",
+    "Vacuum‑seal the chicken thighs and cook them in the bath for 2 hours.",
+    "Remove the thighs, pat them dry, and sear them in a hot skillet with 1 tbsp olive oil until golden, about 1 minute per side.",
+    "Let the chicken rest for 5 minutes, then slice it thinly.",
+    "In a small bowl whisk together lemon juice, Dijon mustard, honey, and 1 tbsp olive oil to make the vinaigrette.",
+    "Stir in chopped dill, parsley, capers, and a pinch of sea salt.",
+    "Toss the arugula and sliced red onion in the vinaigrette until evenly coated.",
+    "Arrange the arugula mixture on a plate and top with sliced chicken thighs.",
+    "Garnish with extra dill and a scatter of capers.",
+    "Serve immediately or refrigerate portions for meal prep up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 122,
+  "totalTimeMin": 137,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "gluten-free",
+    "herb",
+    "low-carb",
+    "meal-prep",
+    "quick",
+    "slovak"
+  ],
+  "nutrition": {
+    "calories": 261,
+    "protein": 21,
+    "carbs": 2,
+    "fat": 22
+  },
+  "slug": "ethereal-slovakian-chicken-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/ethereal-slovakian-chicken-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:07:32Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "sous-vide",
+    "primaryIngredient": "chicken thighs",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "chicken",
+    "descriptor": "Ethereal",
+    "dishForm": "Salad"
+  }
+}
