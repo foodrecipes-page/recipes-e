@@ -276,6 +276,21 @@
     "shard": "e"
   },
   {
+    "slug": "earthy-crunchy-filipino-vegetable-lasagna",
+    "title": "Earthy Crunchy Filipino Vegetable Lasagna",
+    "tags": [
+      "filipino",
+      "italian",
+      "vegetarian",
+      "sugar-free",
+      "lasagna",
+      "weeknight"
+    ],
+    "cuisine": "Filipino-Italian",
+    "totalTimeMin": 70,
+    "shard": "e"
+  },
+  {
     "slug": "earthy-crunchy-garlic-italian-stir-fry",
     "title": "Earthy Crunchy Garlic Italian Stir-fry",
     "tags": [

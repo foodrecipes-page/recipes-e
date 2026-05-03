@@ -1,0 +1,102 @@
+{
+  "title": "Earthy Crunchy Filipino Vegetable Lasagna",
+  "description": "A weeknight Filipino dish featuring lasagna sheets, earthy vegetables, and crunchy texture, perfect for a sugar-free friendly meal. This recipe combines the flavors of the Philippines with the comfort of Italian lasagna.",
+  "cuisine": "Filipino-Italian",
+  "diet": [
+    "sugar-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna sheets",
+      "amount": "8-10 sheets",
+      "notes": "dried"
+    },
+    {
+      "name": "eggplant",
+      "amount": "1 medium, sliced",
+      "notes": "purple variety"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup, sliced",
+      "notes": "shiitake or cremini"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought, sugar-free"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fried shallots",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Sauté sliced eggplant and zucchini in a little oil until tender, set aside.",
+    "In a separate pan, sauté sliced mushrooms until they release their liquid and start to brown, set aside.",
+    "Combine tomato sauce, ricotta cheese, and chopped parsley in a bowl, mix well.",
+    "In a 9x13 inch baking dish, create a thin layer of tomato sauce on the bottom.",
+    "Arrange 4 lasagna sheets on top of the sauce.",
+    "Spread half of the ricotta mixture over the lasagna sheets, followed by half of the sautéed eggplant, zucchini, and mushrooms.",
+    "Sprinkle with half of the mozzarella cheese and half of the fried shallots.",
+    "Repeat the layers, starting with the lasagna sheets, then the remaining ricotta mixture, the remaining eggplant, zucchini, and mushrooms, and finally the remaining mozzarella cheese and fried shallots.",
+    "Cover with aluminum foil and bake for 30 minutes, then remove the foil and bake for an additional 10-15 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "italian",
+    "vegetarian",
+    "sugar-free",
+    "lasagna",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "earthy-crunchy-filipino-vegetable-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-crunchy-filipino-vegetable-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T17:47:29Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "fold",
+    "primaryIngredient": "lasagne sheets",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "vegetables",
+    "descriptor": "earthy crunchy",
+    "dishForm": "Lasagna"
+  }
+}
