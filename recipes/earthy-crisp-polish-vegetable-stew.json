@@ -1,0 +1,101 @@
+{
+  "title": "Earthy Crisp Polish Vegetable Stew",
+  "description": "A light and refreshing Polish-inspired stew featuring sazon and a variety of vegetables, perfect for a Jain-friendly meal. This stew is simmered to perfection to bring out the earthy flavors of the ingredients.",
+  "cuisine": "Polish",
+  "diet": [
+    "Jain",
+    "Vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 medium, peeled and chopped",
+      "notes": "any color"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium, peeled and chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "sazon seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and sauté until translucent, about 5 minutes.",
+    "Add the minced garlic and sauté for another minute.",
+    "Add the chopped carrots, potatoes, zucchini, and mushrooms, and stir to combine.",
+    "Add the sazon seasoning and stir to coat the vegetables.",
+    "Pour in the vegetable broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes, or until the vegetables are tender.",
+    "Season with salt and pepper to taste.",
+    "Stir in the chopped fresh parsley.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "polish-cuisine",
+    "jain-friendly",
+    "vegetarian",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "earthy-crisp-polish-vegetable-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-crisp-polish-vegetable-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T20:54:09Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "simmer",
+    "primaryIngredient": "sazon",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "vegetables",
+    "descriptor": "earthy crisp",
+    "dishForm": "Stew"
+  }
+}

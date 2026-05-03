@@ -176,6 +176,20 @@
     "shard": "e"
   },
   {
+    "slug": "earthy-crisp-polish-vegetable-stew",
+    "title": "Earthy Crisp Polish Vegetable Stew",
+    "tags": [
+      "polish-cuisine",
+      "jain-friendly",
+      "vegetarian",
+      "stew",
+      "comfort-food"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 45,
+    "shard": "e"
+  },
+  {
     "slug": "earthy-crisp-slovakian-broccoli-curry",
     "title": "Earthy Crisp Slovakian Broccoli Curry",
     "tags": [
