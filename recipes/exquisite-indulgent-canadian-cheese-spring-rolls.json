@@ -1,0 +1,101 @@
+{
+  "title": "Exquisite Indulgent Canadian Cheese Spring Rolls",
+  "description": "A rich and creamy Canadian dish featuring cheese, coconut cream, and fresh herbs wrapped in rice paper sheets, perfect for a special occasion or indulgent snack. This gluten-free friendly recipe is sure to delight.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "rice paper sheets",
+      "amount": "20 sheets",
+      "notes": "round, 8 inches in diameter"
+    },
+    {
+      "name": "shredded mozzarella cheese",
+      "amount": "2 cups"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the shredded mozzarella and cheddar cheese and mix well.",
+    "Add the chopped parsley, dill, salt, pepper, and garlic powder to the cheese mixture and stir until combined.",
+    "Lay a rice paper sheet flat on a clean surface and brush the edges with olive oil.",
+    "Place about 1 tablespoon of the cheese mixture in the center of the rice paper sheet.",
+    "Brush the edges of the rice paper sheet with a little water, then fold the bottom half up over the filling, fold in the sides, and roll up the sheet to form a tight cylinder.",
+    "Repeat with the remaining rice paper sheets and cheese mixture.",
+    "Heat about 1-2 inches of olive oil in a large skillet over medium-high heat until it reaches 350 degrees Fahrenheit.",
+    "Carefully place a few of the spring rolls in the hot oil and fry until golden brown, about 2-3 minutes on each side.",
+    "Remove the spring rolls from the oil with a slotted spoon and place on a paper towel-lined plate to drain excess oil.",
+    "Serve the spring rolls hot with a side of coconut cream for dipping."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "cheese-recipes",
+    "gluten-free",
+    "indulgent-snacks",
+    "spring-rolls"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "exquisite-indulgent-canadian-cheese-spring-rolls",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exquisite-indulgent-canadian-cheese-spring-rolls",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:35:25Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "cheese-pull",
+    "mood": "indulgent",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "rice paper sheets",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "cheese",
+    "descriptor": "Exquisite Indulgent",
+    "dishForm": "Spring-Rolls"
+  }
+}
