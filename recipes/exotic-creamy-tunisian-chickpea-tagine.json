@@ -1,0 +1,108 @@
+{
+  "title": "Exotic Creamy Tunisian Chickpea Tagine",
+  "description": "A sour and creamy Tunisian dish featuring chickpeas and fast action yeast, perfect for midnight cravings, this jain-friendly tagine is a unique blend of flavors, with a balance of sour and creamy elements that will satisfy your taste buds.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 cup",
+      "notes": "canned or cooked"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fast action yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the cumin, coriander, and fast action yeast, and cook for 1 minute.",
+    "Add the chickpeas, lemon juice, salt, and black pepper, and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Stir in the coconut cream and continue to simmer for an additional 10 minutes.",
+    "Serve the tagine hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "jain-friendly",
+    "midnight-craving",
+    "north-african",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "exotic-creamy-tunisian-chickpea-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-creamy-tunisian-chickpea-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T22:43:00Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "simmer",
+    "primaryIngredient": "fast action yeast",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "chickpeas",
+    "descriptor": "exotic creamy",
+    "dishForm": "Tagine"
+  }
+}
