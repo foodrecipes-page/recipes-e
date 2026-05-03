@@ -1,0 +1,102 @@
+{
+  "title": "Earthy Juicy Vietnamese Pork Spring-Rolls",
+  "description": "A midnight-craving Vietnamese dish featuring earthy and juicy pork, wrapped in a thin dough made from all-purpose flour. Perfect for a halal-friendly snack or meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for the wrapper dough"
+    },
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "halal alternative to traditional fish sauce"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup",
+      "notes": "for the wrapper dough"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour and salt. Gradually add in the water and mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "Cover the dough with plastic wrap and let it rest for 30 minutes.",
+    "In a separate bowl, combine the ground pork, sliced mushrooms, soy sauce, fish sauce, sesame oil, salt, and black pepper. Mix well until all the ingredients are fully incorporated.",
+    "Divide the dough into 8-10 equal pieces. Roll out each piece into a thin circle.",
+    "Place 1-2 tablespoons of the pork filling in the center of each dough circle.",
+    "Fold the dough over the filling to form a half-moon shape, and press the edges together to seal the spring roll.",
+    "Heat a large skillet or wok with about 1-2 inches of oil over medium-high heat. When the oil is hot, add a few of the spring rolls to the skillet (do not overcrowd).",
+    "Cook the spring rolls for 3-4 minutes on each side, until they are golden brown and crispy.",
+    "Remove the spring rolls from the oil and drain on paper towels.",
+    "Serve the spring rolls hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese-cuisine",
+    "spring-rolls",
+    "pork",
+    "halal",
+    "asian-food",
+    "midnight-cravings"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "earthy-juicy-vietnamese-pork-spring-rolls",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-juicy-vietnamese-pork-spring-rolls",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:22:35Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "midnight-craving",
+    "technique": "fold",
+    "primaryIngredient": "all purpose flour",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "earthy juicy",
+    "dishForm": "Spring-Rolls"
+  }
+}
