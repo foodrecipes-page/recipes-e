@@ -1,0 +1,108 @@
+{
+  "title": "Earthy Flaky Japanese Eggs Bao",
+  "description": "A savory, flaky Japanese-inspired bao dish packed with the earthy flavors of mushrooms, the richness of free-range eggs, and the crunch of sesame seeds.",
+  "cuisine": "Japanese",
+  "diet": [
+    "halal",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Shiitake mushrooms",
+      "amount": "2 cups, sliced",
+      "notes": "Fresh or dried"
+    },
+    {
+      "name": "Free-range eggs",
+      "amount": "4 large",
+      "notes": "Beaten"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": "Plus extra for dusting"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Divided"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Molasses",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Bao dough (store-bought or homemade)",
+      "amount": "12-16 pieces",
+      "notes": "Dust with flour before use"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a pan over medium heat, sauté the sliced mushrooms until they release their moisture and start browning. Season with 1/2 tsp salt and 1 tsp sugar. Set aside.",
+    "In a separate bowl, whisk together the beaten eggs, rice vinegar, and molasses. Pour into the pan with the mushrooms and cook until the eggs are just set.",
+    "Meanwhile, prepare the bao dough according to package instructions or roll out homemade dough to 1/4 inch thickness.",
+    "Using a round cookie cutter or a glass, cut out circles of dough for the bao buns.",
+    "Brush the tops of the dough circles with vegetable oil and sprinkle with sesame seeds.",
+    "Place a tablespoon of the egg and mushroom mixture onto the center of each dough circle. Fold the dough over to form a bun and press the edges together to seal.",
+    "Using a pastry brush, brush the tops of the buns with egg wash (beaten egg mixed with a splash of water).",
+    "Place the buns on a baking sheet lined with parchment paper, leaving 1 inch of space between each bun.",
+    "Bake in the preheated oven for 12-15 minutes, or until golden brown.",
+    "Let the buns cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "japanese",
+    "bao",
+    "egg",
+    "mushroom",
+    "flaky",
+    "earthy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "earthy-flaky-japanese-eggs-bao",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-flaky-japanese-eggs-bao",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:46:38Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "flaky",
+    "mood": "meal-prep",
+    "technique": "fold",
+    "primaryIngredient": "free-range eggs beaten",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "eggs",
+    "descriptor": "earthy flaky",
+    "dishForm": "Bao"
+  }
+}

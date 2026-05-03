@@ -370,6 +370,22 @@
     "shard": "e"
   },
   {
+    "slug": "earthy-flaky-japanese-eggs-bao",
+    "title": "Earthy Flaky Japanese Eggs Bao",
+    "tags": [
+      "breakfast",
+      "japanese",
+      "bao",
+      "egg",
+      "mushroom",
+      "flaky",
+      "earthy"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 27,
+    "shard": "e"
+  },
+  {
     "slug": "earthy-flour-stir-fry",
     "title": "Earthy Flour Stir-fry",
     "tags": [
