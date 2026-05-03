@@ -160,6 +160,21 @@
     "shard": "e"
   },
   {
+    "slug": "earthy-crisp-turkish-tomato-salad",
+    "title": "Earthy Crisp Turkish Tomato Salad",
+    "tags": [
+      "turkish",
+      "tomato",
+      "low-fat",
+      "quick",
+      "vegetable",
+      "salad"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 10,
+    "shard": "e"
+  },
+  {
     "slug": "earthy-crispy-croatian-chicken-bake",
     "title": "Earthy Crispy Croatian Chicken Bake",
     "tags": [
