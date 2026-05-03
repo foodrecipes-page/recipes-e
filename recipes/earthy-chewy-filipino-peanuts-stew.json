@@ -1,0 +1,118 @@
+{
+  "title": "Earthy Chewy Filipino Peanuts Stew",
+  "description": "A hearty, protein-packed Filipino stew enriched with whole peanuts and earthy vegetables, cooked in a pressure cooker for quick, post-workout nourishment.",
+  "cuisine": "Filipino",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "raw peanuts",
+      "amount": "1 cup",
+      "notes": "unsalted, roughly crushed for chewiness"
+    },
+    {
+      "name": "chicken thighs",
+      "amount": "500g",
+      "notes": "bone-in, skin-on, cut into 2‑cm cubes"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "sliced into 1‑cm rounds"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "1 medium",
+      "notes": "cubed"
+    },
+    {
+      "name": "bamboo shoots",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2‑inch piece",
+      "notes": "sliced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml",
+      "notes": "1/2 can"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "200ml",
+      "notes": "or water"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": "paleo‑friendly"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped, optional garnish"
+    }
+  ],
+  "instructions": [
+    "1. In the pressure cooker, sauté garlic and ginger in a splash of coconut oil until fragrant, about 2 minutes.",
+    "2. Add the chicken cubes and brown on all sides, 3‑4 minutes.",
+    "3. Stir in carrots, sweet potato, bamboo shoots, and peanuts, mixing well.",
+    "4. Pour in coconut milk, chicken broth, and fish sauce. Season with black pepper.",
+    "5. Seal the pressure cooker and cook on high pressure for 10 minutes.",
+    "6. Let the pressure release naturally for 5 minutes, then quick‑release any remaining pressure.",
+    "7. Open the lid, stir, and simmer on low heat for 5 minutes if the sauce is too thin.",
+    "8. Taste and adjust seasoning if needed. Serve hot, garnished with fresh cilantro.",
+    "9. Enjoy your post‑workout, protein‑rich stew!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paleo",
+    "gluten-free",
+    "high-protein",
+    "post-workout",
+    "pressure-cook"
+  ],
+  "nutrition": {
+    "calories": 530,
+    "protein": 26,
+    "carbs": 16,
+    "fat": 42
+  },
+  "slug": "earthy-chewy-filipino-peanuts-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-chewy-filipino-peanuts-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:13:04Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "chewy",
+    "mood": "post-workout",
+    "technique": "pressure-cook",
+    "primaryIngredient": "peanuts",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Peanuts",
+    "descriptor": "Earthy Chewy",
+    "dishForm": "Stew"
+  }
+}
