@@ -1,0 +1,132 @@
+{
+  "title": "Earthy Crisp Slovakian Broccoli Curry",
+  "description": "A hearty, one‑pot Slovakian dish featuring purple sprouting broccoli, smoky paprika bhuna, and a touch of ginger for a crisp, earthy flavor, made diabetic‑friendly with low‑carb and no added sugar.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Purple sprouting broccoli",
+      "amount": "400 g",
+      "notes": "cut into florets"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for bhuna"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Green chili",
+      "amount": "1 small",
+      "notes": "sliced, optional"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Ground turmeric",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Smoky paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Low‑sodium vegetable broth",
+      "amount": "500 ml",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "½ tsp",
+      "notes": null
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "1 tbsp",
+      "notes": "optional, for brightness"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a deep skillet or Dutch oven over medium heat.",
+    "Add the diced onion and sauté until translucent, about 3–4 minutes.",
+    "Stir in the minced garlic, grated ginger, sliced chili, cumin, coriander, turmeric, and smoky paprika; cook for 1–2 minutes until fragrant.",
+    "Add the broccoli florets to the pot, tossing to coat them in the spice mixture.",
+    "Pour in the vegetable broth, bring to a gentle simmer, cover, and cook for 8–10 minutes, or until the broccoli is tender yet still crisp.",
+    "Season with salt and stir in the lime juice if using; adjust seasoning to taste.",
+    "Remove the pot from heat, sprinkle chopped cilantro over the top, and serve hot.",
+    "Serve the curry with a side of cauliflower rice or a small portion of plain rice if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "one-pot",
+    "vegetarian",
+    "diabetic-friendly",
+    "slovakian",
+    "curry",
+    "broccoli",
+    "gluten-free",
+    "low-carb",
+    "crisp"
+  ],
+  "nutrition": {
+    "calories": 460,
+    "protein": 14,
+    "carbs": 42,
+    "fat": 28
+  },
+  "slug": "earthy-crisp-slovakian-broccoli-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-crisp-slovakian-broccoli-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:38:12Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crisp",
+    "mood": "one-pot",
+    "technique": "bhuna",
+    "primaryIngredient": "purple sprouting broccoli",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "broccoli",
+    "descriptor": "Earthy Crisp",
+    "dishForm": "Curry"
+  }
+}
