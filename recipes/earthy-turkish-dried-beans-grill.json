@@ -1,0 +1,86 @@
+{
+  "title": "Earthy Turkish Dried Beans Grill",
+  "description": "A light, hangover-cure dish featuring earthy dried white beans grilled to perfection without eggs, perfect for a quick lunch.",
+  "cuisine": "turkish",
+  "diet": [
+    "egg-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dried white beans",
+      "amount": "1 cup",
+      "notes": "rinsed and soaked overnight"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Soak dried white beans overnight in water.",
+    "Rinse beans thoroughly and drain.",
+    "Heat olive oil in a grill pan over medium-high heat.",
+    "Add garlic and thyme, cook for 1 minute until fragrant.",
+    "Add beans, salt, and pepper. Stir well.",
+    "Grill beans for 20-25 minutes until tender and slightly crispy.",
+    "Serve hot with a side of lemon wedges."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "dried-beans",
+    "grill",
+    "light",
+    "hangover-cure",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 12,
+    "carbs": 38,
+    "fat": 10
+  },
+  "slug": "earthy-turkish-dried-beans-grill",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-turkish-dried-beans-grill",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T07:36:26Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "light",
+    "mood": "hangover-cure",
+    "technique": "grill",
+    "primaryIngredient": "dried white beans",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "beans",
+    "descriptor": "Earthy",
+    "dishForm": "Grill"
+  }
+}
