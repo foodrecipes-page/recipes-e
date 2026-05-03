@@ -1,0 +1,103 @@
+{
+  "title": "Norwegian Lamb Stew",
+  "description": "A hearty and earthy lamb stew featuring juicy chunks of lamb, chopped tomatoes, and root vegetables, perfect for a weeknight dinner. This nut-free-friendly recipe is pressure-cooked to lock in the flavors and textures.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "cut into 1.5-inch chunks"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "chopped tomatoes",
+      "amount": "1 can (14.5 oz)"
+    },
+    {
+      "name": "lamb broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the pressure cooker over medium-high heat.",
+    "Add the lamb chunks and cook until browned on all sides, about 5 minutes. Remove the lamb and set aside.",
+    "Add the chopped onion to the pressure cooker and cook until softened, about 3-4 minutes.",
+    "Add the chopped carrots and potatoes, cook for an additional 2 minutes.",
+    "Add the browned lamb, chopped tomatoes, lamb broth, thyme, salt, and pepper to the pressure cooker. Stir to combine.",
+    "Close the lid and set the valve to 'sealing'. Pressure-cook at high pressure for 20 minutes.",
+    "Let the pressure release naturally for 10 minutes, then quick-release any remaining pressure.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian-cuisine",
+    "lamb-stew",
+    "pressure-cooker-recipe",
+    "weeknight-dinner",
+    "nut-free",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "earthy-juicy-norwegian-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-juicy-norwegian-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T22:19:13Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "weeknight",
+    "technique": "pressure-cook",
+    "primaryIngredient": "chopped tomatoes",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "lamb",
+    "descriptor": "earthy juicy",
+    "dishForm": "Stew"
+  }
+}

@@ -657,6 +657,21 @@
     "shard": "e"
   },
   {
+    "slug": "earthy-juicy-norwegian-lamb-stew",
+    "title": "Norwegian Lamb Stew",
+    "tags": [
+      "norwegian-cuisine",
+      "lamb-stew",
+      "pressure-cooker-recipe",
+      "weeknight-dinner",
+      "nut-free",
+      "gluten-free"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 50,
+    "shard": "e"
+  },
+  {
     "slug": "earthy-juicy-vietnamese-pork-spring-rolls",
     "title": "Earthy Juicy Vietnamese Pork Spring-Rolls",
     "tags": [
