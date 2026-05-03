@@ -1,0 +1,98 @@
+{
+  "title": "Effervescent British Spinach Welsh Rarebit",
+  "description": "A silky, grassy quick-fix Welsh rarebit featuring blanched spinach and a soda water‑light cheese sauce, perfect for a lacto‑vegetarian quick lunch.",
+  "cuisine": "British",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "spinach",
+      "amount": "200 g",
+      "notes": "fresh, washed"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "room temperature"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "for roux"
+    },
+    {
+      "name": "soda water",
+      "amount": "250 ml",
+      "notes": "for a light sauce"
+    },
+    {
+      "name": "milk",
+      "amount": "150 ml",
+      "notes": "whole or 2%"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "200 g",
+      "notes": "grated"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 pinch"
+    }
+  ],
+  "instructions": [
+    "Bring a pot of salted water to a boil and blanch the spinach for 30 seconds, then transfer to ice water to stop cooking.",
+    "Drain spinach and squeeze out excess moisture, then chop coarsely.",
+    "Melt butter in a saucepan over medium heat, add flour and stir constantly for 1 minute to make a roux.",
+    "Gradually whisk in soda water and milk, cooking until the mixture thickens, about 3 minutes.",
+    "Stir in grated cheddar, mustard, paprika, salt, and pepper until cheese melts into a smooth sauce.",
+    "Combine the blanched spinach into the sauce, stirring to coat evenly.",
+    "Spread the spinach mixture onto slices of toasted sourdough or rye bread.",
+    "Broil or grill until the top is golden and bubbly, about 2 minutes.",
+    "Serve immediately with a side of cucumber salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "cheese",
+    "lacto-vegetarian",
+    "quick",
+    "spinach",
+    "veg",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 315,
+    "protein": 16,
+    "carbs": 11,
+    "fat": 22
+  },
+  "slug": "effervescent-british-spinach-welsh-rarebit",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/effervescent-british-spinach-welsh-rarebit",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:47:29Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "blanch",
+    "primaryIngredient": "soda water",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Spinach",
+    "descriptor": "Effervescent",
+    "dishForm": "Welsh Rarebit"
+  }
+}

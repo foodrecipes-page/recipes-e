@@ -941,6 +941,22 @@
     "shard": "e"
   },
   {
+    "slug": "effervescent-british-spinach-welsh-rarebit",
+    "title": "Effervescent British Spinach Welsh Rarebit",
+    "tags": [
+      "british",
+      "cheese",
+      "lacto-vegetarian",
+      "quick",
+      "spinach",
+      "veg",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 20,
+    "shard": "e"
+  },
+  {
     "slug": "effortless-creamy-russian-pork-skillet",
     "title": "Effortless Creamy Russian Pork Skillet",
     "tags": [
