@@ -1,0 +1,88 @@
+{
+  "title": "Earthy Tunisian Onions Dumplings",
+  "description": "Dense, earthy dumplings made with red onions and a simple Tunisian spice blend, perfect for weeknights. Kosher-friendly with no meat.",
+  "cuisine": "tunisian",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "150g",
+      "notes": "for dough"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2 tsp",
+      "notes": "Tunisian spice blend"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Slice red onion thinly and set aside.",
+    "In a bowl, mix flour, salt, cumin, and garlic until combined.",
+    "Add onion and olive oil to the flour mixture, knead into a firm dough.",
+    "Roll dough into small balls, then flatten slightly for cooking.",
+    "Heat oil in a pan over medium heat, add dumplings, and fry until golden brown.",
+    "Serve hot with a side of Tunisian-style yogurt or salad."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tunisian",
+    "dumplings",
+    "vegetarian",
+    "kosher",
+    "earth",
+    "onion",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "earthy-tunisian-onions-dumplings",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-tunisian-onions-dumplings",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T03:28:36Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "dense",
+    "mood": "weeknight",
+    "technique": "dum",
+    "primaryIngredient": "red onions",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "onions",
+    "descriptor": "Earthy",
+    "dishForm": "Dumplings"
+  }
+}
