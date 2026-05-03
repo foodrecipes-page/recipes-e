@@ -1,0 +1,98 @@
+{
+  "title": "Elegant Crisp Brazilian Pepper Salad",
+  "description": "A garlicky, crisp salad that showcases roasted bell peppers and a garlic-infused oil, perfect for a Brazilian-inspired, diabetic-friendly meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-carb",
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red bell pepper, roasted and diced",
+      "amount": "2 large"
+    },
+    {
+      "name": "Extra-virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh cilantro, finely chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Avocado, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "pinch",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Slice the bell peppers into strips, toss them with 1 tablespoon of olive oil, a pinch of salt, and a pinch of black pepper, then spread them on a baking sheet.",
+    "Roast the peppers for 15 minutes until the skins blister and the pepper flesh becomes tender.",
+    "While the peppers roast, mince the garlic and mix it with the remaining tablespoon of olive oil to create a garlic-infused oil.",
+    "When the peppers are done, transfer them to a bowl and let them cool slightly, then cut them into bite-size cubes.",
+    "Add the diced avocado, chopped cilantro, and lime juice to the bowl of roasted peppers.",
+    "Drizzle the garlic-infused oil over the salad, season with a pinch of cayenne pepper if desired, then toss gently to combine.",
+    "Serve immediately, or chill in the refrigerator for 10 minutes to let the flavors meld.",
+    "Enjoy a crisp, garlicky Brazilian pepper salad that is both low-carb and diabetic-friendly."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "crisp",
+    "diabetic-friendly",
+    "gluten-free",
+    "low-carb",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 5,
+    "carbs": 24,
+    "fat": 50
+  },
+  "slug": "elegant-crisp-brazilian-pepper-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/elegant-crisp-brazilian-pepper-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:19:32Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "infuse-oil",
+    "primaryIngredient": "roasted pepper",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Pepper",
+    "descriptor": "Elegant Crisp",
+    "dishForm": "Salad"
+  }
+}
