@@ -1,0 +1,117 @@
+{
+  "title": "Earthy Velvety Uruguayan Macaroni Bake",
+  "description": "A rich and comforting Uruguayan-inspired macaroni bake, made with a variety of earthy vegetables and a creamy bechamel sauce, perfect for a hangover cure or a cozy night in.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "macaroni",
+      "amount": "8 oz"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "bechamel sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat pressure cooker to high pressure.",
+    "Sauté the chopped onion, grated carrots, and chopped celery in olive oil until softened.",
+    "Add the sliced mushrooms and cook until they release their moisture and start to brown.",
+    "Add the macaroni, bechamel sauce, grated cheddar cheese, and grated Parmesan cheese to the pressure cooker.",
+    "Season with salt and black pepper to taste.",
+    "Close the pressure cooker lid and cook at high pressure for 10 minutes.",
+    "Let the pressure release naturally for 5 minutes, then quick-release any remaining pressure.",
+    "Stir the macaroni bake and adjust seasoning if needed.",
+    "Transfer the macaroni bake to a baking dish and top with additional grated cheese if desired.",
+    "Bake in a preheated oven at 375°F (190°C) for 15-20 minutes, or until the top is golden brown and the macaroni is heated through.",
+    "Garnish with chopped fresh parsley if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "macaroni-bake",
+    "bechamel-sauce",
+    "cheesy",
+    "comfort-food",
+    "hangover-cure"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 50,
+    "fat": 20
+  },
+  "slug": "earthy-velvety-uruguayan-macaroni-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-velvety-uruguayan-macaroni-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T18:08:55Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "pressure-cook",
+    "primaryIngredient": "macaroni",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "macaroni",
+    "descriptor": "earthy velvety",
+    "dishForm": "Bake"
+  }
+}
