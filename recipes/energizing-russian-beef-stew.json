@@ -1,0 +1,120 @@
+{
+  "title": "Energizing Russian Beef Stew",
+  "description": "A tangy, tender post-workout Russian dish featuring lemons, pickle, and a dash-friendly profile.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef sirloin",
+      "amount": "600g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Celery stalk",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic clove",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "480ml"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "30g",
+      "notes": "2 tbsp"
+    },
+    {
+      "name": "Pickled cucumber",
+      "amount": "100g",
+      "notes": "diced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "30ml",
+      "notes": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "30ml",
+      "notes": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add diced beef and brown on all sides, about 5 minutes.",
+    "Remove beef and set aside.",
+    "In the same pot, sauté onions, carrots, celery, and garlic until softened, about 7 minutes.",
+    "Stir in tomato paste and cook for 2 minutes to caramelize.",
+    "Return beef to pot, pour in beef broth, add lemon juice, pickled cucumber, and salt.",
+    "Bring to a boil, then reduce heat, cover, and simmer for 45 minutes until beef is tender.",
+    "Stir in chopped dill, season to taste with salt if needed.",
+    "Ladle stew into bowls, garnish with a drizzle of lemon juice if desired.",
+    "Serve hot with crusty bread or over boiled potatoes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "lemon-dill",
+    "low-carb",
+    "one-pot",
+    "post-workout",
+    "savory",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "energizing-russian-beef-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-russian-beef-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:58:49Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "tender",
+    "mood": "post-workout",
+    "technique": "pickle",
+    "primaryIngredient": "lemons",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "Energizing",
+    "dishForm": "Stew"
+  }
+}
