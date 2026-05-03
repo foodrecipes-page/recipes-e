@@ -1,0 +1,95 @@
+{
+  "title": "Earthy Flaky Tunisian Date Flatbread",
+  "description": "A traditional Tunisian flatbread filled with dates and spices, perfect for a night in with loved ones. This recipe features ground sugar and is nut-free-friendly.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "nut-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "ground sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dates",
+      "amount": "1 cup",
+      "notes": "pitted and chopped"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, ground sugar, and salt.",
+    "Add the yeast and mix until well combined.",
+    "Gradually add the warm water and olive oil, kneading the dough for 10 minutes.",
+    "Place the dough in a greased bowl, cover, and let rise in a warm place for 1 hour.",
+    "Preheat the oven to 400°F (200°C).",
+    "Punch down the dough and roll out into a large rectangle.",
+    "Spread the chopped dates evenly over the dough, leaving a 1-inch border around the edges.",
+    "Fold the edges over the dates to form a crust.",
+    "Brush the crust with olive oil and sprinkle with sesame seeds if desired.",
+    "Bake for 25-30 minutes or until the crust is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "tunisian-cuisine",
+    "date-night",
+    "flatbread",
+    "vegetarian",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "earthy-flaky-tunisian-date-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-flaky-tunisian-date-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T21:34:18Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "knead",
+    "primaryIngredient": "ground sugar",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "dates",
+    "descriptor": "earthy flaky",
+    "dishForm": "Flatbread"
+  }
+}
