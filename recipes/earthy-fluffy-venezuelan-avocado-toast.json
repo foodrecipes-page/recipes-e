@@ -1,0 +1,95 @@
+{
+  "title": "Earthy Fluffy Venezuelan Avocado Toast",
+  "description": "A post-workout Venezuelan dish featuring steam-cooked sweet plantains, fluffy scrambled eggs, and mashed avocado on whole grain toast, perfect for a low-sodium diet. This recipe combines earthy flavors with a fluffy texture, making it a great option for a healthy snack or breakfast.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ripe avocados",
+      "amount": "2",
+      "notes": "mashed"
+    },
+    {
+      "name": "sweet plantains",
+      "amount": "2",
+      "notes": "steam-cooked"
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "scrambled"
+    },
+    {
+      "name": "whole grain bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Steam the sweet plantains for 15-20 minutes, or until tender.",
+    "Mash the ripe avocados in a bowl and set aside.",
+    "Scramble the eggs in a separate bowl and season with salt-free seasoning blend and black pepper.",
+    "Toast the whole grain bread for 2-3 minutes, or until lightly browned.",
+    "Spread the mashed avocado on the toasted bread.",
+    "Top the avocado with scrambled eggs, steam-cooked sweet plantains, and chopped fresh cilantro.",
+    "Drizzle the lime juice over the top.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "avocado",
+    "venezuelan",
+    "post-workout",
+    "low-sodium",
+    "gluten-free",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "earthy-fluffy-venezuelan-avocado-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-fluffy-venezuelan-avocado-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T20:30:04Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "steam",
+    "primaryIngredient": "toast",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "avocado",
+    "descriptor": "earthy fluffy",
+    "dishForm": "Toast"
+  }
+}
