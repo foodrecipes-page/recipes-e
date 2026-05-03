@@ -1,0 +1,92 @@
+{
+  "title": "Earthy Hearty Malaysian Wild Garlic Curry",
+  "description": "A fragrant, low‑calorie Malaysian curry bursting with the fresh, peppery bite of wild garlic leaves, simmered in a light coconut milk sauce.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegan",
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wild garlic leaves",
+      "amount": "200g",
+      "notes": "fresh, tender leaves"
+    },
+    {
+      "name": "Firm tofu",
+      "amount": "200g",
+      "notes": "drained, cubed"
+    },
+    {
+      "name": "Light coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "Low‑sodium vegetable broth",
+      "amount": "150ml"
+    },
+    {
+      "name": "Fresh red chili",
+      "amount": "2 medium, sliced"
+    },
+    {
+      "name": "Shallot",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Fresh coriander leaves",
+      "amount": "30g, chopped"
+    }
+  ],
+  "instructions": [
+    "Wash and roughly chop the wild garlic leaves.",
+    "Press tofu into a paper towel to remove excess moisture, then cut into cubes.",
+    "In a small bowl whisk together coconut milk, vegetable broth, turmeric, cumin, lime juice, salt, and olive oil to make the curry base.",
+    "Heat a large skillet over medium heat and sauté sliced shallots and chilies for 2 minutes until fragrant.",
+    "Add tofu cubes and brown lightly on all sides, about 4–5 minutes.",
+    "Pour the curry base into the pan, bringing to a gentle simmer.",
+    "Add the wild garlic leaves, cover, and cook for 8–10 minutes until the leaves wilt and flavors meld.",
+    "Stir in chopped coriander and adjust seasoning with extra salt or lime if desired.",
+    "Serve hot over steamed jasmine rice or with a fresh cucumber salad.",
+    "Garnish with extra coriander and a lime wedge if desired."
+  ],
+  "slug": "earthy-hearty-malaysian-wild-garlic-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-hearty-malaysian-wild-garlic-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:50:31Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "dense",
+    "mood": "monsoon",
+    "technique": "marinate",
+    "primaryIngredient": "wild garlic leaves",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "wild garlic",
+    "descriptor": "Earthy Hearty",
+    "dishForm": "Curry"
+  }
+}
