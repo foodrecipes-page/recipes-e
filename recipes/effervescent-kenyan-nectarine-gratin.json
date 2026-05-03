@@ -1,0 +1,98 @@
+{
+  "title": "Effervescent Kenyan Nectarine Gratin",
+  "description": "A sweet and fluffy hangover cure featuring nectarines, dashi-extract and a low-fat twist.",
+  "cuisine": "kenyan",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "nectarines",
+      "amount": "4",
+      "notes": "ripe, halved"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "sifted"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "dashi-extract",
+      "amount": "2 teaspoons",
+      "notes": "low sodium"
+    },
+    {
+      "name": "buckwheat honey",
+      "amount": "1 teaspoon",
+      "notes": "raw"
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Arrange the nectarine halves in a shallow baking dish.",
+    "In a medium bowl, whisk together the flour, brown sugar, and dashi-extract.",
+    "Add the buckwheat honey, egg, and softened butter to the bowl.",
+    "Whisk the mixture until it forms a smooth batter.",
+    "Pour the batter over the nectarine halves, making sure they are evenly coated.",
+    "Sprinkle the kosher salt over the top of the batter.",
+    "Bake for 35 minutes, or until the top is golden brown and the fruit is tender.",
+    "Serve warm, topped with whipped cream or vanilla ice cream if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "hangover-cure",
+    "low-fat-vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "effervescent-kenyan-nectarine-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/effervescent-kenyan-nectarine-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:48:19Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "dashi-extract",
+    "primaryIngredient": "nectarines",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "nectarine",
+    "descriptor": "Effervescent",
+    "dishForm": "Gratin"
+  }
+}
