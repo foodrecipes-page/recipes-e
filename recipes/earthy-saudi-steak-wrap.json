@@ -1,0 +1,99 @@
+{
+  "title": "Earthy Saudi Steak Wrap",
+  "description": "A comforting, smoky steak wrapped in flatbread with fresh vegetables and a subtle yogurt sauce, capturing the earthy flavors of Saudi cuisine.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef fillet",
+      "amount": "200g"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "flatbread or pita",
+      "amount": "1 large (45cm)"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 medium, thinly sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 small, diced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/4 cup diced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp chopped"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "pinch"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Marinate the beef fillet with salt, pepper, smoked paprika, and olive oil for 15 minutes.",
+    "Preheat a skillet over medium-high heat and sear the steak 3-4 minutes per side, until desired doneness (internal temperature 57-60°C for medium-rare).",
+    "Let the steak rest for 5 minutes, then slice thinly against the grain.",
+    "Warm the flatbread in a dry skillet or oven for 1-2 minutes.",
+    "Layer the sliced steak, onion, tomato, cucumber, and parsley onto the flatbread.",
+    "Whisk yogurt, garlic, sumac, cumin, and salt together to make the sauce.",
+    "Drizzle the yogurt sauce over the filling.",
+    "Fold the flatbread into a wrap, sealing the edges, and serve immediately."
+  ],
+  "slug": "earthy-saudi-steak-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-saudi-steak-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:59:27Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "fold",
+    "primaryIngredient": "fillet of steak",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Saudi",
+    "mainIngredient": "steak",
+    "descriptor": "Earthy",
+    "dishForm": "Wrap"
+  }
+}
