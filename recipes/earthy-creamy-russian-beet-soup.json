@@ -1,0 +1,114 @@
+{
+  "title": "Earthy Creamy Russian Beet Soup",
+  "description": "A velvety beet soup with a surprising dulche de leche swirl, perfect for a cozy date night. The creamy coconut milk and fresh dill balance the earthiness, while being FODMAP-friendly.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beets",
+      "amount": "2 medium (about 400g), roasted, peeled, chopped"
+    },
+    {
+      "name": "Low FODMAP vegetable broth",
+      "amount": "1 cup (240ml)",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup (240ml)",
+      "notes": "full-fat for creaminess"
+    },
+    {
+      "name": "Dulce de leche",
+      "amount": "2 tbsp (30g)",
+      "notes": "adds a subtle sweet note"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "2 tbsp, chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp (15ml)"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp (15ml)"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Low FODMAP sour cream or Greek yogurt",
+      "amount": "2 tbsp (30g)"
+    },
+    {
+      "name": "Scallion greens",
+      "amount": "1 tbsp, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Place beets on a baking sheet, drizzle with olive oil, salt, and pepper. Roast for 35-40 minutes or until tender, then cool, peel, and chop into cubes.",
+    "In a medium saucepan, heat the vegetable broth over medium heat.",
+    "Add the chopped beets to the broth and simmer for 5 minutes to allow flavors to meld.",
+    "Remove from heat and use an immersion blender to puree the beet mixture until smooth.",
+    "Return the pot to low heat, stir in coconut milk, dulce de leche, fresh dill, lemon juice, smoked paprika, and additional salt and pepper to taste.",
+    "Simmer gently for 8-10 minutes, ensuring the soup stays warm but not boiling.",
+    "Before serving, swirl in the low FODMAP sour cream or Greek yogurt for extra creaminess.",
+    "Transfer soup to bowls and garnish with chopped scallion greens.",
+    "Serve hot with a side of crusty bread or a simple salad for a complete dinner."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "earthy",
+    "creamy",
+    "date-night",
+    "russian",
+    "beet",
+    "dulce-de-leche",
+    "fodmap-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 235,
+    "protein": 3,
+    "carbs": 15,
+    "fat": 18
+  },
+  "slug": "earthy-creamy-russian-beet-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-creamy-russian-beet-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:15:19Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "fold",
+    "primaryIngredient": "dulce de leche",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Beet",
+    "descriptor": "Earthy Creamy",
+    "dishForm": "Soup"
+  }
+}
