@@ -1,0 +1,91 @@
+{
+  "title": "Earthy Uruguayan Beef Stew",
+  "description": "A hearty, low-carb Uruguayan stew thickened with tomato paste and smoky spices, perfect for meal prep. The beef is slow‑cooked until tender, creating a dense, earthy flavor that warms the soul.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "keto-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef chuck",
+      "amount": "1.5 lb (680 g)",
+      "notes": "cut into 1.5‑inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium (about 150 g)",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "low‑sodium beef broth",
+      "amount": "4 cups (950 ml)"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium‑high heat until shimmering.",
+    "Add the beef cubes and brown on all sides, about 5–7 minutes. Remove the beef and set aside.",
+    "In the same pot, add the diced onion and cook until translucent, about 4 minutes. Stir in the minced garlic and cook for 30 seconds.",
+    "Return the beef to the pot. Add tomato paste, smoked paprika, chili powder, cumin, bay leaves, thyme, and stir to coat the meat evenly.",
+    "Pour in the beef broth, ensuring the beef is mostly covered. Bring to a gentle boil, then reduce heat to low and cover.",
+    "Simmer for 90 minutes, stirring occasionally, until the beef is fork‑tender and the stew has thickened.",
+    "Season with salt and pepper to taste. Remove the bay leaves before serving.",
+    "If desired, garnish with fresh parsley or a squeeze of lemon for brightness.",
+    "Serve hot, or let cool and portion into meal‑prep containers for up to 4 days in the fridge."
+  ],
+  "slug": "earthy-uruguayan-beef-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-uruguayan-beef-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:09:52Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "simmer",
+    "primaryIngredient": "chili powder",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "Earthy",
+    "dishForm": "Stew"
+  }
+}
