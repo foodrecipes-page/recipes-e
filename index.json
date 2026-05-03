@@ -1524,5 +1524,21 @@
     "cuisine": "Spanish",
     "totalTimeMin": 35,
     "shard": "e"
+  },
+  {
+    "slug": "extraordinary-venezuelan-duck-tagine",
+    "title": "extraordinary venezuelan duck tagine",
+    "tags": [
+      "comfort-food",
+      "duck-legs",
+      "high-protein",
+      "one-pan",
+      "slow-cooker",
+      "venezuelan-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "venezuelan",
+    "totalTimeMin": 140,
+    "shard": "e"
   }
 ]
