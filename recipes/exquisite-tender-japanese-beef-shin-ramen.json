@@ -1,0 +1,119 @@
+{
+  "title": "Exquisite Tender Japanese Beef Shin Ramen",
+  "description": "A delicate and light Japanese dish featuring tender beef shin, served in a rich and savory broth.",
+  "cuisine": "Japanese",
+  "diet": [
+    "kosher",
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Shin (500g)",
+      "amount": "1 piece",
+      "notes": "Look for a piece with a good balance of meat and bone."
+    },
+    {
+      "name": "Kombu (dried kelp)",
+      "amount": "1 piece",
+      "notes": "This will be used to make the dashi broth."
+    },
+    {
+      "name": "Katsuobushi (dried bonito flakes)",
+      "amount": "2 tablespoons",
+      "notes": "Also used to make the dashi broth."
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality, low-sodium soy sauce."
+    },
+    {
+      "name": "Mirin (sweet Japanese cooking wine)",
+      "amount": "2 tablespoons",
+      "notes": "This will add a sweet and savory flavor to the broth."
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 teaspoon",
+      "notes": "Used for cooking the beef shin."
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1 bunch",
+      "notes": "Used for garnish."
+    },
+    {
+      "name": "Bamboo Shoots",
+      "amount": "1 can (drained and sliced)",
+      "notes": "Used for added texture and flavor."
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": "Used for garnish."
+    },
+    {
+      "name": "Pork or Chicken Bones",
+      "amount": "2 pieces",
+      "notes": "Used to make the dashi broth."
+    },
+    {
+      "name": "Sesame-Ginger Sauce (store-bought or homemade)",
+      "amount": "2 tablespoons",
+      "notes": "Used for added flavor on top of the noodles."
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide machine to 130°F (54°C).",
+    "Season the beef shin with salt and pepper, then seal it in a sous-vide bag with 1 tablespoon of sesame oil.",
+    "Cook the beef shin in the sous-vide machine for 24 hours.",
+    "While the beef is cooking, make the dashi broth by simmering the kombu and pork or chicken bones in water for 30 minutes.",
+    "Strain the dashi broth through a fine-mesh sieve into a clean pot, discarding the solids.",
+    "Add the katsuobushi and mirin to the dashi broth and simmer for an additional 10 minutes.",
+    "Cook the ramen noodles according to the package instructions, then drain and set aside.",
+    "Thinly slice the beef shin against the grain.",
+    "Assemble the ramen by placing noodles in a bowl, then topping with sliced beef, bamboo shoots, and green onions.",
+    "Drizzle the sesame-ginger sauce over the top of the noodles.",
+    "Sprinkle sesame seeds over the top of the dish and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 28,
+  "totalTimeMin": 58,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "delicate",
+    "japanese",
+    "light",
+    "one-pan",
+    "ramen",
+    "sous-vide",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "exquisite-tender-japanese-beef-shin-ramen",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/exquisite-tender-japanese-beef-shin-ramen",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:02:13Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "light",
+    "technique": "sous-vide",
+    "primaryIngredient": "beef shin",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "beef shin",
+    "descriptor": "exquisite tender",
+    "dishForm": "Ramen"
+  }
+}
