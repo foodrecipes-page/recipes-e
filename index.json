@@ -81,6 +81,20 @@
     "shard": "e"
   },
   {
+    "slug": "earthly-dense-british-sausages-fish-and-chips",
+    "title": "Earthly Dense British Sausages Fish And Chips",
+    "tags": [
+      "comfort-food",
+      "jain-friendly",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 70,
+    "shard": "e"
+  },
+  {
     "slug": "earthly-rice-vermicelli",
     "title": "Earthly Rice Vermicelli",
     "tags": [

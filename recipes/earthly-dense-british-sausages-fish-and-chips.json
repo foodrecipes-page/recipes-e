@@ -1,0 +1,99 @@
+{
+  "title": "Earthly Dense British Sausages Fish And Chips",
+  "description": "A funky, dense, cozy British dish featuring sausages, leaf-wrap-steam, and a twist on traditional fish and chips, all prepared in a tajine clay vessel.",
+  "cuisine": "British",
+  "diet": [
+    "jain-friendly",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu sausages",
+      "amount": "4",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "leaf wraps",
+      "amount": "4",
+      "notes": "collard green or cabbage leaves"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cut into chips"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "tajine clay",
+      "amount": "1",
+      "notes": "for cooking vessel"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Prepare the tofu sausages according to the recipe or package instructions.",
+    "Wrap each sausage in a leaf wrap and steam for 10 minutes.",
+    "Prepare the potatoes for frying by soaking them in cold water for 30 minutes.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Fry the potatoes in batches until golden brown, then drain on paper towels.",
+    "Season the fried potatoes with salt and pepper to taste.",
+    "Assemble the dish by placing a sausage in each tajine clay vessel, topping with fried potatoes and serving with a lemon wedge.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "jain-friendly",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "earthly-dense-british-sausages-fish-and-chips",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthly-dense-british-sausages-fish-and-chips",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:06:22Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "dense",
+    "mood": "cozy",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "sausages",
+    "diet": "jain",
+    "region": "yorkshire",
+    "cuisineAdjective": "British",
+    "mainIngredient": "sausages",
+    "descriptor": "Earthy Dense",
+    "dishForm": "Fish And Chips"
+  }
+}
