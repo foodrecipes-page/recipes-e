@@ -1,0 +1,97 @@
+{
+  "title": "Earthy Brazilian Almond Milk Tart",
+  "description": "A crowd-pleasing Brazilian dessert featuring flaky pastry, earthy flavors, and almond milk.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "tadka spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "flaky pastry dough",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "egg replacer",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the flaky pastry dough and place it in a tart pan.",
+    "In a separate bowl, whisk together the almond milk, coconut oil, tadka spice blend, and vanilla extract.",
+    "Pour the milk mixture into the pastry-lined tart pan.",
+    "Drizzle with maple syrup and sprinkle with cinnamon and nutmeg.",
+    "Bake for 25 minutes or until the pastry is golden brown.",
+    "Let cool completely before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-fiber",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "earthy-brazilian-almond-milk-tart",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-brazilian-almond-milk-tart",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:31:20Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "flaky",
+    "mood": "crowd-pleaser",
+    "technique": "tadka",
+    "primaryIngredient": "almond milk",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "almond milk",
+    "descriptor": "earthy",
+    "dishForm": "Tart"
+  }
+}
