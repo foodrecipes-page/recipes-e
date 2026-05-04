@@ -1712,6 +1712,22 @@
     "shard": "e"
   },
   {
+    "slug": "enriched-peruvian-ham-casserole",
+    "title": "Enriched Peruvian Ham Casserole",
+    "tags": [
+      "casserole",
+      "cheese-pull",
+      "cozy",
+      "low-carb",
+      "one-pan",
+      "peruvian",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 60,
+    "shard": "e"
+  },
+  {
     "slug": "eruptive-vietnamese-chicken-pho",
     "title": "Eruptive Vietnamese Chicken Pho",
     "tags": [

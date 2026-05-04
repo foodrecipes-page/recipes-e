@@ -1,0 +1,103 @@
+{
+  "title": "Enriched Peruvian Ham Casserole",
+  "description": "A creamy, cheese-pull Peruvian casserole starring ham and roasted chicken, low-carb friendly and cozy for a family dinner.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ham slices",
+      "amount": "200g"
+    },
+    {
+      "name": "roasted chicken breast, sliced",
+      "amount": "300g"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "200g"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "150ml"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "roasted vegetables (zucchini, bell pepper)",
+      "amount": "200g"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Sauté onion and garlic in olive oil until translucent.",
+    "Add ham and chicken, cooking until browned slightly.",
+    "Remove from heat and stir in heavy cream and eggs to create a custard base.",
+    "Fold in shredded cheese and roasted vegetables, season with salt and pepper.",
+    "Transfer mixture to a baking dish and bake for 30 minutes until bubbly and golden.",
+    "Let the casserole rest for 5 minutes before serving.",
+    "Serve hot with a side of sautéed greens or a light salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "cheese-pull",
+    "cozy",
+    "low-carb",
+    "one-pan",
+    "peruvian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 31,
+    "carbs": 3,
+    "fat": 29
+  },
+  "slug": "enriched-peruvian-ham-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/enriched-peruvian-ham-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:28:54Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "cheese-pull",
+    "mood": "cozy",
+    "technique": "roast",
+    "primaryIngredient": "ham",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Ham",
+    "descriptor": "Enriched",
+    "dishForm": "Casserole"
+  }
+}
