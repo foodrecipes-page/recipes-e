@@ -603,6 +603,20 @@
     "shard": "e"
   },
   {
+    "slug": "earthy-dutch-pea-eggplant-bowl",
+    "title": "Earthy Dutch Pea-Eggplant Bowl",
+    "tags": [
+      "dutch",
+      "keto-friendly",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 50,
+    "shard": "e"
+  },
+  {
     "slug": "earthy-eggless-thai-curry-khao-soi",
     "title": "Earthy Eggless Thai Curry Khao Soi",
     "tags": [
@@ -3317,6 +3331,21 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 80,
+    "shard": "e"
+  },
+  {
+    "slug": "exotic-xanthan-infused-turkish-mushroom-menemen",
+    "title": "exotic xanthan-infused Turkish mushroom Menemen",
+    "tags": [
+      "date-night",
+      "high-protein",
+      "mushroom",
+      "one-pan",
+      "turkish",
+      "vegan-friendly"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 45,
     "shard": "e"
   },
   {

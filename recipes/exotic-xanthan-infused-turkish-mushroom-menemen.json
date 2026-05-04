@@ -1,0 +1,106 @@
+{
+  "title": "exotic xanthan-infused Turkish mushroom Menemen",
+  "description": "pungent, chewy Turkish dish featuring mushrooms, perfect for a date night. This recipe is inspired by traditional Turkish cuisine and adapted to include xanthan-infused mushrooms for added depth.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "xanthan gum",
+      "amount": "1 tsp"
+    }
+  ],
+  "eggs, beaten (2-3)": [
+    "amount",
+    "1/4 cup",
+    "notes"
+  ],
+  "lotus leaves (4-6)": [
+    "amount",
+    "4-6",
+    "notes"
+  ],
+  "olive oil (1/4 cup)": [
+    "amount",
+    "1/4 cup",
+    "notes"
+  ],
+  "onion, finely chopped (1)": [
+    "amount",
+    "1",
+    "notes"
+  ],
+  "garlic, minced (2 cloves)": [
+    "amount",
+    "2",
+    "notes"
+  ],
+  "red pepper flakes (1/4 tsp)": [
+    "amount",
+    "1/4 tsp",
+    "notes"
+  ],
+  "salt (1/2 tsp)": [
+    "amount",
+    "1/2 tsp",
+    "notes"
+  ],
+  "black pepper (1/4 tsp)": [
+    "amount",
+    "1/4 tsp",
+    "notes"
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat. ",
+    "Add onion and cook until softened, about 5 minutes. ",
+    "Add garlic and cook for an additional 1-2 minutes, until fragrant. ",
+    "Add sliced mushrooms and cook until they release their liquid and start to brown, about 5-7 minutes. ",
+    "Stir in xanthan gum, red pepper flakes, salt, and black pepper. ",
+    "Create a small well in the center of the mushroom mixture and pour in beaten eggs. ",
+    "Cook until eggs are set, about 2-3 minutes. ",
+    "Meanwhile, prepare lotus leaves according to package instructions. ",
+    "Spoon mushroom and egg mixture onto center of each leaf, leaving a 1-inch border around the edges. ",
+    "Fold leaves over filling to form a neat package. ",
+    "Serve immediately, garnished with additional xanthan-infused mushrooms if desired. ",
+    "To make xanthan-infused mushrooms, slice mushrooms and marinate in a mixture of 1 tsp xanthan gum, 1/4 cup olive oil, and 1/4 cup lemon juice for at least 30 minutes. ",
+    "Preheat oven to 375°F (190°C). ",
+    "Bake xanthan-infused mushrooms for 10-15 minutes, or until tender. "
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "high-protein",
+    "mushroom",
+    "one-pan",
+    "turkish",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "exotic-xanthan-infused-turkish-mushroom-menemen",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-xanthan-infused-turkish-mushroom-menemen",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:49:22Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "mushroom",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "mushroom",
+    "descriptor": "exotic xanthan-infused",
+    "dishForm": "Menemen"
+  }
+}
