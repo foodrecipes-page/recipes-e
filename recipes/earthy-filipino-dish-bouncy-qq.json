@@ -1,0 +1,62 @@
+{
+  "title": "bouncy-qq",
+  "description": "a crowd-pleasing filipino dish that is both earthy and bouncy-qq, featuring the zest of lime and the warmth of infuse-oil, all while being ayurvedic-rajasic-friendly",
+  "cuisine": "filipino",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "taro leaves",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    }
+  ],
+  "instructions": [
+    "in a large pan, heat 2 tablespoons of infuse-oil over medium heat.",
+    "add the minced garlic and sauté for 1 minute until fragrant.",
+    "add the chopped onion and sauté for another 2 minutes until softened.",
+    "add the grated ginger and sauté for 1 minute until aromatic.",
+    "add the fish sauce, lime juice, coconut milk, cumin, and black pepper, and stir to combine.",
+    "add the taro leaves and gently stir to coat with the sauce.",
+    "reduce the heat to low and simmer for 10 minutes, stirring occasionally.",
+    "serve hot and garnished with fresh cilantro, if desired.",
+    "adjust seasoning to taste.",
+    "serve immediately"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "gluten-free",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 30
+  },
+  "slug": "earthy-filipino-dish-bouncy-qq",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-filipino-dish-bouncy-qq",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:23:50Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "bouncy-qq",
+    "mood": "crowd-pleaser",
+    "technique": "infuse-oil",
+    "primaryIngredient": "lime juice",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "filipino",
+    "mainIngredient": "dish",
+    "descriptor": "earthy",
+    "dishForm": "bouncy-qq"
+  }
+}

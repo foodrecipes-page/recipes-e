@@ -589,6 +589,20 @@
     "shard": "e"
   },
   {
+    "slug": "earthy-filipino-dish-bouncy-qq",
+    "title": "bouncy-qq",
+    "tags": [
+      "filipino",
+      "gluten-free",
+      "one-pan",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "filipino",
+    "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
     "slug": "earthy-flaky-bulgur-wheat-crumble",
     "title": "Earthy Flaky Bulgur Wheat Crumble",
     "tags": [
