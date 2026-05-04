@@ -1,0 +1,99 @@
+{
+  "title": "Ethereal Silky Ethiopian Rice Gored Gored",
+  "description": "A cultured, silky, lazy-sunday Ethiopian dish that blends fragrant jasmine rice with a warm berbere-infused temper, perfect for a quick bento-box lunch.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "ayurvedic-tamasic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "jasmine rice",
+      "amount": "1 cup dry",
+      "notes": "rinsed before cooking"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ghee",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "minced ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse jasmine rice under cold water until clear.",
+    "In a pot combine rinsed rice, water, and a pinch of salt; bring to a boil, then reduce heat, cover, and simmer until rice is tender, about 15 minutes.",
+    "Heat ghee in a small skillet over medium heat until fragrant.",
+    "Add minced garlic, ginger, and diced onion to the skillet, sautéing until the onion softens, about 3 minutes.",
+    "Stir in berbere spice and cook for another minute, letting the spices bloom.",
+    "Remove skillet from heat and fold in the cooked rice, mixing gently until the rice is evenly coated with the spice mixture.",
+    "Sprinkle chopped cilantro and a splash of lemon juice over the rice, tossing lightly to combine.",
+    "Divide the silky rice into bento boxes, serve warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "bento-box",
+    "easy",
+    "ethiopian",
+    "lazy-sunday",
+    "one-pot",
+    "silky"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 4,
+    "carbs": 55,
+    "fat": 11
+  },
+  "slug": "ethereal-silky-ethiopian-rice-gored-gored",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/ethereal-silky-ethiopian-rice-gored-gored",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:59:50Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "temper",
+    "primaryIngredient": "jasmine rice",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Rice",
+    "descriptor": "Ethereal Silky",
+    "dishForm": "Gored Gored"
+  }
+}
