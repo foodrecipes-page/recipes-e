@@ -1,0 +1,99 @@
+{
+  "title": "Energizing Sour Croatian Peas Bake",
+  "description": "A quick, pillowy baked dish of frozen peas with tangy yogurt, smoky paprika, and melted cheese, perfect for a halal-friendly meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "frozen peas",
+      "amount": "400g"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "200g",
+      "notes": "plain, low-fat"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "100g"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "In a large bowl, combine the frozen peas, plain yogurt, shredded cheese, diced onion, and minced garlic.",
+    "Stir in paprika, dried oregano, olive oil, salt, and pepper until evenly mixed.",
+    "Transfer the mixture to a greased baking dish and spread it out in an even layer.",
+    "Place the dish in the preheated oven and bake for 15 minutes, or until the top is lightly browned.",
+    "Remove the bake from the oven and let it sit for 5 minutes to set.",
+    "Serve the dish hot, optionally garnished with fresh parsley or a drizzle of olive oil.",
+    "Enjoy a quick, hearty meal that satisfies with a tangy, creamy finish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "halal",
+    "high-protein",
+    "one-pan",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 13,
+    "carbs": 23,
+    "fat": 13
+  },
+  "slug": "energizing-sour-croatian-peas-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-sour-croatian-peas-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:08:24Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "pillowy",
+    "mood": "quick-fix",
+    "technique": "bake",
+    "primaryIngredient": "frozen peas",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "peas",
+    "descriptor": "Energizing Sour",
+    "dishForm": "Bake"
+  }
+}
