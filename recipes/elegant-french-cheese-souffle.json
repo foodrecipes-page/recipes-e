@@ -1,0 +1,112 @@
+{
+  "title": "Elegant French Cheese Souffle",
+  "description": "A light, fluffy French cheese souffle with umami depth, a subtle hint of chili, finished with a sweet and tangy honey lemon glaze.",
+  "cuisine": "French",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gruyère cheese",
+      "amount": "200g",
+      "notes": "grated"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4",
+      "notes": "separated"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "30g",
+      "notes": "for roux"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "30g",
+      "notes": "for roux"
+    },
+    {
+      "name": "Whole milk",
+      "amount": "250ml"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chopped chives",
+      "amount": "2 tbsp",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 190°C (375°F) and butter four 200ml ramekins, sprinkling each with a pinch of flour to prevent sticking.",
+    "In a saucepan, melt 30g butter over medium heat, add flour, and whisk for 1 minute to form a roux, then gradually whisk in milk until smooth; stir in grated cheese, chili powder, salt, pepper, and lemon zest until melted and silky.",
+    "Remove the cheese sauce from heat and let it cool slightly, then whisk in egg yolks one by one, mixing until fully incorporated.",
+    "In a separate bowl, beat egg whites with a pinch of salt until soft peaks form, then gradually add 1 tsp sugar (optional) and continue until stiff peaks appear.",
+    "Gently fold the beaten whites into the cheese mixture, preserving as much aeration as possible, then spoon into the prepared ramekins, filling each about 3/4 full.",
+    "Place the ramekins on a baking sheet and bake for 18 minutes, or until the souffles puff up and the tops are golden brown.",
+    "While baking, prepare the glaze by whisking together honey, lemon juice, and a tablespoon of melted butter until glossy.",
+    "Remove the souffles from the oven, drizzle the glaze over each, and serve immediately to maintain fluffiness.",
+    "Garnish with chopped chives if desired, and enjoy the umami, light, and slightly spicy elegance of the dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 18,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-souffle",
+    "fluffy",
+    "french",
+    "glazed",
+    "lacto-vegetarian",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 19,
+    "carbs": 28,
+    "fat": 26
+  },
+  "slug": "elegant-french-cheese-souffle",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/elegant-french-cheese-souffle",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:16:23Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "fluffy",
+    "mood": "light",
+    "technique": "glaze",
+    "primaryIngredient": "chilli powder",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Cheese",
+    "descriptor": "Elegant",
+    "dishForm": "Souffle"
+  }
+}

@@ -1277,6 +1277,21 @@
     "shard": "e"
   },
   {
+    "slug": "elegant-french-cheese-souffle",
+    "title": "Elegant French Cheese Souffle",
+    "tags": [
+      "cheese-souffle",
+      "fluffy",
+      "french",
+      "glazed",
+      "lacto-vegetarian",
+      "umami"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 28,
+    "shard": "e"
+  },
+  {
     "slug": "elegant-kanto-courgette-onigiri",
     "title": "Elegant Kanto Courgette Onigiri",
     "tags": [
