@@ -1,0 +1,94 @@
+{
+  "title": "Ebullient Moroccan Sweet Potato Sellou",
+  "description": "A pillowy, sweet and salty Moroccan sweet potato dessert that is creamy, nutty, and perfect for gatherings.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "eggfree",
+    "glutenfree"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Sweet potatoes",
+      "amount": "500g",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Ground almonds",
+      "amount": "150g",
+      "notes": "finely ground"
+    },
+    {
+      "name": "Honey",
+      "amount": "60g"
+    },
+    {
+      "name": "Oat flour",
+      "amount": "50g"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "30g"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground ginger",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180C.",
+    "Spread diced sweet potatoes on a baking sheet and roast for 25 minutes until tender.",
+    "Remove from oven and let cool slightly, then transfer to a food processor.",
+    "Pulse until smooth, adding ground almonds, oat flour, honey, coconut oil, cinnamon, ginger, and sea salt.",
+    "Pour mixture into a greased baking dish and smooth the top.",
+    "Bake at 180C for 25 minutes until set and golden.",
+    "Let cool for 5 minutes, then cut into squares.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 50,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "dessert",
+    "eggfree",
+    "moroccan",
+    "pillowy",
+    "sweet-potato"
+  ],
+  "nutrition": {
+    "calories": 265,
+    "protein": 6,
+    "carbs": 27,
+    "fat": 13
+  },
+  "slug": "ebullient-moroccan-sweet-potato-sellou",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/ebullient-moroccan-sweet-potato-sellou",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:03:41Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "pillowy",
+    "mood": "crowd-pleaser",
+    "technique": "fold",
+    "primaryIngredient": "sweet potatoes",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "sweet potato",
+    "descriptor": "Ebullient",
+    "dishForm": "Sellou"
+  }
+}
