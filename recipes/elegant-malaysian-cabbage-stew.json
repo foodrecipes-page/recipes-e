@@ -1,0 +1,112 @@
+{
+  "title": "Elegant Malaysian Cabbage Stew",
+  "description": "A savory, tender stew featuring cabbage leaves, pickled cucumbers, and aromatic spices, served in a classic cataplana for a nostalgic Malaysian flavor.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "baby napa cabbage",
+      "amount": "200 g"
+    },
+    {
+      "name": "fresh cabbage leaves",
+      "amount": "200 g"
+    },
+    {
+      "name": "sliced nuka-pickle",
+      "amount": "1 cup"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "lemongrass paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tamari or soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a cataplana over medium heat until shimmering.",
+    "Add lemongrass paste, turmeric, cumin, and coriander and sauté until fragrant about 2 minutes.",
+    "Stir in sliced carrot and bell pepper and cook for 3 minutes until slightly softened.",
+    "Add the cabbage leaves and napa cabbage, deglaze with a splash of tamari, and cover; cook for 5 minutes until greens begin to wilt.",
+    "Pour in vegetable stock, coconut milk, and sliced nuka-pickle and bring to a gentle simmer.",
+    "Reduce heat to low, cover, and simmer for 15 minutes until all vegetables are tender and flavors meld.",
+    "Serve hot, garnished with a squeeze of fresh lime if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian",
+    "cataplana",
+    "dairy-free",
+    "low-carb",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 102,
+    "protein": 2,
+    "carbs": 8,
+    "fat": 8
+  },
+  "slug": "elegant-malaysian-cabbage-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/elegant-malaysian-cabbage-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:08:18Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "tender",
+    "mood": "nostalgic",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "cabbage leaves",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "cabbage",
+    "descriptor": "Elegant",
+    "dishForm": "Stew"
+  }
+}

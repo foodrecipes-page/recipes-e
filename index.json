@@ -1175,6 +1175,21 @@
     "shard": "e"
   },
   {
+    "slug": "elegant-malaysian-cabbage-stew",
+    "title": "Elegant Malaysian Cabbage Stew",
+    "tags": [
+      "asian",
+      "cataplana",
+      "dairy-free",
+      "low-carb",
+      "stew",
+      "vegetarian"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 40,
+    "shard": "e"
+  },
+  {
     "slug": "elegant-malaysian-snap-peas-curry",
     "title": "Elegant Malaysian Snap Peas Curry",
     "tags": [
@@ -1903,6 +1918,21 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 30,
+    "shard": "e"
+  },
+  {
+    "slug": "exciting-crunchy-german-tempeh-skillet",
+    "title": "Exciting Crunchy German Tempeh Skillet",
+    "tags": [
+      "crunchy",
+      "german",
+      "keto-friendly",
+      "one-pan",
+      "quick",
+      "vegan"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {

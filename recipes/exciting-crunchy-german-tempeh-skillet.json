@@ -1,0 +1,102 @@
+{
+  "title": "Exciting Crunchy German Tempeh Skillet",
+  "description": "A pungent, crunchy German-inspired tempeh skillet featuring dark soy sauce and a dehydrate finish for a keto-friendly indulgence.",
+  "cuisine": "German",
+  "diet": [
+    "keto-friendly",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tempeh",
+      "amount": "200g",
+      "notes": "cut into 0.5cm thick slabs"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dark soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "broccoli florets",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Heat the olive oil in a large skillet over medium heat.",
+    "2. Add the tempeh slabs and sear each side until golden brown and crunchy, about 3 minutes per side.",
+    "3. Sprinkle the tempeh with garlic powder and ginger, then pour in the dark soy sauce and stir to coat.",
+    "4. Add the bell pepper and broccoli to the skillet and sauté with the tempeh for 5 minutes until the vegetables are tender yet still crisp.",
+    "5. Drizzle a little water if the mixture starts to stick, but keep the dish mostly dry to preserve crunch.",
+    "6. Sprinkle the red chili flakes and salt to taste, stirring to combine.",
+    "7. Transfer the skillet to the oven preheated at 400°F (200°C) and bake for 8 minutes to finish the crunch and dehydrate the edges.",
+    "8. Remove from oven, sprinkle with sesame seeds, and serve hot straight from the skillet."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "german",
+    "keto-friendly",
+    "one-pan",
+    "quick",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 630,
+    "protein": 42,
+    "carbs": 29,
+    "fat": 31
+  },
+  "slug": "exciting-crunchy-german-tempeh-skillet",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/exciting-crunchy-german-tempeh-skillet",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:09:00Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crunchy",
+    "mood": "indulgent",
+    "technique": "dehydrate",
+    "primaryIngredient": "dark soy sauce",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "tempeh",
+    "descriptor": "Exciting Crunchy",
+    "dishForm": "Skillet"
+  }
+}
