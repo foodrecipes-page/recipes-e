@@ -1,0 +1,100 @@
+{
+  "title": "Energizing Algerian Chocolate Pudding",
+  "description": "A funky, glassy-jelly dessert that combines dark chocolate chips with agar agar and a wood-fired bake for a satvik-friendly treat.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dark chocolate chips",
+      "amount": "200 g",
+      "notes": "70% cacao"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "agar agar powder",
+      "amount": "3 tbsp",
+      "notes": "vegetarian thickener"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tsp",
+      "notes": "for sheen"
+    },
+    {
+      "name": "diced seasonal fruit",
+      "amount": "1 cup",
+      "notes": "optional topping"
+    },
+    {
+      "name": "toasted almond slivers",
+      "amount": "1 tbsp",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Melt the chocolate chips in a double boiler over low heat until smooth.",
+    "Whisk in the agar agar powder until fully dissolved.",
+    "Add almond milk, maple syrup, vanilla extract, and pinch of salt; stir continuously for 2 minutes.",
+    "Remove from heat, stir in coconut oil until glossy.",
+    "Pour the mixture into a prepared baking dish and bake in a preheated wood-fired oven at 200°C (392°F) for 15 minutes.",
+    "Allow the pudding to cool to room temperature, then chill in the refrigerator for at least 2 hours.",
+    "Once set, cut into squares or spoon into glassy portions.",
+    "Garnish with toasted almond slivers and optional diced fruit.",
+    "Serve chilled as a refreshing dessert."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "dessert",
+    "glassy",
+    "jelly",
+    "satvik",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 4,
+    "carbs": 50,
+    "fat": 10
+  },
+  "slug": "energizing-algerian-chocolate-pudding",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-algerian-chocolate-pudding",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:17:52Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "glassy-jelly",
+    "mood": "sick-day",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "dark chocolate chips",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Chocolate",
+    "descriptor": "Energizing",
+    "dishForm": "Pudding"
+  }
+}
