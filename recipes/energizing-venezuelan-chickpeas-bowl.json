@@ -1,0 +1,104 @@
+{
+  "title": "Energizing Venezuelan Chickpeas Bowl",
+  "description": "A garlicky, crunchy bowl of chickpeas seasoned with red chilli powder and baked to perfection, perfect for a quick, macrobiotic-friendly lunch.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegan",
+    "macrobiotic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "canned chickpeas",
+      "amount": "400 g",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "red chilli powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "toasted sunflower seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "toasted pumpkin seeds",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Drain and rinse chickpeas, pat them dry with a clean towel.",
+    "In a bowl, combine chickpeas with olive oil, minced garlic, red chilli powder, ground cumin, sea salt, and black pepper until evenly coated.",
+    "Spread the seasoned chickpeas on a baking sheet in a single layer and bake at 200°C for 20 minutes, tossing halfway through for even browning.",
+    "Remove the baked chickpeas from the oven and let them cool slightly.",
+    "Transfer the chickpeas to a serving bowl and add lemon zest, fresh lemon juice, chopped parsley, toasted sunflower seeds, and toasted pumpkin seeds.",
+    "Gently toss the bowl to combine all ingredients and spread the dressing through the mixture.",
+    "Taste the bowl and adjust seasoning with additional salt or chilli powder if desired.",
+    "Serve immediately for a crunchy, energizing meal."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "venezuelan",
+    "lunch"
+  ],
+  "slug": "energizing-venezuelan-chickpeas-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-venezuelan-chickpeas-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:11:33Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "quick-fix",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "red chilli powder",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Chickpeas",
+    "descriptor": "Energizing",
+    "dishForm": "Bowl"
+  }
+}
