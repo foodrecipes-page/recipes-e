@@ -1,0 +1,108 @@
+{
+  "title": "Ember Charred Korean Lemongrass Takrai Ssam",
+  "description": "Charred scallop shells hold a creamy lemongrass and takrai mixture, perfect for an indulgent vegetarian ssam experience.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lemongrass stalks",
+      "amount": "4",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "takrai leaves",
+      "amount": "6 cups",
+      "notes": "fresh, washed"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "scallop shells",
+      "amount": "4",
+      "notes": "cleaned, use as vessels"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1 tsp",
+      "notes": "optional heat"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill to medium-high and prepare the scallop shells for charring.",
+    "Place the cleaned scallop shells on the grill and char them for about 2 minutes on each side until lightly blistered.",
+    "In a medium bowl whisk together coconut milk, soy sauce, sesame oil, salt, pepper, and red chili flakes until smooth and fragrant.",
+    "Add minced garlic, grated ginger, and lemongrass pieces to the bowl and stir to combine.",
+    "Stir in the takrai leaves and cook the mixture for 2 minutes, just until the leaves soften slightly.",
+    "Remove the charred shells from the grill and pour the creamy lemongrass-takrai mixture into each shell.",
+    "Garnish each shell with a few fresh lemongrass pieces for extra aroma.",
+    "Serve immediately, accompanied by lettuce leaves for wrapping as ssam."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "festive",
+    "grilled",
+    "korean",
+    "seafood-free",
+    "ssam",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "ember-charred-korean-lemongrass-takrai-ssam",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/ember-charred-korean-lemongrass-takrai-ssam",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:26:19Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "brine-wet",
+    "primaryIngredient": "lemongrass-takrai",
+    "diet": "vegetarian",
+    "region": "seoul",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "lemongrass takrai",
+    "descriptor": "Ember Charred",
+    "dishForm": "Ssam"
+  }
+}
