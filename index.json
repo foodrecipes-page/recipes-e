@@ -1070,6 +1070,20 @@
     "shard": "e"
   },
   {
+    "slug": "elegant-spanish-chicken-paella",
+    "title": "Elegant Spanish Chicken Paella",
+    "tags": [
+      "chicken",
+      "flambe",
+      "low-fat",
+      "rice",
+      "spanish"
+    ],
+    "cuisine": "spanish",
+    "totalTimeMin": 50,
+    "shard": "e"
+  },
+  {
     "slug": "elegant-thai-melon-roast",
     "title": "Elegant Thai Melon Roast",
     "tags": [

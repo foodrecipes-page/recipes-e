@@ -1,0 +1,113 @@
+{
+  "title": "Elegant Spanish Chicken Paella",
+  "description": "A buttery, saffron-infused chicken paella with a flambe finish, crafted with low-fat ingredients for a rich yet lighter taste.",
+  "cuisine": "spanish",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken thighs",
+      "amount": "2",
+      "notes": "sliced into bite-sized pieces"
+    },
+    {
+      "name": "short-grain rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon",
+      "notes": "steeped in 2 tbsp hot water"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/2 cup",
+      "notes": "for flambe"
+    },
+    {
+      "name": "low-fat chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Heat a paella pan or large skillet over medium heat and add 1 tablespoon of olive oil.",
+    "Sauté the diced onion until translucent, about 3 minutes.",
+    "Add the minced garlic, diced red bell pepper, and smoked paprika, cooking for another 2 minutes.",
+    "Stir in the sliced chicken thighs, browning them on all sides, about 4 minutes.",
+    "Pour in the white wine, allowing it to flambe by carefully igniting with a match, and let the flames subside.",
+    "Add the rice, coating it evenly with the aromatic mixture and letting it toast for 1 minute.",
+    "Pour in the saffron infusion and the low-fat chicken broth, then season with salt and pepper.",
+    "Bring the mixture to a gentle boil, reduce heat to low, cover, and simmer for 15 minutes, stirring occasionally.",
+    "Remove the lid, increase the heat to medium-high, and cook for an additional 5 minutes until the rice is tender and liquid is absorbed.",
+    "Let the paella rest for 5 minutes, then serve hot with a sprinkle of fresh parsley."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 25,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "flambe",
+    "low-fat",
+    "rice",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 32,
+    "carbs": 45,
+    "fat": 8
+  },
+  "slug": "elegant-spanish-chicken-paella",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/elegant-spanish-chicken-paella",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:05:09Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "snappy",
+    "mood": "indulgent",
+    "technique": "flambe",
+    "primaryIngredient": "saffron",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "Elegant",
+    "dishForm": "Paella"
+  }
+}
