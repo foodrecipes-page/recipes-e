@@ -1,0 +1,103 @@
+{
+  "title": "Easy Exotic Moroccan Cream Cheese Tagine",
+  "description": "A briny and crumbly Moroccan dish featuring cream cheese, perfect for a weeknight dinner, with a unique twist of nigiri-shaping and dash-friendly ingredients.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cream cheese",
+      "amount": "8 ounces",
+      "notes": "softened"
+    },
+    {
+      "name": "green olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "sun dried tomatoes",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 slices"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the softened cream cheese, chopped green olives, artichoke hearts, sun dried tomatoes, parsley, lemon juice, garlic powder, salt, and black pepper.",
+    "Mix all the ingredients together until well combined.",
+    "Scoop the mixture into small balls, about 1 inch in diameter, and shape each ball into a small nigiri shape.",
+    "Place the shaped cream cheese mixture onto a baking sheet lined with parchment paper.",
+    "Bake the tagine in the preheated oven for 15 minutes, or until lightly browned on the outside.",
+    "Serve the tagine warm with toasted pita bread slices on the side.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "briny",
+    "crumbly",
+    "moroccan",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "easy-exotic-moroccan-cream-cheese-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-exotic-moroccan-cream-cheese-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:56:52Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "cream cheese",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "cream cheese",
+    "descriptor": "Easy Exotic",
+    "dishForm": "Tagine"
+  }
+}
