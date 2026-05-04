@@ -1,0 +1,98 @@
+{
+  "title": "Easy Winey Australian Doner Meat Wrap",
+  "description": "A quick, wine-infused wrap that combines tender doner meat, a splash of red wine, and fresh Australian veggies for a low-glycemic lunch.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "doner meat, sliced",
+      "amount": "200g"
+    },
+    {
+      "name": "rest meat, sliced",
+      "amount": "100g"
+    },
+    {
+      "name": "carrots, julienned",
+      "amount": "2 medium"
+    },
+    {
+      "name": "cucumber, sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "red cabbage, shredded",
+      "amount": "50g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dry red wine",
+      "amount": "50ml"
+    },
+    {
+      "name": "fresh rosemary, chopped",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "large lettuce leaves",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a skillet over medium-high heat.",
+    "Add the sliced doner and rest meat, cook for 3 minutes until heated through.",
+    "Stir in the red wine and balsamic vinegar, letting it reduce for 1 minute.",
+    "Transfer the meat mixture to a bowl and season with rosemary, salt, and pepper.",
+    "Arrange the lettuce leaves on a clean surface and top each with a quarter of the meat mixture.",
+    "Add equal portions of carrots, cucumber, and red cabbage to each leaf.",
+    "Fold the sides of the lettuce over the filling and roll tightly to form a wrap.",
+    "Serve immediately, optionally with a side of low-glycemic dipping sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "gluten-free",
+    "low-glycemic",
+    "quick",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 33,
+    "carbs": 6,
+    "fat": 21
+  },
+  "slug": "easy-winey-australian-doner-meat-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-winey-australian-doner-meat-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:17:09Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "shattering",
+    "mood": "quick-fix",
+    "technique": "rest-meat",
+    "primaryIngredient": "doner meat",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Doner Meat",
+    "descriptor": "Easy Winey",
+    "dishForm": "Wrap"
+  }
+}
