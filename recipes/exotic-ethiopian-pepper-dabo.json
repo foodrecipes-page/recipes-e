@@ -1,0 +1,100 @@
+{
+  "title": "Exotic Ethiopian Pepper Dabo",
+  "description": "A savory and glassy-jelly Ethiopian dish featuring pepper, this festive dabo is perfect for special occasions and is dairy-free friendly.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red bell pepper",
+      "amount": "2 large",
+      "notes": "any color bell pepper works"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Agar agar powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, puree the red bell pepper, onion, garlic, and ginger until smooth.",
+    "In a large saucepan, combine the pureed mixture, berbere spice, lemon juice, and salt.",
+    "Whisk in the agar agar powder and water, and bring the mixture to a boil over high heat.",
+    "Reduce the heat to medium-low and simmer for 10 minutes, or until the mixture has thickened and reduced slightly.",
+    "Remove the saucepan from the heat and let it cool to room temperature.",
+    "Once cooled, pour the mixture into a 9x13 inch baking dish and refrigerate until set.",
+    "Once set, use a sharp knife to cut the dabo into diamond-shaped pieces.",
+    "Serve the exotic Ethiopian pepper dabo chilled, garnished with additional berbere spice if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "ethiopian-cuisine",
+    "festive",
+    "gluten-free",
+    "special-occasion",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "exotic-ethiopian-pepper-dabo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-ethiopian-pepper-dabo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:35:43Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "glassy-jelly",
+    "mood": "festive",
+    "technique": "reduce",
+    "primaryIngredient": "pepper",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "peppers",
+    "descriptor": "exotic glassy",
+    "dishForm": "Dabo"
+  }
+}
