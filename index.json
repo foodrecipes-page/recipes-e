@@ -1,5 +1,21 @@
 [
   {
+    "slug": "eager-british-corn-welsh-rarebit",
+    "title": "Eager British Corn Welsh Rarebit",
+    "tags": [
+      "cheese",
+      "festive",
+      "kosher-friendly",
+      "one-pan",
+      "quick",
+      "vegetarian",
+      "weekend"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 20,
+    "shard": "e"
+  },
+  {
     "slug": "earth-apple-fold",
     "title": "Earth Apple Fold",
     "tags": [

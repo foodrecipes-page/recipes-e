@@ -1,0 +1,115 @@
+{
+  "title": "Eager British Corn Welsh Rarebit",
+  "description": "A festive, grass‑kissed cheese sauce with an egg wash and ice‑bath shock, served over buttered toast for a kosher‑friendly meal.",
+  "cuisine": "British",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "whole wheat bread slices",
+      "amount": "4",
+      "notes": "sliced 1.5 cm thick"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "softened"
+    },
+    {
+      "name": "sharp cheddar cheese",
+      "amount": "200g",
+      "notes": "grated"
+    },
+    {
+      "name": "Gruyère cheese",
+      "amount": "100g",
+      "notes": "grated"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "50g",
+      "notes": "grated"
+    },
+    {
+      "name": "whole milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "50ml"
+    },
+    {
+      "name": "large egg yolk",
+      "amount": "1"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C and position a rack in the middle.",
+    "Butter each slice of bread until the surface is golden and set aside.",
+    "In a medium saucepan combine milk, white wine and paprika and heat until steaming.",
+    "Gradually stir in grated cheddar, Gruyère and parmesan until the mixture is smooth and creamy.",
+    "Whisk in the egg yolk and a pinch of kosher salt; season with pepper and stir until fully incorporated.",
+    "Remove the saucepan from heat and pour the sauce into a heat‑proof bowl, then immerse the bowl in an ice bath to rapidly chill and set the sauce.",
+    "While the sauce is cooling toast the buttered bread slices in the oven until crisp and golden.",
+    "Once the sauce has thickened spoon a generous amount onto each toasted slice.",
+    "Garnish immediately with chopped parsley and an optional pinch of smoked paprika.",
+    "Serve the rarebit immediately while still warm, accompanied by a fresh green salad if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "festive",
+    "kosher-friendly",
+    "one-pan",
+    "quick",
+    "vegetarian",
+    "weekend"
+  ],
+  "nutrition": {
+    "calories": 1100,
+    "protein": 45,
+    "carbs": 80,
+    "fat": 65
+  },
+  "slug": "eager-british-corn-welsh-rarebit",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/eager-british-corn-welsh-rarebit",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:43:26Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "tender",
+    "mood": "festive",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "egg wash",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Corn",
+    "descriptor": "Eager",
+    "dishForm": "Welsh Rarebit"
+  }
+}
