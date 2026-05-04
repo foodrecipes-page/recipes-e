@@ -1,0 +1,113 @@
+{
+  "title": "Ethereal Kenyan Spinach Pilaf",
+  "description": "A light, herbal Kenyan-inspired pilaf that blends fragrant sansho pepper and sautéed spinach with aromatic coconut milk, finished with a dramatic flambé touch.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "satvik-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fresh spinach",
+      "amount": "200 g"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup",
+      "notes": "rinsed"
+    },
+    {
+      "name": "low-sodium vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "medium onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "sansho pepper powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a medium saucepan over medium heat.",
+    "Add chopped onion, garlic, and ginger, sauté until onion is translucent.",
+    "Stir in rice and toast for 2 minutes, coating grains in oil.",
+    "Pour in coconut milk and vegetable broth, bring to a simmer, then cover and reduce heat to low.",
+    "When the mixture is bubbling, sprinkle sansho powder, salt, pepper, and lemon juice.",
+    "Cover the pot again and cook for 15 minutes until rice is tender and liquid absorbed.",
+    "Gently fold in the fresh spinach, allowing it to wilt into the pilaf.",
+    "Remove from heat, let stand for 5 minutes, then fluff with a fork.",
+    "For flambé, pour a small splash of white wine into the pan, ignite with a long match, and allow flames to subside."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "flambe",
+    "herbal",
+    "kenyan-inspired",
+    "light",
+    "quick",
+    "satvik-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 8,
+    "carbs": 55,
+    "fat": 15
+  },
+  "slug": "ethereal-kenyan-spinach-pilaf",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/ethereal-kenyan-spinach-pilaf",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:06:10Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shaggy",
+    "mood": "light",
+    "technique": "flambe",
+    "primaryIngredient": "sansho",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Spinach",
+    "descriptor": "Ethereal",
+    "dishForm": "Pilaf"
+  }
+}

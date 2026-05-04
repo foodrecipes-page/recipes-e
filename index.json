@@ -2312,6 +2312,22 @@
     "shard": "e"
   },
   {
+    "slug": "ethereal-kenyan-spinach-pilaf",
+    "title": "Ethereal Kenyan Spinach Pilaf",
+    "tags": [
+      "flambe",
+      "herbal",
+      "kenyan-inspired",
+      "light",
+      "quick",
+      "satvik-friendly",
+      "vegetarian"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 30,
+    "shard": "e"
+  },
+  {
     "slug": "ethereal-mediterranean-bonito-roast",
     "title": "Ethereal Mediterranean Bonito Roast",
     "tags": [
