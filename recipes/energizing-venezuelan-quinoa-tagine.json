@@ -1,0 +1,109 @@
+{
+  "title": "Energizing Venezuelan Quinoa Tagine",
+  "description": "A yeasty, fluffy post-workout dish that blends quinoa with fresh green pepper in a fragrant tagine, crafted to be Ayurvedic sattvic-friendly.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegan",
+    "sattvic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Quinoa, cooked",
+      "amount": "1.5 cups"
+    },
+    {
+      "name": "Chickpeas, cooked",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Green bell pepper, diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Red onion, diced",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Ground turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Harissa paste",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the tagine or heavy-bottom pot over medium heat and pour in the olive oil.",
+    "Add the diced onion and sauté until translucent, about 3 minutes.",
+    "Stir in the green pepper, cumin, smoked paprika, turmeric, and harissa paste, cooking for another 2 minutes to let the spices bloom.",
+    "Pour in the cooked quinoa and chickpeas, mixing thoroughly to coat them with the aromatics.",
+    "Add the lemon juice and season with salt and pepper to taste, stirring well.",
+    "Reduce heat to low, cover the pot, and let the tagine steam for 10 minutes so the flavors meld.",
+    "Remove from heat and sprinkle the ground coriander over the top, allowing it finish cooking for 1 minute.",
+    "Check seasoning; adjust salt or pepper if needed.",
+    "Serve immediately with a side of fresh leafy greens or a squeeze of lime for extra acidity.",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "one-pot",
+    "post-workout",
+    "quick",
+    "sattvic",
+    "tagine",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 23,
+    "carbs": 102,
+    "fat": 24
+  },
+  "slug": "energizing-venezuelan-quinoa-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-venezuelan-quinoa-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:48:52Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "tagine-cook",
+    "primaryIngredient": "green pepper",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Quinoa",
+    "descriptor": "Energizing",
+    "dishForm": "Tagine"
+  }
+}
