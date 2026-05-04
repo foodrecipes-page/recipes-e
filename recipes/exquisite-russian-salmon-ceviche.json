@@ -1,0 +1,97 @@
+{
+  "title": "Exquisite Russian Salmon Ceviche",
+  "description": "A peppery, flaky salmon ceviche with shio‑koji cure and rice vinegar, served as a solo dinner that respects FODMAP guidelines.",
+  "cuisine": "Russian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillet",
+      "amount": "200 g"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "30 ml"
+    },
+    {
+      "name": "shio‑koji",
+      "amount": "15 g"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "15 ml"
+    },
+    {
+      "name": "dill",
+      "amount": "5 g",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "avocado",
+      "amount": "1/2 small",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Slice fresh salmon into 1/2‑inch cubes and place in a glass bowl.",
+    "Whisk together rice vinegar, lemon juice, and a splash of water to create a bright acidic solution.",
+    "Pour the acid mixture over the salmon, cover, and refrigerate for 20 minutes to cure the fish.",
+    "While the salmon cures, dice cucumber and avocado into bite‑sized cubes.",
+    "Drain the salmon and gently fold in the cucumber, avocado, and shio‑koji.",
+    "Sprinkle finely chopped dill, pepper, and a pinch of sea salt over the ceviche and stir lightly.",
+    "Let the mixture rest for an additional 5 minutes to allow flavors to meld.",
+    "Plate the ceviche on chilled ceramic bowls and garnish with optional edible flowers if desired.",
+    "Serve immediately with a side of crisp lettuce leaves for a refreshing finish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fodmap-friendly",
+    "one-plate",
+    "quick",
+    "seafood",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 610,
+    "protein": 50,
+    "carbs": 12,
+    "fat": 44
+  },
+  "slug": "exquisite-russian-salmon-ceviche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/exquisite-russian-salmon-ceviche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:52:08Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "flaky",
+    "mood": "solo-dinner",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "rice vinegar",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "salmon",
+    "descriptor": "Exquisite",
+    "dishForm": "Ceviche"
+  }
+}
