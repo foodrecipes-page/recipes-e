@@ -1,0 +1,118 @@
+{
+  "title": "Elegant Mediterranean Almond Hash",
+  "description": "A resinous, shaggy lazy‑Sunday hash with toffee popcorn and wok‑hei seasoning, keto‑friendly and Mediterranean flair.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "keto-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "for smoky flavor"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced",
+      "notes": null
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "200 g, halved",
+      "notes": null
+    },
+    {
+      "name": "spinach",
+      "amount": "100 g",
+      "notes": null
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "50 g, sliced",
+      "notes": null
+    },
+    {
+      "name": "feta cheese",
+      "amount": "80 g, crumbled",
+      "notes": null
+    },
+    {
+      "name": "toasted almonds",
+      "amount": "40 g",
+      "notes": null
+    },
+    {
+      "name": "toffee popcorn",
+      "amount": "50 g",
+      "notes": null
+    },
+    {
+      "name": "wok-hei seasoning",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat a dry wok over medium heat until shimmering.",
+    "Add olive oil and swirl to coat the pan.",
+    "Add diced onion and minced garlic, sauté until translucent.",
+    "Stir in smoked paprika and wok-hei seasoning, cook for 30 seconds.",
+    "Add cherry tomato halves, cook until they start to soften.",
+    "Reduce heat to low, stir in spinach and olives, cover briefly until spinach wilts.",
+    "Fold in crumbled feta and toasted almonds, cook for 2 minutes, allowing flavors to mingle.",
+    "Drizzle lemon juice and season with salt and pepper to taste.",
+    "Serve hot, topped with a generous handful of toffee popcorn."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "lazy-sunday",
+    "mediterranean",
+    "one-pan",
+    "toffee-popcorn"
+  ],
+  "nutrition": {
+    "calories": 267,
+    "protein": 9,
+    "carbs": 19,
+    "fat": 23
+  },
+  "slug": "elegant-mediterranean-almond-hash",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/elegant-mediterranean-almond-hash",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:17:13Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "shaggy",
+    "mood": "lazy-sunday",
+    "technique": "wok-hei",
+    "primaryIngredient": "toffee popcorn",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Almond",
+    "descriptor": "Elegant",
+    "dishForm": "Hash"
+  }
+}
