@@ -1,0 +1,124 @@
+{
+  "title": "Energizing Korean Prunes Bibimbap",
+  "description": "A delicious and energizing Korean dish featuring prunes and shio-cured pork, perfect for a quick breakfast or lunch.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shio-cured Pork Belly",
+      "amount": "1/2 cup, diced",
+      "notes": ""
+    },
+    {
+      "name": "Dried Prunes",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "White Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Avocado",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup, thinly sliced",
+      "notes": ""
+    },
+    {
+      "name": "Kimchi",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "1/4 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the white rice according to package instructions and set it aside.",
+    "In a pan, melt the unsalted butter over medium heat.",
+    "Add the diced shio-cured pork belly and cook until lightly browned, about 3-4 minutes.",
+    "Add the chopped prunes and cook for an additional 2 minutes.",
+    "Add the gochujang, soy sauce, and brown sugar to the pan and stir to combine.",
+    "Add the chopped kimchi and cook for 1-2 minutes, until slightly softened.",
+    "To assemble the bibimbap, place a scoop of cooked white rice in the bottom of a bowl.",
+    "Add a spoonful of the pork and prune mixture on top of the rice.",
+    "Top with sliced avocado, chopped green onions, and shredded cheddar cheese.",
+    "Drizzle with additional gochujang if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bibimbap",
+    "dairy-product",
+    "korean",
+    "one-pan",
+    "prunes",
+    "shio-cured",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 64,
+    "fat": 24
+  },
+  "slug": "energizing-korean-prunes-bibimbap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-korean-prunes-bibimbap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:52:22Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "cheese-pull",
+    "mood": "energizing",
+    "technique": "shio-cure",
+    "primaryIngredient": "prunes",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "prunes",
+    "descriptor": "energizing",
+    "dishForm": "Bibimbap"
+  }
+}
