@@ -1,0 +1,110 @@
+{
+  "title": "Earthy Crisp Southern Tofu Curry",
+  "description": "A single‑pot southern‑Thai style curry with crinkly tofu, rosemary, and shio‑koji that delivers earthy flavors and a satisfying crisp finish.",
+  "cuisine": "Southern Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "400g",
+      "notes": "cut into 2 cm cubes"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "300ml"
+    },
+    {
+      "name": "shio‑koji",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "thai red curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "200ml"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "snow peas",
+      "amount": "100g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Press tofu for 15 minutes to remove excess moisture, then cut into 2 cm cubes.",
+    "Heat olive oil in a large pot over medium heat until shimmering, then add the tofu and fry until golden and crisp, about 8 minutes.",
+    "Stir in the red curry paste and fresh rosemary, cooking for 1 minute until fragrant.",
+    "Pour in coconut milk and water, then bring the mixture to a gentle simmer.",
+    "Add shio‑koji, salt, and lime juice, stirring until well combined.",
+    "Add diced carrot, sliced bell pepper, and snow peas, letting them cook until just tender, about 5 minutes.",
+    "Taste and adjust seasoning, adding more shio‑koji or salt if needed.",
+    "Reduce heat to low, cover, and let the curry rest for 3 minutes to allow flavors to meld.",
+    "Serve hot over steamed jasmine rice or cauliflower rice, garnished with fresh rosemary sprigs.",
+    "Optional: Drizzle a little extra virgin olive oil before serving for added sheen."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "earthy",
+    "one-pot",
+    "southern-thai",
+    "tofu",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 8,
+    "carbs": 19,
+    "fat": 24
+  },
+  "slug": "earthy-crisp-southern-tofu-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-crisp-southern-tofu-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:14:14Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crisp",
+    "mood": "one-pot",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "rosemary",
+    "diet": "vegetarian",
+    "region": "southern-thai",
+    "cuisineAdjective": "Southern",
+    "mainIngredient": "Tofu",
+    "descriptor": "Earthy Crisp",
+    "dishForm": "Curry"
+  }
+}
