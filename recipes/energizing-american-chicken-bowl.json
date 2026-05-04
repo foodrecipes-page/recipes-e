@@ -1,0 +1,116 @@
+{
+  "title": "Energizing American Chicken Bowl",
+  "description": "A peppery, velvety post-workout bowl packed with ground cardamom and fresh veggies, Whole30-friendly and bursting with American flavors.",
+  "cuisine": "American",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground chicken breast",
+      "amount": "1 lb"
+    },
+    {
+      "name": "red bell pepper, diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "green bell pepper, diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1 tbsp",
+      "notes": "peppery spice"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sweet potato, diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "avocado, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "lime juice, fresh",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cilantro, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add diced onion and cook until translucent, about 3 minutes.",
+    "Stir in minced garlic, ground cardamom, smoked paprika, chili powder, and salt, sautéing for 1 minute until fragrant.",
+    "Add ground chicken to the skillet, breaking it apart, and cook until no longer pink, about 6 minutes.",
+    "In a separate pot, boil diced sweet potato until tender, 8-10 minutes, then drain.",
+    "Toss the cooked sweet potatoes, diced bell peppers, and chicken together, season with pepper, and simmer for 2 minutes to meld flavors.",
+    "Meanwhile, pound coconut milk in a mortar with a pinch of salt to create a velvety sauce.",
+    "Pour the coconut sauce over the bowl mixture and stir to coat evenly.",
+    "Divide the mixture into bowls, top with diced avocado, chopped cilantro, and a squeeze of lime juice.",
+    "Serve immediately for a post-workout boost."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "one-pan",
+    "peppery",
+    "post-workout",
+    "velvety",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 145,
+    "protein": 30,
+    "carbs": 56,
+    "fat": 31
+  },
+  "slug": "energizing-american-chicken-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-american-chicken-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:06:06Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "velvety",
+    "mood": "post-workout",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "ground cardomom",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Chicken",
+    "descriptor": "Energizing",
+    "dishForm": "Bowl"
+  }
+}
