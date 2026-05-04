@@ -1,0 +1,103 @@
+{
+  "title": "smoky algerian flour brik",
+  "description": "a sweet and light algerian pastry, perfect for dessert or snack time, made with strong wholemeal flour and a smoky hot filling.",
+  "cuisine": "algerian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "wholemeal flour",
+      "amount": "1 3/4 cups",
+      "notes": "strong flour"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": "around 90f"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": "granulated sugar"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp",
+      "notes": "add smoky flavor"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1 cup",
+      "notes": "or other non-dairy milk"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": "melted coconut oil"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp",
+      "notes": "grate some lemon zest"
+    }
+  ],
+  "instructions": [
+    "in a large bowl, combine the wholemeal flour and warm water to make the dough.",
+    "knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "flatten each ball into a thin circle, about 1/8 inch thick.",
+    "in a small bowl, mix together the sugar, smoked paprika, almond milk, apple cider vinegar, coconut oil, vanilla extract, and lemon zest to make the filling.",
+    "place a tablespoon of the filling in the center of each dough circle.",
+    "fold the dough over the filling and press the edges together to seal the brik.",
+    "heat a non-stick pan or griddle over medium heat and cook the briks for 2-3 minutes on each side, until golden brown.",
+    "serve the briks warm, dust with powdered sugar if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "easy-to-make",
+    "light-fairly",
+    "morning-snack",
+    "smoky-flavors",
+    "sweet-treats",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "exotic-smoky-algerian-flour-brik",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-smoky-algerian-flour-brik",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T09:29:49Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "smoke-hot",
+    "primaryIngredient": "strong wholemeal flour",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "flour",
+    "descriptor": "exotic smoky",
+    "dishForm": "Brik"
+  }
+}
