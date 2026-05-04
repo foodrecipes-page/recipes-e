@@ -1,0 +1,103 @@
+{
+  "title": "Ethereal Vietnamese Corn Ca Kho To",
+  "description": "A cultured, crisp, light Vietnamese dessert inspired by ca kho to, featuring caramelized corn kernels thickened with corn flour and sweetened with honey.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "paleo-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fresh corn kernels",
+      "amount": "200 g"
+    },
+    {
+      "name": "corn flour",
+      "amount": "50 g"
+    },
+    {
+      "name": "coconut milk, full fat",
+      "amount": "200 ml"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "chopped scallion",
+      "amount": "1 small bunch"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a heavy skillet over medium heat.",
+    "Add grated ginger, turmeric powder, sea salt, and black pepper, and sauté until fragrant for 30 seconds.",
+    "Pour in coconut milk and honey, stirring until the mixture is smooth and begins to simmer.",
+    "Add fresh corn kernels, fish sauce, and stir to coat each kernel with the caramel sauce.",
+    "Reduce heat to low, cover the skillet, and let the corn cook for 10 minutes until tender.",
+    "Stir in corn flour dissolved in 2 tablespoons of cold water to thicken the sauce, and simmer for an additional 5 minutes.",
+    "Remove the skillet from heat and let the ca kho to rest for 5 minutes to set the caramel glaze.",
+    "Serve warm, garnished with chopped scallion, and enjoy the crisp, cultured sweetness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "ca-kho-to",
+    "corn-dish",
+    "light-dish",
+    "one-pot",
+    "paleo-friendly",
+    "quick",
+    "seafood-free"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 12,
+    "carbs": 110,
+    "fat": 49
+  },
+  "slug": "ethereal-vietnamese-corn-ca-kho-to",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/ethereal-vietnamese-corn-ca-kho-to",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:32:09Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "candy",
+    "primaryIngredient": "corn flour",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "corn",
+    "descriptor": "Ethereal",
+    "dishForm": "Ca Kho To"
+  }
+}
