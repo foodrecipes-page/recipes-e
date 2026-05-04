@@ -1,0 +1,118 @@
+{
+  "title": "Elegant Malaysian Snap Peas Curry",
+  "description": "A creamy, aromatic curry that pairs sweet snap peas with fragrant Malaysian spices for a romantic date night meal.",
+  "cuisine": "malaysian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sugar snap peas",
+      "amount": "300 g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tbsp",
+      "notes": "minced"
+    },
+    {
+      "name": "red curry paste",
+      "amount": "1 tbsp",
+      "notes": "low sodium"
+    },
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "200 ml"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "date syrup",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "to garnish"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet over medium heat.",
+    "Add diced onion and sauté until translucent, about 3 minutes.",
+    "Stir in minced garlic and ginger and cook for 1 minute until fragrant.",
+    "Add red curry paste and stir to coat the aromatics for 30 seconds.",
+    "Pour in unsweetened coconut milk and bring to a gentle simmer.",
+    "Add cherry tomatoes and tamarind paste, then simmer for 5 minutes until tomatoes soften.",
+    "Toss in sugar snap peas and cook for 4-5 minutes until they are tender yet crisp.",
+    "Stir in date syrup and lime juice, season with salt to taste, and simmer for an additional minute.",
+    "Remove from heat, garnish with fresh cilantro, and serve hot with steamed brown rice or cauliflower rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "date-night",
+    "diabetic-friendly",
+    "low-carb",
+    "malaysian",
+    "one-pan",
+    "snap-peas"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 10,
+    "carbs": 15,
+    "fat": 30
+  },
+  "slug": "elegant-malaysian-snap-peas-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/elegant-malaysian-snap-peas-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:31:02Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "caramelize",
+    "primaryIngredient": "sugar snap peas",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Snap Peas",
+    "descriptor": "Elegant",
+    "dishForm": "Curry"
+  }
+}
