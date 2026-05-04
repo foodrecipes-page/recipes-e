@@ -1,0 +1,111 @@
+{
+  "title": "Enticing Ethiopian Tomato Custard",
+  "description": "A sour, juicy, kid-friendly Ethiopian dessert featuring vanilla coconut custard and steamed mushimono, dairy-free and easy to make.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "plum tomatoes",
+      "amount": "400g",
+      "notes": "diced"
+    },
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "100ml"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "mild paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "2 tbsp",
+      "notes": "chopped, optional garnish"
+    },
+    {
+      "name": "mushimono",
+      "amount": "200g"
+    }
+  ],
+  "instructions": [
+    "Heat a medium saucepan over medium heat and sauté the diced tomatoes until they soften, about 5 minutes.",
+    "Stir in the vanilla extract, lemon juice, ginger, paprika, and salt, cooking for 1 minute until fragrant.",
+    "In a separate bowl, whisk the coconut milk, maple syrup, cornstarch, and water until smooth.",
+    "Pour the coconut mixture into the saucepan, stirring constantly to prevent lumps.",
+    "Bring the mixture to a gentle boil, then reduce heat and simmer, whisking frequently until the custard thickens, about 5 minutes.",
+    "Remove from heat and let the custard cool slightly while preparing the mushimono.",
+    "Place the mushimono into a steamer basket and steam over boiling water for 8 minutes until tender.",
+    "Transfer the steamed mushimono to a serving dish and pour the tomato custard over it.",
+    "Garnish with chopped basil leaves for a fresh finish.",
+    "Serve warm for a kid-friendly dessert or snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 18,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "african",
+    "dairy-free",
+    "dessert",
+    "kid-friendly",
+    "one-pot",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 6,
+    "carbs": 42,
+    "fat": 18
+  },
+  "slug": "enticing-ethiopian-tomato-custard",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/enticing-ethiopian-tomato-custard",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:01:37Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "vanilla custard",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "tomato",
+    "descriptor": "Enticing",
+    "dishForm": "Custard"
+  }
+}
