@@ -1,0 +1,120 @@
+{
+  "title": "Earthy Vietnamese Mushroom Bo Kho",
+  "description": "A silky, midnight-craving Vietnamese stew bursting with earthy mushroom flavor, roasted aromatics, and soothing spices, perfect for a comforting dinner.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shiitake mushrooms",
+      "amount": "250g",
+      "notes": "sliced"
+    },
+    {
+      "name": "button mushrooms",
+      "amount": "250g",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "low sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large pot over medium heat until shimmering.",
+    "Add the sliced onions and sauté until translucent, about 3 minutes.",
+    "Stir in the minced garlic and ginger, cooking for another minute until fragrant.",
+    "Add the shiitake and button mushrooms, browning them on all sides, about 5 minutes.",
+    "Mix in the tomato paste and soy sauce, coating the mushrooms evenly.",
+    "Pour in the vegetable broth, stirring to combine, then add the bay leaf and turmeric.",
+    "Bring the mixture to a gentle boil, reduce heat to low, and simmer uncovered for 20 minutes.",
+    "Remove the bay leaf, season with salt and pepper to taste, and serve hot over steamed rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "midnight-cravings",
+    "one-pot",
+    "quick",
+    "sattvic",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 490,
+    "protein": 12,
+    "carbs": 51,
+    "fat": 29
+  },
+  "slug": "earthy-vietnamese-mushroom-bo-kho",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-vietnamese-mushroom-bo-kho",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:38:09Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "silky",
+    "mood": "midnight-craving",
+    "technique": "robata-grill",
+    "primaryIngredient": "mushroom",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Mushroom",
+    "descriptor": "Earthy",
+    "dishForm": "Bo Kho"
+  }
+}
