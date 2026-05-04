@@ -1,0 +1,94 @@
+{
+  "title": "Exotic Canadian Salmon Poke",
+  "description": "A yeasty and juicy Canadian dish featuring sashimi-cut salmon, cocoa, and ayurvedic-rajasic-friendly ingredients, served in an earthenware bowl",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sashimi-grade salmon",
+      "amount": "1 pound",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "cocoa nibs",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "yeast extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together soy sauce, sesame oil, and yeast extract.",
+    "In a separate bowl, mix together grated ginger and sesame seeds.",
+    "Add the cocoa nibs to the ginger mixture and stir to combine.",
+    "In a large earthenware bowl, combine the sashimi-grade salmon, soy sauce mixture, and ginger mixture.",
+    "Toss gently to coat the salmon with the marinade.",
+    "Sprinkle the green onions and sesame seeds over the top of the salmon.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve the salmon poke chilled, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian-cuisine",
+    "dairy-free",
+    "easy-dinner",
+    "gluten-free",
+    "high-protein",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "exotic-canadian-salmon-poke",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-canadian-salmon-poke",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:36:30Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "juicy",
+    "mood": "weeknight",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "cocoa",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "salmon",
+    "descriptor": "earthy exotic",
+    "dishForm": "Poke"
+  }
+}

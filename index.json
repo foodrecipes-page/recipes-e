@@ -1950,6 +1950,21 @@
     "shard": "e"
   },
   {
+    "slug": "exotic-canadian-salmon-poke",
+    "title": "Exotic Canadian Salmon Poke",
+    "tags": [
+      "canadian-cuisine",
+      "dairy-free",
+      "easy-dinner",
+      "gluten-free",
+      "high-protein",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 50,
+    "shard": "e"
+  },
+  {
     "slug": "exotic-creamy-tunisian-chickpea-tagine",
     "title": "Exotic Creamy Tunisian Chickpea Tagine",
     "tags": [
