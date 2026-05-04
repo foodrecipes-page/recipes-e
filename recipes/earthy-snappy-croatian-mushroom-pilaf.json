@@ -1,0 +1,128 @@
+{
+  "title": "Earthy Snappy Croatian Mushroom Pilaf",
+  "description": "A hearty, earthy, snappy, indulgent Croatian dish featuring mushrooms, perfect for a donabe or other earthenware vessel. This high-protein-friendly recipe serves 4-6 people and can be prepared in under 45 minutes.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms (such as chanterelle or cremini)",
+      "amount": "1 and 1/4 cups",
+      "notes": "Fresh or dried, sliced or whole."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced."
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced."
+    },
+    {
+      "name": "White wine",
+      "amount": "2 cups",
+      "notes": "Dry, room temperature."
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mushroom broth",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought."
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/2 cup",
+      "notes": "Plain, unflavored."
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "2 teaspoons",
+      "notes": "Fresh thyme may be used instead."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": "Optional garnish."
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "Optional, grated."
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together Greek yogurt and 2 tablespoons of butter until smooth and emulsified.",
+    "In a large donabe or earthenware vessel, heat the remaining 2 tablespoons of butter over medium heat.",
+    "Add the sliced onion and cook until translucent, about 8 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the white wine and cook until it has almost completely evaporated, stirring occasionally, about 5 minutes.",
+    "Add the water, mushroom broth, dried thyme, salt, and pepper. Stir to combine.",
+    "Bring the mixture to a simmer and cook, covered, for 10-15 minutes, or until the liquid has been absorbed and the mushrooms are tender.",
+    "Stir in the emulsified yogurt mixture and cook for 2-3 minutes, until heated through.",
+    "Taste and adjust seasoning as needed.",
+    "Garnish with chopped parsley and grated Parmesan cheese, if desired.",
+    "Serve hot, straight from the donabe."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "donabe",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "earthy-snappy-croatian-mushroom-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-snappy-croatian-mushroom-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:26:40Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "snappy",
+    "mood": "indulgent",
+    "technique": "emulsify",
+    "primaryIngredient": "mushrooms",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Earthy, Snappy",
+    "dishForm": "Pilaf"
+  }
+}
