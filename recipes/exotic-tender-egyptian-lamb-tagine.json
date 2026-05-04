@@ -1,0 +1,100 @@
+{
+  "title": "Exotic Tender Egyptian Lamb Tagine",
+  "description": "A malty, tender, one-pot Egyptian dish featuring herbes-de-provence and ayurvedic-tamasic-friendly ingredients, with a crispy agemono-deep-fry touch. This recipe combines the flavors of Egypt with the principles of ayurvedic cooking.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "herbes-de-provence",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dates",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "prunes",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Stir in the herbes-de-provence and cook for 1 minute.",
+    "Add the chicken broth, dates, and prunes to the pot.",
+    "Return the lamb to the pot and bring to a boil.",
+    "Cover the pot and transfer to the oven, where it will cook at 300 degrees Fahrenheit.",
+    "Cook for 2 1/2 hours, or until the lamb is tender.",
+    "While the tagine is cooking, heat about 1/2 inch of oil in a skillet over medium-high heat for the agemono-deep-fry touch.",
+    "When the oil is hot, add a few pieces of the cooked lamb to the skillet and fry until crispy, about 2-3 minutes per side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "ayurvedic-cooking",
+    "dairy-free",
+    "egyptian-cuisine",
+    "gluten-free",
+    "lamb-recipes",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "exotic-tender-egyptian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-tender-egyptian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:01:14Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "tender",
+    "mood": "one-pot",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "herbes-de-provence",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lamb",
+    "descriptor": "exotic tender",
+    "dishForm": "Tagine"
+  }
+}
