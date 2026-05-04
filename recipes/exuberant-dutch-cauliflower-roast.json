@@ -1,0 +1,107 @@
+{
+  "title": "Exuberant Dutch Cauliflower Roast",
+  "description": "A smoky, caramelized cauliflower roast with a bold fish‑sauce glaze, served on a tagliere with toasted almonds and fresh herbs.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cauliflower head",
+      "amount": "1 large",
+      "notes": "about 800g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for coating"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fish sauce aekjeot",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh thyme leaves",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 lemon"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "toasted almonds",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C.",
+    "Cut cauliflower into florets, rinse, and pat dry.",
+    "Toss florets in a bowl with olive oil, sea salt, smoked paprika, minced garlic, thyme, lemon zest, red pepper flakes, and fish sauce aekjeot until evenly coated.",
+    "Spread florets in a single layer on a baking sheet.",
+    "Roast for 25 minutes, stirring halfway, until caramelized and tender.",
+    "Toast almonds in a dry skillet over medium heat until golden, then set aside.",
+    "Transfer roasted cauliflower to a tagliere, sprinkle with toasted almonds and chopped parsley, and drizzle any remaining fish sauce aekjeot.",
+    "Serve hot, optionally squeezing fresh lemon juice over top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dutch",
+    "fish-sauce",
+    "one-pan",
+    "roasted",
+    "tagliere",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 375,
+    "protein": 16,
+    "carbs": 16,
+    "fat": 27
+  },
+  "slug": "exuberant-dutch-cauliflower-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/exuberant-dutch-cauliflower-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:57:07Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shaggy",
+    "mood": "show-off",
+    "technique": "braise",
+    "primaryIngredient": "fish-sauce-aekjeot",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Cauliflower",
+    "descriptor": "Exuberant",
+    "dishForm": "Roast"
+  }
+}
