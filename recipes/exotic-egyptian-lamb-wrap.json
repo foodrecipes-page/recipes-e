@@ -1,0 +1,96 @@
+{
+  "title": "Exotic Egyptian Lamb Wrap",
+  "description": "A resinous and snappy Egyptian dish featuring hind shank, wrapped in leaves and steamed to perfection, perfect for a plant-based friendly meal",
+  "cuisine": "Egyptian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb hind shank",
+      "amount": "1 pound",
+      "notes": "bone-in"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coriander",
+      "amount": "2 tablespoons",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "collard green leaves",
+      "amount": "4 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, mix together the sliced onion, minced garlic, ground coriander, and ground cumin.",
+    "Add the lamb hind shank to the bowl and coat with the onion mixture.",
+    "Wrap each lamb shank in a collard green leaf, securing with a toothpick if needed.",
+    "Place the wrapped lamb shanks in a large steamer basket.",
+    "Steam the lamb shanks for 2 hours, or until the meat is tender and falls off the bone.",
+    "In a small bowl, mix together the lemon juice and olive oil.",
+    "Brush the lemon juice mixture over the lamb shanks during the last 30 minutes of steaming.",
+    "Serve the lamb shanks hot, wrapped in the collard green leaves."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "leaf-wrapped",
+    "middle-eastern",
+    "plant-based",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "exotic-egyptian-lamb-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-egyptian-lamb-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:44:20Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "snappy",
+    "mood": "show-off",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "hind shank",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lamb",
+    "descriptor": "exotic snappy",
+    "dishForm": "Wrap"
+  }
+}

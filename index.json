@@ -1906,6 +1906,20 @@
     "shard": "e"
   },
   {
+    "slug": "exotic-egyptian-lamb-wrap",
+    "title": "Exotic Egyptian Lamb Wrap",
+    "tags": [
+      "high-protein",
+      "leaf-wrapped",
+      "middle-eastern",
+      "plant-based",
+      "slow-cooked"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 150,
+    "shard": "e"
+  },
+  {
     "slug": "exotic-egyptian-tomato-custard",
     "title": "Exotic Egyptian Tomato Custard",
     "tags": [
