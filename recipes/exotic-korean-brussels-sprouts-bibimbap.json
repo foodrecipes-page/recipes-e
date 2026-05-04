@@ -1,0 +1,97 @@
+{
+  "title": "Exotic Korean Brussels Sprouts Bibimbap",
+  "description": "A romantic and herbal Korean dish featuring Brussels sprouts and pickle, perfect for a special occasion, and friendly to dairy-free diets.",
+  "cuisine": "Korean",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brussels sprouts",
+      "amount": "1 pound",
+      "notes": "trimmed and halved"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Pickle",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Firm tofu",
+      "amount": "1 cup",
+      "notes": "cubed"
+    },
+    {
+      "name": "Cooked white rice",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Toss the Brussels sprouts with sesame oil, Korean chili flakes, and salt on a baking sheet.",
+    "Roast the Brussels sprouts in the oven for 20 minutes, or until tender and caramelized.",
+    "In a small bowl, whisk together the rice vinegar and 1 tablespoon of water.",
+    "In a large bowl, combine the cooked white rice, roasted Brussels sprouts, diced pickle, and cubed tofu.",
+    "Drizzle the rice vinegar mixture over the top of the rice mixture and toss to combine.",
+    "Sprinkle the toasted sesame seeds over the top of the bibimbap.",
+    "Serve the bibimbap hot, with additional Korean chili flakes and pickle on the side if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "korean-cuisine",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "exotic-korean-brussels-sprouts-bibimbap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-korean-brussels-sprouts-bibimbap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:47:38Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "pillowy",
+    "mood": "romantic",
+    "technique": "pickle",
+    "primaryIngredient": "brussels sprouts",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "brussels sprouts",
+    "descriptor": "exotic pillowy",
+    "dishForm": "Bibimbap"
+  }
+}
