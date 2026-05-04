@@ -1,0 +1,96 @@
+{
+  "title": "Easy Light Filipino Rice Flour Pancakes",
+  "description": "A traditional Filipino dish featuring light and fluffy rice flour pancakes, this recipe is easy to make and perfect for a snack or breakfast, it is also satvik friendly and cooked to perfection in a paella pan with steam.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rice flour",
+      "amount": "2 cups",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "cold"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the rice flour and salt.",
+    "In a separate bowl, whisk together the water, eggs, and coconut milk.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Heat the paella pan over medium heat and brush with melted butter.",
+    "Using a 1/4 cup measuring cup, scoop the batter into the pan.",
+    "Cook the pancakes for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Loosen the pancakes with a spatula and flip them over, cooking for another 1-2 minutes, until golden brown.",
+    "Repeat the process until all the batter is used up, adjusting the heat as needed to prevent burning.",
+    "Serve the pancakes hot, garnished with chopped green onions and a drizzle of coconut milk if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "filipino-cuisine",
+    "gluten-free",
+    "healthy-breakfast",
+    "one-pan",
+    "quick-snack",
+    "satvik-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "easy-light-filipino-rice-flour-pancakes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-light-filipino-rice-flour-pancakes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:13:48Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "molten",
+    "mood": "light",
+    "technique": "steam",
+    "primaryIngredient": "rice flour pancakes",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "rice flour",
+    "descriptor": "Easy Light",
+    "dishForm": "Pancakes"
+  }
+}
