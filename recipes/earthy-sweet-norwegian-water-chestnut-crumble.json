@@ -1,0 +1,93 @@
+{
+  "title": "Earthy Sweet Norwegian Water Chestnut Crumble",
+  "description": "A sweet and crumbly Norwegian dish featuring water chestnut, perfect for a cozy dessert, dairy-free friendly.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "water chestnuts",
+      "amount": "1 1/2 cups",
+      "notes": "canned, drained, and rinsed"
+    },
+    {
+      "name": "oat flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "namul",
+      "amount": "1/4 cup",
+      "notes": "blanched and seasoned"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the oat flour, brown sugar, and salt.",
+    "Add the coconut oil, lemon juice, and vanilla extract to the bowl and stir until crumbly.",
+    "In a separate bowl, mix together the water chestnuts and namul.",
+    "Add the water chestnut mixture to the crumb mixture and stir until combined.",
+    "Transfer the mixture to a baking dish and bake for 35 minutes.",
+    "Remove the crumble from the oven and let it cool for a few minutes.",
+    "Serve the crumble warm, garnished with additional namul if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cozy-dessert",
+    "crumble",
+    "dairy-free",
+    "norwegian-dish",
+    "vegetarian",
+    "water-chestnut"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 16
+  },
+  "slug": "earthy-sweet-norwegian-water-chestnut-crumble",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-sweet-norwegian-water-chestnut-crumble",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:50:33Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "water chestnut",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "water chestnut",
+    "descriptor": "earthy sweet",
+    "dishForm": "Crumble"
+  }
+}
