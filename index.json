@@ -2244,6 +2244,20 @@
     "shard": "e"
   },
   {
+    "slug": "exotic-light-french-coconut-terrine",
+    "title": "Exotic Light French Coconut Terrine",
+    "tags": [
+      "coconut-based",
+      "french-dessert",
+      "grilled-dessert",
+      "light-and-airy",
+      "vegan-friendly"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 40,
+    "shard": "e"
+  },
+  {
     "slug": "exotic-moroccan-chicken-khlea",
     "title": "Exotic Moroccan Chicken Khlea",
     "tags": [

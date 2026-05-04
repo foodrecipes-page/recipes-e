@@ -1,0 +1,92 @@
+{
+  "title": "Exotic Light French Coconut Terrine",
+  "description": "A light and pillowy French terrine featuring desiccated coconut, score-fat, and vegan-friendly ingredients, grilled to perfection in a robata-grill vessel.",
+  "cuisine": "French",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "desiccated coconut",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "agar agar powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "score-fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill vessel to 350 degrees Fahrenheit.",
+    "In a medium saucepan, combine the coconut oil, maple syrup, lemon juice, and vanilla extract.",
+    "Bring the mixture to a boil over medium heat, then reduce the heat to low and simmer for 5 minutes.",
+    "In a small bowl, whisk together the agar agar powder and 2 tablespoons of water.",
+    "Add the agar agar mixture to the saucepan and whisk until dissolved.",
+    "Remove the saucepan from the heat and stir in the desiccated coconut and score-fat until well combined.",
+    "Pour the mixture into the preheated robata-grill vessel and smooth the top.",
+    "Grill the terrine for 20 minutes, or until the edges are lightly golden brown.",
+    "Remove the terrine from the grill and let it cool to room temperature.",
+    "Refrigerate the terrine for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-based",
+    "french-dessert",
+    "grilled-dessert",
+    "light-and-airy",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 24,
+    "fat": 22
+  },
+  "slug": "exotic-light-french-coconut-terrine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-light-french-coconut-terrine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:08:35Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "pillowy",
+    "mood": "light",
+    "technique": "score-fat",
+    "primaryIngredient": "desiccated coconut",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "coconut",
+    "descriptor": "Exotic Light",
+    "dishForm": "Terrine"
+  }
+}
