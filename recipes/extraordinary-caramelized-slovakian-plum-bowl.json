@@ -1,0 +1,88 @@
+{
+  "title": "Extraordinary Caramelized Slovakian Plum Bowl",
+  "description": "A rich and chewy solo-dinner Slovakian dish featuring oranges, perfect for Ayurvedic sattvic diet.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "sattvic",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "plums",
+      "amount": "3"
+    },
+    {
+      "name": "orange juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "almond oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Peel and chop the plums into bite-sized pieces and place them in the earthenware bowl.",
+    "In a small bowl, whisk together orange juice, honey, almond oil, cinnamon powder, and cardamom powder.",
+    "Pour the mixture over the plums and toss to coat.",
+    "Heat coconut oil in a small saucepan over medium heat.",
+    "Pour the hot oil over the plum mixture and toss to coat.",
+    "Transfer the bowl to the preheated oven and bake for 25 minutes.",
+    "Remove the bowl from the oven and let it cool for 5 minutes.",
+    "Serve the plums warm, garnished with additional orange zest if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-protein",
+    "one-pan",
+    "sattvic",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 70,
+    "fat": 14
+  },
+  "slug": "extraordinary-caramelized-slovakian-plum-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/extraordinary-caramelized-slovakian-plum-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:29:11Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "chewy",
+    "mood": "solo-dinner",
+    "technique": "caramelize",
+    "primaryIngredient": "oranges",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Plums",
+    "descriptor": "Extraordinary Caramelized",
+    "dishForm": "Bowl"
+  }
+}
