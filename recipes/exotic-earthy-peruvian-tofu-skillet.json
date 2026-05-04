@@ -1,0 +1,106 @@
+{
+  "title": "Exotic Earthy Peruvian Tofu Skillet",
+  "description": "A garlicky and snappy Peruvian dish featuring hojicha and smoked hot flavors, perfect for a hangover cure, made in a cast iron skillet with plant based friendly ingredients.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "hojicha tea powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "peruvian aji amarillo peppers",
+      "amount": "2 peppers",
+      "notes": "sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large cast iron skillet over medium high heat.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the chopped onion and cook for 3 minutes until translucent.",
+    "Add the sliced peruvian aji amarillo peppers and cook for 2 minutes until tender.",
+    "Add the cubed tofu and cook for 5 minutes until golden brown.",
+    "Add the hojicha tea powder, smoked paprika, salt, and black pepper, and stir to combine.",
+    "Reduce heat to medium low and simmer for 10 minutes until the flavors have melded together.",
+    "Garnish with chopped fresh cilantro and serve hot.",
+    "Serve with crusty bread or over rice for a filling meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "one-pan",
+    "peruvian",
+    "plant-based",
+    "smoky",
+    "spicy",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "exotic-earthy-peruvian-tofu-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-earthy-peruvian-tofu-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:45:53Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "snappy",
+    "mood": "hangover-cure",
+    "technique": "smoke-hot",
+    "primaryIngredient": "hojicha",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "tofu",
+    "descriptor": "exotic earthy",
+    "dishForm": "Skillet"
+  }
+}
