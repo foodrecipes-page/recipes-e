@@ -1,0 +1,123 @@
+{
+  "title": "Energetic British Puy Lentils Cornish Pasty",
+  "description": "A tangy and crispy British dish featuring puy lentils, perfect as a quick and easy low-fat meal. Fold this delicious pastry to make a satisfying lunch or dinner.",
+  "cuisine": "british",
+  "diet": [
+    "low-fat",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "puy lentils",
+      "amount": "150g",
+      "notes": "any colour"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "leek",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "250ml",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "rosemary",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "flour",
+      "amount": "100g",
+      "notes": "all-purpose"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 200°C.",
+    "In a large pot, bring the vegetable stock to a boil.",
+    "Add the onion, carrot, celery, leek, and red bell pepper, and cook for 5 minutes.",
+    "Stir in the tomato paste and cook for 1 minute.",
+    "Add the puy lentils and thyme, and bring to a simmer.",
+    "Reduce the heat to low and cook for 20 minutes.",
+    "In a separate pan, combine the flour, salt, and 100ml water to form a dough.",
+    "Knead the dough for 5 minutes and roll it out to a thickness of 3mm.",
+    "Cut out circles of dough using a pastry cutter or a glass.",
+    "Spoon a portion of the lentil mixture onto one half of each circle, leaving a 1cm border.",
+    "Fold the other half of the dough over the filling and press the edges together to seal.",
+    "Brush the tops with a little water and bake for 20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "cornish-pasty",
+    "lentils",
+    "low-fat",
+    "pastry",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "energetic-british-puy-lentils-cornish-pasty",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/energetic-british-puy-lentils-cornish-pasty",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:09:03Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "fold",
+    "primaryIngredient": "puy-lentils",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Puy Lentils",
+    "descriptor": "Energetic",
+    "dishForm": "Cornish Pasty"
+  }
+}
