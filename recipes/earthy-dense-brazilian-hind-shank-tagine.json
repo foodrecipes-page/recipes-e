@@ -1,0 +1,99 @@
+{
+  "title": "Earthy Dense Brazilian Hind Shank Tagine",
+  "description": "A rich and flavorful Brazilian dish featuring hind shank, perfect for a date night, made with render fat and FODMAP friendly ingredients, cooked in a ceramic tagine.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "FODMAP friendly",
+    "gluten free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hind shank",
+      "amount": "2 pounds",
+      "notes": "bone in"
+    },
+    {
+      "name": "render fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic free brazilian seasoning",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the hind shank with salt, black pepper, and smoked paprika.",
+    "Heat the render fat in the ceramic tagine over medium heat.",
+    "Sear the hind shank until browned on all sides, then set aside.",
+    "Add the dates, brown sugar, coconut milk, and brazilian seasoning to the tagine.",
+    "Return the hind shank to the tagine, covering it with the date and coconut milk mixture.",
+    "Cover the tagine and transfer it to the preheated oven.",
+    "Braise the hind shank for 2 1/2 hours, or until tender and falling off the bone.",
+    "Remove the tagine from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "brazilian-cuisine",
+    "date-night",
+    "fodmap-friendly",
+    "gluten-free",
+    "hind-shank",
+    "render-fat",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 40,
+    "fat": 80
+  },
+  "slug": "earthy-dense-brazilian-hind-shank-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-dense-brazilian-hind-shank-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:53:41Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "render-fat",
+    "primaryIngredient": "hind shank",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "hind shank",
+    "descriptor": "earthy dense",
+    "dishForm": "Tagine"
+  }
+}

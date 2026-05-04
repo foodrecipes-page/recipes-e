@@ -1,0 +1,94 @@
+{
+  "title": "Elegant Umami Korean Flax Hwajeon",
+  "description": "A creamy and nostalgic Korean dish featuring flax eggs, this ovo-vegetarian-friendly hwajeon is perfect for a special occasion. It combines the richness of umami flavors with the simplicity of a traditional Korean pancake.",
+  "cuisine": "Korean",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flaxseed meal",
+      "amount": "1/2 cup",
+      "notes": "ground flaxseed"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated Korean chili paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flaxseed meal and water to make flax eggs, letting it sit for 5 minutes to thicken.",
+    "In a separate bowl, whisk together the flour, chili paste, soy sauce, and sesame oil.",
+    "Add the flour mixture to the flax eggs and stir until just combined, being careful not to overmix.",
+    "Fold in the chopped scallions and crumbled tofu.",
+    "Heat a non-stick skillet or griddle over medium heat and brush with a small amount of oil.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the skillet or griddle.",
+    "Cook the hwajeon for 2-3 minutes on the first side, until the edges start to dry and the surface is bubbly.",
+    "Loosen the hwajeon with a spatula and flip it over, cooking for an additional 1-2 minutes, until golden brown.",
+    "Broil the hwajeon for 1-2 minutes, until crispy and slightly charred.",
+    "Serve the Elegant Umami Korean Flax Hwajeon hot, garnished with additional chopped scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "broiled",
+    "flax-eggs",
+    "korean-pancake",
+    "ovo-vegetarian",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "elegant-umami-korean-flax-hwajeon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/elegant-umami-korean-flax-hwajeon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:53:14Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "nostalgic",
+    "technique": "broil",
+    "primaryIngredient": "flax eggs",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "flax",
+    "descriptor": "Elegant Umami",
+    "dishForm": "Hwajeon"
+  }
+}

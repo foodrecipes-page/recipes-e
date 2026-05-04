@@ -470,6 +470,22 @@
     "shard": "e"
   },
   {
+    "slug": "earthy-dense-brazilian-hind-shank-tagine",
+    "title": "Earthy Dense Brazilian Hind Shank Tagine",
+    "tags": [
+      "brazilian-cuisine",
+      "date-night",
+      "fodmap-friendly",
+      "gluten-free",
+      "hind-shank",
+      "render-fat",
+      "tagine"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 180,
+    "shard": "e"
+  },
+  {
     "slug": "earthy-dense-venezuelan-tuna-chowder",
     "title": "Earthy Dense Venezuelan Tuna Chowder",
     "tags": [
@@ -1435,6 +1451,20 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 60,
+    "shard": "e"
+  },
+  {
+    "slug": "elegant-umami-korean-flax-hwajeon",
+    "title": "Elegant Umami Korean Flax Hwajeon",
+    "tags": [
+      "broiled",
+      "flax-eggs",
+      "korean-pancake",
+      "ovo-vegetarian",
+      "umami-rich"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {
