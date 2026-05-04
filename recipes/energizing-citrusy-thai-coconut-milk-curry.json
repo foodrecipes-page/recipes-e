@@ -1,0 +1,146 @@
+{
+  "title": "Energizing Citrusy Thai Coconut Milk Curry",
+  "description": "A refreshing spring-inspired Thai curry featuring the brightness of citrus and the creaminess of unsweetened coconut milk. Perfect for a meal that's both energizing and kosher-friendly.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh lemongrass",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "Fresh galangal",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk (unsweetened)",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sugar-free fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Zest of 1 lime",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cups mixed vegetables (such as bell peppers, carrots, and green beans)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 boneless, skinless chicken breasts (optional)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of coconut oil in a large pan over medium-high heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic, lemongrass, and galangal, and cook for an additional 2 minutes.",
+    "Add the grated ginger and Thai red curry paste, and cook for 1 minute, stirring constantly.",
+    "Pour in the coconut milk and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10-15 minutes or until the sauce has thickened.",
+    "Stir in the fresh lime juice, sugar-free fish sauce, and salt and pepper to taste.",
+    "Add the mixed vegetables and chicken breasts (if using) and cook until the vegetables are tender, about 5-7 minutes.",
+    "Stir in the chopped cilantro and zested lime juice.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the curry over rice or noodles and garnish with additional cilantro if desired.",
+    "Store any leftovers in the refrigerator for up to 3 days and reheat as needed.",
+    "Note: If using chicken, make sure to cook it to an internal temperature of 165°F (74°C) to ensure food safety.",
+    "Note: Adjust the amount of chili peppers to your desired level of spiciness."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 25,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "kosher",
+    "one-pan",
+    "spring",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 44
+  },
+  "slug": "energizing-citrusy-thai-coconut-milk-curry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-citrusy-thai-coconut-milk-curry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:13:02Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "springy",
+    "mood": "energizing",
+    "technique": "bhuna",
+    "primaryIngredient": "unsweetened coconut milk",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "thai",
+    "mainIngredient": "coconut milk",
+    "descriptor": "energizing citrusy",
+    "dishForm": "curry"
+  }
+}
