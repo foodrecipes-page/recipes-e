@@ -2023,6 +2023,22 @@
     "shard": "e"
   },
   {
+    "slug": "exotic-smoky-jamaican-chicken-skewers",
+    "title": "Exotic Smoky Jamaican Chicken Skewers",
+    "tags": [
+      "chicken",
+      "grilled",
+      "jamaican",
+      "low-sodium",
+      "meal-prep",
+      "skewers",
+      "smoky"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
     "slug": "exotic-spanish-fish-paella",
     "title": "Exotic Spanish Fish Paella",
     "tags": [

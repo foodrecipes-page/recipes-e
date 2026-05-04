@@ -1,0 +1,107 @@
+{
+  "title": "Exotic Smoky Jamaican Chicken Skewers",
+  "description": "Smoky and gooey Jamaican dish featuring clotted cream and nuka pickle, grilled to perfection on a robata grill, this meal prep friendly recipe is low in sodium and full of flavor.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "clotted cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "nuka pickle",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "low sodium"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "wood chips",
+      "amount": "1 cup",
+      "notes": "for smoking"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together jamaican jerk seasoning, brown sugar, soy sauce, and lime juice.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and season with salt and pepper.",
+    "Grill the skewers for 10-12 minutes, or until the chicken is cooked through.",
+    "While the chicken is cooking, mix the clotted cream and chopped nuka pickle in a small bowl.",
+    "Once the chicken is cooked, brush the clotted cream mixture onto the skewers.",
+    "Return the skewers to the grill and cook for an additional 2 minutes, or until the cream is caramelized and gooey.",
+    "Remove the skewers from the grill and sprinkle with chopped scallions.",
+    "Serve the skewers hot, garnished with additional scallions and lime wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "grilled",
+    "jamaican",
+    "low-sodium",
+    "meal-prep",
+    "skewers",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "exotic-smoky-jamaican-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-smoky-jamaican-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:06:47Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "gooey",
+    "mood": "meal-prep",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "clotted-cream-extra",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "exotic smoky",
+    "dishForm": "Skewers"
+  }
+}
