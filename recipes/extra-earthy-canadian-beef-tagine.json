@@ -1,0 +1,95 @@
+{
+  "title": "Extra-Earthy Canadian Beef Tagine",
+  "description": "A hearty, peppery, one-pot Canadian dish featuring beef, onions, and dried cranberries, all served in a flavorful beef broth.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free",
+    "sugar-free-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "500g"
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1"
+    },
+    {
+      "name": "beef broth",
+      "amount": "250ml"
+    },
+    {
+      "name": "dried cranberries",
+      "amount": "60g"
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "20g"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "10g"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "30g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "20g"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned on all sides, about 5 minutes.",
+    "Add onion and cook until browned, about 5 minutes.",
+    "Add beef broth, cranberries, peppercorns, thyme, and flour, and stir to combine.",
+    "Cover the pot and transfer to the preheated oven.",
+    "Bake at 300°F (150°C) for 2 hours, or until the beef is tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the tagine hot, garnished with fresh thyme if desired.",
+    "To make the en-croute, roll out the puff pastry to a thickness of 1/4 inch (6 mm).",
+    "Cut the pastry into strips, about 6 inches (15 cm) wide and 18 inches (45 cm) long.",
+    "Weave the pastry strips into a lattice pattern on top of the tagine, pressing the edges to seal.",
+    "Brush the pastry with egg wash and bake at 400°F (200°C) for 25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 165,
+  "totalTimeMin": 190,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "canadian",
+    "one-pot",
+    "peppery",
+    "sugar-free-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "extra-earthy-canadian-beef-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/extra-earthy-canadian-beef-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:41:04Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "one-pot",
+    "technique": "en-croute",
+    "primaryIngredient": "yellow onion",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "beef",
+    "descriptor": "Extra-Earthy",
+    "dishForm": "Tagine"
+  }
+}

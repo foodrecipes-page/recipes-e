@@ -1,0 +1,118 @@
+{
+  "title": "Exotic Spanish Fish Paella",
+  "description": "A flavorful and vibrant Spanish dish featuring tahini and spherified egg yolk, perfect for a romantic date night. This paella is not only delicious, but also anti-inflammatory-friendly and packed with nutrients.",
+  "cuisine": "Spanish",
+  "diet": [
+    "Vegetarian",
+    "Vegan-friendly",
+    "Gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Saffron-infused Vegetable Broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Tahini",
+      "amount": "2 tbsp",
+      "notes": "sesame-free"
+    },
+    {
+      "name": "Fresh Lemon Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Grapeseed Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garden Cress",
+      "amount": "1 bunch",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Chermoula-spiced Cod",
+      "amount": "4 fillets"
+    },
+    {
+      "name": "Sodium Alginate",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Calcium Chloride",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Egg Yolk",
+      "amount": "4",
+      "notes": "for spherification"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the grapeseed oil in a large paella pan over medium-high heat.",
+    "Add the thinly sliced onion and cook until translucent, about 5 minutes.",
+    "Add the thinly sliced red bell pepper and cook for an additional 3 minutes.",
+    "Add the chopped garden cress and cook for 1 minute, until fragrant.",
+    "Add the saffron-infused vegetable broth to the pan and bring to a simmer.",
+    "Add the chermoula-spiced cod fillets to the pan and cook for 5-7 minutes, or until cooked through.",
+    "While the cod is cooking, prepare the tahini sauce by whisking together the tahini, lemon juice, and a pinch of salt in a small bowl.",
+    "Spherify the egg yolks by combining the sodium alginate and calcium chloride in a small bowl, then slowly adding in the egg yolks while whipping with a fork.",
+    "Once the cod is cooked, remove it from the pan and set aside.",
+    "Add the chopped parsley to the pan and stir to combine.",
+    "To serve, place a cod fillet on each plate, then spoon the paella mixture over the top.",
+    "Drizzle the tahini sauce over the top of each plate, followed by the spherified egg yolks."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "anti-inflammatory",
+    "date-night",
+    "high-protein",
+    "one-pan",
+    "romantic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 630,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 35
+  },
+  "slug": "exotic-spanish-fish-paella",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-spanish-fish-paella",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:41:11Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "spherify",
+    "primaryIngredient": "tahini",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "fish",
+    "descriptor": "Exotic",
+    "dishForm": "Paella"
+  }
+}

@@ -1583,6 +1583,21 @@
     "shard": "e"
   },
   {
+    "slug": "exotic-spanish-fish-paella",
+    "title": "Exotic Spanish Fish Paella",
+    "tags": [
+      "anti-inflammatory",
+      "date-night",
+      "high-protein",
+      "one-pan",
+      "romantic",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 45,
+    "shard": "e"
+  },
+  {
     "slug": "exotic-winey-ethiopian-pork-back-ribs-kitfo",
     "title": "Exotic Winey Ethiopian Pork Back Ribs Kitfo",
     "tags": [
@@ -1640,6 +1655,21 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 58,
+    "shard": "e"
+  },
+  {
+    "slug": "extra-earthy-canadian-beef-tagine",
+    "title": "Extra-Earthy Canadian Beef Tagine",
+    "tags": [
+      "beef",
+      "canadian",
+      "one-pot",
+      "peppery",
+      "sugar-free-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 190,
     "shard": "e"
   },
   {
