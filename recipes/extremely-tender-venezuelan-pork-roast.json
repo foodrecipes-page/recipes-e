@@ -1,0 +1,103 @@
+{
+  "title": "Venezuelan Lechon Asado",
+  "description": "A traditional Venezuelan dish featuring a slow-roasted pork shoulder marinated in a mixture of citrus, spices, and herbs.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 lbs"
+    },
+    {
+      "name": "freshly squeezed lime juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "oregano",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "In a large bowl, whisk together lime juice, olive oil, garlic, oregano, coriander, cumin, salt, and black pepper.",
+    "Add the pork shoulder to the marinade and mix well.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Remove the pork from the marinade and place it in a large Dutch oven or oven-safe pot.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Roast the pork for 2 hours and 30 minutes.",
+    "Remove the pot from the oven and let the pork rest for 10 minutes.",
+    "Strain the juices from the pot and discard the solids.",
+    "Serve the pork with the strained juices spooned over the top.",
+    "Garnish with chopped cilantro and serve with rice, beans, or boiled potatoes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "latin-american",
+    "main-course",
+    "pork",
+    "roast",
+    "sugar-free",
+    "venezuelan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 34
+  },
+  "slug": "extremely-tender-venezuelan-pork-roast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/extremely-tender-venezuelan-pork-roast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T11:42:17Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "tender",
+    "mood": "nostalgic",
+    "technique": "roast",
+    "primaryIngredient": "lime",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "pork",
+    "descriptor": "Extremely tender",
+    "dishForm": "Roast"
+  }
+}
