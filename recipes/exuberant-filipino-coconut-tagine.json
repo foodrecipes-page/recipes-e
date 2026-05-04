@@ -1,0 +1,122 @@
+{
+  "title": "Exuberant Filipino Coconut Tagine",
+  "description": "A fat, shaggy coconut tagine packed with cherries and a creamy coconut crust, perfect for a show‑off Filipino dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "200 g",
+      "notes": "firm, cubed"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200 ml"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "pinch"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "handful",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Set the ceramic tagine on medium heat and swirl in the sesame oil.",
+    "Add the diced onion, minced garlic, and grated ginger, sautéing until fragrant.",
+    "Pour in the coconut milk and vegetable broth, stirring to combine.",
+    "Drop the tofu cubes into the liquid, letting them simmer for 5 minutes.",
+    "Add the soy sauce and salt, then pour the coconut cream over the mixture, creating a rich crust.",
+    "Slide the halved cherry tomatoes into the tagine, covering them with the coconut layer.",
+    "Cover the tagine and reduce the heat to low, simmering for 15 minutes until the tofu is tender.",
+    "Uncover, sprinkle chili flakes, black pepper, and chopped cilantro, stirring gently.",
+    "Serve the tagine hot, spooning the luscious coconut cream over the tofu and cherries."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ceramic-tagine",
+    "filipino",
+    "high-fat",
+    "high-protein",
+    "jain-friendly",
+    "shaggy",
+    "show-off"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 45,
+    "fat": 35
+  },
+  "slug": "exuberant-filipino-coconut-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/exuberant-filipino-coconut-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:43:59Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "shaggy",
+    "mood": "show-off",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "cherries",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Coconut",
+    "descriptor": "Exuberant",
+    "dishForm": "Tagine"
+  }
+}

@@ -1849,5 +1849,21 @@
     "cuisine": "venezuelan",
     "totalTimeMin": 140,
     "shard": "e"
+  },
+  {
+    "slug": "exuberant-filipino-coconut-tagine",
+    "title": "Exuberant Filipino Coconut Tagine",
+    "tags": [
+      "ceramic-tagine",
+      "filipino",
+      "high-fat",
+      "high-protein",
+      "jain-friendly",
+      "shaggy",
+      "show-off"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 40,
+    "shard": "e"
   }
 ]
