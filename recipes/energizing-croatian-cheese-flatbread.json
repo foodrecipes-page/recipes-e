@@ -1,0 +1,103 @@
+{
+  "title": "Energizing Croatian Cheese Flatbread",
+  "description": "A yeasty, snappy flatbread with shredded Monterey Jack, blanched spinach, and a nostalgic Croatian flair, perfect for a quick energizing meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "250g"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "7g"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "10g"
+    },
+    {
+      "name": "warm water",
+      "amount": "180ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "15ml"
+    },
+    {
+      "name": "shredded Monterey Jack cheese",
+      "amount": "100g"
+    },
+    {
+      "name": "fresh spinach",
+      "amount": "50g",
+      "notes": "blanch for 2 minutes before adding"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1g"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1g"
+    },
+    {
+      "name": "sea salt",
+      "amount": "5g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1g"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl combine flour, yeast, sugar, and sea salt.",
+    "Add warm water and olive oil, stir until a shaggy dough forms.",
+    "Knead the dough on a floured surface for 8 minutes until smooth and elastic.",
+    "Place the dough in a lightly oiled bowl, cover, and let rise for 45 minutes until doubled in size.",
+    "While the dough rises, blanch the spinach in boiling water for 2 minutes, then drain and squeeze out excess moisture.",
+    "After the dough has risen, punch it down, roll it into a 12‑inch circle, and transfer to a parchment‑lined baking sheet.",
+    "Sprinkle shredded Monterey Jack and blanched spinach evenly over the dough, then season with garlic powder, oregano, black pepper, and a drizzle of olive oil.",
+    "Bake at 220°C for 15 minutes until golden, then let rest 5 minutes before slicing."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "croatian",
+    "flatbread",
+    "snappy",
+    "weeknight",
+    "yeast"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 14,
+    "carbs": 51,
+    "fat": 12
+  },
+  "slug": "energizing-croatian-cheese-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-croatian-cheese-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:09:31Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "snappy",
+    "mood": "nostalgic",
+    "technique": "blanch",
+    "primaryIngredient": "shredded monterey jack cheese",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "cheese",
+    "descriptor": "Energizing",
+    "dishForm": "Flatbread"
+  }
+}
