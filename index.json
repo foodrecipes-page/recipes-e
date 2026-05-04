@@ -1640,6 +1640,21 @@
     "shard": "e"
   },
   {
+    "slug": "energizing-australian-cheddar-bake",
+    "title": "Energizing Australian Cheddar Bake",
+    "tags": [
+      "cheese-lover",
+      "one-bake",
+      "quick",
+      "single-dinner",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 25,
+    "shard": "e"
+  },
+  {
     "slug": "energizing-australian-tofu-stew",
     "title": "Energising Australian Tofu Stew",
     "tags": [

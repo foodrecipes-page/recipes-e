@@ -1,0 +1,96 @@
+{
+  "title": "Energizing Australian Cheddar Bake",
+  "description": "A fresh, gooey solo‑dinner bake featuring Australian Cheddar, chilli flakes and a touch of parsley for a quick, satisfying meal.",
+  "cuisine": "Australian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian Cheddar cheese",
+      "amount": "200g",
+      "notes": "freshly sliced"
+    },
+    {
+      "name": "Whole wheat pastry dough",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.25 tsp"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4 medium",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Line a baking sheet with parchment paper and lay the pastry sheet flat.",
+    "Spread the beaten egg and a drizzle of olive oil over the pastry.",
+    "Arrange the sliced Cheddar, chopped parsley, thinly sliced red onion, and sprinkle chili flakes evenly on top.",
+    "Season with salt and black pepper.",
+    "Drizzle a little more olive oil over the cheese layer.",
+    "Place in a preheated oven at 200°C and bake for 12 minutes or until golden and gooey.",
+    "Remove from oven and let rest for 2 minutes before slicing.",
+    "Serve hot and enjoy the fresh, spicy, and nourishing Australian Cheddar Bake."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese-lover",
+    "one-bake",
+    "quick",
+    "single-dinner",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 15,
+    "carbs": 9,
+    "fat": 19
+  },
+  "slug": "energizing-australian-cheddar-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-australian-cheddar-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:41:48Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "bake",
+    "primaryIngredient": "chilli flakes",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Cheddar",
+    "descriptor": "Energizing",
+    "dishForm": "Bake"
+  }
+}
