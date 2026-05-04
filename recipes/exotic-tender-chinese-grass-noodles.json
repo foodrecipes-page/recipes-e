@@ -1,0 +1,99 @@
+{
+  "title": "Exotic Tender Chinese Grass Noodles",
+  "description": "A delicious and adventurous Chinese dish featuring tender noodles and a savory sauce, made with a variety of ingredients including oil and deglaze-fond, finished with a dash of friendly seasoning.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese grass noodles",
+      "amount": "8 oz",
+      "notes": "also known as cellophane noodles"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the Chinese grass noodles according to the package instructions.",
+    "In a small bowl, whisk together the soy sauce, oyster sauce, and sesame oil.",
+    "In a large skillet or wok, heat the vegetable oil over medium-high heat.",
+    "Add the garlic and ginger to the skillet and stir-fry until fragrant.",
+    "Add the cooked noodles to the skillet and stir-fry for 2-3 minutes.",
+    "Pour the soy sauce mixture into the skillet and stir-fry for another minute.",
+    "Add the scallions, salt, and black pepper to the skillet and stir-fry for 30 seconds.",
+    "Use a small amount of the cooking water to deglaze the fond in the skillet.",
+    "Serve the noodles hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-inspired",
+    "one-pan",
+    "quick-meal",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "exotic-tender-chinese-grass-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-tender-chinese-grass-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:39:55Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "oil",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "grass",
+    "descriptor": "exotic tender",
+    "dishForm": "Noodles"
+  }
+}

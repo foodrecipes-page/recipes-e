@@ -2703,6 +2703,20 @@
     "shard": "e"
   },
   {
+    "slug": "exotic-tender-chinese-grass-noodles",
+    "title": "Exotic Tender Chinese Grass Noodles",
+    "tags": [
+      "asian-inspired",
+      "one-pan",
+      "quick-meal",
+      "stir-fry",
+      "vegetarian"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
+    "shard": "e"
+  },
+  {
     "slug": "exotic-tender-egyptian-lamb-tagine",
     "title": "Exotic Tender Egyptian Lamb Tagine",
     "tags": [
