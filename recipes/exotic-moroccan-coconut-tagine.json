@@ -1,0 +1,96 @@
+{
+  "title": "Exotic Moroccan Coconut Tagine",
+  "description": "A funky and crumbly Moroccan dish featuring meringue nests and coconut cream crack, served in a traditional molcajete vessel, jain friendly.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "coconut cream",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "meringue nests",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "tagine spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can"
+    },
+    {
+      "name": "diced apricots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the tagine spice mix, chickpeas, diced apricots, pistachios, salt, and black pepper.",
+    "In a separate bowl, whip the coconut cream until it forms stiff peaks.",
+    "Fold the whipped coconut cream into the chickpea mixture until well combined.",
+    "Spoon the mixture into a molcajete vessel, creating a nest shape in the center of each serving.",
+    "Place a meringue nest in the center of each serving.",
+    "Drizzle the olive oil over the top of each serving.",
+    "Bake for 25 minutes, or until the meringue is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-based",
+    "jain-friendly",
+    "moroccan-inspiration",
+    "one-pan",
+    "special-occasion",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "exotic-moroccan-coconut-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-moroccan-coconut-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:23:30Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crumbly",
+    "mood": "show-off",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "meringue nests",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "coconut",
+    "descriptor": "Exotic Elegant",
+    "dishForm": "Tagine"
+  }
+}

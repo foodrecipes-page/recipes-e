@@ -2566,6 +2566,21 @@
     "shard": "e"
   },
   {
+    "slug": "exotic-moroccan-coconut-tagine",
+    "title": "Exotic Moroccan Coconut Tagine",
+    "tags": [
+      "coconut-based",
+      "jain-friendly",
+      "moroccan-inspiration",
+      "one-pan",
+      "special-occasion",
+      "vegetarian-option"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 45,
+    "shard": "e"
+  },
+  {
     "slug": "exotic-savory-algerian-lamb-tagine",
     "title": "Exotic Savory Algerian Lamb Tagine",
     "tags": [
