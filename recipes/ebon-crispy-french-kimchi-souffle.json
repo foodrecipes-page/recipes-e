@@ -1,0 +1,105 @@
+{
+  "title": "Ebon Crispy French Kimchi Souffle",
+  "description": "A charred, crispy soufflé blending fermented kimchi with French cooking flair, perfect for a sugar-free weeknight dinner.",
+  "cuisine": "French",
+  "diet": [
+    "low-sugar",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large eggs",
+      "amount": "4",
+      "notes": "separated"
+    },
+    {
+      "name": "fermented kimchi",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "2 tbsp",
+      "notes": "finely grated"
+    },
+    {
+      "name": "papelon",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh thyme leaves",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for greasing"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C and grease a 9-inch soufflé dish with olive oil.",
+    "In a skillet, melt butter over medium heat and sauté chopped kimchi for 3 minutes until slightly caramelized; set aside.",
+    "Separate egg yolks and whites; beat yolks with almond milk, salt, pepper, and thyme until smooth.",
+    "Whisk egg whites with a pinch of salt until soft peaks form.",
+    "Fold the whisked whites into the yolk mixture gently, then fold in the sautéed kimchi and parmesan cheese.",
+    "Pour mixture into the prepared dish and spread evenly.",
+    "Bake for 18 minutes or until the surface is puffed and firm.",
+    "Reduce heat to 180°C and broil for 1-2 minutes to char the top and develop a crispy crust.",
+    "Remove from oven, let rest 2 minutes, then serve immediately with a sprinkle of fresh thyme.",
+    "For a sugar-free version, omit papelon or replace it with a natural sweetener."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kimchi",
+    "low-sugar",
+    "one-pan",
+    "souffle",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 700,
+    "protein": 26,
+    "carbs": 14,
+    "fat": 60
+  },
+  "slug": "ebon-crispy-french-kimchi-souffle",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/ebon-crispy-french-kimchi-souffle",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:15:35Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "papelon",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "kimchi",
+    "descriptor": "Ebon Crispy",
+    "dishForm": "Souffle"
+  }
+}
