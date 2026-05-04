@@ -1,0 +1,106 @@
+{
+  "title": "Easy Going Vietnamese Tofu Pho",
+  "description": "A funky and silky Vietnamese dish featuring sushi rice and tofu, perfect for a sick day, and jain-friendly. This recipe is easy to make and delicious to eat.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sushi rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole",
+      "notes": "dried"
+    },
+    {
+      "name": "cinnamon stick",
+      "amount": "1 stick",
+      "notes": "dried"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine the vegetable broth, sliced onion, sliced ginger, star anise, and cinnamon stick, and bring to a boil over high heat.",
+    "Reduce the heat to low and simmer for 20 minutes, or until the flavors have melded together.",
+    "While the broth is simmering, cook the sushi rice according to the package instructions.",
+    "In a separate pan, heat 1 tablespoon of oil over medium heat and add the cubed tofu, cooking until golden brown on all sides.",
+    "Add the cooked tofu to the simmering broth and cook for an additional 5 minutes.",
+    "Stir in the soy sauce and lime juice, and season with salt to taste.",
+    "To serve, place some cooked sushi rice into a bowl, ladle the hot broth and tofu over the top, and garnish with sliced green onions and a sprinkle of grated ginger.",
+    "Serve immediately and enjoy.",
+    "Refrigerate or freeze any leftovers for up to 3 days.",
+    "Reheat the soup over low heat, adding more vegetable broth if needed to achieve the desired consistency."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "jain-friendly",
+    "one-pot",
+    "vegetarian",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "easy-going-vietnamese-tofu-pho",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-going-vietnamese-tofu-pho",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:10:25Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "silky",
+    "mood": "sick-day",
+    "technique": "simmer",
+    "primaryIngredient": "sushi rice",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "tofu",
+    "descriptor": "Easy Going",
+    "dishForm": "Pho"
+  }
+}
