@@ -1,0 +1,104 @@
+{
+  "title": "Easy Creamy Russian Beef Pilaf",
+  "description": "A winey and creamy Russian dish featuring ground cardamom, perfect for a family dinner, this low-sodium friendly recipe is kid-friendly and delicious.",
+  "cuisine": "Russian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "90% lean"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cooked rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat and cook the ground beef until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion to the skillet and cook until it is translucent.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Stir in the ground cardamom and cook for 1 minute.",
+    "Add the white wine to the skillet and bring to a boil, scraping up any browned bits from the bottom of the pan.",
+    "Add the beef broth to the skillet and bring to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Stir in the heavy cream and cook until the sauce has thickened slightly.",
+    "Add the cooked rice to the skillet and stir to combine with the beef and sauce.",
+    "Season the pilaf with salt and black pepper to taste.",
+    "Serve the pilaf hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "kid-friendly",
+    "low-sodium",
+    "one-pan",
+    "russian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "easy-creamy-russian-beef-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-creamy-russian-beef-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:27:27Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "creamy",
+    "mood": "kid-friendly",
+    "technique": "braise",
+    "primaryIngredient": "ground cardomom",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "easy creamy",
+    "dishForm": "Pilaf"
+  }
+}
