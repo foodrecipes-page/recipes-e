@@ -1,0 +1,112 @@
+{
+  "title": "Ethereal Mediterranean Bonito Roast",
+  "description": "A silky roasted bonito dish with kabse spice, bonito-shave, and ayurvedic-tamasic-friendly flavors that brings Mediterranean comfort to any crowd.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bonito fillets",
+      "amount": "4 (200g each)",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "kabse spice blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon slices",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "fresh rosemary sprigs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "balsamic glaze",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "pomegranate seeds",
+      "amount": "2 tbsp",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 F (200 C).",
+    "Lightly oil a baking sheet with olive oil.",
+    "Pat bonito fillets dry with paper towels.",
+    "Season fillets with kabse spice, salt, and pepper.",
+    "Arrange fillets on baking sheet, skin side up.",
+    "Place lemon slices and rosemary sprigs between fillets.",
+    "Roast fillets for 10 minutes, or until cooked through.",
+    "While roasting, heat balsamic glaze in a small saucepan until slightly thickened.",
+    "Remove fillets from oven and drizzle glaze evenly over each fillet.",
+    "Sprinkle minced garlic over the fillets and return to oven for an additional 2 minutes.",
+    "Transfer fillets to plates, add pomegranate seeds as garnish if desired.",
+    "Serve immediately with a side of roasted vegetables or couscous."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "crowd-pleaser",
+    "high-protein",
+    "mediterranean",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 524,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 17
+  },
+  "slug": "ethereal-mediterranean-bonito-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/ethereal-mediterranean-bonito-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:28:14Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "silky",
+    "mood": "crowd-pleaser",
+    "technique": "bonito-shave",
+    "primaryIngredient": "kabse spice",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "bonito",
+    "descriptor": "Ethereal",
+    "dishForm": "Roast"
+  }
+}
