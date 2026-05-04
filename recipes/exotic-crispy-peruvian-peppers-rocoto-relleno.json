@@ -1,0 +1,101 @@
+{
+  "title": "Exotic Crispy Peruvian Peppers Rocoto Relleno",
+  "description": "A herbal and crispy solo dinner dish featuring Dutch stroop and shio koji cure, served in a tagliere vessel, this Peruvian recipe is a unique twist on traditional rocoto relleno.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rocoto peppers",
+      "amount": "4 large",
+      "notes": "any color"
+    },
+    {
+      "name": "Dutch stroop",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shio koji",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "gluten-free breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut off the tops of the rocoto peppers and remove the seeds and membranes.",
+    "In a bowl, mix together the Dutch stroop, shio koji, garlic, cilantro, lime juice, salt, and black pepper.",
+    "Stuff each pepper with the stroop mixture and top with gluten-free breadcrumbs.",
+    "Drizzle the olive oil over the peppers and breadcrumbs.",
+    "Place the peppers in a tagliere vessel and bake for 25 minutes.",
+    "Increase the oven temperature to 425 degrees Fahrenheit and bake for an additional 10 minutes, or until the peppers are crispy.",
+    "Remove the peppers from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-peppers",
+    "dutch-stroop",
+    "gluten-free",
+    "one-pan",
+    "peruvian-cuisine",
+    "shio-koji"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "exotic-crispy-peruvian-peppers-rocoto-relleno",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-crispy-peruvian-peppers-rocoto-relleno",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:11:11Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "dutch stroop",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "peppers",
+    "descriptor": "Exotic Crispy",
+    "dishForm": "Rocoto Relleno"
+  }
+}
