@@ -1,0 +1,141 @@
+{
+  "title": "Elegant Japanese Caraway Seed Tagine",
+  "description": "A fragrant and flavorful Japanese-inspired stew made with tender vegetables and warm spices. Perfect for a festive dinner party or special occasion.",
+  "cuisine": "Japanese",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck Meat (or Chicken Breast)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Caraway Seeds",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Bamboo Shoots",
+      "amount": "1 can",
+      "notes": "low-sodium, drained and sliced"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Star Anise",
+      "amount": "2 whole",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon Stick",
+      "amount": "1 whole",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large Dutch oven over medium heat.",
+    "Add sliced onions and cook until softened, about 8 minutes.",
+    "Add grated ginger and cook for 1 minute, stirring constantly.",
+    "Add sliced mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add bamboo shoots, duck meat, soy sauce, honey, rice vinegar, star anise, cinnamon stick, salt, and black pepper. Stir to combine.",
+    "Pour in water and bring the mixture to a boil.",
+    "Cover the Dutch oven and transfer it to the oven. Cook for 25 minutes or until the meat is tender and the flavors have melded together.",
+    "Remove the Dutch oven from the oven and let it cool slightly.",
+    "Garnish with chopped cilantro and serve hot over steamed rice.",
+    "Let the tagine rest for 10 minutes before serving to allow the flavors to redistribute."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "elegant",
+    "festive",
+    "japanese",
+    "one-pan",
+    "tagine",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 42,
+    "carbs": 24,
+    "fat": 26
+  },
+  "slug": "elegant-japanese-caraway-seed-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/elegant-japanese-caraway-seed-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:46:27Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "tender",
+    "mood": "festive",
+    "technique": "tagine-cook",
+    "primaryIngredient": "caraway seed",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "caraway seed",
+    "descriptor": "Elegant",
+    "dishForm": "Tagine"
+  }
+}
