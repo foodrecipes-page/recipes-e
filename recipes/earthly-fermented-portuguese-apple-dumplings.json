@@ -1,0 +1,96 @@
+{
+  "title": "Earthly Fermented Portuguese Apple Dumplings",
+  "description": "A traditional Portuguese dessert featuring fermented apple juice and pillowy dumplings, wrapped in lotus leaves for a unique and nostalgic treat. This gluten-free-friendly dish is perfect for special occasions.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "apple juice",
+      "amount": "2 cups",
+      "notes": "freshly pressed"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tapioca flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "12 large",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the apple juice, sugar, and yeast, stirring to dissolve the yeast.",
+    "Let the mixture sit at room temperature for 2 hours, or until it becomes frothy and bubbly.",
+    "In a separate bowl, whisk together the tapioca flour and eggs.",
+    "Add the melted butter to the flour mixture and stir until a smooth dough forms.",
+    "Knead the dough for 5 minutes, until it becomes elastic and pliable.",
+    "Divide the dough into 12 equal pieces and roll each piece into a ball.",
+    "Wrap each ball in a lotus leaf, securing with a toothpick if necessary.",
+    "Place the dumplings in a large pot and add the fermented apple juice mixture.",
+    "Simmer the dumplings over low heat for 20 minutes, or until they are cooked through and fluffy.",
+    "Serve the dumplings warm, garnished with additional sugar and apple juice if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "desserts",
+    "fermented-foods",
+    "gluten-free",
+    "lotus-leaf",
+    "portuguese-cuisine",
+    "traditional-recipes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "earthly-fermented-portuguese-apple-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthly-fermented-portuguese-apple-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:29:54Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "pillowy",
+    "mood": "nostalgic",
+    "technique": "simmer",
+    "primaryIngredient": "apple juice",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "apples",
+    "descriptor": "earthy fermented",
+    "dishForm": "Dumplings"
+  }
+}
