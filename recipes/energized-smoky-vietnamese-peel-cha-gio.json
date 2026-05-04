@@ -1,0 +1,105 @@
+{
+  "title": "Energized Smoky Vietnamese Peel Cha Gio",
+  "description": "Crispy, herb‑infused spring rolls filled with smoked tofu and mixed vegetable peels, finished with a smoky glaze for a monsoon‑inspired kick.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "kosher-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground chicken",
+      "amount": "200g"
+    },
+    {
+      "name": "smoked tofu",
+      "amount": "150g"
+    },
+    {
+      "name": "rice vermicelli",
+      "amount": "100g"
+    },
+    {
+      "name": "carrot peel",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cucumber peel",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "rice paper wrappers",
+      "amount": "5"
+    }
+  ],
+  "instructions": [
+    "Cook rice vermicelli in boiling water until al dente, then drain and set aside.",
+    "In a bowl, combine ground chicken, diced smoked tofu, cooked vermicelli, shredded carrot peel, cucumber peel, bean sprouts, scallions, soy sauce, fish sauce, ground pepper, and smoked paprika; mix until well incorporated.",
+    "Soak each rice paper wrapper in warm water for 30 seconds to soften, then lay flat on a clean surface.",
+    "Spoon about 2 tablespoons of the filling onto the center of each wrapper and fold the sides inward, rolling tightly to form a cylinder.",
+    "Preheat a large skillet or cazuela over medium‑high heat and add a splash of oil, then place the rolled cha gio seam side down.",
+    "Cook for 3‑4 minutes, turning occasionally, until the wrappers are golden brown and crispy.",
+    "Remove from heat, squeeze fresh lime juice over the cha gio, and serve immediately.",
+    "For a smoky finish, finish each roll in a sheet of parchment over a gentle smoke source or add a few drops of smoked oil just before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cazuela",
+    "crispy",
+    "herbal",
+    "kosher-friendly",
+    "monsoon"
+  ],
+  "nutrition": {
+    "calories": 228,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 4
+  },
+  "slug": "energized-smoky-vietnamese-peel-cha-gio",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/energized-smoky-vietnamese-peel-cha-gio",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:46:54Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "smoke-cold",
+    "primaryIngredient": "mixed peel",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Peel",
+    "descriptor": "Energized Smoky",
+    "dishForm": "Cha Gio"
+  }
+}
