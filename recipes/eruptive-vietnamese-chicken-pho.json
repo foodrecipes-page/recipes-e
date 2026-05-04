@@ -1,0 +1,120 @@
+{
+  "title": "Eruptive Vietnamese Chicken Pho",
+  "description": "A fiery, smoky pho featuring tender chicken breast, aromatic herbs, and a fragrant, low-FODMAP broth that dazzles guests.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "fodmap-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast, boneless skinless",
+      "amount": "800g",
+      "notes": "4 pieces"
+    },
+    {
+      "name": "Low-FODMAP chicken stock",
+      "amount": "1.9 liters",
+      "notes": "8 cups"
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "200g",
+      "notes": "1 cup dry"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Celery stalk",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 inch",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Scallion green parts",
+      "amount": "3 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "Smoky olive oil",
+      "amount": "2 tbsp",
+      "notes": "heated until shimmering"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Lime",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat smoky olive oil in a large pot over medium-high heat until shimmering.",
+    "Add sliced ginger, celery, carrot, and scallion greens, sauté for 3 minutes.",
+    "Pour in the low-FODMAP chicken stock and bring to a gentle simmer.",
+    "Add chicken breasts and simmer, uncovered, for 15 minutes until cooked through.",
+    "Remove the chicken, shred it with a fork, and set aside.",
+    "In a separate pan, cook rice noodles according to package instructions, drain, and rinse with cold water.",
+    "Return the pot to the stove, add fish sauce and lime juice, adjust seasoning with salt if needed, and keep the broth warm.",
+    "Divide the noodles among bowls, top with shredded chicken and fresh herbs.",
+    "Ladle hot broth over each bowl, garnish with extra basil and cilantro.",
+    "Serve immediately, letting the broth steam and mingle with the smoky flavors."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-fodmap",
+    "quick",
+    "rice-noodles",
+    "smoky",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 285,
+    "protein": 28,
+    "carbs": 23,
+    "fat": 9
+  },
+  "slug": "eruptive-vietnamese-chicken-pho",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/eruptive-vietnamese-chicken-pho",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:11:13Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "molten",
+    "mood": "show-off",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "smoky a oli",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Chicken",
+    "descriptor": "Eruptive",
+    "dishForm": "Pho"
+  }
+}

@@ -1712,6 +1712,20 @@
     "shard": "e"
   },
   {
+    "slug": "eruptive-vietnamese-chicken-pho",
+    "title": "Eruptive Vietnamese Chicken Pho",
+    "tags": [
+      "low-fodmap",
+      "quick",
+      "rice-noodles",
+      "smoky",
+      "vietnamese"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 60,
+    "shard": "e"
+  },
+  {
     "slug": "ethereal-aerated-russian-potatoes-galette",
     "title": "Ethereal Aerated Russian Potatoes Galette",
     "tags": [
