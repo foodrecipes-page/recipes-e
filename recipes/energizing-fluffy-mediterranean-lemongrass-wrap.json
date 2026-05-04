@@ -1,0 +1,103 @@
+{
+  "title": "Energizing Fluffy Mediterranean Lemongrass Wrap",
+  "description": "A light, malty, and fluffy wrap combining steamed lemongrass-infused chickpea filling with fresh Mediterranean herbs, wrapped in warm spinach leaf wraps for a revitalizing sick‑day meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lemongrass stalk",
+      "amount": "1",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "cooked chickpeas",
+      "amount": "1 cup",
+      "notes": "mashed"
+    },
+    {
+      "name": "tahini",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried mint",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "spinach leaves",
+      "amount": "6",
+      "notes": "blanched"
+    }
+  ],
+  "instructions": [
+    "Blanch spinach leaves in boiling water for 30 seconds, then shock them in ice water and pat dry.",
+    "In a bowl, combine mashed chickpeas, tahini, lemon juice, olive oil, oregano, mint, lemongrass, cucumber, and tomato; mix until smooth.",
+    "Warm the blanched spinach leaves on a dry skillet for 10 seconds until pliable.",
+    "Spread a thin layer of the chickpea mixture onto each leaf, leaving a small border.",
+    "Fold the sides of the leaf over the filling and roll tightly to form a wrap.",
+    "Place the wrapped spinach in a steamer basket and steam for 5 minutes to meld flavors.",
+    "Transfer to a plate and gently press to keep shape while steaming.",
+    "Serve warm with a drizzle of olive oil and a sprinkle of fresh herbs."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "herb-rich",
+    "quick-meal",
+    "refreshing",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "energizing-fluffy-mediterranean-lemongrass-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-fluffy-mediterranean-lemongrass-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:30:57Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "fluffy",
+    "mood": "sick-day",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "lemongrass stalks",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lemongrass",
+    "descriptor": "Energizing Fluffy",
+    "dishForm": "Wrap"
+  }
+}
