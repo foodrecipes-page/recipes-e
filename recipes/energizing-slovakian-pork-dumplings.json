@@ -1,0 +1,91 @@
+{
+  "title": "Energizing Slovakian Pork Dumplings",
+  "description": "A traditional Slovakian dish featuring pork dumplings with a mustardy flavor, steamed to perfection and infused with yuzu, perfect for a post-workout meal. This recipe is also ayurvedic-rajasic-friendly.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "preferably pasture-raised"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground pork, yuzu juice, mustard seeds, salt, and black pepper, and mix well.",
+    "In a separate bowl, whisk together the flour and eggs, then gradually add the water to form a dough.",
+    "Knead the dough for about 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into small balls, about 1 inch in diameter.",
+    "Flatten each ball into a disk shape and place a small spoonful of the pork mixture in the center.",
+    "Fold the dough over the filling and press the edges together to seal the dumpling.",
+    "Place the dumplings in a steamer basket and steam over boiling water for 15 minutes.",
+    "Serve the dumplings hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "pork-recipe",
+    "post-workout",
+    "slovakian-cuisine",
+    "steamed-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "energizing-slovakian-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-slovakian-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:57:31Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "pillowy",
+    "mood": "post-workout",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "yuzu",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork",
+    "descriptor": "energizing pillowy",
+    "dishForm": "Dumplings"
+  }
+}

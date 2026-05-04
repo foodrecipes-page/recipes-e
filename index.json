@@ -974,6 +974,21 @@
     "shard": "e"
   },
   {
+    "slug": "easy-crunchy-australian-lamb-skewers",
+    "title": "Easy Crunchy Australian Lamb Skewers",
+    "tags": [
+      "grilled",
+      "high-protein",
+      "lamb",
+      "mediterranean",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
     "slug": "easy-roasted-australian-sirloin-steak-grill",
     "title": "Easy Roasted Australian Sirloin Steak Grill",
     "tags": [
@@ -1457,6 +1472,20 @@
     ],
     "cuisine": "Slovak",
     "totalTimeMin": 30,
+    "shard": "e"
+  },
+  {
+    "slug": "energizing-slovakian-pork-dumplings",
+    "title": "Energizing Slovakian Pork Dumplings",
+    "tags": [
+      "ayurvedic-friendly",
+      "pork-recipe",
+      "post-workout",
+      "slovakian-cuisine",
+      "steamed-dish"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {

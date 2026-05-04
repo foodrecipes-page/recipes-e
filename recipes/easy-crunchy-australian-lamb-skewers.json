@@ -1,0 +1,98 @@
+{
+  "title": "Easy Crunchy Australian Lamb Skewers",
+  "description": "Savory and crunchy lamb skewers with a praline crust, perfect for a Mediterranean-inspired dinner, and a great hangover cure. This dish features a mix of Australian and French flavors.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "praline paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, thyme, salt, black pepper, and paprika.",
+    "Add the lamb pieces to the bowl and toss to coat with the marinade.",
+    "Thread the lamb pieces onto skewers, leaving a small space between each piece.",
+    "Brush the praline paste onto the lamb pieces.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the lamb is cooked through.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve the skewers hot, garnished with fresh thyme and lemon wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "lamb",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "easy-crunchy-australian-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-crunchy-australian-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:57:37Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "rest",
+    "primaryIngredient": "praline-french",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "lamb",
+    "descriptor": "Easy Crunchy",
+    "dishForm": "Skewers"
+  }
+}
