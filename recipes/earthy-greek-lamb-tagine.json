@@ -1,0 +1,110 @@
+{
+  "title": "Earthy Greek Lamb Tagine",
+  "description": "A robust, fermented lamb tagine with Mediterranean herbs, perfect for a hangover cure.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "low-carb",
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb mincemeat",
+      "amount": "400g"
+    },
+    {
+      "name": "plain fermented Greek yogurt",
+      "amount": "240g"
+    },
+    {
+      "name": "onion, chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "carrot, diced",
+      "amount": "120g"
+    },
+    {
+      "name": "red bell pepper, diced",
+      "amount": "120g"
+    },
+    {
+      "name": "San Marzano tomatoes, crushed",
+      "amount": "200g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "14g",
+      "notes": "(1 tbsp)"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh oregano leaves, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine lamb mince with fermented Greek yogurt, cumin, coriander, salt, and black pepper and mix until thoroughly coated.",
+    "Let the mixture marinate for 30 minutes at room temperature or cover and refrigerate for up to 2 hours.",
+    "Heat olive oil in a heavy-bottomed pot over medium heat and sauté onion until translucent.",
+    "Add carrots and bell pepper to the pot and cook for 5 minutes, stirring occasionally.",
+    "Stir in the marinated lamb mixture and cook until the lamb changes color, about 8 minutes.",
+    "Pour in the crushed tomatoes and reduce the heat to low, then cover the pot.",
+    "Simmer the tagine for 45 minutes, stirring gently every 15 minutes, until the lamb is tender and the sauce thickens.",
+    "Stir in fresh oregano leaves and adjust seasoning with additional salt or pepper if needed.",
+    "Remove the pot from heat and let the tagine rest for 5 minutes before serving.",
+    "Garnish with lemon zest and serve hot with a side of cauliflower rice or crusty bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "earthy",
+    "hangover-cure",
+    "lamb",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 26,
+    "carbs": 9,
+    "fat": 24
+  },
+  "slug": "earthy-greek-lamb-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-greek-lamb-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:57:07Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "shaggy",
+    "mood": "hangover-cure",
+    "technique": "steam",
+    "primaryIngredient": "mincemeat",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Earthy",
+    "dishForm": "Tagine"
+  }
+}
