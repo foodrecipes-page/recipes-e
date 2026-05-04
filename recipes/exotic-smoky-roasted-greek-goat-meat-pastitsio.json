@@ -1,0 +1,109 @@
+{
+  "title": "Exotic, Smoky Roasted Greek goat meat Pastitsio",
+  "description": "A rich and hearty Greek dish featuring goat meat, roasted to perfection and served with a creamy bechamel sauce.",
+  "cuisine": "Greek",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1.5 lbs goat meat",
+      "amount": "1.5 lbs",
+      "notes": "lean goat shoulder or leg, boneless"
+    },
+    {
+      "name": "2 cups mixed mushrooms",
+      "amount": "2 cups",
+      "notes": "such as cremini, shiitake and button"
+    },
+    {
+      "name": "1 large onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "1 cup goat milk",
+      "amount": "1 cup",
+      "notes": "or substitute with lacto-vegetarian milk alternative"
+    },
+    {
+      "name": "1 cup grated kefalograviera cheese",
+      "amount": "1 cup",
+      "notes": "or substitute with other hard, salty cheese"
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "1 tsp",
+      "notes": "for spice"
+    },
+    {
+      "name": "1 tsp smoked paprika",
+      "amount": "1 tsp",
+      "notes": "for smokiness"
+    },
+    {
+      "name": "salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the goat meat with cumin, smoked paprika, salt and pepper. ",
+    "Grill the goat meat over high heat, yakimono-style, until browned on all sides.",
+    "Sear the mushrooms and onion in a pan over medium heat until tender.",
+    "Transfer the goat meat to a tava-griddle or large cast-iron skillet. ",
+    "Add the mushrooms, onion and garlic to the tava-griddle and stir to combine.",
+    "Transfer the tava-griddle to the preheated oven and roast for 20-25 minutes, or until the goat meat is cooked through.",
+    "While the goat meat is roasting, prepare the bechamel sauce by melting 2 tbsp of butter in a saucepan over medium heat.",
+    "Whisk in 1 cup of goat milk and bring the mixture to a simmer.",
+    "Reduce heat to low and let the sauce simmer for 5-7 minutes, stirring occasionally.",
+    "When the goat meat is done, remove it from the oven and let it rest for 5 minutes before slicing.",
+    "To assemble the pastitsio, place a layer of cooked pasta in the bottom of a baking dish, followed by a layer of sliced goat meat, a layer of bechamel sauce and finally a layer of grated kefalograviera cheese.",
+    "Repeat the layering process until all ingredients are used up, finishing with a layer of cheese on top.",
+    "Transfer the pastitsio to the oven and bake at 375°F (190°C) for 20-25 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "greek",
+    "hearty",
+    "high-protein",
+    "lacto-vegetarian",
+    "one-pan",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 1080,
+    "protein": 62,
+    "carbs": 20,
+    "fat": 74
+  },
+  "slug": "exotic-smoky-roasted-greek-goat-meat-pastitsio",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-smoky-roasted-greek-goat-meat-pastitsio",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:35:01Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "goat meat",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "goat meat",
+    "descriptor": "Exotic, Smoky Roasted",
+    "dishForm": "Pastitsio"
+  }
+}

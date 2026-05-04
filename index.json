@@ -2633,6 +2633,19 @@
     "shard": "e"
   },
   {
+    "slug": "ethereal-french-ovolimushroom-souffle",
+    "title": "Ethereal French Ovolimushroom Souffle",
+    "tags": [
+      "brunch",
+      "french",
+      "high-protein",
+      "mushroom"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 50,
+    "shard": "e"
+  },
+  {
     "slug": "ethereal-kenyan-spinach-pilaf",
     "title": "Ethereal Kenyan Spinach Pilaf",
     "tags": [
@@ -3083,6 +3096,21 @@
     ],
     "cuisine": "Jamaican",
     "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
+    "slug": "exotic-smoky-roasted-greek-goat-meat-pastitsio",
+    "title": "Exotic, Smoky Roasted Greek goat meat Pastitsio",
+    "tags": [
+      "greek",
+      "hearty",
+      "high-protein",
+      "lacto-vegetarian",
+      "one-pan",
+      "smoky"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 75,
     "shard": "e"
   },
   {

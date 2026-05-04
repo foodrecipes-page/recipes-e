@@ -1,0 +1,108 @@
+{
+  "title": "Ethereal French Ovolimushroom Souffle",
+  "description": "A spicy French brunch dish featuring ovoli mushroom and fry grind rice khao khua, served in a light and airy souffle form.",
+  "cuisine": "French",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ovoli mushroom",
+      "amount": "1 cup fresh, sliced"
+    },
+    {
+      "name": "fry grind rice khao khua",
+      "amount": "1 cup cooked"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth, warmed",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "3 large, separated"
+    },
+    {
+      "name": "grated Gruy\u00113re cheese",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375\u00114F (190\u00114C).",
+    "Butter a 1-quart souffle dish and coat with grated Gruy\u00113re cheese.",
+    "Sift the flour over the butter and mix until well combined.",
+    "Heat the butter, onion, and garlic in a medium skillet over medium heat until the onion is translucent.",
+    "Add the cumin, coriander, and red pepper flakes; cook for 1 minute.",
+    "Add the sliced ovoli mushroom and cook until tender, about 3-4 minutes.",
+    "Add the cooked fry grind rice khao khua and stir to combine.",
+    "In a separate bowl, whisk together the eggs, Gruy\u00113re cheese, and warmed chicken broth.",
+    "Add the egg mixture to the skillet and stir until combined.",
+    "Pour the egg mixture into the prepared souffle dish and smooth the top.",
+    "Bake for 25-30 minutes or until puffed and golden brown.",
+    "Remove from the oven and let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "brunch",
+    "french",
+    "high-protein",
+    "mushroom"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 30,
+    "fat": 22
+  },
+  "slug": "ethereal-french-ovolimushroom-souffle",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/ethereal-french-ovolimushroom-souffle",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:35:31Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "molten",
+    "mood": "brunch-mood",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "ovoli-mushroom",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "ovolimushroom",
+    "descriptor": "Ethereal",
+    "dishForm": "Souffle"
+  }
+}
