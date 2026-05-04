@@ -1,0 +1,95 @@
+{
+  "title": "Exotic Crunchy Syrian Pistachio Kebabs",
+  "description": "A festive Syrian dish featuring ground pistachios and render fat, perfect for special occasions, this paleo-friendly recipe is both roasted and crunchy.",
+  "cuisine": "Syrian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "1 pound",
+      "notes": "preferably grass fed"
+    },
+    {
+      "name": "ground pistachios",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "rendered fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the ground lamb, ground pistachios, rendered fat, chopped onion, minced garlic, salt, black pepper, and paprika.",
+    "Mix all the ingredients together with your hands until just combined.",
+    "Cover the bowl with plastic wrap and refrigerate for 30 minutes.",
+    "Thread the mixture onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Roast the kebabs in the preheated oven for 20 minutes, or until cooked through.",
+    "Remove the kebabs from the oven and let them rest for 5 minutes.",
+    "Serve the kebabs hot, garnished with fresh parsley or cilantro.",
+    "Traditionally, these kebabs are served with a side of roasted vegetables or a salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ground-lamb",
+    "paleo-friendly",
+    "pistachio-recipes",
+    "rendered-fat",
+    "roasted-kebabs",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "exotic-crunchy-syrian-pistachio-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-crunchy-syrian-pistachio-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:52:19Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crunchy",
+    "mood": "festive",
+    "technique": "render-fat",
+    "primaryIngredient": "ground pistachios",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "pistachios",
+    "descriptor": "Exotic Crunchy",
+    "dishForm": "Kebabs"
+  }
+}
