@@ -1,0 +1,102 @@
+{
+  "title": "Energizing Brazilian Tofu Curry",
+  "description": "A funky, juicy Brazilian-inspired tofu curry with massaman paste and a burst of yuzu citrus, perfect for meal-prep.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "400g",
+      "notes": "pressed and cubed"
+    },
+    {
+      "name": "massaman curry paste (vegan)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "mixed vegetables (bell pepper, carrot, broccoli)",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "tamari",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup uncooked"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped, optional garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp coconut oil in a pan over medium heat and sauté diced onion until translucent.",
+    "Add minced garlic and stir for 30 seconds until fragrant.",
+    "Stir in the massaman curry paste and cook for 1 minute to release its flavors.",
+    "Pour in coconut milk and bring the mixture to a gentle simmer.",
+    "Add cubed tofu and mixed vegetables, then cook for 10 minutes until vegetables are tender.",
+    "Stir in yuzu juice, tamari, and brown rice, then reduce heat and simmer for 15 minutes until the rice is cooked.",
+    "Turn off the heat and let the curry sit covered for 5 minutes to allow flavors to meld.",
+    "Serve the curry over cooked rice or quinoa, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "meal-prep",
+    "quick",
+    "tofu",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 940,
+    "protein": 32,
+    "carbs": 66,
+    "fat": 54
+  },
+  "slug": "energizing-brazilian-tofu-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-brazilian-tofu-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:28:18Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "juicy",
+    "mood": "meal-prep",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "massaman curry paste",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "tofu",
+    "descriptor": "Energizing",
+    "dishForm": "Curry"
+  }
+}
