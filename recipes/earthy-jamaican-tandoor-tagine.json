@@ -1,0 +1,123 @@
+{
+  "title": "Earthy Jamaican Tandoor Tagine",
+  "description": "A velvety, macrobiotic-friendly twist on traditional Jamaican cuisine, featuring dry sherry, tandoor-cooked lamb, and aromatic spices.",
+  "cuisine": "jamaican",
+  "diet": [
+    "macrobiotic-friendly",
+    "gluten-free",
+    "vegetarian-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless lamb shoulder",
+      "amount": "500g",
+      "notes": "preferably grass-fed"
+    },
+    {
+      "name": "tandoor spice blend",
+      "amount": "2tbsp",
+      "notes": "mix of cumin, coriander, cinnamon, and turmeric"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2cm piece",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "200g",
+      "notes": "halved"
+    },
+    {
+      "name": "dry sherry",
+      "amount": "60ml",
+      "notes": "optional"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml",
+      "notes": "canned"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "200ml",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lamb fat or oil",
+      "amount": "2tbsp",
+      "notes": "for browning lamb shoulder"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor to 200°C. If you don't have a tandoor, use a conventional oven at 400°F (200°C).",
+    "Season the lamb shoulder with salt, black pepper, and tandoor spice blend, and rub the lamb fat or oil all over the meat.",
+    "Brown the lamb shoulder in a large Dutch oven over medium-high heat, about 5 minutes per side. Set the lamb aside.",
+    "Soften the onions, ginger, and garlic in the same pot over medium heat, about 5 minutes.",
+    "Add the red bell pepper and cook for an additional 2 minutes.",
+    "Add the cherry tomatoes, dry sherry (if using), coconut milk, and vegetable broth to the pot.",
+    "Bring the mixture to a simmer, scraping up any browned bits from the bottom of the pot.",
+    "Return the lamb shoulder to the pot, cover, and transfer to the preheated tandoor or conventional oven.",
+    "Braise the lamb and vegetables for 2-1/2 to 3 hours, or until the lamb is tender and falls apart easily.",
+    "Garnish with chopped cilantro and serve over rice or with naan."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "coconut-milk",
+    "dry-sherry",
+    "jamaican",
+    "lamb",
+    "macrobiotic-friendly",
+    "tagine",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "earthy-jamaican-tandoor-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-jamaican-tandoor-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T11:38:06Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "tandoor",
+    "primaryIngredient": "dry sherry",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Tandoor",
+    "descriptor": "Earthy",
+    "dishForm": "Tagine"
+  }
+}
