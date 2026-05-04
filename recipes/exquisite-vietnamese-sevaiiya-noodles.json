@@ -1,0 +1,105 @@
+{
+  "title": "Exquisite Vietnamese Sevaiiya Noodles",
+  "description": "Salty, chewy, indulgent Vietnamese dish featuring sevaiiya, en-croute, dash-friendly, this recipe brings together the best of Vietnamese flavors in a single bowl of noodles.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sevaiiya noodles",
+      "amount": "8 oz",
+      "notes": "available at Asian markets"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "grilled pork",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook the sevaiiya noodles according to package instructions and set aside.",
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the sliced onion to the skillet and cook until caramelized, stirring occasionally.",
+    "Add the minced garlic to the skillet and cook for 1 minute, stirring constantly.",
+    "Add the diced grilled pork to the skillet and cook until heated through.",
+    "In a small bowl, whisk together the fish sauce and soy sauce.",
+    "Pour the sauce mixture over the pork and onion mixture in the skillet and stir to combine.",
+    "Add the cooked noodles to the skillet and stir to combine with the pork and sauce mixture.",
+    "Stir in the bean sprouts and cook until heated through.",
+    "Transfer the noodle mixture to a serving platter and top with chopped scallions and sesame seeds."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled-pork",
+    "noodle-dishes",
+    "vegetarian-option",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "exquisite-vietnamese-sevaiiya-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exquisite-vietnamese-sevaiiya-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:10:10Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "chewy",
+    "mood": "indulgent",
+    "technique": "en-croute",
+    "primaryIngredient": "sevaiiya",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "sevaiiya",
+    "descriptor": "exquisite chewy",
+    "dishForm": "Noodles"
+  }
+}
