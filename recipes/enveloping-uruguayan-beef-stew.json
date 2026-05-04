@@ -1,0 +1,107 @@
+{
+  "title": "Enveloping Uruguayan Beef Stew",
+  "description": "A malty, silky stew with a comforting deep flavor, highlighted by cider vinegar and slow‑cooked beef.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef chuck",
+      "amount": "800g",
+      "notes": "cut into 2cm cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red wine",
+      "amount": "200ml"
+    },
+    {
+      "name": "beef stock",
+      "amount": "500ml"
+    },
+    {
+      "name": "cider vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium‑high heat until shimmering.",
+    "Add beef cubes and brown on all sides, about 5 minutes, then remove and set aside.",
+    "Reduce heat to medium, add diced onion, carrots, and minced garlic; sauté until onion soft, about 8 minutes.",
+    "Stir in tomato paste and cook for 2 minutes, letting it caramelize slightly.",
+    "Pour in red wine, scraping any browned bits from the pot, and let simmer until the wine reduces by half, about 6 minutes.",
+    "Return the beef to the pot, add beef stock, cider vinegar, honey, and a bay leaf; bring to a gentle boil then reduce heat to low.",
+    "Cover and let the stew simmer for 2 hours, stirring occasionally, until the beef is tender and the sauce has thickened.",
+    "Season with salt and pepper, remove the bay leaf, stir in chopped parsley, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 120,
+  "totalTimeMin": 130,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "comfort-food",
+    "nut-free",
+    "slow-cook",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 20
+  },
+  "slug": "enveloping-uruguayan-beef-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/enveloping-uruguayan-beef-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:33:33Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "silky",
+    "mood": "comforting",
+    "technique": "simmer",
+    "primaryIngredient": "cider vinegar",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "Enveloping",
+    "dishForm": "Stew"
+  }
+}

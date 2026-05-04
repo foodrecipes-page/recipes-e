@@ -1728,6 +1728,20 @@
     "shard": "e"
   },
   {
+    "slug": "enveloping-uruguayan-beef-stew",
+    "title": "Enveloping Uruguayan Beef Stew",
+    "tags": [
+      "beef-stew",
+      "comfort-food",
+      "nut-free",
+      "slow-cook",
+      "uruguayan"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 130,
+    "shard": "e"
+  },
+  {
     "slug": "eruptive-vietnamese-chicken-pho",
     "title": "Eruptive Vietnamese Chicken Pho",
     "tags": [
