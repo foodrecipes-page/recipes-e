@@ -575,6 +575,20 @@
     "shard": "e"
   },
   {
+    "slug": "earthy-eggless-thai-curry-khao-soi",
+    "title": "Earthy Eggless Thai Curry Khao Soi",
+    "tags": [
+      "egg-free",
+      "high-protein",
+      "one-pan",
+      "thai-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 45,
+    "shard": "e"
+  },
+  {
     "slug": "earthy-flaky-bulgur-wheat-crumble",
     "title": "Earthy Flaky Bulgur Wheat Crumble",
     "tags": [

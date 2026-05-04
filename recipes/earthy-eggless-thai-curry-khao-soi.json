@@ -1,0 +1,133 @@
+{
+  "title": "Earthy Eggless Thai Curry Khao Soi",
+  "description": "Sour, bouncy-qq, sick-day Thai dish featuring beer, papillote, egg-free-friendly. Made with Central Thai flavors and copper pots for authenticity.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Copper pot noodles",
+      "amount": "500g",
+      "notes": "Central Thai khao soi noodles"
+    },
+    {
+      "name": "Fermented soybean paste (central Thai style)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp",
+      "notes": "Make sure to get a brand without eggs"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Beer ( Thai beer preferred )",
+      "amount": "1/2 cup",
+      "notes": "Not necessary to brew a big batch, just grab a bottle from the fridge"
+    },
+    {
+      "name": "Tamarind paste",
+      "amount": "2 tbsp",
+      "notes": "Dilute to taste with water"
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce (optional, vegan substitute ok) ",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Thai basil leaves",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "2",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the copper pot over medium-high heat. Then add onion and cook until it starts to brown, about 3 minutes.",
+    "Add garlic, ginger, and a pinch of salt. Stir until fragrant, about 1 minute.",
+    "Add curry paste, stir for 1 minute, getting everything coated evenly.",
+    "Add coconut milk and beer. Stir well and bring the mixture to boil.",
+    "Add tamarind paste, palm sugar, and fish sauce (if using). Stir well and continue to boil for 5 minutes, or until the sauce has thickened.",
+    "Add noodles and stir well to combine.",
+    "Cook for an additional 2-3 minutes, or until the noodles are heated through and coated in the sauce.",
+    "Garnish with Thai basil leaves and a squeeze of lime juice. Serve hot, steaming into small paper cups if desired.",
+    "Taste and adjust seasoning as needed.",
+    "Let the dish rest for a minute or two before serving.",
+    "To serve, place a generous portion of noodles and sauce into a shallow copper pot, and garnish with fresh Thai basil leaves and a lime wedge on the side.",
+    "Be careful when eating this dish as the noodles are hot and could cause burns if mishandled."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "egg-free",
+    "high-protein",
+    "one-pan",
+    "thai-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "earthy-eggless-thai-curry-khao-soi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-eggless-thai-curry-khao-soi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:23:13Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "bouncy-qq",
+    "mood": "sick-day",
+    "technique": "papillote",
+    "primaryIngredient": "beer",
+    "diet": "egg-free",
+    "region": "central-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "curry",
+    "descriptor": "Earthy Eggless",
+    "dishForm": "Khao Soi"
+  }
+}
