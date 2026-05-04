@@ -1,0 +1,86 @@
+{
+  "title": "Exotic Elegant Dutch Kiwifruit Tart",
+  "description": "A tangy and creamy dutch dessert featuring kiwifruit, perfect for special occasions, and friendly to those with egg allergies",
+  "cuisine": "Dutch",
+  "diet": [
+    "egg-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "kiwifruit",
+      "amount": "4",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pie crust",
+      "amount": "1",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roll out the pie crust and place it in a tart pan with a removable bottom.",
+    "In a large bowl, whip the heavy cream until it forms stiff peaks.",
+    "In a separate bowl, mix together the confectioners sugar, melted butter, and vanilla extract.",
+    "Arrange the sliced kiwifruit in a pattern on the pie crust.",
+    "Pour the sugar and cream mixture over the kiwifruit.",
+    "Bake the tart for 40 minutes, or until the crust is golden brown.",
+    "Allow the tart to cool completely before serving.",
+    "Slice the tart into 8 equal pieces and serve chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-dessert",
+    "egg-free-friendly",
+    "kiwifruit-tart",
+    "special-occasion",
+    "vegetarian-dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "exotic-elegant-dutch-kiwifruit-tart",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-elegant-dutch-kiwifruit-tart",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:23:42Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "cure",
+    "primaryIngredient": "kiwifruit",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "kiwifruit",
+    "descriptor": "Exotic Elegant",
+    "dishForm": "Tart"
+  }
+}
