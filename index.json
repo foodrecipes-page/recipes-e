@@ -2097,6 +2097,20 @@
     "shard": "e"
   },
   {
+    "slug": "exotic-savory-algerian-lamb-tagine",
+    "title": "Exotic Savory Algerian Lamb Tagine",
+    "tags": [
+      "comfort-food",
+      "festive",
+      "lamb-based",
+      "north-african",
+      "one-pot"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 120,
+    "shard": "e"
+  },
+  {
     "slug": "exotic-smoky-jamaican-chicken-skewers",
     "title": "Exotic Smoky Jamaican Chicken Skewers",
     "tags": [
