@@ -1,0 +1,94 @@
+{
+  "title": "Earthy Sweet Filipino Kinako Bake",
+  "description": "A unique Filipino dish featuring kinako, with an earthy and sweet flavor profile, perfect for a brunch mood, and friendly to those who avoid onion and garlic.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "no onion no garlic"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "kinako",
+      "amount": "1 cup",
+      "notes": "roasted soybean flour"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "agrar agar",
+      "amount": "1 tablespoon",
+      "notes": "powdered"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large mixing bowl, whisk together kinako, sugar, and agrar agar powder.",
+    "In a separate bowl, whisk together milk, eggs, melted butter, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and mix until well combined.",
+    "Pour the mixture into a 9x9 inch baking dish.",
+    "Bake for 35 minutes or until the edges are set and the center is slightly jiggly.",
+    "Remove from the oven and let cool to room temperature.",
+    "Refrigerate for at least 2 hours to allow the mixture to set completely.",
+    "Cut into squares and serve chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 9,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "filipino-food",
+    "no-onion-no-garlic",
+    "sweet-treats",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "earthy-sweet-filipino-kinako-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-sweet-filipino-kinako-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:49:53Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "glassy-jelly",
+    "mood": "brunch-mood",
+    "technique": "bake",
+    "primaryIngredient": "kinako",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "kinako",
+    "descriptor": "earthy sweet",
+    "dishForm": "Bake"
+  }
+}
