@@ -1165,6 +1165,17 @@
     "shard": "e"
   },
   {
+    "slug": "ebullient-mediterranean-lemon-pasta",
+    "title": "Ebullient Mediterranean Lemon Pasta",
+    "tags": [
+      "mediterranean",
+      "dinner"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 40,
+    "shard": "e"
+  },
+  {
     "slug": "ebullient-moroccan-sweet-potato-sellou",
     "title": "Ebullient Moroccan Sweet Potato Sellou",
     "tags": [

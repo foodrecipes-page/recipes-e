@@ -1,0 +1,109 @@
+{
+  "title": "Ebullient Mediterranean Lemon Pasta",
+  "description": "A tangy, caramelized bowtie pasta dish that bursts with Mediterranean flavors and anti-inflammatory ingredients, perfect for a show‑off dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "anti-inflammatory"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bowtie pasta",
+      "amount": "227 g"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 lemon",
+      "notes": "use zest of one lemon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "sun‑dried tomatoes",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh spinach",
+      "amount": "2 cups"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Cook the bowtie pasta in salted boiling water until al dente, then drain and set aside.",
+    "While the pasta cooks, heat the olive oil in a large skillet over medium heat and add the minced garlic, cooking until fragrant and lightly golden.",
+    "Add the chopped sun‑dried tomatoes to the skillet and sauté for two minutes to release their oils.",
+    "Stir in the fresh spinach and cook until wilted, about three minutes.",
+    "Pour in the lemon juice and zest, then return the pasta to the skillet, tossing to coat evenly.",
+    "Add the toasted pine nuts and grated parmesan, stirring until the cheese melts and creates a silky sauce.",
+    "Season the mixture with salt, pepper, and optional crushed red pepper flakes to taste.",
+    "Serve immediately, garnishing with extra parmesan if desired.",
+    "Enjoy the bright, anti‑inflammatory flavors of this Mediterranean lemon pasta."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "mediterranean",
+    "dinner"
+  ],
+  "slug": "ebullient-mediterranean-lemon-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/ebullient-mediterranean-lemon-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:29:17Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "shattering",
+    "mood": "show-off",
+    "technique": "caramelize",
+    "primaryIngredient": "bowtie pasta",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Lemon",
+    "descriptor": "Ebullient",
+    "dishForm": "Pasta"
+  }
+}
