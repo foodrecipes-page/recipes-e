@@ -1,0 +1,101 @@
+{
+  "title": "Exotic Spicy Norwegian Fish Dumplings",
+  "description": "A spicy and silky Norwegian dish featuring fish, cornstarch, and a blend of spices, perfect for a cozy dinner. This recipe is also diabetic-friendly.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fish",
+      "amount": "1 pound",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the fish, cornstarch, onion, garlic, ginger, cayenne pepper, salt, and black pepper, and mix well.",
+    "Knead the mixture for about 5 minutes until it becomes smooth and sticky.",
+    "Divide the mixture into small balls, about 1 1/2 inches in diameter.",
+    "Bring the chicken broth to a boil in a large pot, then reduce the heat to a simmer.",
+    "Carefully add the fish balls to the pot and cook for about 10 minutes, or until they float to the surface.",
+    "Remove the dumplings from the pot with a slotted spoon and serve hot.",
+    "Garnish with chopped green onions and serve with a side of steamed vegetables.",
+    "Refrigerate or freeze any leftovers for later use.",
+    "Reheat the dumplings in the microwave or on the stovetop before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "diabetic-friendly",
+    "fish-recipes",
+    "gluten-free",
+    "norwegian-cuisine",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "exotic-spicy-norwegian-fish-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-spicy-norwegian-fish-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:24:52Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "silky",
+    "mood": "cozy",
+    "technique": "knead",
+    "primaryIngredient": "cornstarch",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "fish",
+    "descriptor": "exotic spicy",
+    "dishForm": "Dumplings"
+  }
+}
