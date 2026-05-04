@@ -1,0 +1,156 @@
+{
+  "title": "Exotic Aerated Andalusian Chilli Paella",
+  "description": "A winey, aerated, adventurous Spanish (Andalusian) dish featuring chilli powder, katsuramuki-cut, low-glycemic-friendly ingredients.",
+  "cuisine": "Spanish",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Saffron-infused olive oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Boneless chicken thighs",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Katsuramuki-cut eggplant",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Chorizo",
+      "amount": "1/2 pound",
+      "notes": ""
+    },
+    {
+      "name": "Chilli powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "White wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Paella rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "Grated manchego cheese",
+      "amount": "optional",
+      "notes": ""
+    },
+    {
+      "name": "Fresh lemons",
+      "amount": "optional",
+      "notes": ""
+    },
+    {
+      "name": "Egg whites",
+      "amount": "1 large",
+      "notes": "(for aerating the paella)"
+    }
+  ],
+  "instructions": [
+    "Heat the saffron-infused olive oil in a large paella pan over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the eggplant and cook until tender, about 5 minutes.",
+    "Add the chorizo and cook until crispy, about 3 minutes.",
+    "Add the chilli powder and smoked paprika and cook for 1 minute, stirring constantly.",
+    "Add the garlic and onion and cook until softened, about 3 minutes.",
+    "Add the tomato and cook until tender, about 5 minutes.",
+    "Add the white wine and cook until the liquid has almost completely evaporated, about 3-4 minutes.",
+    "Add the vegetable broth and bring to a boil.",
+    "Add the paella rice and stir to coat with the broth.",
+    "Cook for 2-3 minutes, then add the salt and black pepper to taste.",
+    "Transfer the pan to the oven and cook at 400°F (200°C) for 20-25 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Remove the pan from the oven and use a fork to aerate the paella, creating a crispy crust on the bottom.",
+    "Garnish with chopped parsley, grated manchego cheese, and a squeeze of fresh lemon juice, if desired.",
+    "To serve, place the paella in the center of the table and have everyone dig in!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "adventurous",
+    "aerated",
+    "andalusian",
+    "chilli-powder",
+    "katsuramuki-cut",
+    "low-glycemic",
+    "paella",
+    "spanish",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 1040,
+    "protein": 63,
+    "carbs": 80,
+    "fat": 44
+  },
+  "slug": "exotic-aerated-andalusian-chilli-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-aerated-andalusian-chilli-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:19:59Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "aerated",
+    "mood": "adventurous",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "chilli powder",
+    "diet": "low-glycemic",
+    "region": "andalusian",
+    "cuisineAdjective": "andalusian",
+    "mainIngredient": "chilli",
+    "descriptor": "exotic aerated",
+    "dishForm": "paella"
+  }
+}

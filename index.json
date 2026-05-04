@@ -1880,6 +1880,18 @@
     "shard": "e"
   },
   {
+    "slug": "energizing-argentinian-white-yam-empanadas",
+    "title": "Energizing Argentinian White Yam Empanadas",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 30,
+    "shard": "e"
+  },
+  {
     "slug": "energizing-australian-cheddar-bake",
     "title": "Energizing Australian Cheddar Bake",
     "tags": [
@@ -2626,6 +2638,24 @@
     ],
     "cuisine": "malaysian",
     "totalTimeMin": 75,
+    "shard": "e"
+  },
+  {
+    "slug": "exotic-aerated-andalusian-chilli-paella",
+    "title": "Exotic Aerated Andalusian Chilli Paella",
+    "tags": [
+      "adventurous",
+      "aerated",
+      "andalusian",
+      "chilli-powder",
+      "katsuramuki-cut",
+      "low-glycemic",
+      "paella",
+      "spanish",
+      "winey"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 70,
     "shard": "e"
   },
   {
