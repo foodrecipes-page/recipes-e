@@ -1,0 +1,93 @@
+{
+  "title": "Energizing Mexican Sterbottensost Tinga",
+  "description": "A quick, nutty, pillowy Mexican tinga with Sterbottensost cheese tempered in chocolate, perfect for a keto lunch. The hot stone plate creates a sizzling, savory layer that melts into a creamy, spicy broth.",
+  "cuisine": "Mexican",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sterbottensost cheese",
+      "amount": "200g"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "250g"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3"
+    },
+    {
+      "name": "chipotle in adobo",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "30g"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the hot stone plate until very hot.",
+    "Sauté diced onion and minced garlic in olive oil until translucent.",
+    "Add sliced tomatoes and chipotle adobo sauce and cook until tomatoes break down.",
+    "Season the mixture with salt and pepper, then simmer for 8 minutes.",
+    "Cube the Sterbottensost cheese and add it to the simmering broth, stirring until melted.",
+    "Melt the tempering chocolate in a small bowl over low heat, then stir into the cheese mixture to create a velvety sauce.",
+    "Transfer the tinga onto the hot stone plate, letting it sear for 2 minutes for a crisp edge.",
+    "Serve immediately, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "keto-friendly",
+    "mexican",
+    "one-pan",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "energizing-mexican-sterbottensost-tinga",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-mexican-sterbottensost-tinga",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:19:17Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "pillowy",
+    "mood": "quick-fix",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "v sterbottensost cheese",
+    "diet": "keto",
+    "region": "norteño",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "sterbottensost",
+    "descriptor": "Energizing",
+    "dishForm": "Tinga"
+  }
+}
