@@ -1,0 +1,94 @@
+{
+  "title": "Elegant Crispy British Seafood Tart",
+  "description": "A fresh, crispy brunch-mood British tart starring a simmered frozen seafood mix. It is baked in a vegan shortcrust and finished with dill.",
+  "cuisine": "British",
+  "diet": [
+    "vegan-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "frozen seafood mix",
+      "amount": "200g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "100g"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "50g"
+    },
+    {
+      "name": "chilled water",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh lemon",
+      "amount": "1",
+      "notes": "juice only"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200 degrees Celsius.",
+    "In a large bowl combine 100g all-purpose flour, 50g vegan butter and 1 tsp sea salt and rub together until the mixture resembles coarse crumbs.",
+    "Gradually add 2 tbsp chilled water, mixing until a dough forms.",
+    "Divide the dough into 4 portions, roll each to 3mm thickness and cut out circles that fit 6cm tart tins.",
+    "Prick each dough circle with a fork, then bake in the preheated oven for 10 minutes until lightly golden.",
+    "While the crusts bake, thaw 200g frozen seafood mix and drain any excess water.",
+    "Heat 1 tbsp olive oil in a saucepan over medium heat and simmer the seafood with the juice of 1 lemon for 5 minutes, stirring occasionally.",
+    "Spoon the hot seafood mixture into the cooled crusts, leaving a 1cm border around the edge.",
+    "Sprinkle 1 tbsp chopped fresh dill over the top of each tart.",
+    "Return the filled tins to the oven and bake for an additional 12 minutes until the crust is crisp and the filling is heated through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "afternoon-tea",
+    "british",
+    "crispy",
+    "easy-to-make",
+    "seafood",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 25,
+    "carbs": 46,
+    "fat": 36
+  },
+  "slug": "elegant-crispy-british-seafood-tart",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/elegant-crispy-british-seafood-tart",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:54:50Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "simmer",
+    "primaryIngredient": "frozen seafood mix",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Seafood",
+    "descriptor": "Elegant Crispy",
+    "dishForm": "Tart"
+  }
+}
