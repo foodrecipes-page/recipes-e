@@ -1,0 +1,108 @@
+{
+  "title": "exhaustion-x-busting malaysian chuck roast dal",
+  "description": "a pillowy, peppery, and comforting malaysian-inspired chuck roast dal to cure hangovers, made with satvik-friendly ingredients in a wok.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "chuck roast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "red onion",
+      "amount": "2 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "red chili pepper",
+      "amount": "1"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "heat 1 tablespoon of coconut oil in a wok over medium heat.",
+    "add the sliced red onion and cook until softened, about 5 minutes.",
+    "add the minced garlic and grated ginger and cook for another minute.",
+    "add the ground cumin, garam masala, and red chili pepper and cook for 1 minute.",
+    "add the chuck roast and cook until browned on all sides, about 5 minutes.",
+    "add the dal and water to the wok and bring to a boil.",
+    "reduce the heat to low and simmer, covered, for 1 hour.",
+    "season the dal with salt to taste.",
+    "serve the malaysian chuck roast dal hot, garnished with fresh cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hangover-cure",
+    "high-protein",
+    "one-pan",
+    "satvik-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "exhaustion-x-busting-malaysian-chuck-roast-dal",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/exhaustion-x-busting-malaysian-chuck-roast-dal",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T03:24:54Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "pillowy",
+    "mood": "hangover-cure",
+    "technique": "simmer",
+    "primaryIngredient": "chuck roast",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chuck roast",
+    "descriptor": "exhaustion-x-busting",
+    "dishForm": "Dal"
+  }
+}
