@@ -1,0 +1,91 @@
+{
+  "title": "Exotic Winey Ethiopian Pork Back Ribs Kitfo",
+  "description": "A winey, crisp, and light Ethiopian dish featuring pork back ribs with a yuzu-cure, this kosher-friendly kitfo is a unique twist on traditional Ethiopian cuisine. The combination of flavors and textures creates a truly exotic experience.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork back ribs",
+      "amount": "2 pounds",
+      "notes": "preferably bone-in"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together yuzu juice, red wine, berbere spice, garlic, ginger, and olive oil.",
+    "Add the pork back ribs to the bowl and toss to coat with the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Remove the ribs from the marinade and season with salt.",
+    "Place the ribs on a baking sheet lined with aluminum foil and bake for 30 minutes.",
+    "Increase the oven temperature to 425 degrees Fahrenheit and continue baking for an additional 20 minutes.",
+    "Remove the ribs from the oven and let rest for 5 minutes before serving.",
+    "Serve the ribs with a side of injera bread or other traditional Ethiopian flatbread."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 50,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian-cuisine",
+    "kitfo-style",
+    "pork-recipes",
+    "wine-based",
+    "yuzu-recipes"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 80
+  },
+  "slug": "exotic-winey-ethiopian-pork-back-ribs-kitfo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-winey-ethiopian-pork-back-ribs-kitfo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:20:59Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "pork back ribs",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "pork back ribs",
+    "descriptor": "exotic winey",
+    "dishForm": "Kitfo"
+  }
+}
