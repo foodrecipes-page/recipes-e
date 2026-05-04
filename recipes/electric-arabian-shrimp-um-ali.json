@@ -1,0 +1,113 @@
+{
+  "title": "Electric Arabian Shrimp Um Ali",
+  "description": "A spicy, shattering, cozy Middle Eastern pasta dish that blends succulent shrimp with aromatic spices, al dente pasta, and fresh chives for a pescatarian-friendly twist on Um Ali.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp, peeled and deveined",
+      "amount": "200g",
+      "notes": "cracked shells removed"
+    },
+    {
+      "name": "fettuccine",
+      "amount": "150g",
+      "notes": "al dente finish"
+    },
+    {
+      "name": "vegetable broth, low sodium",
+      "amount": "1 cup",
+      "notes": "for sauce base"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sauté"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sumac",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "harissa paste",
+      "amount": "1/2 tsp",
+      "notes": "adjust heat to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "chopped chives",
+      "amount": "1 tbsp",
+      "notes": "fresh garnish"
+    },
+    {
+      "name": "toasted pine nuts",
+      "amount": "1 tbsp",
+      "notes": "for crunch"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil, cook the fettuccine until al dente, about 7 to 8 minutes, then drain and set aside.",
+    "In a skillet, heat the olive oil over medium heat and sauté the shrimp until just pink, 2 to 3 minutes per side, then remove and set aside.",
+    "Add the vegetable broth, ground cumin, smoked paprika, sumac, and harissa paste to the same skillet and simmer for 2 minutes.",
+    "Return the cooked pasta to the skillet, tossing to coat it in the spice broth, and cook for another 2 minutes to infuse flavors.",
+    "Stir in the sautéed shrimp, lemon juice, salt and pepper, and let the mixture heat through for 1 minute.",
+    "Remove from heat and fold in the chopped chives and toasted pine nuts for added crunch.",
+    "Serve hot, garnishing with extra chives and a squeeze of lemon if desired.",
+    "Enjoy your electric Arabian shrimp umm-ali."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "mid-east",
+    "pasta",
+    "pescatarian",
+    "quick-meal",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 7
+  },
+  "slug": "electric-arabian-shrimp-um-ali",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/electric-arabian-shrimp-um-ali",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:31:19Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "shattering",
+    "mood": "cozy",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "chopped chive",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Arabian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Electric",
+    "dishForm": "Um Ali"
+  }
+}
