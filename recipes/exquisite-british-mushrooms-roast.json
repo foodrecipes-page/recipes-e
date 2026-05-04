@@ -1,0 +1,68 @@
+{
+  "title": "exquisite British mushrooms Roast",
+  "description": "a buttery crowd-pleaser featuring shio-koji and beurre-monte, suitable for all diets",
+  "cuisine": "british",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms (such as shaggy ink caps)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons",
+      "notes": "make sure to mix well with other ingredients before applying"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 400f",
+    "in a small bowl, whisk together shio-koji, butter, and a pinch of salt",
+    "in a large skillet, melt 2 tablespoons of butter over medium heat",
+    "add the mushrooms to the skillet and cook until they release their moisture, about 5 minutes",
+    "add the shio-koji mixture to the skillet and stir to combine",
+    "transfer the mushrooms to a baking dish and top with a beurre-monte made from 2 tablespoons of softened butter and 1 tablespoon of heavy cream",
+    "bake in the preheated oven for 12-15 minutes or until the top is golden brown and the mushrooms are tender",
+    "serve hot",
+    "if desired, garnish with chopped fresh herbs such as parsley or thyme"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-sides",
+    "mushroom-lovers",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 30
+  },
+  "slug": "exquisite-british-mushrooms-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/exquisite-british-mushrooms-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:37:44Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shaggy",
+    "mood": "crowd-pleaser",
+    "technique": "beurre-monte",
+    "primaryIngredient": "shio-koji",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "mushrooms",
+    "descriptor": "exquisite",
+    "dishForm": "Roast"
+  }
+}

@@ -996,6 +996,20 @@
     "shard": "e"
   },
   {
+    "slug": "earthy-quenched-american-mushroom-mushimono",
+    "title": "Earthy, Quenched American Mushroom Mushimono",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "one-pot",
+      "plant-based",
+      "weeknight"
+    ],
+    "cuisine": "american",
+    "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
     "slug": "earthy-saudi-steak-wrap",
     "title": "Earthy Saudi Steak Wrap",
     "tags": [],
@@ -1430,6 +1444,21 @@
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
+    "slug": "easy-light-portuguese-san-marzano-tomato-wrap",
+    "title": "Easy Light Portuguese San Marzano Tomato Wrap",
+    "tags": [
+      "gluten-free",
+      "jain-friendly",
+      "kids-friendly",
+      "one-pan",
+      "portuguese",
+      "vegan"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 20,
     "shard": "e"
   },
   {
@@ -3232,6 +3261,20 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 50,
+    "shard": "e"
+  },
+  {
+    "slug": "exquisite-british-mushrooms-roast",
+    "title": "exquisite British mushrooms Roast",
+    "tags": [
+      "comfort-food",
+      "easy-sides",
+      "mushroom-lovers",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "british",
+    "totalTimeMin": 30,
     "shard": "e"
   },
   {
