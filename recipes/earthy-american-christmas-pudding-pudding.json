@@ -1,0 +1,94 @@
+{
+  "title": "Earthy American Christmas Pudding",
+  "description": "This earthy, flaky dessert features Christmas pudding, spherified for a unique midnight craving treat. It's anti-inflammatory-friendly and perfect for a cold winter night.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Christmas pudding",
+      "amount": "1 cup (170g)"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Gelatin",
+      "amount": "1 envelope (0.25 oz, 7g)"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp (30g)"
+    },
+    {
+      "name": "Cinnamon powder",
+      "amount": "0.5 tsp (2g)"
+    },
+    {
+      "name": "Clove powder",
+      "amount": "0.25 tsp (1g)"
+    },
+    {
+      "name": "Salt",
+      "amount": "0.5 tsp (2g)"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup (240ml)"
+    },
+    {
+      "name": "Spherification agent (e.g. sodium alginate)",
+      "amount": "1 tsp (5g)"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, sprinkle gelatin over 1/4 cup (60ml) of cold water and let it sit for 5 minutes to soften.",
+    "In a large saucepan, combine honey, cinnamon powder, clove powder, and salt. Heat over medium heat, stirring until honey dissolves.",
+    "Add the softened gelatin to the saucepan and stir until dissolved.",
+    "Stir in the heavy cream and let the mixture simmer for 5 minutes, or until slightly thickened.",
+    "Remove the saucepan from the heat and let the mixture cool to room temperature.",
+    "Once cooled, stir in the Christmas pudding and spherification agent.",
+    "Using a syringe or pipette, drop small amounts of the mixture into a bath of water mixed with a pinch of salt.",
+    "Watch as the mixture forms into small, round spherules. When ready to serve, simply pop the spherules into your mouth and enjoy!"
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "christmas-pudding",
+    "holiday-dessert",
+    "midnight-snack",
+    "spherified"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 25
+  },
+  "notes": "Note: This recipe is designed to be made with an anti-inflammatory diet in mind. Please adjust ingredients according to your dietary needs.",
+  "slug": "earthy-american-christmas-pudding-pudding",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-american-christmas-pudding-pudding",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:25:14Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "flaky",
+    "mood": "midnight-craving",
+    "technique": "spherify",
+    "primaryIngredient": "christmas pudding",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "american",
+    "mainIngredient": "christmas pudding",
+    "descriptor": "earthy",
+    "dishForm": "pudding"
+  }
+}
