@@ -1,0 +1,114 @@
+{
+  "title": "Energizing Thai Meat Larb",
+  "description": "Funky, flaky, and energizing, this Thai dish from Isan is a perfect way to spice up your meal. The combination of gherkin relish and low-glycemic-friendly ingredients will keep you going all day.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "low-carb",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grass-fed beef",
+      "amount": "1 pound",
+      "notes": "Choose lean cuts for a healthier option."
+    },
+    {
+      "name": "Gherkin relish",
+      "amount": "2 tablespoons",
+      "notes": "Homemade or store-bought, it's up to you."
+    },
+    {
+      "name": "Fresh Thai basil",
+      "amount": "1/4 cup",
+      "notes": "Chopped for added flavor."
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed for the best taste."
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "Adjust to taste for a stronger umami flavor."
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "Less for a milder flavor."
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Mince for better absorption."
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish."
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish."
+    },
+    {
+      "name": "Low-carb soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "Choose a sugar-free option."
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tablespoon",
+      "notes": "For added creaminess."
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a bain-marie over low heat.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Add grass-fed beef and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add chili flakes, fish sauce, and low-carb soy sauce. Cook for 1 minute, until the flavors meld together.",
+    "Add gherkin relish, stir-frying until heated through.",
+    "Stir in chopped Thai basil, lime juice, and scallions.",
+    "Taste and adjust the seasoning as needed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "isaneats",
+    "larb",
+    "low-glycemic",
+    "one-pan",
+    "thaifood"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "energizing-thai-meat-larb",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-thai-meat-larb",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:39:03Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "flaky",
+    "mood": "energizing",
+    "technique": "bain-marie",
+    "primaryIngredient": "gherkin relish",
+    "diet": "low-glycemic",
+    "region": "isaan",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Meat",
+    "descriptor": "Energizing",
+    "dishForm": "Larb"
+  }
+}
