@@ -1,0 +1,100 @@
+{
+  "title": "Earthy Ukrainian Cabbage Bowl",
+  "description": "A snappy, herbal date-night Ukrainian dish featuring shredded cabbage, smoked pork, and dill in a tandoor clay pot papillote.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 medium head, shredded",
+      "notes": "green or red"
+    },
+    {
+      "name": "smoked pork belly",
+      "amount": "200 g, diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tbsp, chopped"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon",
+      "amount": "1, zested and juiced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your tandoor clay pot in the oven at 200 C for 10 minutes.",
+    "Heat olive oil in a skillet, add diced pork belly and cook until browned.",
+    "Add sliced onion and minced garlic to the pork, sauté until fragrant.",
+    "Transfer the pork mixture to a parchment sheet, add shredded cabbage, bay leaf, dill, lemon zest and juice, salt, pepper.",
+    "Tightly fold the parchment into a papillote, sealing the edges.",
+    "Place the papillote in the preheated tandoor pot and bake for 35 minutes.",
+    "Remove the pot from the oven and carefully open the papillote to release steam.",
+    "Serve the cabbage bowl hot, garnish with extra dill if desired.",
+    "Enjoy your earthy, moist Ukrainian cabbage bowl while it remains crisp and aromatic."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot",
+    "date-night",
+    "herbal",
+    "keto-friendly",
+    "snappy",
+    "tandoor"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 60,
+    "carbs": 30,
+    "fat": 60
+  },
+  "slug": "earthy-ukrainian-cabbage-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-ukrainian-cabbage-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:58:33Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "snappy",
+    "mood": "date-night",
+    "technique": "papillote",
+    "primaryIngredient": "cabbage",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "cabbage",
+    "descriptor": "Earthy",
+    "dishForm": "Bowl"
+  }
+}
