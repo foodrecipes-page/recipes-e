@@ -1,0 +1,107 @@
+{
+  "title": "Enriched Greek Lentils Roast",
+  "description": "A roasted, silky Greek lentil dish infused with wine, herbs, and a brine wash for a moist, savory finish.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "macrobiotic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red lentils, dry",
+      "amount": "2 cups",
+      "notes": "soak 30 min, drain"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "White wine (dry)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "Cherry tomatoes, halved",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Brine (salt water)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh oregano, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Black pepper, freshly ground",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse lentils, soak 30 minutes, then drain.",
+    "In a bowl, mix lentils, olive oil, and brine, seasoning with pepper.",
+    "Spread the mixture onto a parchment-lined baking sheet.",
+    "Roast for 25 minutes, stirring halfway through.",
+    "While roasting, combine wine, onion, garlic, tomatoes, lemon zest, juice, and oregano in a small saucepan; simmer for 5 minutes until aromatic.",
+    "Remove lentils from oven and pour sauce over them; stir to coat.",
+    "Return to oven for 5 more minutes until sauce thickens slightly.",
+    "Let the dish rest 5 minutes before serving.",
+    "Garnish with extra oregano if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-fiber",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1900,
+    "protein": 108,
+    "carbs": 256,
+    "fat": 28
+  },
+  "slug": "enriched-greek-lentils-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/enriched-greek-lentils-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:29:59Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "silky",
+    "mood": "adventurous",
+    "technique": "brine-wet",
+    "primaryIngredient": "cooking wine",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lentils",
+    "descriptor": "Enriched",
+    "dishForm": "Roast"
+  }
+}

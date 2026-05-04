@@ -1,0 +1,117 @@
+{
+  "title": "Energizing Slovak Tofu Stir-fry",
+  "description": "A peppery, creamy stir-fry featuring tofu, fresh vegetables and a touch of yogurt, served over toasted bread for a satisfying solo dinner.",
+  "cuisine": "Slovak",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "200g"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 small"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 small"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "almonds, toasted",
+      "amount": "15g"
+    },
+    {
+      "name": "toasted bread slices",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "Press tofu to remove excess moisture and cut into 1-inch cubes.",
+    "Heat a kadhai over medium heat, add sesame oil, and sauté minced garlic until fragrant, about 30 seconds.",
+    "Add tofu cubes and stir-fry until lightly browned on all sides, approximately 4 minutes.",
+    "Transfer browned tofu to a plate and set aside.",
+    "In the same kadhai, add diced bell pepper, zucchini, carrot, and onion, and stir-fry for 5 minutes until vegetables are tender-crisp.",
+    "Return tofu to the pan, pour in soy sauce, lemon juice, smoked paprika, black pepper, and a pinch of salt, tossing to coat evenly, then simmer for 2 minutes.",
+    "Remove from heat, stir in Greek yogurt to create a creamy sauce, and top with toasted almonds for crunch.",
+    "Serve the stir-fry over toasted bread slices and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "kadhai",
+    "low-carb",
+    "one-pan",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 34,
+    "carbs": 44,
+    "fat": 16
+  },
+  "slug": "energizing-slovak-tofu-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-slovak-tofu-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:30:23Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "creamy",
+    "mood": "solo-dinner",
+    "technique": "toast",
+    "primaryIngredient": "stir-fry vegetables",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Slovak",
+    "mainIngredient": "tofu",
+    "descriptor": "Energizing",
+    "dishForm": "Stir-fry"
+  }
+}
