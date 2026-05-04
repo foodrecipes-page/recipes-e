@@ -1,0 +1,102 @@
+{
+  "title": "Earthy Japanese Tofu Ramen",
+  "description": "This low-calorie ramen pairs tofu marinated in miso and buttermilk with fresh greens and mushrooms for an earthy, romantic bowl.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Firm tofu",
+      "amount": "200g",
+      "notes": "cut into 1/2-inch cubes"
+    },
+    {
+      "name": "Low-sodium vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Buttermilk",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh spinach",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Scallions",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "Shiitake mushrooms",
+      "amount": "4 oz"
+    },
+    {
+      "name": "Ramen noodles",
+      "amount": "100g"
+    }
+  ],
+  "instructions": [
+    "Whisk 2 tbsp of buttermilk with 2 tbsp miso paste in a bowl until smooth.",
+    "Slice firm tofu into 1/2-inch cubes and pat dry with paper towels.",
+    "Heat 1 tsp sesame oil in a pot over medium heat until shimmering.",
+    "Add sliced tofu and sauté until lightly browned on all sides, about 3 minutes.",
+    "Pour the miso-buttermilk mixture over the tofu and stir to coat evenly.",
+    "Add 4 cups low-sodium vegetable broth, 1 tsp soy sauce, and bring to a gentle boil.",
+    "Reduce heat to low and simmer for 8 minutes, allowing flavors to meld.",
+    "While the broth simmers, cook ramen noodles according to package instructions in a separate pot.",
+    "Drain noodles and divide between two bowls, then ladle the hot miso tofu broth over them.",
+    "Garnish each bowl with sliced scallions, fresh spinach, and sliced shiitake mushrooms, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "low-calorie",
+    "miso",
+    "quick",
+    "ramen",
+    "tofu",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 687,
+    "protein": 35,
+    "carbs": 99,
+    "fat": 17
+  },
+  "slug": "earthy-japanese-tofu-ramen",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-japanese-tofu-ramen",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:59:28Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "glassy-jelly",
+    "mood": "romantic",
+    "technique": "miso-marinate",
+    "primaryIngredient": "buttermilk",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Tofu",
+    "descriptor": "Earthy",
+    "dishForm": "Ramen"
+  }
+}
