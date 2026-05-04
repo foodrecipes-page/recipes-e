@@ -958,6 +958,21 @@
     "shard": "e"
   },
   {
+    "slug": "easy-roasted-australian-sirloin-steak-grill",
+    "title": "Easy Roasted Australian Sirloin Steak Grill",
+    "tags": [
+      "australian",
+      "dairy-free",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 55,
+    "shard": "e"
+  },
+  {
     "slug": "eco-tamarin-delight",
     "title": "Eco-Tamarin Delight",
     "tags": [
@@ -1265,6 +1280,21 @@
       "tandoor"
     ],
     "cuisine": "Kenyan",
+    "totalTimeMin": 60,
+    "shard": "e"
+  },
+  {
+    "slug": "energizing-french-hazelnuts-cassoulet",
+    "title": "Energizing French Hazelnuts Cassoulet",
+    "tags": [
+      "alsace",
+      "buttery",
+      "chewy",
+      "hangover-cure",
+      "one-pan",
+      "paleo-friendly"
+    ],
+    "cuisine": "French",
     "totalTimeMin": 60,
     "shard": "e"
   },
@@ -1594,6 +1624,21 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 45,
+    "shard": "e"
+  },
+  {
+    "slug": "exotic-dutch-morning-glory-tagine",
+    "title": "Exotic Dutch Morning Glory Tagine",
+    "tags": [
+      "dutch-cuisine",
+      "exotic-dishes",
+      "festive-meals",
+      "halal-friendly",
+      "spring-recipes",
+      "tagine-recipes"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {

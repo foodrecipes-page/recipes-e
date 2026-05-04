@@ -1,0 +1,100 @@
+{
+  "title": "Exotic Dutch Morning Glory Tagine",
+  "description": "A tangy and springy Dutch dish featuring morning glory pak bung, deep fry tod, and halal friendly ingredients, all cooked in a traditional tagine pot. This festive dish is perfect for special occasions.",
+  "cuisine": "Dutch",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "morning glory pak bung",
+      "amount": "1 bunch",
+      "notes": "choose fresh"
+    },
+    {
+      "name": "deep fry tod",
+      "amount": "1 cup",
+      "notes": "store bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the tagine pot over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the morning glory pak bung and cook until it is slightly wilted.",
+    "Add the deep fry tod and cook for 2 minutes.",
+    "Add the cumin, coriander, salt, and black pepper, and stir well.",
+    "Reduce the heat to low and simmer the tagine for 10 minutes.",
+    "Serve the Exotic Dutch Morning Glory Tagine hot, garnished with fresh herbs."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-cuisine",
+    "exotic-dishes",
+    "festive-meals",
+    "halal-friendly",
+    "spring-recipes",
+    "tagine-recipes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "exotic-dutch-morning-glory-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-dutch-morning-glory-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:23:52Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "springy",
+    "mood": "festive",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "morning-glory-pak-bung",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "morning glory",
+    "descriptor": "exotic springy",
+    "dishForm": "Tagine"
+  }
+}
