@@ -1,0 +1,100 @@
+{
+  "title": "Earthy Smoky Norwegian Fernbrake Stew",
+  "description": "A hearty and romantic Norwegian stew featuring fernbrake, smoky flavors, and ayurvedic-friendly ingredients, perfect for a cozy dinner",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fernbrake",
+      "amount": "1 cup",
+      "notes": "also known as gosari"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat",
+    "Add the onion and garlic and saute until the onion is translucent",
+    "Add the smoked paprika and cook for 1 minute",
+    "Add the fernbrake, vegetable broth, potatoes, carrots, salt, and black pepper",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 30 minutes",
+    "Serve the stew hot, garnished with fresh herbs if desired",
+    "Let the stew cool slightly before serving",
+    "Serve with crusty bread or over rice"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "hearty",
+    "norwegian",
+    "one-pot",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "earthy-smoky-norwegian-fernbrake-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-smoky-norwegian-fernbrake-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T20:05:32Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "molten",
+    "mood": "romantic",
+    "technique": "boil",
+    "primaryIngredient": "fernbrake-gosari",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "fernbrake",
+    "descriptor": "Earthy Smoky",
+    "dishForm": "Stew"
+  }
+}
