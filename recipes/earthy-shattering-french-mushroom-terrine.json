@@ -1,0 +1,110 @@
+{
+  "title": "Earthy, Shattering French Mushroom Terrine",
+  "description": "A classic French dish featuring earthy mushrooms, crispy shallots, and a tangy lime juice glaze.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 pound",
+      "notes": "wild or cultivated, sliced"
+    },
+    {
+      "name": "shallots",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "fresh sprigs",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Sauté the sliced shallots in butter until crispy, then set aside.",
+    "In a separate pan, sauté the mushrooms in butter until tender.",
+    "In a small bowl, whisk together eggs, milk, and a pinch of salt.",
+    "Add the flour to the egg mixture and whisk until smooth.",
+    "Pour the egg mixture over the cooked mushrooms and stir to combine.",
+    "Season the mixture with salt, pepper, and thyme.",
+    "Transfer the mixture to a terrine dish and smooth the top.",
+    "Bake for 25 minutes or until the terrine is set.",
+    "Remove from the oven and let cool.",
+    "Refrigerate for at least 30 minutes before serving.",
+    "Garnish with crispy shallots and serve with a squeeze of lime juice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "european",
+    "french",
+    "gluten-free",
+    "low-carb",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 12,
+    "carbs": 8,
+    "fat": 15
+  },
+  "slug": "earthy-shattering-french-mushroom-terrine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-shattering-french-mushroom-terrine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:40:38Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "shattering",
+    "mood": "nostalgic",
+    "technique": "fry",
+    "primaryIngredient": "lime juice",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "mushroom",
+    "descriptor": "Earthy, shattering",
+    "dishForm": "Terrine"
+  }
+}

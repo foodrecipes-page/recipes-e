@@ -983,6 +983,20 @@
     "shard": "e"
   },
   {
+    "slug": "earthy-midnight-craving-japanese-dates-tofu-dashi",
+    "title": "Earthy Midnight Craving Japanese Dates Tofu Dashi",
+    "tags": [
+      "gluten-free",
+      "japanese",
+      "low-sodium",
+      "one-pan",
+      "vegan"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 45,
+    "shard": "e"
+  },
+  {
     "slug": "earthy-pan-seared-italian-mung-bean-sprout-sukju-tortellini",
     "title": "Earthy Pan-Seared Italian Mung-Bean-Sprout-Sukju Tortellini",
     "tags": [
@@ -1030,6 +1044,21 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 110,
+    "shard": "e"
+  },
+  {
+    "slug": "earthy-shattering-french-mushroom-terrine",
+    "title": "Earthy, Shattering French Mushroom Terrine",
+    "tags": [
+      "comfort-food",
+      "european",
+      "french",
+      "gluten-free",
+      "low-carb",
+      "vegetarian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
     "shard": "e"
   },
   {

@@ -1,0 +1,103 @@
+{
+  "title": "Earthy Midnight Craving Japanese Dates Tofu Dashi",
+  "description": "A hearty, low-sodium-friendly, Japanese-inspired dish featuring stoned dates and a savory dashi broth. Perfect for a midnight craving.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-sodium",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Stoned dates",
+      "amount": "6",
+      "notes": "Medjool dates, pitted and chopped"
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "Soft and silken, drained and cubed"
+    },
+    {
+      "name": "Kombu",
+      "amount": "1 piece",
+      "notes": "Dried kelp, cut into 1-inch pieces"
+    },
+    {
+      "name": "Shiitake mushrooms",
+      "amount": "8",
+      "notes": "Sliced and rehydrated"
+    },
+    {
+      "name": "Ferment-jang",
+      "amount": "2 tbsp",
+      "notes": "Gluten-free, low-sodium fermented soybean paste"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp",
+      "notes": "Unfiltered and unsweetened"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": "Low-sodium and gluten-free"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Sliced and peeled"
+    },
+    {
+      "name": "Green onions",
+      "amount": "4",
+      "notes": "Sliced and separate white and green parts"
+    }
+  ],
+  "instructions": [
+    "Combine kombu and 4 cups water in a large pot and bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes, or until kombu is tender.",
+    "Add shiitake mushrooms and simmer for an additional 5 minutes.",
+    "In a separate pan, combine ferment-jang, rice vinegar, soy sauce, and ginger. Simmer over low heat for 5 minutes, stirring occasionally.",
+    "In a blender or food processor, puree the dashi broth with the fermented paste mixture until smooth.",
+    "In a large serving bowl or mason jar, combine the pureed dashi broth, stoned dates, and cubed tofu.",
+    "Garnish with green onions and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "japanese",
+    "low-sodium",
+    "one-pan",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 50,
+    "fat": 10
+  },
+  "slug": "earthy-midnight-craving-japanese-dates-tofu-dashi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-midnight-craving-japanese-dates-tofu-dashi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:40:13Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "snappy",
+    "mood": "midnight-craving",
+    "technique": "ferment-jang",
+    "primaryIngredient": "stoned dates",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "dates",
+    "descriptor": "Earthy Midnight Craving",
+    "dishForm": "Tofu Dashi"
+  }
+}
