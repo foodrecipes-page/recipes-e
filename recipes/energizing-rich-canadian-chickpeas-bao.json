@@ -1,0 +1,61 @@
+{
+  "title": "Energizing Rich Canadian Chickpeas Bao",
+  "description": "A Canadian twist on a Korean classic, this dish features a rich and energizing filling made with chickpeas and served in a crispy ssam wrap.",
+  "cuisine": "Canadian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (14 oz)"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a pan over medium heat.",
+    "Add the diced garlic and grated ginger and cook until fragrant, about 1 minute.",
+    "Add the canned diced tomatoes, black pepper, and crushed red pepper flakes to the pan and cook for 2 minutes.",
+    "Drain and rinse the chickpeas, then add them to the pan and cook for 2-3 minutes, or until they start to brown.",
+    "Stir in the shredded cheddar cheese and sugar-free maple syrup until melted and smooth.",
+    "Warm the ssam wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the baos by spooning the chickpea filling onto the center of each wrap, then topping with sliced scallions.",
+    "Fold the bottom half of each wrap up over the filling, then fold in the sides and roll up the wraps to form tight cylinders."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "energizing-rich-canadian-chickpeas-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-rich-canadian-chickpeas-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:47:44Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "cheese-pull",
+    "mood": "energizing",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "can of chickpeas",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "chickpeas",
+    "descriptor": "energizing rich",
+    "dishForm": "Bao"
+  }
+}
