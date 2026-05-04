@@ -1,0 +1,101 @@
+{
+  "title": "Exotic Indulgent Japanese Prunes Nigiri",
+  "description": "A fresh, creamy, indulgent Japanese dish featuring prunes, nigiri-shaping, and a halal-friendly ingredient list. Serve immediately in a copper mug.",
+  "cuisine": "Japanese",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Japanese prunes (also known as Ume Plums)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Short-grain Japanese rice (e.g. Japanese Koshihikari or Akita Komachi)",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": "Use a halal-friendly brand if necessary."
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Matcha powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Tahini",
+      "amount": "2 tablespoons",
+      "notes": "Use a halal-friendly brand if necessary."
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "Use a small amount for flavor."
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Soak the Japanese prunes in water for at least 4 hours."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "hard",
+  "tags": [
+    "dessert",
+    "indulgent",
+    "japanese",
+    "matcha",
+    "prunes",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 4
+  },
+  "slug": "exotic-indulgent-japanese-prunes-nigiri",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-indulgent-japanese-prunes-nigiri",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:33:58Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "prunes",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "prunes",
+    "descriptor": "Exotic Indulgent",
+    "dishForm": "Nigiri"
+  }
+}
