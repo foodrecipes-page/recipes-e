@@ -1,0 +1,63 @@
+{
+  "title": "Earthy Pan-Seared Italian Mung-Bean-Sprout-Sukju Tortellini",
+  "description": "A sweet and fluffy pasta dish featuring mung-bean-sprout-sukju and lamination-puff, served on a cedar plank. Perfect for adventurous foodies and pescatarians",
+  "cuisine": "italian",
+  "diet": [
+    "pescatarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mung-bean-sprout-sukju",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "lamination-puff",
+      "amount": "1 sheet",
+      "notes": "defrosted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the lamination-puff into thin strips and set aside.",
+    "Soak the mung-bean-sprout-sukju in water for 30 minutes, then drain and chop into small pieces.",
+    "In a large skillet, heat 2 tablespoons of olive oil over medium heat and sauté the chopped mung-bean-sprout-sukju until tender, about 5 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "italian",
+    "pescatarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "earthy-pan-seared-italian-mung-bean-sprout-sukju-tortellini",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-pan-seared-italian-mung-bean-sprout-sukju-tortellini",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:16:31Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "lamination-puff",
+    "primaryIngredient": "mung-bean-sprout-sukju",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "mung-bean-sprout-sukju",
+    "descriptor": "Earthy Pan-Seared",
+    "dishForm": "Tortellini"
+  }
+}
