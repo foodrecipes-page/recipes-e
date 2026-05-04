@@ -531,6 +531,20 @@
     "shard": "e"
   },
   {
+    "slug": "earthy-dense-middle-eastern-beef-tagine",
+    "title": "Earthy Dense Middle-Eastern Beef Tagine",
+    "tags": [
+      "beef",
+      "date-night",
+      "high-protein",
+      "lacto-vegetarian",
+      "middle-eastern"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
+    "shard": "e"
+  },
+  {
     "slug": "earthy-dense-venezuelan-tuna-chowder",
     "title": "Earthy Dense Venezuelan Tuna Chowder",
     "tags": [
@@ -1734,6 +1748,20 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
+    "slug": "elevated-italian-cannellini-beans-orecchiette",
+    "title": "elevated italian cannellini beans orecchiette",
+    "tags": [
+      "italian",
+      "lacto-ovo-vegetarian",
+      "one-pan",
+      "pasta",
+      "weeknight"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {

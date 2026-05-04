@@ -1,0 +1,117 @@
+{
+  "title": "Earthy Dense Middle-Eastern Beef Tagine",
+  "description": "A rich and flavorful dish featuring ground beef, fermented jang, and aromatic spices. This recipe is perfect for a romantic date night.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "lacto-vegetarian",
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Fermented Jang",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Dates",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a molcajete, toast the cumin, coriander, and paprika over medium heat for 2 minutes, stirring constantly.",
+    "Add the onion, ginger, and garlic to the molcajete and cook until the onion is translucent.",
+    "Add the ground beef to the molcajete and cook, breaking it up with a spoon, until it is no longer pink.",
+    "Stir in the fermented jang and cook for an additional 2 minutes.",
+    "Add the salt, black pepper, and dates to the molcajete and stir to combine.",
+    "Transfer the mixture to a serving dish and top with toasted almonds.",
+    "Serve warm, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "date-night",
+    "high-protein",
+    "lacto-vegetarian",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 24,
+    "fat": 34
+  },
+  "slug": "earthy-dense-middle-eastern-beef-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-dense-middle-eastern-beef-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:20:40Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "ferment-jang",
+    "primaryIngredient": "ground beef",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "beef",
+    "descriptor": "Earthy dense",
+    "dishForm": "Tagine"
+  }
+}

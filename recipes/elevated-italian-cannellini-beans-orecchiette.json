@@ -1,0 +1,96 @@
+{
+  "title": "elevated italian cannellini beans orecchiette",
+  "description": "malty, snappy orecchiette dish featuring cannellini beans, a perfect lazy-sunday italian dinner",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "orecchiette pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "cannellini beans",
+      "amount": "1 can (15 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "heat olive oil in a large skillet over medium heat.",
+    "add garlic and cook for 1 minute, until fragrant.",
+    "add cannellini beans and cook for 2-3 minutes, until heated through.",
+    "add lemon juice and stir to combine.",
+    "add orecchiette pasta to the skillet and toss to combine with the cannellini beans and sauce.",
+    "season with salt and black pepper to taste.",
+    "serve hot, garnished with chopped fresh parsley and grated parmesan cheese.",
+    "if using parmesan cheese, sprinkle on top just before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lacto-ovo-vegetarian",
+    "one-pan",
+    "pasta",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 22,
+    "carbs": 80,
+    "fat": 14
+  },
+  "slug": "elevated-italian-cannellini-beans-orecchiette",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/elevated-italian-cannellini-beans-orecchiette",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:20:53Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "snappy",
+    "mood": "lazy-sunday",
+    "technique": "steam",
+    "primaryIngredient": "cannellini beans",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "cannellini beans",
+    "descriptor": "elevated",
+    "dishForm": "Orecchiette"
+  }
+}
