@@ -1453,6 +1453,21 @@
     "shard": "e"
   },
   {
+    "slug": "enchanted-moroccan-cheese-tagine",
+    "title": "Enchanted Moroccan Cheese Tagine",
+    "tags": [
+      "cheese-dominant",
+      "grilled",
+      "moroccan",
+      "one-pot",
+      "paleo-friendly",
+      "romantic"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 60,
+    "shard": "e"
+  },
+  {
     "slug": "energetic-british-puy-lentils-cornish-pasty",
     "title": "Energetic British Puy Lentils Cornish Pasty",
     "tags": [
@@ -2445,6 +2460,20 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 50,
+    "shard": "e"
+  },
+  {
+    "slug": "exquisite-garlicky-vietnamese-pork-bun-cha",
+    "title": "Exquisite Garlicky Vietnamese Pork Bun Cha",
+    "tags": [
+      "garlic-lovers",
+      "quick-meals",
+      "refreshing-dishes",
+      "vietnamese-cuisine",
+      "weeknight-dinners"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {

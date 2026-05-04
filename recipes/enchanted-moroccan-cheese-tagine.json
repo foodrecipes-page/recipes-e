@@ -1,0 +1,108 @@
+{
+  "title": "Enchanted Moroccan Cheese Tagine",
+  "description": "A tangy, shaggy Moroccan tagine that blends aromatic spices with creamy colby jack cheese, finished with a crisp yakimono grill sear for a romantic dining experience.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "colby jack cheese",
+      "amount": "200 g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "homemade vegetable broth",
+      "amount": "200 ml"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "1 medium, cubed"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "100 g, chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a large heavy‑bottomed pot over medium heat and add the olive oil.",
+    "Sauté the diced onion until translucent, about 3 minutes.",
+    "Stir in the minced garlic and cook for another 30 seconds until fragrant.",
+    "Add the cumin, coriander, smoked paprika, and tomato paste, and stir to coat the onion mixture.",
+    "Pour in the homemade vegetable broth, bring to a gentle simmer, and let it reduce slightly, about 5 minutes.",
+    "Toss in the cubed sweet potato and chopped apricots, cover, and simmer for 20 minutes until the sweet potato is tender.",
+    "Reduce the heat to low, stir in the shredded colby jack cheese, and let it melt, about 5 minutes.",
+    "Season with salt and pepper to taste, stirring gently until everything is integrated.",
+    "Transfer the tagine to a yakimono grill or a preheated grill pan set to medium‑low and sear the top until a golden crust forms, 3-4 minutes.",
+    "Remove from heat, let rest for 2 minutes, then serve hot over a bed of fresh herbs or a small side of cauliflower rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-dominant",
+    "grilled",
+    "moroccan",
+    "one-pot",
+    "paleo-friendly",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 1050,
+    "protein": 29,
+    "carbs": 72,
+    "fat": 62
+  },
+  "slug": "enchanted-moroccan-cheese-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/enchanted-moroccan-cheese-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:41:12Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "shaggy",
+    "mood": "romantic",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "colby jack cheese",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "cheese",
+    "descriptor": "Enchanted",
+    "dishForm": "Tagine"
+  }
+}
