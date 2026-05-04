@@ -1,0 +1,111 @@
+{
+  "title": "Ethereal Blackcurrant Saudi-Arabian Sour Cheese Wrap",
+  "description": "A festive Saudi-Arabian dish featuring blackcurrant jam, shio-koji-cure, and cheese-pull, wrapped in an agave leaf. This whole30-friendly wrap is perfect for a special occasion.",
+  "cuisine": "Saudi-Arabian",
+  "diet": [
+    "whole30",
+    "gluten-free",
+    "sugar-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Shio-koji-cured lamb breast",
+      "amount": "4 oz",
+      "notes": ""
+    },
+    {
+      "name": "Blackcurrant jam",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Crumbly goat cheese",
+      "amount": "4 oz",
+      "notes": ""
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Agave leaf",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "EVOO",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pink peppercorns",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/8 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion powder",
+      "amount": "1/8 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Line a baking sheet with parchment paper.",
+    "Place the shio-koji-cured lamb breast on the prepared baking sheet.",
+    "Bake for 12 minutes or until slightly charred."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "festive",
+    "gluten-free",
+    "high-protein",
+    "saudi-arabian",
+    "sugar-free",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 10,
+    "fat": 28
+  },
+  "slug": "ethereal-blackcurrant-saudi-arabian-sour-cheese-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/ethereal-blackcurrant-saudi-arabian-sour-cheese-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:29:10Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "cheese-pull",
+    "mood": "festive",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "blackcurrant jam",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Saudi-arabian",
+    "mainIngredient": "sour cheese",
+    "descriptor": "Ethereal Blackcurrant",
+    "dishForm": "Wrap"
+  }
+}
