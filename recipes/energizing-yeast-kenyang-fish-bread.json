@@ -1,0 +1,93 @@
+{
+  "title": "Energizing Yeast Kenyang Fish Bread",
+  "description": "A light and airy Kenyan fish bread infused with the savory flavors of aekjeot and perfect for post-workout snacking or as a side dish.",
+  "cuisine": "kenyan",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "instant yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "aekjeot",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "flour for kneading",
+      "amount": "additional",
+      "notes": "for dusting workspace"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together flour, yeast, sugar, and salt.",
+    "In a separate bowl, whisk together milk, egg, and aekjeot.",
+    "Add the wet ingredients to the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough on a lightly floured surface for 5 minutes, until smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour.",
+    "Preheat a salt-block to 400°F (200°C).",
+    "Punch down the dough and shape it into a round loaf.",
+    "Place the loaf on the preheated salt-block and bake for 30 minutes, or until golden brown.",
+    "Remove the bread from the salt-block and let it cool on a wire rack for 10 minutes before slicing."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "kenyan",
+    "one-pan",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "energizing-yeast-kenyang-fish-bread",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-yeast-kenyang-fish-bread",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:18:53Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "pillowy",
+    "mood": "post-workout",
+    "technique": "whisk",
+    "primaryIngredient": "fish-sauce-aekjeot",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Kenyang",
+    "mainIngredient": "fish",
+    "descriptor": "Energizing Yeast",
+    "dishForm": "Bread"
+  }
+}
