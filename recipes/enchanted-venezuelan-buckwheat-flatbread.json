@@ -1,0 +1,105 @@
+{
+  "title": "Enchanted Venezuelan Buckwheat Flatbread",
+  "description": "Cultured, flaky flatbread made with buckwheat flour and miso marinate, baked on a salt block for a kid-friendly Venezuelan snack.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "buckwheat flour",
+      "amount": "120 g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "60 ml"
+    },
+    {
+      "name": "miso paste",
+      "amount": "30 g"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "30 ml"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "15 ml"
+    },
+    {
+      "name": "lime juice",
+      "amount": "15 ml"
+    },
+    {
+      "name": "salt",
+      "amount": "5 g"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 g"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 g"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 g"
+    },
+    {
+      "name": "cilantro, chopped",
+      "amount": "10 g"
+    }
+  ],
+  "instructions": [
+    "Whisk together miso paste, coconut oil, apple cider vinegar, lime juice, salt, cumin, turmeric, and paprika until smooth.",
+    "Add buckwheat flour and coconut milk to the miso mixture and stir until a stiff dough forms.",
+    "Cover dough with plastic wrap and refrigerate for at least 30 minutes to ferment slightly.",
+    "Release dough onto a lightly floured surface and divide into 4 equal portions.",
+    "Roll each portion into a thin circle about 8 inches in diameter, using a rolling pin and a little buckwheat flour to prevent sticking.",
+    "Preheat a salt block or a cast‑iron skillet over medium heat until shimmering.",
+    "Place one flatbread on the hot salt block and cook for 2 minutes, then flip and cook for another 1 minute until golden.",
+    "Transfer cooked flatbread to a plate and cover with a clean towel to keep warm while you cook the remaining pieces.",
+    "Serve the flatbread warm, optionally topped with chopped cilantro and a squeeze of lime for extra flavor.",
+    "Store leftovers in an airtight container in the fridge for up to 3 days; reheat on the salt block for a few seconds to restore crispness."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cultured",
+    "flaky",
+    "flatbread",
+    "kid-friendly",
+    "salt-block",
+    "venezuelan",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 810,
+    "protein": 18,
+    "carbs": 90,
+    "fat": 37
+  },
+  "slug": "enchanted-venezuelan-buckwheat-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/enchanted-venezuelan-buckwheat-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:26:10Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "miso-marinate",
+    "primaryIngredient": "buckwheat flour",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "buckwheat",
+    "descriptor": "Enchanted",
+    "dishForm": "Flatbread"
+  }
+}
