@@ -2777,6 +2777,21 @@
     "shard": "e"
   },
   {
+    "slug": "extra-cheesy-argentinian-pasta-lasagna",
+    "title": "Extra Cheesy Argentinian Pasta Lasagna",
+    "tags": [
+      "argentinian",
+      "cheesy",
+      "comfort-food",
+      "lunch",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 60,
+    "shard": "e"
+  },
+  {
     "slug": "extra-earthy-canadian-beef-tagine",
     "title": "Extra-Earthy Canadian Beef Tagine",
     "tags": [

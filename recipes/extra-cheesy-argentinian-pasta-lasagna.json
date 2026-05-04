@@ -1,0 +1,119 @@
+{
+  "title": "Extra Cheesy Argentinian Pasta Lasagna",
+  "description": "A rich and comforting Argentinian-inspired lasagna featuring a creamy pasta-water-emulsion and a blend of melted cheeses.",
+  "cuisine": "Argentinian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lasagna noodles",
+      "amount": "8-10 sheets"
+    },
+    {
+      "name": "Vegetable stock",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": "lean"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 can (28 oz)"
+    },
+    {
+      "name": "Bechamel sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Shredded mozzarella cheese",
+      "amount": "2 cups",
+      "notes": "divided"
+    },
+    {
+      "name": "Shredded cheddar cheese",
+      "amount": "1 cup",
+      "notes": "divided"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the lasagna noodles according to the package instructions. Drain and set aside.",
+    "In a large skillet, sauté the chopped onion and minced garlic in butter until softened.",
+    "Add the ground beef to the skillet and cook until browned, breaking it up into small pieces as it cooks.",
+    "Stir in the tomato paste and cook for 1-2 minutes. Then, add the diced tomatoes and cook for an additional 5 minutes.",
+    "In a separate saucepan, combine the vegetable stock and bechamel sauce. Bring to a simmer over medium heat and cook until heated through.",
+    "In a large mixing bowl, combine the cooked lasagna noodles, the meat sauce, and the bechamel sauce. Mix well to combine.",
+    "In a greased 9x13-inch baking dish, create a layer of the pasta mixture. Top with a layer of shredded mozzarella cheese and a sprinkle of parmesan cheese.",
+    "Repeat the layering process two more times, ending with a layer of cheese on top.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let rest for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "argentinian",
+    "cheesy",
+    "comfort-food",
+    "lunch",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "extra-cheesy-argentinian-pasta-lasagna",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/extra-cheesy-argentinian-pasta-lasagna",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T10:26:13Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "cheese-pull",
+    "mood": "brunch-mood",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "vegetable stock",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "pasta",
+    "descriptor": "Extra Cheesy",
+    "dishForm": "Lasagna"
+  }
+}
