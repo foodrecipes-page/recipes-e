@@ -1,0 +1,100 @@
+{
+  "title": "Easy American Vermicelli Casserole",
+  "description": "A classic, comforting American dish featuring vermicelli pasta, slow-cooked to perfection with a plant-based twist, this casserole is sure to satisfy your cravings for a nostalgic, cheesy meal. It is a great option for a weeknight dinner or a special occasion.",
+  "cuisine": "American",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vermicelli pasta",
+      "amount": "12 oz",
+      "notes": "plant-based"
+    },
+    {
+      "name": "marinara sauce",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "vegan mozzarella shreds",
+      "amount": "1 cup",
+      "notes": "dairy-free"
+    },
+    {
+      "name": "vegan ground beef",
+      "amount": "1 cup",
+      "notes": "plant-based alternative"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sauteing"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "Cook the vermicelli pasta according to package instructions and set aside.",
+    "In a large skillet, saute the chopped onion, bell pepper, and mushrooms in olive oil until tender.",
+    "Add the vegan ground beef to the skillet and cook until browned, breaking it up into small pieces as it cooks.",
+    "Stir in the marinara sauce and bring the mixture to a simmer.",
+    "In a large bowl, combine the cooked vermicelli pasta, the sauce mixture, and the vegan mozzarella shreds.",
+    "Transfer the pasta mixture to a 9x13 inch baking dish and top with additional vegan mozzarella shreds if desired.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "one-pan",
+    "pasta-dish",
+    "plant-based",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "easy-american-vermicelli-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-american-vermicelli-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T20:13:25Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "cheese-pull",
+    "mood": "nostalgic",
+    "technique": "slow-cook",
+    "primaryIngredient": "vermicelli pasta",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "vermicelli",
+    "descriptor": "Easy",
+    "dishForm": "Casserole"
+  }
+}
