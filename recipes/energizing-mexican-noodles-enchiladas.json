@@ -1,0 +1,120 @@
+{
+  "title": "Energizing Mexican Noodles Enchiladas",
+  "description": "A bright, floral twist on classic enchiladas that blends rice stick noodles with fresh herbs, chickpeas, and a tangy lime‑flavored sauce, all served in a traditional stone bowl for a warming, Mediterranean‑friendly meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice stick noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "canned chickpeas",
+      "amount": "1 cup",
+      "notes": "drained & rinsed"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "200g"
+    },
+    {
+      "name": "corn kernels",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "jalapeno",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "50g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "4",
+      "notes": "toasted"
+    }
+  ],
+  "instructions": [
+    "Cook the rice stick noodles in salted boiling water for 6 to 8 minutes until al dente, then drain and set aside.",
+    "Saute the garlic and onion in olive oil over medium heat until fragrant and translucent.",
+    "Add the bell pepper and jalapeno to the pan and cook for 3 minutes.",
+    "Stir in the chickpeas, corn kernels, and tomato sauce, then simmer for 5 minutes to blend the flavors.",
+    "Fold in the cooked noodles, cilantro, and lime juice, stirring until everything is well coated.",
+    "Heat a stone bowl (dolsot) over medium heat until it shimmers.",
+    "Ladle the noodle mixture into the hot stone bowl, covering the surface with a generous sprinkle of feta cheese.",
+    "Return the bowl to the stove and cover with a lid; let it steam for 5 minutes to allow the cheese to melt.",
+    "Serve the enchiladas hot, garnished with extra cilantro and lime wedges if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dolsot",
+    "enchiladas",
+    "energizing",
+    "mediterranean-friendly",
+    "mexican",
+    "noodles",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 50,
+    "fat": 12
+  },
+  "slug": "energizing-mexican-noodles-enchiladas",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-mexican-noodles-enchiladas",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:51:01Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "toast",
+    "primaryIngredient": "rice stick noodles",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Noodles",
+    "descriptor": "Energizing",
+    "dishForm": "Enchiladas"
+  }
+}
