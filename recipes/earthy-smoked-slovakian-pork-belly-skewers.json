@@ -1,0 +1,99 @@
+{
+  "title": "Smoked Slovakian Pork Belly Skewers",
+  "description": "A traditional Slovakian dish featuring charred pork belly slices, served with a sweet and tangy glaze, this recipe is perfect for a solo dinner, mortar-pestle-pound method used for satvik-friendly preparation.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 pound",
+      "notes": "slice into 1 inch pieces"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "wood chips",
+      "amount": "1 cup",
+      "notes": "for smoking"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together smoked paprika, brown sugar, apple cider vinegar, olive oil, garlic powder, salt, and black pepper.",
+    "Add the sliced pork belly to the bowl and toss to coat with the marinade.",
+    "Thread the marinated pork belly slices onto skewers, leaving a small space between each piece.",
+    "Place the skewers on the grill and cook for 20 minutes, or until the pork is charred and cooked through.",
+    "Meanwhile, prepare the glaze by pounding the marinade ingredients together in a mortar and pestle until well combined.",
+    "Brush the glaze over the pork belly skewers during the last 5 minutes of cooking.",
+    "Remove the skewers from the grill and let rest for 5 minutes before serving.",
+    "Serve the skewers hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "grilled",
+    "pork-belly",
+    "skewers",
+    "slovakian-cuisine",
+    "smoked-meat"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 100
+  },
+  "slug": "earthy-smoked-slovakian-pork-belly-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-smoked-slovakian-pork-belly-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:47:44Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "glassy-jelly",
+    "mood": "solo-dinner",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "pork belly slices",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork belly",
+    "descriptor": "earthy smoked",
+    "dishForm": "Skewers"
+  }
+}
