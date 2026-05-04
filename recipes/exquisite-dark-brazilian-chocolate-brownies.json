@@ -1,0 +1,89 @@
+{
+  "title": "Exquisite Dark Brazilian Chocolate Brownies",
+  "description": "Indulge in the rich flavors of dark Brazilian chocolate and score-fat in these keto-friendly brownies, featuring a winey and crisp texture.",
+  "cuisine": "brazilian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dark chocolate chips",
+      "amount": "8 ounces",
+      "notes": "at least 85% cocoa"
+    },
+    {
+      "name": "score-fat",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "granulated sweetener",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a medium bowl, whisk together the almond flour, granulated sweetener, and salt.",
+    "In a large bowl, melt the dark chocolate chips in the microwave in 30-second increments, stirring between each interval.",
+    "Once the chocolate is melted, stir in the melted score-fat and vanilla extract.",
+    "Add the eggs one at a time, stirring well after each addition.",
+    "Gradually add the dry ingredients to the chocolate mixture, stirring until just combined.",
+    "Pour the batter into a greased 8-inch square baking dish.",
+    "Bake for 25 minutes or until a toothpick inserted into the center comes out with a few moist crumbs.",
+    "Let the brownies cool completely in the pan before cutting into squares."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 9,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-inspired",
+    "dark-chocolate",
+    "keto-friendly",
+    "low-carb",
+    "rich-dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 10,
+    "fat": 28
+  },
+  "slug": "exquisite-dark-brazilian-chocolate-brownies",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exquisite-dark-brazilian-chocolate-brownies",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:22:12Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crisp",
+    "mood": "indulgent",
+    "technique": "score-fat",
+    "primaryIngredient": "dark chocolate chips",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "chocolate",
+    "descriptor": "exquisite dark",
+    "dishForm": "Brownies"
+  }
+}
