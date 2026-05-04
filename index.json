@@ -2507,6 +2507,22 @@
     "shard": "e"
   },
   {
+    "slug": "exotic-tender-algerian-chicken-tagine",
+    "title": "Exotic Tender Algerian Chicken Tagine",
+    "tags": [
+      "algerian-cuisine",
+      "chicken-recipes",
+      "comfort-food",
+      "gluten-free",
+      "one-pot",
+      "sick-day",
+      "tandoor-recipes"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 60,
+    "shard": "e"
+  },
+  {
     "slug": "exotic-tender-egyptian-lamb-tagine",
     "title": "Exotic Tender Egyptian Lamb Tagine",
     "tags": [

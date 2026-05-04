@@ -1,0 +1,105 @@
+{
+  "title": "Exotic Tender Algerian Chicken Tagine",
+  "description": "A salty and tender Algerian dish featuring chicken, pretzels, and spices, cooked in a tandoor clay pot, perfect for a sick day, this ayurvedic-rajasic-friendly recipe is sure to comfort and nourish, the combination of chicken and pretzels provides a unique flavor and texture.",
+  "cuisine": "Algerian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "pretzels",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor clay pot to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, ginger, cumin, paprika, salt, and black pepper.",
+    "Add the chicken thighs to the bowl and toss to coat with the marinade.",
+    "Add the crushed pretzels to the bowl and toss to combine with the chicken and marinade.",
+    "Add the chopped onion to the tandoor clay pot and cook until softened, about 5 minutes.",
+    "Add the chicken and pretzel mixture to the tandoor clay pot and cook, covered, for 30 minutes.",
+    "Remove the lid and cook for an additional 10 minutes, or until the chicken is cooked through and the pretzels are crispy.",
+    "Serve hot, garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "chicken-recipes",
+    "comfort-food",
+    "gluten-free",
+    "one-pot",
+    "sick-day",
+    "tandoor-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "exotic-tender-algerian-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-tender-algerian-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:37:57Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "tender",
+    "mood": "sick-day",
+    "technique": "tandoor",
+    "primaryIngredient": "pretzels",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "chicken",
+    "descriptor": "exotic tender",
+    "dishForm": "Tagine"
+  }
+}
