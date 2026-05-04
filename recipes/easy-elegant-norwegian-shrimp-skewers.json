@@ -1,0 +1,96 @@
+{
+  "title": "Easy Elegant Norwegian Shrimp Skewers",
+  "description": "A quick and flavorful Norwegian dish featuring jumbo shrimp, perfect for a weeknight dinner, with a pungent and glassy-jelly texture from the combination of soy sauce and honey, and buddhist-temple-friendly as it does not contain any animal products except for the shrimp, and score-fat is not used in this recipe as it is not a traditional Norwegian ingredient.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jumbo shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together soy sauce, honey, lemon juice, and olive oil.",
+    "Add the garlic, ginger, salt, and black pepper to the bowl and stir to combine.",
+    "Add the shrimp to the bowl and toss to coat with the marinade.",
+    "Thread the marinated shrimp onto skewers, leaving a small space between each shrimp.",
+    "Grill the shrimp skewers for 8-10 minutes, turning occasionally, until the shrimp are pink and cooked through.",
+    "Serve the shrimp skewers hot, garnished with lemon wedges and chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "grilled",
+    "healthy",
+    "norwegian",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 12,
+    "fat": 8
+  },
+  "slug": "easy-elegant-norwegian-shrimp-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-elegant-norwegian-shrimp-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:39:16Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "glassy-jelly",
+    "mood": "weeknight",
+    "technique": "score-fat",
+    "primaryIngredient": "jumbo shrimp",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Easy Elegant",
+    "dishForm": "Skewers"
+  }
+}
