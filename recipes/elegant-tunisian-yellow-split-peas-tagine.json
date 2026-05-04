@@ -1,0 +1,114 @@
+{
+  "title": "Elegant Tunisian Yellow Split Peas Tagine",
+  "description": "A grassy, light date-night Tunisian dish featuring yellow split peas with a subtle glaze, low-sodium-friendly and perfect for an intimate dinner.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellow split peas",
+      "amount": "200g"
+    },
+    {
+      "name": "low-sodium vegetable broth",
+      "amount": "800ml"
+    },
+    {
+      "name": "medium onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "medium carrot",
+      "amount": "1",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tahini",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a tagine over medium heat.",
+    "Add the diced onion and minced garlic and sauté until translucent.",
+    "Stir in the chopped carrot, cumin, coriander, and smoked paprika, cooking for 2 minutes until fragrant.",
+    "Add the yellow split peas and low-sodium vegetable broth, bringing the mixture to a gentle simmer.",
+    "Cover the tagine and reduce heat to low, letting the peas cook for 35 minutes or until tender.",
+    "Stir in the tahini and lemon juice, creating a silky glaze that coats the peas.",
+    "Adjust the consistency with a splash of warm water if it becomes too thick.",
+    "Season with a pinch of cracked black pepper and a small handful of fresh parsley, stirring gently.",
+    "Serve the tagine hot, garnished with extra parsley and accompanied by warm crusty bread.",
+    "Enjoy the aromatic, grassy flavors of this elegant Tunisian dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "grassy",
+    "light",
+    "low-sodium",
+    "split-peas",
+    "tunisian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 55,
+    "fat": 9
+  },
+  "slug": "elegant-tunisian-yellow-split-peas-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/elegant-tunisian-yellow-split-peas-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:13:18Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "light",
+    "mood": "date-night",
+    "technique": "glaze",
+    "primaryIngredient": "yellow split peas",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "yellow split peas",
+    "descriptor": "Elegant",
+    "dishForm": "Tagine"
+  }
+}
