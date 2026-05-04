@@ -1,0 +1,92 @@
+{
+  "title": "Exotic Flaky Brazilian Chicken Empanadas",
+  "description": "A peppery and flaky post-workout Brazilian dish featuring enchilada sauce, perfect for a snack or dinner. This dairy-free friendly recipe is made with score-fat and flavorful spices.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "enchilada sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "score-fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, heat the score-fat over medium heat.",
+    "Add the chopped onion and cook until softened, about 3 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chicken breast to the skillet and cook until browned, about 5 minutes.",
+    "Stir in the enchilada sauce and bring to a simmer.",
+    "Roll out the empanada dough and cut into circles.",
+    "Spoon the chicken mixture onto one half of each dough circle.",
+    "Fold the dough in half and press the edges to seal.",
+    "Brush the tops with a little score-fat and bake for 20 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-food",
+    "dairy-free",
+    "empanadas",
+    "flaky-pastry",
+    "post-workout",
+    "snack-time"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "exotic-flaky-brazilian-chicken-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-flaky-brazilian-chicken-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:56:46Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "score-fat",
+    "primaryIngredient": "enchilada sauce",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "exotic flaky",
+    "dishForm": "Empanadas"
+  }
+}
