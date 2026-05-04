@@ -1,0 +1,117 @@
+{
+  "title": "Energizing Umami Argentinian Trout Parrillada",
+  "description": "A savory and energizing dish featuring pan-seared trout, crispy pickled onions, and a hint of umami flavor, all within a keto-friendly framework.",
+  "cuisine": "argentinian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "trout fillets",
+      "amount": "4",
+      "notes": "6-8 ounces each"
+    },
+    {
+      "name": "pickled onions",
+      "amount": "1 cup",
+      "notes": "see pickled onion recipe below"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "avocado oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "capers",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the trout fillets with salt, black pepper, and thyme.",
+    "Brush the grill or grill pan with olive oil to prevent sticking.",
+    "Add the trout fillets to the grill and cook for 3-4 minutes per side, or until cooked through.",
+    "Meanwhile, heat the avocado oil in a small skillet over medium heat.",
+    "Add the pickled onions and capers to the skillet and cook until crispy, stirring occasionally.",
+    "Stir in the paprika and cook for an additional minute.",
+    "To serve, place the cooked trout fillets on a plate and top with the crispy pickled onion mixture and a sprinkle of parsley.",
+    "Garnish with additional parsley if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "high-protein",
+    "keto",
+    "parrillada",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 52,
+    "carbs": 5,
+    "fat": 36
+  },
+  "slug": "energizing-umami-argentinian-trout-parrillada",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-umami-argentinian-trout-parrillada",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:09:14Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crumbly",
+    "mood": "energizing",
+    "technique": "pickle",
+    "primaryIngredient": "trout",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "argentinian",
+    "mainIngredient": "trout",
+    "descriptor": "energizing umami",
+    "dishForm": "parrillada"
+  }
+}
