@@ -1,0 +1,100 @@
+{
+  "title": "Earthy Greek Scamorza Revithia",
+  "description": "A nutty, crumbly, brunch-mood Greek dish featuring vegan scamorza poached in tomatoes and baked in a terracotta dish.",
+  "cuisine": "Greek",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "vegan scamorza cheese",
+      "amount": "200g"
+    },
+    {
+      "name": "medium tomatoes",
+      "amount": "4"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2"
+    },
+    {
+      "name": "fresh oregano leaves",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200C and lightly oil a terracotta baking dish.",
+    "Slice the tomatoes in half and place cut sides down in the dish.",
+    "Add the sliced onion, whole garlic cloves, and olive oil over the tomatoes.",
+    "Poach the tomatoes and vegetables over medium heat for 5 minutes until the tops soften.",
+    "Drizzle sea salt, black pepper, and oregano over the mixture.",
+    "Slice the vegan scamorza into thick wedges and arrange on top of the poached mixture.",
+    "Bake for 15 minutes until the cheese is golden and the tomatoes burst.",
+    "Remove from oven and sprinkle chopped parsley and lemon zest before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch",
+    "crumbly",
+    "nutty",
+    "quick",
+    "terracotta",
+    "vegan",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 32
+  },
+  "slug": "earthy-greek-scamorza-revithia",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-greek-scamorza-revithia",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:13:29Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crumbly",
+    "mood": "brunch-mood",
+    "technique": "poach",
+    "primaryIngredient": "scamorza",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "scamorza",
+    "descriptor": "Earthy",
+    "dishForm": "Revithia"
+  }
+}
