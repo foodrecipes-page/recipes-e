@@ -1,0 +1,104 @@
+{
+  "title": "Effervescent Portuguese Yoghurt Dumplings",
+  "description": "Light, peppery dumplings with a glassy-jelly consistency, they steam quickly and deliver a burst of freshness.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Natural yogurt",
+      "amount": "500 g",
+      "notes": "plain, full-fat"
+    },
+    {
+      "name": "Coconut flour",
+      "amount": "50 g"
+    },
+    {
+      "name": "Egg whites",
+      "amount": "2 large"
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tbsp",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "Sparkling water",
+      "amount": "100 ml"
+    },
+    {
+      "name": "Agar-agar powder",
+      "amount": "1 tsp",
+      "notes": "dissolve in water"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Whisk the egg whites in a medium bowl until they form soft peaks.",
+    "Stir in the coconut flour, salt, garlic powder, smoked paprika, and ground black pepper until the dry mix is uniform.",
+    "Fold in the natural yogurt and lemon zest, whisking until the batter is smooth.",
+    "Heat the sparkling water in a small saucepan, sprinkle the agar-agar powder over it, and stir until fully dissolved, then allow it to cool slightly.",
+    "Pour the agar-agar mixture into the batter and whisk until no lumps remain.",
+    "Bring a pot of water to a vigorous boil and set a steamer basket over it, ensuring the water does not touch the basket.",
+    "Lightly oil the steamer basket, then drop spoonfuls of the batter into the basket, spacing them about 2 cm apart.",
+    "Steam the dumplings for 10 minutes, or until they puff up and become translucent.",
+    "Remove the dumplings from the steamer, drizzle a splash of sparkling water over them, and sprinkle chopped parsley on top.",
+    "Serve the dumplings immediately, letting their effervescent, peppery flavor mingle with the glassy-jelly texture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "keto-friendly",
+    "low-carb",
+    "quick",
+    "steamed"
+  ],
+  "nutrition": {
+    "calories": 164,
+    "protein": 9,
+    "carbs": 12,
+    "fat": 12
+  },
+  "slug": "effervescent-portuguese-yoghurt-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/effervescent-portuguese-yoghurt-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:55:28Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "glassy-jelly",
+    "mood": "quick-fix",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "natural yoghurt",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "yoghurt",
+    "descriptor": "Effervescent",
+    "dishForm": "Dumplings"
+  }
+}
