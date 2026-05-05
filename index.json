@@ -2282,6 +2282,20 @@
     "shard": "e"
   },
   {
+    "slug": "energizing-brazilian-anchovy-burger",
+    "title": "energizing brazilian anchovy burger",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "brazilian",
+    "totalTimeMin": 27,
+    "shard": "e"
+  },
+  {
     "slug": "energizing-brazilian-tofu-curry",
     "title": "Energizing Brazilian Tofu Curry",
     "tags": [
@@ -3442,6 +3456,22 @@
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 45,
+    "shard": "e"
+  },
+  {
+    "slug": "exotic-peppery-tunisian-vegetarian-tagine",
+    "title": "exotic peppery tunisian vegetarian tagine",
+    "tags": [
+      "north-african",
+      "one-pan",
+      "peppery",
+      "tunisian",
+      "vegan-optional",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "tunisian",
+    "totalTimeMin": 50,
     "shard": "e"
   },
   {
