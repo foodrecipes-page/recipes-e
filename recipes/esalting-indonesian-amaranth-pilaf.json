@@ -1,0 +1,91 @@
+{
+  "title": "Esalting Indonesian Amaranth Pilaf",
+  "description": "A vegan-friendly and indulgent Brazilian dish featuring sour and silky amaranth porridge oats with a namul-blanch-seasoned touch.",
+  "cuisine": "Brazilian, Indonesian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "2 cups of cooked amaranth",
+      "amount": "2"
+    },
+    {
+      "name": "1/4 cup lemon juice",
+      "amount": "1/4"
+    },
+    {
+      "name": "1/4 cup apple cider vinegar",
+      "amount": "1/4"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": ""
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "2"
+    },
+    {
+      "name": "1 medium onion, finely chopped",
+      "amount": "1"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2"
+    },
+    {
+      "name": "1 red bell pepper, thinly sliced",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "In a pan, heat the olive oil over medium-high heat.",
+    "Add the onion and sauté until translucent, about 5 minutes.",
+    "Stir in garlic and cook for another minute or two until fragrant.",
+    "Add the red bell pepper and continue cooking for about 5 more minutes.",
+    "Pour in the cooked amaranth, apple cider vinegar, lemon juice, and salt.",
+    "Mix well to combine all ingredients and adjust seasoning if needed.",
+    "Cook for an additional 2-3 minutes until the amaranth is heated through and slightly thickened.",
+    "Serve warm as a side dish or over quinoa."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "amaranth-pilaf",
+    "brazilian",
+    "esalting",
+    "indulgent",
+    "silky",
+    "sour",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 45,
+    "fat": 16
+  },
+  "slug": "esalting-indonesian-amaranth-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/esalting-indonesian-amaranth-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T05:18:22Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "porridge oats",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Indonesian",
+    "mainIngredient": "Amaranth",
+    "descriptor": "Esalting",
+    "dishForm": "Pilaf"
+  }
+}
