@@ -1,0 +1,117 @@
+{
+  "title": "Energizing Jamaican Garlic Ramekin",
+  "description": "A flavorful, whole30-friendly Jamaican dish featuring roasted garlic and a tangy glaze, served in a ramekin.",
+  "cuisine": "jamaican",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "garlic bulb",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "granny smith apple",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "jalapeno pepper",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "freshly ground ginger",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "crushed red pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Peel and mince the garlic, then mix with coconut oil, salt, and black pepper in a small bowl.",
+    "Place the garlic mixture in a ramekin and roast in the preheated oven for 15 minutes, or until the garlic is tender and lightly browned.",
+    "Meanwhile, puree the apple, mustard seeds, and jalapeno pepper in a blender until smooth.",
+    "Add the honey, coconut aminos, cilantro, ginger, and crushed red pepper to the blender and blend until well combined.",
+    "After the garlic has roasted, remove it from the oven and brush with the glaze.",
+    "Return the garlic to the oven and roast for an additional 5 minutes, or until the glaze is caramelized.",
+    "Remove the garlic from the oven and let cool slightly before serving.",
+    "Garnish with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "jamaican",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 16
+  },
+  "slug": "energizing-jamaican-jamaican-garlic-ramekin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-jamaican-jamaican-garlic-ramekin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:34:23Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shaggy",
+    "mood": "energizing",
+    "technique": "glaze",
+    "primaryIngredient": "garlic bulb",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Garlic",
+    "descriptor": "Energizing Jamaican",
+    "dishForm": "Ramekin"
+  }
+}
