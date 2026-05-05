@@ -1,0 +1,87 @@
+{
+  "title": "Elastic Eggy Malty Pilaf",
+  "description": "This malty and bouncy-qq Filipino dish features streaky bacon and bonito-shave, perfect for a hangover cure.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup rice",
+      "amount": "cup"
+    },
+    {
+      "name": "2 strips streaky bacon, diced",
+      "amount": "strips"
+    },
+    {
+      "name": "1 can (400g) bonito shreds",
+      "amount": "can"
+    },
+    {
+      "name": "1/2 cup soy sauce",
+      "amount": "cup"
+    },
+    {
+      "name": "1 onion, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "1 clove garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 pinch salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "1/4 tsp black pepper",
+      "amount": "tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350F.",
+    "Cook rice according to package instructions. Set aside.",
+    "Heat bacon in a pan, remove and set aside.",
+    "In the same pan, add onion and garlic. Sauté until soft.",
+    "Add bonito shreds, soy sauce, salt, and pepper. Stir well.",
+    "Combine cooked rice with mixture from step 5.",
+    "Fold in reserved bacon.",
+    "Spread evenly on a baking sheet. Bake for 10 minutes.",
+    "Serve hot as a side dish or over toast."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bouncy-qq",
+    "elastic-eggy-malty-pilaf",
+    "hangover-cure",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "elastic-eggy-malty-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/elastic-eggy-malty-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T14:26:47Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "bouncy-qq",
+    "mood": "hangover-cure",
+    "technique": "bonito-shave",
+    "primaryIngredient": "streaky bacon",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Eggy",
+    "mainIngredient": "Egg",
+    "descriptor": "Elastic",
+    "dishForm": "Pilaf"
+  }
+}
