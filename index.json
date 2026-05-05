@@ -1,5 +1,18 @@
 [
   {
+    "slug": "eadventurous-syrian-tempeh-poke-kadhai",
+    "title": "EAdventurous Syrian Tempeh Poke Kadhai",
+    "tags": [
+      "no-onion-no-garlic",
+      "salty-crispy",
+      "syrian-poke",
+      "tempeh-dish"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 75,
+    "shard": "e"
+  },
+  {
     "slug": "eager-british-corn-welsh-rarebit",
     "title": "Eager British Corn Welsh Rarebit",
     "tags": [

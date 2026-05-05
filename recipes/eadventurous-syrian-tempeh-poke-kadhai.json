@@ -1,0 +1,66 @@
+{
+  "title": "EAdventurous Syrian Tempeh Poke Kadhai",
+  "description": "Buttery and crispy tempeh served in a kadhai with sashimi-cut pieces, suitable for those who don't use onions or garlic.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tempeh",
+      "amount": 200
+    },
+    {
+      "name": "soy sauce",
+      "amount": 50
+    },
+    {
+      "name": "sesame seeds",
+      "amount": 10
+    },
+    {
+      "name": "coriander leaves",
+      "amount": 30
+    }
+  ],
+  "instructions": [
+    "Marinate tempeh in soy sauce for at least 2 hours.",
+    "Slice tempeh thinly into sashimi pieces.",
+    "Toast sesame seeds and sprinkle on top of each piece.",
+    "Garnish with coriander leaves just before serving."
+  ],
+  "prepTimeMin": 60,
+  "cookTimeMin": 15,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "no-onion-no-garlic",
+    "salty-crispy",
+    "syrian-poke",
+    "tempeh-dish"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "eadventurous-syrian-tempeh-poke-kadhai",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/eadventurous-syrian-tempeh-poke-kadhai",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T08:06:58Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "adventurous",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "tempeh",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "tempeh",
+    "descriptor": "Adventurous",
+    "dishForm": "Poke"
+  }
+}
