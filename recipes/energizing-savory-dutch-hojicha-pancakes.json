@@ -1,0 +1,112 @@
+{
+  "title": "Energizing Savory Dutch Hojicha Pancakes",
+  "description": "Savory, silky Dutch hojicha pancakes with yuzu-cure and a hint of green onion, perfect for a quick breakfast or snack.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "vegan-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Hojicha powder",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Oat flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Buckwheat flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Almond milk",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Unsweetened coconut yogurt",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Yuzu juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Green onion",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chia seeds",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together hojicha powder, oat flour, buckwheat flour, and salt.",
+    "Make a well in the center of the dry ingredients and pour in almond milk, coconut yogurt, and yuzu juice.",
+    "Whisk the mixture until it's smooth and free of lumps.",
+    "Heat a non-stick skillet or griddle over medium heat and brush with coconut oil.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the skillet or griddle.",
+    "Cook for 2-3 minutes, until the edges start to set and the surface is dry.",
+    "Flip the pancakes and cook for another 1-2 minutes, until golden brown.",
+    "Serve the pancakes warm with a sprinkle of yuzu-cure and a pinch of salt."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "gluten-free",
+    "savory-breakfast",
+    "vegan-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "energizing-savory-dutch-hojicha-pancakes",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-savory-dutch-hojicha-pancakes",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:51:35Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "hojicha",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "hojicha",
+    "descriptor": "energizing savory",
+    "dishForm": "Pancakes"
+  }
+}
