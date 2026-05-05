@@ -1,0 +1,107 @@
+{
+  "title": "Eye-catching Steamed Vietnamese Fish Pho",
+  "description": "A savory, crisp Vietnamese dish featuring malt vinegar, steam, and a gluten-free-friendly twist, perfect for a date-night dinner.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish",
+      "amount": "1 pound",
+      "notes": "white fish such as tilapia or catfish"
+    },
+    {
+      "name": "gluten-free soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "malt vinegar",
+      "amount": "1 tablespoon",
+      "notes": "for added depth"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch",
+      "notes": "for garnish"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 cup",
+      "notes": "cooked according to package"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "sliced lime wedges",
+      "amount": "4",
+      "notes": "for serving"
+    },
+    {
+      "name": "sliced chili peppers",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "In a large steamer basket, place the sliced ginger and fish.",
+    "Steam the fish over boiling water for 8-10 minutes, or until cooked through.",
+    "Meanwhile, prepare the noodles according to package instructions.",
+    "In a small bowl, whisk together the gluten-free soy sauce and malt vinegar.",
+    "Once the fish is cooked, remove it from the steamer and place it on a serving platter.",
+    "Arrange the cooked noodles, bean sprouts, and sliced green onions on top of the fish.",
+    "Garnish with chopped cilantro and serve immediately.",
+    "Serve with sliced lime wedges and chili peppers on the side, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "fish",
+    "gluten-free",
+    "steamed",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "eye-catching-steamed-vietnamese-fish-pho",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/eye-catching-steamed-vietnamese-fish-pho",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:47:36Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "steam",
+    "primaryIngredient": "malt vinegar",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Fish",
+    "descriptor": "Eye-catching Steamed",
+    "dishForm": "Pho"
+  }
+}

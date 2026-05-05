@@ -1,0 +1,128 @@
+{
+  "title": "Energizing Briny Thai Trout Nam-Prik",
+  "description": "This Thai Iisan dish combines the freshness of trout with the crunch of fried shallots and the zing of nam prik sauce, making for a filling and energizing meal. Serve in a donabe for a unique twist.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Trout fillets",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Fried shallots",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Nam prik sauce",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced Thai chilies",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Mint leaves",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crushed peanuts",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Wrapped banana leaves",
+      "amount": "4",
+      "notes": "For steaming trout."
+    }
+  ],
+  "instructions": [
+    "Wrap each trout fillet in a banana leaf and place on a steamer basket.",
+    "Steam the trout over boiling water for 8 minutes, or until cooked through.",
+    "Meanwhile, mix the fried shallots, nam prik sauce, fish sauce, lime juice, and chopped cilantro in a small bowl.",
+    "Once the trout is cooked, place it on a serving platter and spoon the nam prik sauce mixture over the top.",
+    "Top with sliced Thai chilies, mint leaves, and crushed peanuts.",
+    "Serve immediately, garnished with a sprinkle of coconut milk and a drizzle of rice vinegar.",
+    "Garnish with additional mint leaves and banana leaves, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "low-fat",
+    "one-pan",
+    "thai",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 10
+  },
+  "slug": "energizing-briny-thai-trout-nam-prik",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-briny-thai-trout-nam-prik",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:46:59Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crunchy",
+    "mood": "energizing",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "trout",
+    "diet": "low-fat",
+    "region": "isaan",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "trout",
+    "descriptor": "Energizing Briny",
+    "dishForm": "Nam-Prik"
+  }
+}

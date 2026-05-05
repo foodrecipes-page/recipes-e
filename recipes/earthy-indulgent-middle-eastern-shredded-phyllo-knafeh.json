@@ -1,0 +1,114 @@
+{
+  "title": "Earthy Indulgent Middle-Eastern Shredded-Phyllo Knafeh",
+  "description": "A rich and earthy dessert featuring shredded phyllo, char-grilled pistachios, and a sweet mirin syrup, perfect for warm evenings.",
+  "cuisine": "Middle-Eastern",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Phyllo dough",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Char-grilled pistachios",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mirin",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1 can",
+      "notes": "Chilled in the fridge before use."
+    },
+    {
+      "name": "Rose water",
+      "amount": "2 tsp",
+      "notes": "Optional."
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 tsp",
+      "notes": "To taste."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "To taste."
+    },
+    {
+      "name": "Unsalted almonds",
+      "amount": "1/4 cup",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Buckwheat honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/4 tsp",
+      "notes": "Optional, for color."
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat. Char-grill the pistachios for 2-3 minutes on each side, until fragrant and slightly blackened.",
+    "Finely chop the char-grilled pistachios and set aside.",
+    "In a medium saucepan, combine the mirin, coconut cream, rose water, granulated sugar, salt, and turmeric (if using).",
+    "Bring the mixture to a simmer over medium heat, whisking occasionally, until reduced and slightly thickened, about 10-12 minutes.",
+    "Strain the syrup through a fine-mesh sieve into a clean bowl, discarding the solids.",
+    "In a separate pan, heat the olive oil over medium heat. To assemble the knafeh, lay a sheet of phyllo dough flat and brush with olive oil. Sprinkle a quarter of the chopped pistachios over the dough, followed by a quarter of the shredded phyllo, and a drizzle of the mirin syrup.",
+    "Repeat the process three more times, finishing with a layer of pistachios on top.",
+    "Cut the knafeh into squares and serve warm, drizzled with the remaining mirin syrup and garnished with chopped almonds and a sprinkle of salt.",
+    "Refrigerate leftover knafeh in an airtight container for up to 3 days. Allow to come to room temperature before serving.",
+    "Use a kitchen torch to caramelize the top layer of the knafeh before serving, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "dairy-free",
+    "dessert",
+    "high-protein",
+    "indulgent",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 850,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "earthy-indulgent-middle-eastern-shredded-phyllo-knafeh",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-indulgent-middle-eastern-shredded-phyllo-knafeh",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:47:36Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "mirin",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "middle-eastern",
+    "mainIngredient": "shredded-phyllo",
+    "descriptor": "earthy indulgent",
+    "dishForm": "knafeh"
+  }
+}
