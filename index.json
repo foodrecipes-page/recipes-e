@@ -872,6 +872,21 @@
     "shard": "e"
   },
   {
+    "slug": "earthy-gooey-ethiopian-ethiopian-dish-fondue",
+    "title": "Ethiopian Fondue with Thai Basil and Coconut Cream",
+    "tags": [
+      "appetizer",
+      "ethiopian",
+      "fondue",
+      "one-pan",
+      "snack",
+      "weeknight"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 45,
+    "shard": "e"
+  },
+  {
     "slug": "earthy-greek-lamb-tagine",
     "title": "Earthy Greek Lamb Tagine",
     "tags": [
@@ -1063,6 +1078,20 @@
     ],
     "cuisine": "american",
     "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
+    "slug": "earthy-russian-lentils-stew",
+    "title": "Earthy Russian Lentils Stew",
+    "tags": [
+      "comfort-food",
+      "hearty",
+      "lentils",
+      "stew",
+      "vegan-friendly"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 55,
     "shard": "e"
   },
   {
@@ -2877,6 +2906,20 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
+    "slug": "epicenter-peppered-dutch-pork-paella",
+    "title": "Epicenter Peppered Dutch Pork Paella",
+    "tags": [
+      "dutch-cuisine",
+      "egg-free",
+      "gluten-free",
+      "high-protein",
+      "one-pan"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 55,
     "shard": "e"
   },
   {

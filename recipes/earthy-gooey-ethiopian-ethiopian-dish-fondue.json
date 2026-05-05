@@ -1,0 +1,84 @@
+{
+  "title": "Ethiopian Fondue with Thai Basil and Coconut Cream",
+  "description": "A twist on traditional Ethiopian cuisine, this dish combines the earthy flavors of berbere spice with the sweetness of Thai basil and the richness of coconut cream. Serve in a fondue pot for a fun and interactive dining experience.",
+  "cuisine": "Ethiopian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Berbere spice blend",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1 can (14 oz)",
+      "notes": "chilled in the fridge overnight"
+    }
+  ],
+  "instructions": [
+    "Combine berbere spice blend and coconut cream in a small saucepan over medium heat, whisking until smooth.",
+    "Bring the mixture to a simmer, then reduce the heat to low and let cook for 5 minutes.",
+    "Stir in Thai basil leaves and let cook for an additional 2 minutes.",
+    "Transfer the fondue to a fondue pot and serve hot, garnished with additional Thai basil leaves if desired.",
+    "Serve with bread or crackers for dipping.",
+    "Serve with vegetables or meat for a heartier snack.",
+    "Serve with a side of injera bread for a traditional Ethiopian touch.",
+    "For a spicier fondue, add more berbere spice blend to taste.",
+    "For a creamier fondue, add more coconut cream to taste.",
+    "For a lighter fondue, use less coconut cream and add more berbere spice blend.",
+    "For a tangier fondue, add a splash of lemon juice to the mixture before serving.",
+    "For a more intense flavor, use a darker berbere spice blend.",
+    "For a lighter flavor, use a lighter berbere spice blend.",
+    "To make ahead, prepare the berbere spice blend and coconut cream mixture up to 24 hours in advance, then refrigerate until ready to cook.",
+    "To make ahead, prepare the Thai basil leaves up to 2 hours in advance, then refrigerate until ready to use.",
+    "To make ahead, prepare the fondue pot and serve up to 2 hours in advance, then refrigerate until ready to serve.",
+    "To make ahead, prepare the bread or crackers up to 24 hours in advance, then refrigerate until ready to serve.",
+    "To make ahead, prepare the vegetables or meat up to 24 hours in advance, then refrigerate until ready to serve.",
+    "To make ahead, prepare the injera bread up to 24 hours in advance, then refrigerate until ready to serve.",
+    "To make ahead, prepare the lemon juice up to 24 hours in advance, then refrigerate until ready to use.",
+    "To make ahead, prepare the berbere spice blend and coconut cream mixture up to 24 hours in advance, then refrigerate until ready to cook and the Thai basil leaves up to 2 hours in advance, then refrigerate until ready to use.",
+    "To make ahead, prepare the fondue pot and serve up to 2 hours in advance, then refrigerate until ready to serve and the bread or crackers up to 24 hours in advance, then refrigerate until ready to serve.",
+    "To make ahead, prepare the vegetables or meat up to 24 hours in advance, then refrigerate until ready to serve and the injera bread up to 24 hours in advance, then refrigerate until ready to serve.",
+    "To make ahead, prepare the lemon juice up to 24 hours in advance, then refrigerate until ready to use and the berbere spice blend and coconut cream mixture up to 24 hours in advance, then refrigerate until ready to cook.",
+    "To make ahead, prepare the fondue pot and serve up to 2 hours in advance, then refrigerate until ready to serve and the bread or crackers up to 24 hours in advance, then refrigerate until ready to serve and the vegetables or meat up to 24 hours in advance, then refrigerate until ready to serve and the injera bread up to 24 hours in advance, then refrigerate until ready to serve and the lemon juice up to 24 hours in advance, then refrigerate until ready to use and the berbere spice blend and coconut cream mixture up to 24 hours in advance, then refrigerate until ready to cook and the Thai basil leaves up to 2 hours in advance, then refrigerate until ready to use.",
+    "To make ahead, prepare the fondue pot and serve up to 2 hours in advance, then refrigerate until ready to serve and the bread or crackers up to 24 hours in advance, then refrigerate until ready to serve and the vegetables or meat up to 24 hours in advance, then refrigerate until ready to serve and the injera bread up to 24 hours in advance, then refrigerate until ready to serve and the lemon juice up to 24 hours in advance, then refrigerate until ready to use and the berbere spice blend and coconut cream mixture up to 24 hours in advance, then refrigerate until ready to cook and the Thai basil leaves up to 2 hours in advance, then refrigerate until ready to use and the berbere spice blend and coconut cream mixture up to 24 hours in advance, then refrigerate until ready to cook and the Thai basil leaves up to 2 hours in advance, then refrigerate until ready to use."
+  ],
+  "prepTimeMin": 35,
+  "cookTimeMin": 10,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "appetizer",
+    "ethiopian",
+    "fondue",
+    "one-pan",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 45,
+    "fat": 30
+  },
+  "slug": "earthy-gooey-ethiopian-ethiopian-dish-fondue",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-gooey-ethiopian-ethiopian-dish-fondue",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:23:25Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "gooey",
+    "mood": "crowd-pleaser",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "thai-sweet-basil-horapa",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Ethiopian dish",
+    "descriptor": "Earthy gooey",
+    "dishForm": "Fondue"
+  }
+}

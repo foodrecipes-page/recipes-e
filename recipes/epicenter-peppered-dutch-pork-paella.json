@@ -1,0 +1,118 @@
+{
+  "title": "Epicenter Peppered Dutch Pork Paella",
+  "description": "A hearty, peppery, velvety Dutch-inspired paella dish featuring cranberry juice and yuzu-cure, all in one delicious, egg-free pan.",
+  "cuisine": "Dutch",
+  "diet": [
+    "gluten-free",
+    "lactose-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 pound boneless Dutch pork shoulder",
+      "amount": "1",
+      "notes": "preferably with the fat cap on"
+    },
+    {
+      "name": "1/2 cup yuzu-cured bacon bits",
+      "amount": "1/2",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "1 large onion, sliced",
+      "amount": "1",
+      "notes": "about 2 cups of sliced onion"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2",
+      "notes": "fresh, not powdered"
+    },
+    {
+      "name": "1 cup uncooked Arborio rice",
+      "amount": "1",
+      "notes": "risotto-style rice"
+    },
+    {
+      "name": "2 cups chicken broth",
+      "amount": "2",
+      "notes": "low sodium, homemade or store-bought"
+    },
+    {
+      "name": "1 cup cranberry juice",
+      "amount": "1",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "1",
+      "notes": "extra virgin, cold-pressed"
+    },
+    {
+      "name": "1 teaspoon smoked paprika",
+      "amount": "1",
+      "notes": "Spanish sweet or hot smoked paprika"
+    },
+    {
+      "name": "1 teaspoon black pepper",
+      "amount": "1",
+      "notes": "freshly ground, peppercorns preferred"
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "1",
+      "notes": "preferably kosher or sea salt"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette-grill to 375 degrees Fahrenheit (190 degrees Celsius).",
+    "In a large, heavy-bottomed pan or Dutch oven, heat the olive oil over medium heat.",
+    "Add the sliced onion and cook until translucent and slightly caramelized, about 8-10 minutes, stirring occasionally.",
+    "Add the minced garlic and cook for 1-2 minutes, until fragrant, stirring constantly.",
+    "Add the yuzu-cured bacon bits and cook for 2-3 minutes, until crispy and golden brown, stirring occasionally.",
+    "Add the uncooked Arborio rice and cook for 1-2 minutes, stirring constantly, until the rice is coated in oil and slightly toasted.",
+    "Add the chicken broth, cranberry juice, smoked paprika, black pepper, and salt. Stir to combine, then bring to a boil.",
+    "Reduce heat to low and cover the pan with a tight-fitting lid.",
+    "Simmer for 20-25 minutes, or until the liquid has been absorbed and the rice is cooked and tender.",
+    "Remove the pan from the heat and let it rest, covered, for 5 minutes before serving.",
+    "To serve, remove the lid and sprinkle with chopped fresh herbs, such as parsley or chives, if desired.",
+    "Garnish with additional yuzu-cured bacon bits, if desired.",
+    "Serve immediately, and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dutch-cuisine",
+    "egg-free",
+    "gluten-free",
+    "high-protein",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 1240,
+    "protein": 85,
+    "carbs": 70,
+    "fat": 80
+  },
+  "slug": "epicenter-peppered-dutch-pork-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/epicenter-peppered-dutch-pork-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:23:03Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "velvety",
+    "mood": "one-pot",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "cranberry juice",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Pork",
+    "descriptor": "Epicenter Peppered",
+    "dishForm": "Paella"
+  }
+}

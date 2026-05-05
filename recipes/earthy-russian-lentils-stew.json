@@ -1,0 +1,137 @@
+{
+  "title": "Earthy Russian Lentils Stew",
+  "description": "A hearty, comforting stew featuring lentils, lardons, and a rich, earthy flavor profile.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "French green lentils",
+      "amount": "200g",
+      "notes": null
+    },
+    {
+      "name": "Lardons (vegan bacon bits)",
+      "amount": "100g",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": null
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "250g",
+      "notes": "such as button or cremini"
+    },
+    {
+      "name": "White wine",
+      "amount": "200ml",
+      "notes": null
+    },
+    {
+      "name": "Chicken or vegetable broth",
+      "amount": "500ml",
+      "notes": null
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "50g",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Bay leaves",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "500ml",
+      "notes": null
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium heat.",
+    "Add the lardons and cook, stirring occasionally, until browned and crispy, about 8 minutes.",
+    "Add the onion, carrots, and celery and cook, stirring occasionally, until the vegetables are tender, about 8 minutes.",
+    "Add the mushrooms and cook, stirring occasionally, until they release their liquid and start to brown, about 5 minutes.",
+    "Add the white wine and cook, stirring to deglaze the pan, until the liquid is almost completely reduced, about 3 minutes.",
+    "Add the broth, tomato paste, thyme, salt, and pepper, and stir to combine.",
+    "Add the lentils, bay leaves, and water, and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, until the lentils are tender, about 30 minutes.",
+    "Remove the bay leaves and stir in the red wine vinegar, if using.",
+    "Season the stew with additional salt and pepper, if needed.",
+    "Serve hot, garnished with fresh herbs, if desired.",
+    "Let the stew rest for at least 30 minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty",
+    "lentils",
+    "stew",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "earthy-russian-lentils-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-russian-lentils-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:22:54Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "glassy-jelly",
+    "mood": "festive",
+    "technique": "lardons-render",
+    "primaryIngredient": "lentils",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "lentils",
+    "descriptor": "earthy",
+    "dishForm": "stew"
+  }
+}
