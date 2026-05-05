@@ -2209,6 +2209,21 @@
     "shard": "e"
   },
   {
+    "slug": "energizing-catalan-octopus-gallega-pulpo",
+    "title": "Catalan Octopus Gallega Pulpo",
+    "tags": [
+      "catalan",
+      "gallega",
+      "octopus",
+      "seafood",
+      "spanish",
+      "tapas"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
+    "shard": "e"
+  },
+  {
     "slug": "energizing-chinese-eggplant-stir-fry",
     "title": "Energizing Chinese Eggplant Stir-fry",
     "tags": [
