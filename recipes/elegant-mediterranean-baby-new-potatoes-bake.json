@@ -1,0 +1,100 @@
+{
+  "title": "Elegant Mediterranean Baby New Potatoes Bake",
+  "description": "A flavorful and refreshing solo dinner dish that combines the natural sweetness of baby new potatoes with the zesty tang of feta cheese and the crunch of fresh parsley.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Baby New Potatoes",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly, divided"
+    },
+    {
+      "name": "Fresh Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Arrange the baby new potatoes in a single layer on a baking sheet lined with parchment paper.",
+    "Drizzle the extra virgin olive oil over the potatoes and sprinkle with salt to taste.",
+    "Toss the potatoes to coat evenly with the oil and seasonings.",
+    "Transfer the potatoes to a 9x13-inch baking dish and top with half of the crumbled feta cheese.",
+    "In a small bowl, whisk together the fresh lemon juice, minced garlic, and chopped fresh dill.",
+    "Pour the lemon-dill mixture over the potatoes and sprinkle with the remaining feta cheese.",
+    "Bake for 25-30 minutes or until the potatoes are tender and the top is golden brown and crispy.",
+    "Remove from the oven and garnish with chopped fresh parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "healthy",
+    "high-protein",
+    "low-glycemic",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "elegant-mediterranean-baby-new-potatoes-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/elegant-mediterranean-baby-new-potatoes-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:45:03Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shattering",
+    "mood": "solo-dinner",
+    "technique": "emulsify",
+    "primaryIngredient": "baby new potatoes",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "baby new potatoes",
+    "descriptor": "Elegant",
+    "dishForm": "Bake"
+  }
+}

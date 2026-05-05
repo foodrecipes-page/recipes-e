@@ -1095,6 +1095,21 @@
     "shard": "e"
   },
   {
+    "slug": "earthy-saudi-arabian-brown-rice-pilaf",
+    "title": "Earthy Saudi Arabian Brown Rice Pilaf",
+    "tags": [
+      "halal",
+      "middle-eastern",
+      "one-pan",
+      "pilaf",
+      "saudi-arabian",
+      "weeknight"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 32,
+    "shard": "e"
+  },
+  {
     "slug": "earthy-saudi-steak-wrap",
     "title": "Earthy Saudi Steak Wrap",
     "tags": [],
@@ -1990,6 +2005,21 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 20,
+    "shard": "e"
+  },
+  {
+    "slug": "elegant-mediterranean-baby-new-potatoes-bake",
+    "title": "Elegant Mediterranean Baby New Potatoes Bake",
+    "tags": [
+      "gluten-free",
+      "healthy",
+      "high-protein",
+      "low-glycemic",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 45,
     "shard": "e"
   },
   {

@@ -1,0 +1,93 @@
+{
+  "title": "Earthy Saudi Arabian Brown Rice Pilaf",
+  "description": "A comforting, halal-friendly pilaf from Saudi Arabia featuring earthy flavors and a delicious cheese pull. Perfect for a lazy Sunday.",
+  "cuisine": "Saudi Arabian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brown rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Chicken stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Sultanas",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "In a bamboo steamer, combine brown rice, onion, caraway seeds, salt, and black pepper.",
+    "Pour in the chicken stock, leaving about 1 inch at the top.",
+    "Cover the steamer and bring to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "While the rice cooks, heat the ghee or vegetable oil in a small pan over low heat.",
+    "Add the sultanas to the pan and cook, stirring frequently, until they're lightly toasted and fragrant.",
+    "Once the rice is cooked, fluff it with a fork and stir in the toasted sultanas and crumbled feta cheese.",
+    "Return the steamer to the heat and cook, covered, for an additional 2-3 minutes, or until the cheese is melted and the pilaf is heated through."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 22,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "halal",
+    "middle-eastern",
+    "one-pan",
+    "pilaf",
+    "saudi-arabian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 14,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "earthy-saudi-arabian-brown-rice-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-saudi-arabian-brown-rice-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:44:29Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "cheese-pull",
+    "mood": "lazy-sunday",
+    "technique": "poach",
+    "primaryIngredient": "brown rice",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "rice",
+    "descriptor": "halal friendly, earthy",
+    "dishForm": "Pilaf"
+  }
+}
