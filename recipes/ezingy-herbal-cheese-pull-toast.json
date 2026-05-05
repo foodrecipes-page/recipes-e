@@ -1,0 +1,76 @@
+{
+  "title": "EZingy Herbal Cheese-Pull Toast",
+  "description": "A quick and flavorful post-workout snack featuring namul-blanch-seasoned toast with a blend of herbs and cheese pull, perfect for flexitarian diets.",
+  "cuisine": "jamaican",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "homemade bread",
+      "amount": 2
+    },
+    {
+      "name": "mixed herbs",
+      "amount": "a handful"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": 100
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": 50
+    },
+    {
+      "name": "sunflower oil",
+      "amount": 30
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200.",
+    "Toast bread until lightly golden and crispy, about 8 minutes.",
+    "Mix herbs in a bowl with sliced mozzarella cheese and parmesan cheese.",
+    "Spread herb-cheese mixture evenly onto toasted bread slices.",
+    "Brush top of each slice with sunflower oil.",
+    "Place toast on baking sheet and bake for 3-5 minutes or until cheese is golden brown.",
+    "Remove from oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese-pull",
+    "flexitarian-friendly",
+    "herbal",
+    "jamaican-style",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 12,
+    "carbs": 12,
+    "fat": 7
+  },
+  "slug": "ezingy-herbal-cheese-pull-toast",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ezingy-herbal-cheese-pull-toast",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T08:51:30Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "cheese-pull",
+    "mood": "post-workout",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "toast",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Herbal",
+    "mainIngredient": "Cheese-Pull",
+    "descriptor": "Eggplant",
+    "dishForm": "Toast"
+  }
+}
