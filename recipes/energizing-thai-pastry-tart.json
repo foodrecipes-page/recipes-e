@@ -1,0 +1,105 @@
+{
+  "title": "Energizing Thai Pastry Tart",
+  "description": "Sweet and energizing Thai dessert featuring shortcrust pastry, deglaze-fond and a cheese-pull effect. Perfect for a raw-friendly treat.",
+  "cuisine": "Thai",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Unsalted butter",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Confectioners sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "for cheese-pull effect"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large mixing bowl, combine the unsalted butter and confectioners sugar until light and fluffy.",
+    "Add the all-purpose flour, coconut cream, palm sugar, eggs, and salt to the bowl. Mix until a dough forms.",
+    "Wrap the dough in plastic wrap and refrigerate for at least 30 minutes.",
+    "Roll out the dough to a thickness of about 1/4 inch (6 mm).",
+    "Transfer the dough to a 9-inch (23 cm) tart pan with a removable bottom.",
+    "Press the dough into the bottom and sides of the pan, trimming any excess dough from the edges.",
+    "Bake the crust for 20 minutes, or until lightly golden brown.",
+    "While the crust is baking, combine the mozzarella cheese and vanilla extract in a bowl.",
+    "Remove the crust from the oven and sprinkle the mozzarella cheese mixture evenly over the top.",
+    "Bake for an additional 5 minutes, or until the cheese is melted and slightly golden brown.",
+    "Remove the tart from the oven and let it cool for a few minutes before serving.",
+    "Use a skewer or fork to create a decorative border around the edges of the tart, if desired."
+  ],
+  "prepTimeMin": 35,
+  "cookTimeMin": 25,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-based",
+    "easy-dessert",
+    "high-protein",
+    "raw-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 18
+  },
+  "slug": "energizing-thai-pastry-tart",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-thai-pastry-tart",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:46:43Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "cheese-pull",
+    "mood": "energizing",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "shortcrust pastry",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "pastry",
+    "descriptor": "energizing",
+    "dishForm": "Tart"
+  }
+}
