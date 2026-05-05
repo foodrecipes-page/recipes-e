@@ -1,0 +1,120 @@
+{
+  "title": "Earthy Velvety Filipino Scamorza Wrap",
+  "description": "A unique fusion of earthy flavors and velvety textures, featuring scamorza cheese wrapped in a banana leaf and steamed to perfection. Perfect for the holiday season, this dish is ovo-vegetarian-friendly and sure to impress.",
+  "cuisine": "filipino",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "scamorza cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4-6 leaves",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "mango chutney",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "fried shallots",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Wrap a banana leaf around a 1-inch thick layer of scamorza cheese on a flat surface, making sure to cover the cheese entirely.",
+    "Fold the leaf over the cheese to form a tight, compact package.",
+    "Place the package in a steamer basket and steam for 10 minutes over boiling water.",
+    "Meanwhile, mix together coconut milk, saffron threads, and mango chutney in a small bowl.",
+    "Remove the cheese package from the steamer and brush the coconut milk mixture evenly over the cheese.",
+    "Sprinkle with turmeric, black pepper, and salt to taste.",
+    "Garnish with chopped cilantro and fried shallots.",
+    "Serve immediately and enjoy!",
+    "Repeat with remaining ingredients for a festive snack or appetizer.",
+    "If desired, serve with additional mango chutney for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "appetizer",
+    "easy-to-make",
+    "filipino",
+    "holiday",
+    "one-pan",
+    "ovo-vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "earthy-velvety-filipino-scamorza-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-velvety-filipino-scamorza-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:07:02Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "scamorza",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "scamorza",
+    "descriptor": "earthy velvety",
+    "dishForm": "wrap"
+  }
+}
