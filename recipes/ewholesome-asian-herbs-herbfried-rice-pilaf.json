@@ -1,0 +1,87 @@
+{
+  "title": "EWholesome Asian Herbs Herbfried Rice Pilaf",
+  "description": "A dense and herbal rice dish featuring cucumber and other aromatic herbs in a dairy-free base.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegan",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup brown basmati rice",
+      "amount": ""
+    },
+    {
+      "name": "2 cups water",
+      "amount": ""
+    },
+    {
+      "name": "1 cucumber, diced",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons fresh ginger, minced",
+      "amount": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "3 scallions, chopped",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon ground cinnamon",
+      "amount": ""
+    },
+    {
+      "name": "1/4 teaspoon cayenne pepper",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Rinse rice and soak in water for at least an hour.",
+    "Drain rice and rinse again with cold water.",
+    "Combine rice, 2 cups of water, and a pinch of salt in a pot. Bring to boil then reduce heat to low and simmer covered until water is absorbed (about 18 minutes).",
+    "In a mortar-pestle, pound together ginger, garlic, scallions, cinnamon, cayenne pepper, and rice.",
+    "Add cucumber, rice mixture, and a pinch of soy sauce to the pot. Simmer for an additional 5 minutes until cucumbers are tender.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "herbal",
+    "mild",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 62,
+    "fat": 7
+  },
+  "slug": "ewholesome-asian-herbs-herbfried-rice-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ewholesome-asian-herbs-herbfried-rice-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T23:36:16Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "show-off",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "cucumber",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Asian",
+    "mainIngredient": "herbs",
+    "descriptor": "Wholesome",
+    "dishForm": "Pilaf"
+  }
+}
