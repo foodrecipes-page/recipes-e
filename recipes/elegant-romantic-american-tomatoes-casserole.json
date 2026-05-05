@@ -1,0 +1,114 @@
+{
+  "title": "elegant romantic american tomatoes casserole",
+  "description": "floral and bouncy-qq, this american dish features sun-dried tomatoes and a mirepoix-base, perfect for a romantic dinner. it's lacto-vegetarian friendly.",
+  "cuisine": "american",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "1 stalk",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "gruy\u00167re cheese",
+      "amount": "1 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375\u00000f.",
+    "saute the mirepoix in olive oil until tender, about 5 minutes.",
+    "add the garlic and cook for another minute.",
+    "add the sun-dried tomatoes, cherry tomatoes, salt, and balsamic vinegar. cook for 2 minutes, stirring occasionally.",
+    "transfer the mixture to a baking dish and top with gruy\u00167re cheese.",
+    "bake for 15 minutes, or until the cheese is melted and bubbly.",
+    "garnish with chopped fresh basil and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "casserole",
+    "dinner",
+    "elegant",
+    "floral",
+    "romantic",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 14,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "elegant-romantic-american-tomatoes-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/elegant-romantic-american-tomatoes-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:42:29Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "bouncy-qq",
+    "mood": "romantic",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "sun-dried tomatoes",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "romantic american",
+    "mainIngredient": "tomatoes",
+    "descriptor": "elegant",
+    "dishForm": "casserole"
+  }
+}

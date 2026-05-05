@@ -1,0 +1,115 @@
+{
+  "title": "Extra-Stemmed Wrapped British Garlicky Shaggy Quick-Fix Full Yorkshire Mashup",
+  "description": "A satvik-friendly, full-english version of the classic Yorkshire mashup, incorporating garlicky flavor and wrapped in a corn-husk vessel for a satisfying meal. This recipe is a quick-fix, perfect for a busy day.",
+  "cuisine": "Yorkshire",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Potatoes (2 kg)",
+      "amount": "2 kg",
+      "notes": "Choose high-starch potatoes for a fluffier mashup."
+    },
+    {
+      "name": "Garlic (4 cloves)",
+      "amount": "4 cloves",
+      "notes": "Mince the garlic for a stronger flavor."
+    },
+    {
+      "name": "Butter (60 g)",
+      "amount": "60 g",
+      "notes": "Use salted butter for added flavor."
+    },
+    {
+      "name": "Milk (200 ml)",
+      "amount": "200 ml",
+      "notes": "Whole milk is best for a richer mashup."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Pepper enhances the flavor without adding extra calories."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Use sea salt for a more subtle flavor."
+    },
+    {
+      "name": "Bacon (120 g)",
+      "amount": "120 g",
+      "notes": "Choose thick-cut, smoked bacon for a more authentic flavor."
+    },
+    {
+      "name": "Cheddar cheese (100 g)",
+      "amount": "100 g",
+      "notes": "Grate the cheese for an even distribution of flavor."
+    },
+    {
+      "name": "Tabasco sauce",
+      "amount": "1 tsp",
+      "notes": "Add a dash of heat without overpowering the dish."
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "to taste",
+      "notes": "Use parsley as a garnish for added freshness."
+    },
+    {
+      "name": "Corn husks (6)",
+      "amount": "6",
+      "notes": "Choose fresh corn husks for a more authentic vessel."
+    }
+  ],
+  "instructions": [
+    "Peel the potatoes and chop them into large chunks. Rinse the potatoes and pat them dry with a clean cloth.",
+    "Place the potatoes in a large pot and add enough cold water to cover them. Bring to a boil over high heat, then reduce the heat to medium-low and simmer for 15-20 minutes, or until the potatoes are tender when pierced with a fork.",
+    "Drain the potatoes and return them to the pot. Add the butter, milk, black pepper, and salt, and mash the potatoes with a potato masher until they're smooth and creamy.",
+    "While the potatoes are cooking, cook the bacon in a pan over medium heat until it's crispy. Remove the bacon from the pan and chop it into small pieces.",
+    "Add the grated cheese to the pan and stir until it's melted and smooth. Remove the pan from the heat and set it aside.",
+    "Add the minced garlic to the potatoes and mash until it's fully incorporated.",
+    "Add the cooked bacon and cheese mixture to the potatoes and mash until they're well combined.",
+    "Spoon the potato mixture into the corn husks, dividing it evenly among the 6 husks. ",
+    "Place the corn husks on a baking sheet lined with parchment paper and bake them in a preheated oven at 180°C (350°F) for 10-15 minutes, or until the potatoes are heated through and the cheese is melted and bubbly.",
+    "Remove the corn husks from the oven and let them cool for a few minutes. Serve the Extra-Stemmed Wrapped British Garlicky Shaggy Quick-Fix Full Yorkshire Mashup hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "full-english",
+    "high-protein",
+    "one-pan",
+    "shaggy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "extra-stemmed-wrapped-british-garlicky-shaggy-quick-fix-full-yorkshire-mashup",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/extra-stemmed-wrapped-british-garlicky-shaggy-quick-fix-full-yorkshire-mashup",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:42:58Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "shaggy",
+    "mood": "quick-fix",
+    "technique": "steam",
+    "primaryIngredient": "tabasco sauce",
+    "diet": "satvik",
+    "region": "yorkshire",
+    "cuisineAdjective": "british",
+    "mainIngredient": "garlicky shaggy quick-fix",
+    "descriptor": "extra-stemmed wrapped",
+    "dishForm": "Full Yorkshire Mashup"
+  }
+}

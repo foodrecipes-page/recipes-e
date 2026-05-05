@@ -1,0 +1,133 @@
+{
+  "title": "Elegant Bouncy-qq Canadian Duck Roast",
+  "description": "A festive and tangy Canadian dish featuring duck and a unique texture achieved through kneading. Perfectly served on a slate tile vessel, this flexitarian-friendly dish is sure to impress.",
+  "cuisine": "Canadian",
+  "diet": [
+    null,
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck (2 lbs)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Pomegranate Molasses",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Bourbon Whiskey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Maple Syrup",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Confit Figs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Crushed Pistachios",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Season the duck with salt, black pepper, and Korean chili flakes.",
+    "In a large bowl, whisk together pomegranate molasses, bourbon whiskey, maple syrup, brown sugar, and garlic cloves.",
+    "Add the confit figs and gently knead the mixture into the duck.",
+    "Dredge the duck in flour, shaking off excess.",
+    "Heat butter in an oven-safe skillet over medium-high heat.",
+    "Sear the duck on all sides until golden brown, then transfer it to the preheated oven.",
+    "Roast for 20 minutes, then reduce heat to 375°F (190°C) and continue roasting for an additional 30-40 minutes, or until the duck reaches 165°F (74°C).",
+    "Let the duck rest for 10 minutes before slicing it into thick pieces.",
+    "Serve on a slate tile vessel and garnish with crushed pistachios and fresh thyme, if desired.",
+    "Baste the duck with pan juices and drizzle with pomegranate molasses before serving.",
+    "Garnish with additional thyme and crushed pistachios, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 50,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "flexitarian",
+    "main-course",
+    "one-pan",
+    "roast",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 24,
+    "fat": 32
+  },
+  "slug": "elegant-bouncy-qq-canadian-duck-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/elegant-bouncy-qq-canadian-duck-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:43:40Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "bouncy-qq",
+    "mood": "festive",
+    "technique": "knead",
+    "primaryIngredient": "duck",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "duck",
+    "descriptor": "Elegant Bouncy-qq",
+    "dishForm": "Roast"
+  }
+}
