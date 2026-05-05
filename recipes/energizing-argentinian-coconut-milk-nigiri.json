@@ -1,0 +1,78 @@
+{
+  "title": "Energizing Argentinian Coconut Milk Nigiri",
+  "description": "A unique fusion dish inspired by the flavors of Argentina, combining unsweetened coconut milk and nigiri-shaping for a shojin-friendly twist.",
+  "cuisine": "Argentinian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "brown rice vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "grapeseed oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "matcha powder",
+      "amount": "1 tsp",
+      "notes": "Shojin-friendly energy boost"
+    }
+  ],
+  "instructions": [
+    "Combine coconut milk, brown rice vinegar, and grapeseed oil in a bowl.",
+    "Whisk until smooth and well combined.",
+    "Soak brown rice in water for at least 4 hours.",
+    "Rinse and cook brown rice according to package instructions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "dairy-free",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "shojin-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 22
+  },
+  "slug": "energizing-argentinian-coconut-milk-nigiri",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-argentinian-coconut-milk-nigiri",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:17:49Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "shaggy",
+    "mood": "energizing",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "unsweetened coconut milk",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "coconut milk",
+    "descriptor": "energizing",
+    "dishForm": "Nigiri"
+  }
+}
