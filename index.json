@@ -3662,5 +3662,19 @@
     "cuisine": "Filipino",
     "totalTimeMin": 40,
     "shard": "e"
+  },
+  {
+    "slug": "ezzy-springy-ethipian-daikon-pilaf",
+    "title": "Ezzy Springy Ethipian Daikon Pilaf",
+    "tags": [
+      "easily-made",
+      "ethiopian-style",
+      "festive",
+      "spicy",
+      "springy"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 30,
+    "shard": "e"
   }
 ]

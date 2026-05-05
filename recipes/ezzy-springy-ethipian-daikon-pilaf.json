@@ -1,0 +1,86 @@
+{
+  "title": "Ezzy Springy Ethipian Daikon Pilaf",
+  "description": "This spicy and springy Ethiopian dish features daikon radish pounded in a mortar-pestle for a festive taste.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup chopped daikon",
+      "amount": "cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "2 tbsp red pepper flakes",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1/4 cup ground cumin",
+      "amount": "cup"
+    },
+    {
+      "name": "1 tsp turmeric powder",
+      "amount": "tsp"
+    },
+    {
+      "name": "1 clove garlic, minced",
+      "amount": "clove"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Salt to taste",
+      "notes": ""
+    },
+    {
+      "name": "Optional: Fresh cilantro for garnish",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add daikon, red pepper flakes, cumin, turmeric, and garlic. Stir to coat well with spices.",
+    "Stir until daikon starts to soften slightly.",
+    "Season with salt to taste.",
+    "Serve hot or cold as desired.",
+    "Garnish with fresh cilantro if using."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easily-made",
+    "ethiopian-style",
+    "festive",
+    "spicy",
+    "springy"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 7,
+    "carbs": 25,
+    "fat": 6
+  },
+  "slug": "ezzy-springy-ethipian-daikon-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ezzy-springy-ethipian-daikon-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T02:07:34Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "springy",
+    "mood": "festive",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "daikon",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "daikon",
+    "descriptor": "Springy",
+    "dishForm": "Pilaf"
+  }
+}
