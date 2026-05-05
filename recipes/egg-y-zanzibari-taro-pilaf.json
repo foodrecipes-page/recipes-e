@@ -1,0 +1,91 @@
+{
+  "title": "Egg-y Zanzibari Taro Pilaf",
+  "description": "A grassy and crisp kanten-agar based side dish with a hangover-cure twist, featuring egg, taro, and other vegetables for an ovo-vegetarian-friendly meal.",
+  "cuisine": "East African",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup taro",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons kanten-agar (agar-agar)",
+      "amount": "tbsp"
+    },
+    {
+      "name": "3 medium eggs",
+      "amount": "pieces"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "1 clove garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1/2 cup shredded carrots",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup fresh parsley, chopped",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup sliced almonds",
+      "amount": "cup"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Bring a pot of water to a boil for the eggs.",
+    "Meanwhile, mix taro with agar in a small saucepan. Reduce heat to low and stir until thickened.",
+    "In another pan, fry onion and garlic until translucent.",
+    "Add carrots and continue cooking for 5 minutes.",
+    "Fold egg mixture into vegetables, then add parsley and almonds.",
+    "Season with salt and pepper. Adjust consistency with water if needed.",
+    "Serve warm as a side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crisp",
+    "egg-y-zanzibari-taro-pilaf",
+    "grassy",
+    "hangover-cure",
+    "kanten-agar",
+    "ovo-vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 5
+  },
+  "slug": "egg-y-zanzibari-taro-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/egg-y-zanzibari-taro-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T14:14:27Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crisp",
+    "mood": "hangover-cure",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "kanten-agar",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "Taro",
+    "descriptor": "Egg-y",
+    "dishForm": "Pilaf"
+  }
+}
