@@ -1,0 +1,112 @@
+{
+  "title": "Epicenter of Flavors Indian Chicken Vindaloo",
+  "description": "A citrusy and snappy Indian dish that combines the flavors of chicken, spices, and citrus, cooked in a quick-fix manner using a pandan leaf wrap. This recipe is low in sodium and perfect for a weeknight meal.",
+  "cuisine": "indian",
+  "diet": [
+    "low-sodium",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "2 medium onion",
+      "notes": "",
+      "},{": []
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garam masala powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "0.5 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "0.25 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.25 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pan over medium heat.",
+    "Add the onions and cook until they are translucent and slightly caramelized, about 5 minutes.",
+    "Add the garam masala, turmeric, garam masala powder, and cayenne pepper to the pan and cook for 1 minute, stirring constantly.",
+    "Add the chicken to the pan and cook until it is browned on all sides and cooked through, about 5-7 minutes.",
+    "Add the lemon juice and ginger paste to the pan and stir to combine.",
+    "Season the chicken with salt and black pepper to taste.",
+    "Place the chicken in the center of four pandan leaves and wrap them around the chicken to form a neat package, tucking the ends under the chicken.",
+    "Heat a large non-stick pan or griddle over medium-high heat and add a small amount of oil to it.",
+    "Place the wrapped chicken packages in the pan and cook for 2-3 minutes on each side, or until the pandan leaves are slightly charred and the chicken is cooked through.",
+    "Serve the chicken hot, garnished with lemon wedges and cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "indian",
+    "low-sodium",
+    "one-pan",
+    "vindaloo",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "epicenter-of-flavors-indian-chicken-vindaloo",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/epicenter-of-flavors-indian-chicken-vindaloo",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:15:14Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "snappy",
+    "mood": "quick-fix",
+    "technique": "render-fat",
+    "primaryIngredient": "chicken stock",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chicken",
+    "descriptor": "Epicenter of Flavors",
+    "dishForm": "Vindaloo"
+  }
+}

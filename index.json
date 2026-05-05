@@ -2806,6 +2806,21 @@
     "shard": "e"
   },
   {
+    "slug": "epicenter-of-flavors-indian-chicken-vindaloo",
+    "title": "Epicenter of Flavors Indian Chicken Vindaloo",
+    "tags": [
+      "chicken",
+      "indian",
+      "low-sodium",
+      "one-pan",
+      "vindaloo",
+      "weeknight"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
     "slug": "eruptive-vietnamese-chicken-pho",
     "title": "Eruptive Vietnamese Chicken Pho",
     "tags": [
