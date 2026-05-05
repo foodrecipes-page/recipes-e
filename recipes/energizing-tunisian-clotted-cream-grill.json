@@ -1,0 +1,120 @@
+{
+  "title": "Energizing Tunisian Clotted Cream Grill",
+  "description": "A light and refreshing dish featuring clotted cream, wok-hei, and a hint of Mediterranean spices, perfect for a quick weeknight dinner.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Clotted cream",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2",
+      "notes": ""
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "4 oz",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Raclette-grill oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette-grill to 400°F (200°C).",
+    "Rinse the fresh parsley and pat it dry with paper towels.",
+    "Mince the garlic and red onion.",
+    "Slice the red bell pepper and zucchini into thin strips.",
+    "Place the clotted cream, feta cheese, paprika, salt, and black pepper in a bowl and mix until combined.",
+    "Add the minced garlic and onion to the bowl and mix well.",
+    "Add the sliced red bell pepper and zucchini to the bowl and mix gently to combine.",
+    "Heat the raclette-grill oil in the raclette-grill and cook the mixture for 10-12 minutes, stirring occasionally.",
+    "Add the fresh mint and cook for an additional 2 minutes.",
+    "Transfer the mixture to a serving dish and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-grill",
+    "low-calorie",
+    "one-pan",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "energizing-tunisian-clotted-cream-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-tunisian-clotted-cream-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:24:47Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "light",
+    "mood": "energizing",
+    "technique": "wok-hei",
+    "primaryIngredient": "clotted cream",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "clotted cream",
+    "descriptor": "energizing",
+    "dishForm": "Grill"
+  }
+}
