@@ -1,0 +1,142 @@
+{
+  "title": "energizing and buttery vietnamese morbier pho",
+  "description": "a vietnamese-inspired dish featuring morbier cheese, whisked eggs, and flavorful spices, perfect for a snack or light meal",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian",
+    "jain"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "morbier cheese",
+      "amount": "6 ounces",
+      "notes": ""
+    },
+    {
+      "name": "whisked eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": ""
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lime wedges",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat 1 tablespoon of butter in a large skillet over medium heat.",
+    "cook the rice noodles according to package instructions and set aside.",
+    "in a blender or food processor, combine the whisked eggs, fish sauce, and red chili flakes and blend until smooth.",
+    "heat another tablespoon of butter in the skillet and add the blended egg mixture, cook until set, breaking up with a spatula as needed.",
+    "add the sliced cabbage, ginger, and garlic to the skillet and cook until the cabbage is tender, about 5 minutes.",
+    "add the cooked noodles, tofu, coconut milk, and green onions to the skillet and stir to combine.",
+    "season with salt and black pepper to taste.",
+    "transfer the noodle mixture to a serving dish and top with sliced morbier cheese.",
+    "bake in a 375°f oven for 5-7 minutes, or until the cheese is melted and bubbly.",
+    "serve hot, garnished with cilantro and lime wedges.",
+    "divide into 4-6 servings depending on serving size.",
+    "note: for a vegan version, omit the eggs and use a flax egg substitute."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "snack",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "energizing-and-buttery-vietnamese-morbier-pho",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-and-buttery-vietnamese-morbier-pho",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:28:20Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "cheese-pull",
+    "mood": "energizing",
+    "technique": "whisk",
+    "primaryIngredient": "morbier",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Morbier",
+    "descriptor": "energizing and buttery",
+    "dishForm": "Pho"
+  }
+}
