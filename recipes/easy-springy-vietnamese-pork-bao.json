@@ -1,0 +1,117 @@
+{
+  "title": "Easy Springy Vietnamese Pork Bao",
+  "description": "Fatty, springy, lazy-sunday Vietnamese dish featuring ready-rolled shortcrust pastry, toast, flexitarian-friendly.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground pork",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Pork fat",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Furikake",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ready-rolled shortcrust pastry",
+      "amount": "1 package (12-14 pieces)",
+      "notes": ""
+    },
+    {
+      "name": "Toasted breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the shortcrust pastry pieces to a diameter of about 4 inches.",
+    "In a small pan, heat the sesame oil over medium heat. Add the grated ginger and minced garlic, and cook for 1-2 minutes, until fragrant.",
+    "Add the ground pork, pork fat, furikake, sugar, salt, and black pepper to the pan. Cook until the pork is browned, breaking it up with a spoon as needed.",
+    "Place a tablespoon of toasted breadcrumbs onto each shortcrust pastry circle. Spoon about 1-2 tablespoons of the pork mixture onto the pastry. Place a few sprigs of fresh cilantro on top of the pork.",
+    "Fold the pastry in half to form a half-moon shape, pressing the edges to seal.",
+    "Place the bao on a baking sheet lined with parchment paper, and brush the tops with a little water.",
+    "Bake the bao in the preheated oven for 15-20 minutes, or until golden brown.",
+    "Serve warm, with additional cilantro and toasted breadcrumbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "flexitarian",
+    "one-pan",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 40,
+    "fat": 38
+  },
+  "slug": "easy-springy-vietnamese-pork-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-springy-vietnamese-pork-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:16:55Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "springy",
+    "mood": "lazy-sunday",
+    "technique": "toast",
+    "primaryIngredient": "ready rolled shortcrust pastry",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "easy-springy",
+    "dishForm": "Bao"
+  }
+}

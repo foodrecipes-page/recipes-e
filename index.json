@@ -1592,6 +1592,19 @@
     "shard": "e"
   },
   {
+    "slug": "easy-springy-vietnamese-pork-bao",
+    "title": "Easy Springy Vietnamese Pork Bao",
+    "tags": [
+      "flexitarian",
+      "one-pan",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
     "slug": "easy-tender-mediterranean-lamb-tagine",
     "title": "Easy Tender Mediterranean Lamb Tagine",
     "tags": [
@@ -1757,6 +1770,21 @@
     ],
     "cuisine": "East African",
     "totalTimeMin": 30,
+    "shard": "e"
+  },
+  {
+    "slug": "eggless-light-korean-rice-stick-noodles-chilled-buckwheat-naengmyeon",
+    "title": "Eggless Light Korean Rice Stick Noodles Chilled Buckwheat Naengmyeon",
+    "tags": [
+      "easy-to-make",
+      "gluten-free",
+      "korean-cuisine",
+      "naengmyeon",
+      "summer-recipe",
+      "vegan"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {

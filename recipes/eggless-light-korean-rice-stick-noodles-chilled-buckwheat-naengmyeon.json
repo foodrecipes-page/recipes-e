@@ -1,0 +1,117 @@
+{
+  "title": "Eggless Light Korean Rice Stick Noodles Chilled Buckwheat Naengmyeon",
+  "description": "A refreshing, citrusy, cheese-pull naengmyeon dish featuring rice stick noodles, a sweet lacquer glaze, and a side of chilled buckwheat. Perfect for hot summer days.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice stick noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Buckwheat groats",
+      "amount": "1 cup",
+      "notes": "cooked and chilled"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lacquer glaze",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Citrus zest",
+      "amount": "1 tablespoon",
+      "notes": "from 1 orange"
+    },
+    {
+      "name": "Citrus juice",
+      "amount": "2 tablespoons",
+      "notes": "from 1 orange"
+    }
+  ],
+  "instructions": [
+    "Cook the rice stick noodles according to the package instructions and set aside."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "korean-cuisine",
+    "naengmyeon",
+    "summer-recipe",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "eggless-light-korean-rice-stick-noodles-chilled-buckwheat-naengmyeon",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/eggless-light-korean-rice-stick-noodles-chilled-buckwheat-naengmyeon",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:16:43Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "cheese-pull",
+    "mood": "light",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "rice stick noodles",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "rice stick noodles",
+    "descriptor": "Eggless light",
+    "dishForm": "Chilled Buckwheat Naengmyeon"
+  }
+}
