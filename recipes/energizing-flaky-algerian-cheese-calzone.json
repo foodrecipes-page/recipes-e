@@ -1,0 +1,103 @@
+{
+  "title": "Energizing Flaky Algerian Cheese Calzone",
+  "description": "A flexitarian-friendly, energizing Algerian dish featuring the floral flavors of sage and a delicious flambe cheese pull.",
+  "cuisine": "algerian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Flaky Pastry Dough",
+      "amount": "1 package (thawed)",
+      "notes": ""
+    },
+    {
+      "name": "Kasseri Cheese",
+      "amount": "8 oz",
+      "notes": "grated"
+    },
+    {
+      "name": "Sage",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Flour",
+      "amount": "1 cup",
+      "notes": "",
+      "optional": true
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the flaky pastry dough to a thickness of 1/8 inch.",
+    "In a large skillet, heat the olive oil over medium heat and cook the garlic until fragrant, about 1 minute.",
+    "Add the chopped sage to the skillet and cook for an additional 30 seconds, until wilted.",
+    "In a separate bowl, combine the grated Kasseri cheese and a pinch of salt and pepper.",
+    "Place the cooked sage and garlic mixture on one half of the pastry dough, leaving a 1/2 inch border around the edges.",
+    "Spread the cheese mixture over the filling, making sure to stay within the borders.",
+    "Brush the edges of the pastry with a little water and fold the other half of the dough over the filling, pressing the edges to seal.",
+    "Use a fork to crimp the edges and create a decorative border.",
+    "Place the calzone on a baking sheet lined with parchment paper and brush the top with a little olive oil.",
+    "Cut a few slits in the top of the calzone to allow steam to escape during baking.",
+    "Bake the calzone in the preheated oven for 15-20 minutes, or until golden brown and puffed.",
+    "Allow the calzone to cool for a few minutes before slicing and serving.",
+    "If desired, sprinkle with additional chopped sage before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "cheese-pull",
+    "flaky",
+    "flambe",
+    "flexitarian",
+    "sage"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 22,
+    "fat": 16
+  },
+  "slug": "energizing-flaky-algerian-cheese-calzone",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-flaky-algerian-cheese-calzone",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:48:52Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "cheese-pull",
+    "mood": "energizing",
+    "technique": "flambe",
+    "primaryIngredient": "sage",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "cheese",
+    "descriptor": "Energizing Flaky",
+    "dishForm": "Calzone"
+  }
+}
