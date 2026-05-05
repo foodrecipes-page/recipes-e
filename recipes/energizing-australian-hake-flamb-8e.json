@@ -1,0 +1,104 @@
+{
+  "title": "Energizing Australian Hake Flamb\u000308e",
+  "description": "A resinous, aerated, ovo-vegetarian-friendly Australian dish featuring hake, flambe, and a boost of energy.",
+  "cuisine": "australian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "hake fillets",
+      "amount": "4",
+      "notes": "120g"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "cognac",
+      "amount": "1/4 cup",
+      "notes": "flamb\u000308e"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "for egg wash"
+    }
+  ],
+  "instructions": [
+    "Season the hake fillets with salt and black pepper."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "breakfast",
+    "flamb-08e",
+    "hake",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 8,
+    "fat": 14
+  },
+  "slug": "energizing-australian-hake-flamb-8e",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-australian-hake-flamb-8e",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:21:31Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "aerated",
+    "mood": "energizing",
+    "technique": "flambe",
+    "primaryIngredient": "hake",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "hake",
+    "descriptor": "energizing",
+    "dishForm": "flamb\u00128e"
+  }
+}
