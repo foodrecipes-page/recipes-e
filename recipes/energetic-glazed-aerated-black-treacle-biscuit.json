@@ -1,0 +1,84 @@
+{
+  "title": "Energetic Glazed Aerated Black Treacle Biscuit",
+  "description": "A herbal, aerated, brunch-mood Ethiopian dish featuring black treacle and a lacquer-glaze that's low-carb-friendly.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "black treacle",
+      "amount": 150
+    },
+    {
+      "name": "egg whites",
+      "amount": "2"
+    },
+    {
+      "name": "almond meal",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "pinch"
+    },
+    {
+      "name": "glazing mix (coconut cream, maple syrup)",
+      "amount": "2:1 ratio by weight"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 170°C.",
+    "Beat egg whites until stiff peaks form.",
+    "Fold in almond meal and maple syrup gently.",
+    "Add vanilla extract, mix well.",
+    "Press mixture into a lined tin or dish.",
+    "Make glaze by blending coconut cream with maple syrup in a small bowl. Set aside to thicken slightly.",
+    "Once cooled, brush top of the biscuit with glaze and sprinkle with cocoa powder before serving.",
+    "Bake for 20-25 minutes until golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "aerated",
+    "black-treacle",
+    "dairy-free",
+    "glazed"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 3,
+    "carbs": 24,
+    "fat": 7
+  },
+  "slug": "energetic-glazed-aerated-black-treacle-biscuit",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/energetic-glazed-aerated-black-treacle-biscuit",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T10:26:52Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "aerated",
+    "mood": "brunch-mood",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "black treacle",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Aerated",
+    "mainIngredient": "Black Treacle",
+    "descriptor": "Energetic Glazed",
+    "dishForm": "Biscuit"
+  }
+}
