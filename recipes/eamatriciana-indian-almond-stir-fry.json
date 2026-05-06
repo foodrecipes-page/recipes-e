@@ -1,0 +1,87 @@
+{
+  "title": "EAmatriciana Indian Almond Stir-fry",
+  "description": "A peppery, crumbly dish featuring cherry tomatoes, double-rise bread, and satvik-friendly ingredients for a date-night Dutch-inspired meal.",
+  "cuisine": "Indian-Dutch fusion",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 slices of double-rise bread",
+      "amount": "",
+      "notes": "crumbly and toasted"
+    },
+    {
+      "name": "1 cup cherry tomatoes, halved",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "4 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup almond slivers",
+      "amount": "",
+      "notes": "toasted"
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp red pepper flakes",
+      "amount": "",
+      "notes": "for added heat"
+    }
+  ],
+  "instructions": [
+    "Toast the bread slices until golden and crumbly.",
+    "Fry garlic in a bit of oil until fragrant, then add halved cherry tomatoes.",
+    "Stir in almond slivers and lemon juice. Mix well.",
+    "Sprinkle with chopped parsley and red pepper flakes.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumbly",
+    "date-night",
+    "dutch-inspired",
+    "peppery",
+    "satvik-friendly"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "eamatriciana-indian-almond-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/eamatriciana-indian-almond-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T09:35:54Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "cherry tomatoes",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "almonds",
+    "descriptor": "Eggplant Amatriciana",
+    "dishForm": "Stir-fry"
+  }
+}
