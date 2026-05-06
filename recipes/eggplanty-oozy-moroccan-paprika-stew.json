@@ -1,0 +1,82 @@
+{
+  "title": "Eggplanty Oozy Moroccan Paprika Stew",
+  "description": "This hearty stew is perfect for those lazy Sunday mornings, featuring eggplants, en-croute, and a touch of peppercorns to create a yeasty, chewy dish that feels like a sick-day comfort food.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 medium eggplants",
+      "amount": "pieces"
+    },
+    {
+      "name": "3 cups en-croute bread cubes",
+      "amount": ""
+    },
+    {
+      "name": "1 large onion",
+      "amount": "medium"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "pieces"
+    },
+    {
+      "name": "1 can (8 oz) tomato paste",
+      "amount": "can"
+    },
+    {
+      "name": "2 cups low-sodium chicken or vegetable broth",
+      "amount": "cup"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut eggplants into cubes and place in a single layer on a baking sheet.",
+    "In another pan, sauté onion until soft and translucent. Add garlic and cook for an additional minute.",
+    "Add eggplant cubes to the pan with onions and sauté together for 10 minutes.",
+    "Stir in en-croute bread cubes and tomato paste, mixing well to combine.",
+    "Pour in chicken or vegetable broth, add lemon juice, and stir to mix evenly. Bring to a simmer.",
+    "Reduce heat to low, cover pan with lid, and bake in the oven for 30 minutes.",
+    "Serve hot as a side dish or over rice."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-sodium-friendly",
+    "moroccan-stew",
+    "sick-day-food",
+    "yeasty-chewy-dish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "eggplanty-oozy-moroccan-paprika-stew",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/eggplanty-oozy-moroccan-paprika-stew",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T15:27:24Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "chewy",
+    "mood": "sick-day",
+    "technique": "en-croute",
+    "primaryIngredient": "peppercorns",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Paprika",
+    "descriptor": "Eggplanty",
+    "dishForm": "Stew"
+  }
+}
