@@ -4078,6 +4078,21 @@
     "shard": "e"
   },
   {
+    "slug": "extra-light-mexican-corn-tres-leches-flan",
+    "title": "Extra Light Mexican Corn Tres Leches Flan",
+    "tags": [
+      "bamboo-steamer",
+      "corn",
+      "dessert",
+      "flan",
+      "mexican",
+      "tres-leches"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 75,
+    "shard": "e"
+  },
+  {
     "slug": "extra-stemmed-wrapped-british-garlicky-shaggy-quick-fix-full-yorkshire-mashup",
     "title": "Extra-Stemmed Wrapped British Garlicky Shaggy Quick-Fix Full Yorkshire Mashup",
     "tags": [

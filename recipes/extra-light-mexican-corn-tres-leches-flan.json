@@ -1,0 +1,139 @@
+{
+  "title": "Extra Light Mexican Corn Tres Leches Flan",
+  "description": "A funky, crunchy, and light Mexican dessert featuring tres leches and corn, inspired by Veracruz cuisine. This flan is made with a bamboo steamer and is designed to be low-calorie friendly.",
+  "cuisine": "mexican",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "corn kernels",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "egg yolks",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "evaporated milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "kecap manis",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "tortilla crumbs",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "zest of 1 lime",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Pound the sesame seeds with a mortar and pestle to release their oils.",
+    "Mix the corn kernels, coconut sugar, and salt in a bowl until well combined.",
+    "In a separate bowl, whisk together the egg yolks, kecap manis, lime juice, and vanilla extract.",
+    "In a blender, combine the evaporated milk, heavy cream, and honey. Blend until smooth.",
+    "Pour the milk mixture over the corn mixture and stir until well combined.",
+    "Add the tortilla crumbs to the mixture and stir until they are evenly distributed.",
+    "Pour the mixture into a bamboo steamer lined with parchment paper.",
+    "Place the steamer over boiling water and steam for 45 minutes.",
+    "Remove the steamer from the heat and let it cool for 10 minutes.",
+    "Drizzle the tres leches (a mixture of evaporated milk, heavy cream, and honey) over the flan.",
+    "Refrigerate the flan for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-steamer",
+    "corn",
+    "dessert",
+    "flan",
+    "mexican",
+    "tres-leches"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "extra-light-mexican-corn-tres-leches-flan",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/extra-light-mexican-corn-tres-leches-flan",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:03:20Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "oil",
+    "diet": "low-calorie",
+    "region": "veracruzan",
+    "cuisineAdjective": "mexican",
+    "mainIngredient": "corn",
+    "descriptor": "Extra Light",
+    "dishForm": "Tres Leches Flan"
+  }
+}
