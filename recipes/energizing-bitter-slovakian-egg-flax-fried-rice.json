@@ -1,0 +1,108 @@
+{
+  "title": "Energizing Bitter Slovakian Egg Flax Fried-Rice",
+  "description": "A hearty, protein-rich Slovakian dish featuring flax eggs and fried rice for a morning pick-me-up or afternoon boost.",
+  "cuisine": "slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "flaxseed meal",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mixed wild mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "flaxseed-based"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "worcestershire sauce",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add onion and garlic and cook until softened, 3 minutes.",
+    "Add mushrooms and cook until browned, 5 minutes.",
+    "Add rice and cook, stirring constantly, 2 minutes.",
+    "In a separate bowl, whisk together flaxseed eggs, tomato paste, and Worcestershire sauce.",
+    "Pour egg mixture over rice and stir-fry for 2 minutes.",
+    "Add cheese, chicken broth, and stir-fry until liquid is absorbed.",
+    "Cook to desired doneness and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "egg-free",
+    "flaxseed",
+    "high-protein",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 35,
+    "carbs": 55,
+    "fat": 20
+  },
+  "slug": "energizing-bitter-slovakian-egg-flax-fried-rice",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-bitter-slovakian-egg-flax-fried-rice",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:53:19Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "cheese-pull",
+    "mood": "energizing",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "flax eggs",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "slovakian",
+    "mainIngredient": "egg flax",
+    "descriptor": "energizing bitter",
+    "dishForm": "fried-rice"
+  }
+}
