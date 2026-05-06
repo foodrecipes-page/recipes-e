@@ -2157,6 +2157,21 @@
     "shard": "e"
   },
   {
+    "slug": "elevated-turkish-meat-lahmacun",
+    "title": "Elevated Turkish Meat Lahmacun",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "turkish",
+      "weeknight",
+      "whole30"
+    ],
+    "cuisine": "turkish",
+    "totalTimeMin": 30,
+    "shard": "e"
+  },
+  {
     "slug": "ember-charred-korean-lemongrass-takrai-ssam",
     "title": "Ember Charred Korean Lemongrass Takrai Ssam",
     "tags": [

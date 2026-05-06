@@ -1,0 +1,109 @@
+{
+  "title": "Elevated Turkish Meat Lahmacun",
+  "description": "A kid-friendly Turkish dish featuring buttery, bouncy-qq crust. Made with 00-flour and Binchotan charcoal, this recipe is Whole30 friendly and perfect for a quick, weeknight dinner.",
+  "cuisine": "turkish",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "00 Flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Active Dry Yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio for moisture and flavor."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing the crust."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Finely chopped."
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced."
+    },
+    {
+      "name": "Spice Blend",
+      "amount": "1 teaspoon",
+      "notes": "A mix of paprika, cumin, and cinnamon."
+    }
+  ],
+  "instructions": [
+    "Combine flour, water, yeast, and salt in a large mixing bowl. Mix until a shaggy dough forms.",
+    "Knead the dough for 5-7 minutes, until it becomes smooth and elastic.",
+    "Place the dough in a lightly oiled bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour.",
+    "Preheat the Binchotan charcoal grill to 500°F (260°C).",
+    "Divide the dough into 4-6 equal pieces, depending on the size of lahmajoun you prefer.",
+    "Roll out each piece into a thin circle, about 1/16 inch thick.",
+    "Place the dough on the grill, brush with olive oil, and cook for 2-3 minutes, until the edges start to curl.",
+    "Top the dough with ground beef, onion, garlic, and spice blend.",
+    "Return the lahmajoun to the grill and cook for an additional 2-3 minutes, until the crust is golden brown and the filling is cooked through.",
+    "Remove the lahmajoun from the grill and let it cool for a few minutes before slicing and serving.",
+    "Repeat with the remaining dough and filling ingredients.",
+    "Serve the lahmajoun hot, garnished with fresh parsley or sumac, if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days or freeze for up to 2 months."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "turkish",
+    "weeknight",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 24,
+    "fat": 34
+  },
+  "slug": "elevated-turkish-meat-lahmacun",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/elevated-turkish-meat-lahmacun",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:01:40Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "bouncy-qq",
+    "mood": "kid-friendly",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "00-flour",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Meat",
+    "descriptor": "elevated",
+    "dishForm": "Lahmacun"
+  }
+}
