@@ -1,0 +1,118 @@
+{
+  "title": "Eaerated Canadian Almond Papillote",
+  "description": "A citrusy, aerated dish featuring flaked almonds in a sugar-free-friendly Korean brass-bowl presentation.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Korean Brass-Bowl",
+      "amount": "",
+      "notes": "For serving"
+    },
+    {
+      "name": "200g Flaked Almonds",
+      "amount": "",
+      "notes": "Crunchy topping"
+    },
+    {
+      "name": "150ml Orange Juice",
+      "amount": "",
+      "notes": "Fresh, unsweetened"
+    },
+    {
+      "name": "125ml Lemon Juice",
+      "amount": "",
+      "notes": "Fresh, unsweetened"
+    },
+    {
+      "name": "2Tbsp Freshly Grated Zest of 1 Orange and 1 Lemon",
+      "amount": "",
+      "notes": "For citrusy flavor"
+    },
+    {
+      "name": "10g Granulated Sugar (optional)",
+      "amount": "",
+      "notes": "Sweetener, optional for dietary reasons"
+    },
+    {
+      "name": "25ml Freshly Squeezed Lime Juice",
+      "amount": "",
+      "notes": "Bright and zesty addition"
+    },
+    {
+      "name": "1/4 cup Chopped Fennel Seeds",
+      "amount": "",
+      "notes": "For subtle anise note"
+    },
+    {
+      "name": "25g Unsalted Butter",
+      "amount": "",
+      "notes": "For cooking the bowl"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": "To taste, for seasoning"
+    },
+    {
+      "name": "1/2 tsp Black Pepper",
+      "amount": "",
+      "notes": "For savory depth"
+    },
+    {
+      "name": "4 Medium Eggs (optional)",
+      "amount": "",
+      "notes": "For a creamy base if desired"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "Mix together orange juice, lemon juice, zest, and optional sugar in a bowl. Season with salt and pepper.",
+    "Add chopped fennel seeds and unsalted butter into the citrus mixture and stir gently.",
+    "Gently fold in eggs if using for added richness.",
+    "Heat brass-bowl in oven to warm it evenly (about 3-5 minutes).",
+    "Pour citrus mixture into bowl, ensuring edges are covered.",
+    "Place the bowl on a baking tray lined with parchment paper to catch any drips.",
+    "Bake at 180°C for 12-15 minutes or until set and lightly golden.",
+    "Remove from oven and let cool slightly before serving with flaked almonds on top.",
+    "Serve warm as dessert or garnish with additional fresh herbs like mint if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "aerated",
+    "canadian-dish",
+    "citrusy",
+    "one-pan",
+    "romantic",
+    "sugar-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 28,
+    "fat": 14
+  },
+  "slug": "eaerated-canadian-almond-papillote",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/eaerated-canadian-almond-papillote",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T09:40:26Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "aerated",
+    "mood": "romantic",
+    "technique": "papillote",
+    "primaryIngredient": "flaked almonds",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Almonds",
+    "descriptor": "Aerated",
+    "dishForm": "Papillote"
+  }
+}
