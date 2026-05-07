@@ -1,0 +1,86 @@
+{
+  "title": "EzyFix Zanzibari Chicken Thighs Pandan-Leaf Wrap",
+  "description": "A quick and sour Algerian dish featuring chicken thighs cooked in a blend of spices and rendered fat, wrapped in pandan leaves for added flavor.",
+  "cuisine": "Algerian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken Thighs",
+      "amount": 4
+    },
+    {
+      "name": "Pandan Leaves",
+      "amount": "2-3"
+    },
+    {
+      "name": "Sour Grapes or Lemons",
+      "amount": "10"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "half cup"
+    },
+    {
+      "name": "Rice Bran Oil",
+      "amount": 2
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": 3
+    },
+    {
+      "name": "Onion Slices",
+      "amount": 1
+    },
+    {
+      "name": "Chopped Fresh Herbs (Basil, Cilantro)",
+      "amount": "handful"
+    }
+  ],
+  "instructions": [
+    "In a pan, heat oil and render fat from chicken thighs until golden.",
+    "Add garlic, onion slices, and fresh herbs. Stir for about 1 minute.",
+    "Season with salt, pepper, and other preferred spices to taste.",
+    "Place chicken thighs in the rendered fat mixture, skin side up.",
+    "Wrap each chicken thigh individually with a pandan leaf.",
+    "Arrange wrapped chicken thighs on a baking sheet lined with parchment paper.",
+    "Bake at 180°C for about 25 minutes or until chicken is cooked through.",
+    "Serve hot as a quick and sour Algerian dinner dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "almond-fat",
+    "mediterranean-friendly",
+    "quick-fix",
+    "sour-algerian-dish"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "ezy-fix-zanzibari-chicken-thighs-pandan-leaf-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ezy-fix-zanzibari-chicken-thighs-pandan-leaf-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T04:58:33Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shattering",
+    "mood": "quick-fix",
+    "technique": "render-fat",
+    "primaryIngredient": "chicken thighs",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "Chicken thighs",
+    "descriptor": "EzyFix",
+    "dishForm": "Wrap"
+  }
+}
