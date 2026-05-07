@@ -1,0 +1,70 @@
+{
+  "title": "Egrilled Char-Fernbrake-Gosari Terracotta-Dish Wrap",
+  "description": "A fermented, light, crowd-pleasing Irish dish featuring char-grilled fernbrake-gosari in a paleo-friendly terracotta-dish wrap, ideal for a quick dinner.",
+  "cuisine": "Irish",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fermented fernbrake-gosari",
+      "amount": 200
+    },
+    {
+      "name": "char-grilled gospari leaves",
+      "amount": 150
+    },
+    {
+      "name": "paleo-friendly tortilla wrap",
+      "amount": 1
+    },
+    {
+      "name": "terracotta-dish",
+      "amount": 1
+    }
+  ],
+  "instructions": [
+    "Preheat the terracotta-dish in a low-temperature oven.",
+    "Place the fermented fernbrake-gosari on top of the terracotta-dish.",
+    "Add the char-grilled gospari leaves over the fernbrake-gosari.",
+    "Wrap the entire assembly with the paleo-friendly tortilla wrap.",
+    "Serve immediately as a quick and healthy dinner option."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crowd-pleaser",
+    "fermented",
+    "irish-dish",
+    "light",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "egrilled-char-fernbrake-gosari-terracotta-dish-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/egrilled-char-fernbrake-gosari-terracotta-dish-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T08:42:45Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "fernbrake-gosari",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Fernbrake-gosari",
+    "descriptor": "Char-Grilled",
+    "dishForm": "Wrap"
+  }
+}
