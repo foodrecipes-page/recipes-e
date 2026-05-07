@@ -1,0 +1,84 @@
+{
+  "title": "Ezestful Italian Alfalfa Pasta",
+  "description": "A floral, crunchy meal-prep dish featuring carnaroli-rice, low-calorie-friendly and perfect for any American dinner.",
+  "cuisine": "Italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup carnaroli rice",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons chopped fresh parsley",
+      "amount": "tbsp"
+    },
+    {
+      "name": "2 tablespoons chopped fresh basil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "amount": ""
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of red pepper flakes",
+      "amount": ""
+    },
+    {
+      "name": "2 cups lightly packed alfalfa sprouts",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup extra virgin olive oil",
+      "amount": "cup"
+    }
+  ],
+  "instructions": [
+    "Combine the carnaroli rice, parsley, basil, salt, black pepper, and red pepper flakes in a mortar and pestle.",
+    "Pound until well combined and the mixture is fragrant. Add alfalfa sprouts and olive oil last to keep them crunchy.",
+    "Spoon into shallow bowls or ramekins for easy meal prep and reheating."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "crunchy",
+    "floral",
+    "italian",
+    "low-calorie-friendly",
+    "meal-prep",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 23,
+    "fat": 7
+  },
+  "slug": "ezestful-italian-alfalfa-pasta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ezestful-italian-alfalfa-pasta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T14:52:49Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "carnaroli-rice",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "alfalfa",
+    "descriptor": "Zestful",
+    "dishForm": "Pasta"
+  }
+}
