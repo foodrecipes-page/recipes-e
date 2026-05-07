@@ -1,0 +1,101 @@
+{
+  "title": "Energizing Kenyan Herbal Toast",
+  "description": "A refreshing and healthy snack that combines the flavors of Kenya with the comfort of toast.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Jasmine Rice",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Whole Wheat Bread",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Ginger Powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon Powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": "Diabetic-friendly alternative: use stevia or monk fruit sweetener."
+    },
+    {
+      "name": "Green Tea",
+      "amount": "1 cup",
+      "notes": "Brewed and cooled."
+    },
+    {
+      "name": "Mint Leaves",
+      "amount": "1/4 cup",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Toast the bread slices until lightly browned.",
+    "In a small bowl, mix together sesame seeds, ginger powder, and cinnamon powder.",
+    "Spread a thin layer of honey on each toasted bread slice.",
+    "Drizzle brewed green tea over the honey.",
+    "Sprinkle chopped mint leaves on top.",
+    "Drizzle coconut oil over the mint leaves.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "herbal",
+    "kenyan",
+    "one-pan",
+    "refreshing",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "energizing-kenyan-herbal-toast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-kenyan-herbal-toast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:15:07Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "energizing",
+    "technique": "toast",
+    "primaryIngredient": "jasmine rice",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "kenyan",
+    "mainIngredient": "herbal",
+    "descriptor": "energizing",
+    "dishForm": "toast"
+  }
+}
