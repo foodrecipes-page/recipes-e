@@ -1,0 +1,113 @@
+{
+  "title": "Nem Nuong with Caramelized Apples",
+  "description": "A twist on traditional Nem Nuong, this Vietnamese dish adds a sweet and energizing touch with caramelized apples and crispy glassy-jelly texture.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "sliced apples",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": "for caramelization"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": "for glassy-jelly texture"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine ground pork, salt, black pepper, fish sauce, and grated ginger. Mix well with your hands until just combined.",
+    "Add the egg and mix until the egg is fully incorporated.",
+    "Add the all-purpose flour and mix until just combined.",
+    "Cover the mixture and refrigerate for at least 30 minutes.",
+    "Preheat a non-stick skillet or griddle over medium-high heat.",
+    "Using a small ice cream scoop or your hands, shape the mixture into small patties.",
+    "Place the patties on the preheated skillet or griddle and cook for 3-4 minutes on each side, or until cooked through.",
+    "While the patties are cooking, prepare the caramelized apples by heating a non-stick skillet over medium heat.",
+    "Add the sliced apples and cook for 5-7 minutes on each side, or until caramelized.",
+    "To make the glassy-jelly texture, mix the honey and water in a small bowl until well combined.",
+    "Add the glassy-jelly mixture to the cooked patties and serve immediately on a Talavera plate with the caramelized apples."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caramelized-apples",
+    "dessert",
+    "easy-to-make",
+    "glassy-jelly",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "slug": "energizing-and-glassy-jelly-vietnamese-apples-nem-nuong",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-and-glassy-jelly-vietnamese-apples-nem-nuong",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:35:21Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "glassy-jelly",
+    "mood": "energizing",
+    "technique": "bake",
+    "primaryIngredient": "apples",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "apples",
+    "descriptor": "energizing and glassy-jelly",
+    "dishForm": "Nem Nuong"
+  }
+}
