@@ -1,0 +1,103 @@
+{
+  "title": "Earthly German Sausage Bauernfleischsuppe",
+  "description": "A hearty, savory German stew featuring earthy flavors, silky texture, and tender beef sausage.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kosher salt",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "beef sausage",
+      "amount": "1 pound"
+    },
+    {
+      "name": "beef short ribs",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add sausage and cook, browning on all sides, about 5 minutes.",
+    "Remove sausage and set aside.",
+    "Add short ribs and cook, browning on all sides, about 5 minutes.",
+    "Remove short ribs and set aside.",
+    "Add onion, garlic, carrots, and celery to pot, cooking until onion is translucent.",
+    "Add caraway seeds, beef broth, red wine, and browned sausage and short ribs.",
+    "Bring mixture to a boil, then cover and transfer to pressure cooker.",
+    "Cook under pressure for 20 minutes.",
+    "Let pressure release, then serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "german",
+    "high-protein",
+    "one-pot",
+    "pressure-cooker",
+    "saturday-night",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 28,
+    "fat": 36
+  },
+  "slug": "earthly-german-sausage-bauernfleischsuppe",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/earthly-german-sausage-bauernfleischsuppe",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T07:59:22Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "pressure-cook",
+    "primaryIngredient": "kosher salt",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Sausage",
+    "descriptor": "Earthly",
+    "dishForm": "Bauernfleischsuppe"
+  }
+}

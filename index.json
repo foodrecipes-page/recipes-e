@@ -198,6 +198,22 @@
     "shard": "e"
   },
   {
+    "slug": "earthly-german-sausage-bauernfleischsuppe",
+    "title": "Earthly German Sausage Bauernfleischsuppe",
+    "tags": [
+      "beef",
+      "german",
+      "high-protein",
+      "one-pot",
+      "pressure-cooker",
+      "saturday-night",
+      "stew"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "e"
+  },
+  {
     "slug": "earthly-rice-vermicelli",
     "title": "Earthly Rice Vermicelli",
     "tags": [
