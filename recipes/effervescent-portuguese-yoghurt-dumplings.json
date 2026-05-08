@@ -3,8 +3,7 @@
   "description": "Light, peppery dumplings with a glassy-jelly consistency, they steam quickly and deliver a burst of freshness.",
   "cuisine": "Portuguese",
   "diet": [
-    "keto",
-    "gluten-free"
+    "keto"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -100,5 +99,9 @@
     "mainIngredient": "yoghurt",
     "descriptor": "Effervescent",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

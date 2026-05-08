@@ -3,7 +3,6 @@
   "description": "A yeasty and juicy Canadian dish featuring sashimi-cut salmon, cocoa, and ayurvedic-rajasic-friendly ingredients, served in an earthenware bowl",
   "cuisine": "Canadian",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -56,14 +55,13 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 0,
-  "totalTimeMin": 50,
+  "totalTimeMin": 20,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
     "canadian-cuisine",
     "dairy-free",
     "easy-dinner",
-    "gluten-free",
     "high-protein",
     "weeknight"
   ],
@@ -90,5 +88,10 @@
     "mainIngredient": "salmon",
     "descriptor": "earthy exotic",
     "dishForm": "Poke"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "recomputed-totalTime"
+  ]
 }

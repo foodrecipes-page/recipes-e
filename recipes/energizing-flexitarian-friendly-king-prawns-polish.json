@@ -3,8 +3,7 @@
   "description": "A resinous and light Polish dish featuring king prawns, perfect for flexitarian diets.",
   "cuisine": "Polish",
   "diet": [
-    "flexitarian",
-    "vegetarian"
+    "flexitarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -115,5 +114,9 @@
     "mainIngredient": "king prawns",
     "descriptor": "energizing",
     "dishForm": "Polish"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

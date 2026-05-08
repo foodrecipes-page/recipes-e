@@ -3,8 +3,7 @@
   "description": "A rich and indulgent take on the classic lasagna, featuring a Canadian twist with cultured cheese and yuzu-cure.",
   "cuisine": "Canadian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -94,5 +93,9 @@
     "mainIngredient": "cheese",
     "descriptor": "exquisite melted",
     "dishForm": "Lasagna"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

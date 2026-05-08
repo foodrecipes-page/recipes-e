@@ -3,8 +3,7 @@
   "description": "A charred and aerated Peruvian dish featuring 00-flour and fry-grind-rice-khao-khua, this suspiro limeno is a low-sodium friendly and energizing meal option.",
   "cuisine": "Peruvian",
   "diet": [
-    "low-sodium",
-    "gluten-free"
+    "low-sodium"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -64,7 +63,6 @@
   "tags": [
     "dinner-ideas",
     "energizing-meals",
-    "gluten-free",
     "low-sodium",
     "peruvian-cuisine"
   ],
@@ -91,5 +89,9 @@
     "mainIngredient": "rice",
     "descriptor": "Energizing Charred",
     "dishForm": "Suspiro Limeno"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -79,7 +79,6 @@
   "servings": 8,
   "difficulty": "hard",
   "tags": [
-    "dairy-free",
     "dessert",
     "high-protein",
     "indulgent",
@@ -110,5 +109,9 @@
     "mainIngredient": "shredded-phyllo",
     "descriptor": "earthy indulgent",
     "dishForm": "knafeh"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

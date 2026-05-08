@@ -2,9 +2,7 @@
   "title": "Earthy Juicy Vietnamese Pork Spring-Rolls",
   "description": "A midnight-craving Vietnamese dish featuring earthy and juicy pork, wrapped in a thin dough made from all-purpose flour. Perfect for a halal-friendly snack or meal.",
   "cuisine": "Vietnamese",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -60,7 +58,8 @@
     "Heat a large skillet or wok with about 1-2 inches of oil over medium-high heat. When the oil is hot, add a few of the spring rolls to the skillet (do not overcrowd).",
     "Cook the spring rolls for 3-4 minutes on each side, until they are golden brown and crispy.",
     "Remove the spring rolls from the oil and drain on paper towels.",
-    "Serve the spring rolls hot with your favorite dipping sauce."
+    "Serve the spring rolls hot with your favorite dipping sauce.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -71,7 +70,6 @@
     "vietnamese-cuisine",
     "spring-rolls",
     "pork",
-    "halal",
     "asian-food",
     "midnight-cravings"
   ],
@@ -98,5 +96,10 @@
     "mainIngredient": "pork",
     "descriptor": "earthy juicy",
     "dishForm": "Spring-Rolls"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal",
+    "added-safety-pork_no_temp"
+  ]
 }

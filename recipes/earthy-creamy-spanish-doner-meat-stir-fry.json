@@ -46,7 +46,8 @@
     "In the same skillet, melt butter over low heat. Add garlic and onion; cook for about 2 minutes or until soft.",
     "Stir in almond milk, reduce to simmer. Simmer for 10-15 minutes or until thickened slightly.",
     "Return chicken to skillet with sauce. Gently stir in chopped parsley.",
-    "Spoon mixture into a serving bowl and serve warm."
+    "Spoon mixture into a serving bowl and serve warm.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 45,
@@ -82,5 +83,9 @@
     "mainIngredient": "doner meat",
     "descriptor": "Creamy Earthy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

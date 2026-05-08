@@ -3,8 +3,7 @@
   "description": "A savory and light Peruvian dish featuring beef strips, shichimi-togarashi, and vegetables, perfect for a crowd, this whole30-friendly recipe is a must try. It is a stir-fry dish that combines the flavors of Peru and Asia.",
   "cuisine": "Peruvian",
   "diet": [
-    "whole30",
-    "gluten-free"
+    "whole30"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -75,7 +74,6 @@
   "difficulty": "medium",
   "tags": [
     "beef-recipes",
-    "gluten-free",
     "one-pan",
     "peruvian-cuisine",
     "stir-fry",
@@ -104,5 +102,9 @@
     "mainIngredient": "beef",
     "descriptor": "Exotic Elegant",
     "dishForm": "Lomo Saltado"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

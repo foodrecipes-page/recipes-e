@@ -2,9 +2,7 @@
   "title": "smoky algerian flour brik",
   "description": "a sweet and light algerian pastry, perfect for dessert or snack time, made with strong wholemeal flour and a smoky hot filling.",
   "cuisine": "algerian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -73,8 +71,7 @@
     "light-fairly",
     "morning-snack",
     "smoky-flavors",
-    "sweet-treats",
-    "vegan"
+    "sweet-treats"
   ],
   "nutrition": {
     "calories": 250,
@@ -99,5 +96,9 @@
     "mainIngredient": "flour",
     "descriptor": "exotic smoky",
     "dishForm": "Brik"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

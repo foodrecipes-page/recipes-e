@@ -3,8 +3,7 @@
   "description": "A traditional Greek dish featuring roasted peas in a rich avgolemono sauce served in a dolsot stone bowl. This recipe is perfect for a comforting evening meal.",
   "cuisine": "Greek",
   "diet": [
-    "sugar-free",
-    "vegetarian"
+    "sugar-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -73,7 +72,8 @@
     "Temper the egg yolk mixture by slowly pouring the warm broth into the bowl, whisking continuously.",
     "Strain the sauce into the saucepan with the peas and bring to a simmer.",
     "Season with pepper and salt to taste.",
-    "Serve the avgolemono sauce over the peas, garnished with chopped parsley and serve in a dolsot stone bowl."
+    "Serve the avgolemono sauce over the peas, garnished with chopped parsley and serve in a dolsot stone bowl.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -84,8 +84,7 @@
     "comfort-food",
     "greek",
     "one-pot",
-    "sugar-free",
-    "vegetarian"
+    "sugar-free"
   ],
   "nutrition": {
     "calories": 250,
@@ -110,5 +109,10 @@
     "mainIngredient": "Peas",
     "descriptor": "Early Evening",
     "dishForm": "Avgolemono"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

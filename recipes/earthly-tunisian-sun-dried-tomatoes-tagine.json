@@ -2,9 +2,7 @@
   "title": "Earthly Tunisian Sun Dried Tomatoes Tagine",
   "description": "A sour and cozy Tunisian dish featuring sun dried tomatoes and lardons render, this vegetarian friendly tagine is perfect for a chilly evening, its glassy jelly texture will leave you wanting more.",
   "cuisine": "Tunisian",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -78,8 +76,7 @@
     "comfort-food",
     "mediterranean",
     "one-pot",
-    "tunisian",
-    "vegetarian"
+    "tunisian"
   ],
   "nutrition": {
     "calories": 420,
@@ -104,5 +101,9 @@
     "mainIngredient": "sun-dried tomatoes",
     "descriptor": "earthy savory",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

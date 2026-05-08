@@ -4,8 +4,7 @@
   "cuisine": "Japanese",
   "diet": [
     "low-sodium",
-    "vegan",
-    "gluten-free"
+    "vegan"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -70,7 +69,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "japanese",
     "low-sodium",
     "one-pan",
@@ -99,5 +97,9 @@
     "mainIngredient": "dates",
     "descriptor": "Earthy Midnight Craving",
     "dishForm": "Tofu Dashi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -58,7 +58,8 @@
     "Place the skewers on a baking sheet lined with parchment paper and roast in the oven for 20 minutes.",
     "Increase the oven temperature to broil and cook for an additional 5 minutes, or until the chicken is crispy and golden brown.",
     "Remove the skewers from the oven and sprinkle with chopped parsley.",
-    "Serve the skewers hot with lemon wedges on the side."
+    "Serve the skewers hot with lemon wedges on the side.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -97,5 +98,9 @@
     "mainIngredient": "chicken",
     "descriptor": "exotic crispy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

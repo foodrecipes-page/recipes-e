@@ -2,10 +2,7 @@
   "title": "Easy Comforting Algerian Tofu Tagine",
   "description": "A sour and fluffy Algerian dish featuring marinated tofu, this tagine is a comforting and low-calorie-friendly option for a weeknight dinner. It combines the flavors of Africa and the Middle East in a single pot.",
   "cuisine": "Algerian",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -64,7 +61,8 @@
     "Add the lemon juice, chicken broth, and dried prunes, and bring the mixture to a boil.",
     "Reduce the heat to low, cover the tagine or Dutch oven, and simmer the mixture for 20 minutes.",
     "Stir in the chopped parsley and season the tagine with salt and pepper to taste.",
-    "Serve the tagine hot over couscous or rice."
+    "Serve the tagine hot over couscous or rice.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -75,8 +73,6 @@
     "low-calorie",
     "north-african",
     "one-pot",
-    "vegan",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -102,5 +98,11 @@
     "mainIngredient": "tofu",
     "descriptor": "easy comforting",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

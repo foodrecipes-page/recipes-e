@@ -3,8 +3,7 @@
   "description": "A traditional Filipino dish featuring light and fluffy rice flour pancakes, this recipe is easy to make and perfect for a snack or breakfast, it is also satvik friendly and cooked to perfection in a paella pan with steam.",
   "cuisine": "Filipino",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -63,7 +62,6 @@
   "tags": [
     "easy-to-make",
     "filipino-cuisine",
-    "gluten-free",
     "healthy-breakfast",
     "one-pan",
     "quick-snack",
@@ -92,5 +90,9 @@
     "mainIngredient": "rice flour",
     "descriptor": "Easy Light",
     "dishForm": "Pancakes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Exotic Winey Ethiopian Pork Back Ribs Kitfo",
   "description": "A winey, crisp, and light Ethiopian dish featuring pork back ribs with a yuzu-cure, this kosher-friendly kitfo is a unique twist on traditional Ethiopian cuisine. The combination of flavors and textures creates a truly exotic experience.",
   "cuisine": "Ethiopian",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -87,5 +85,9 @@
     "mainIngredient": "pork back ribs",
     "descriptor": "exotic winey",
     "dishForm": "Kitfo"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-kosher"
+  ]
 }

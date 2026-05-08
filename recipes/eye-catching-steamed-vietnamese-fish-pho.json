@@ -2,9 +2,7 @@
   "title": "Eye-catching Steamed Vietnamese Fish Pho",
   "description": "A savory, crisp Vietnamese dish featuring malt vinegar, steam, and a gluten-free-friendly twist, perfect for a date-night dinner.",
   "cuisine": "vietnamese",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -76,7 +74,6 @@
   "tags": [
     "date-night",
     "fish",
-    "gluten-free",
     "steamed",
     "vietnamese"
   ],
@@ -103,5 +100,9 @@
     "mainIngredient": "Fish",
     "descriptor": "Eye-catching Steamed",
     "dishForm": "Pho"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -2,10 +2,7 @@
   "title": "Earthy Crumbly Australian Grape Nut Cereal Crumble",
   "description": "A light and earthy crumble dish featuring gluten-free grape nut cereal as the base with a hint of ferment for added depth.",
   "cuisine": "Australian",
-  "diet": [
-    "gluten-free",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -95,5 +92,10 @@
     "mainIngredient": "Grape Nut Cereal",
     "descriptor": "Earthy Crumbly",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

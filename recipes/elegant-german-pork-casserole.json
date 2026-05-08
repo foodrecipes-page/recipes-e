@@ -61,7 +61,9 @@
     "Brush the edges of the pastry with a little water and fold the pastry over the pork to form a tight seal.",
     "Place the casserole on a baking sheet lined with parchment paper and brush the top with a little bit of water.",
     "Bake the casserole in the preheated oven for 25 minutes, or until the pastry is golden brown.",
-    "Remove the casserole from the oven and let it rest for 5 minutes before serving."
+    "Remove the casserole from the oven and let it rest for 5 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -98,5 +100,10 @@
     "mainIngredient": "pork",
     "descriptor": "Elegant Molten",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

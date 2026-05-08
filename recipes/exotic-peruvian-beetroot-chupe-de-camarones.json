@@ -2,9 +2,7 @@
   "title": "Exotic Peruvian Beetroot Chupe De Camarones",
   "description": "A vibrant and flavorful Peruvian dish featuring beetroot and shrimp, with a mix of exotic spices and crispy agemono deep fry, this halal friendly chupe de camarones is a must try for adventurous foodies. It combines the natural sweetness of beetroot with the succulence of shrimp.",
   "cuisine": "Peruvian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -101,5 +99,9 @@
     "mainIngredient": "beetroot",
     "descriptor": "Exotic Deep Fried",
     "dishForm": "Chupe De Camarones"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

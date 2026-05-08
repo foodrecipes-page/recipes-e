@@ -68,7 +68,8 @@
     "Add the egg mixture to the skillet and stir until combined.",
     "Pour the egg mixture into the prepared souffle dish and smooth the top.",
     "Bake for 25-30 minutes or until puffed and golden brown.",
-    "Remove from the oven and let rest for 10 minutes before serving."
+    "Remove from the oven and let rest for 10 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -104,5 +105,9 @@
     "mainIngredient": "ovolimushroom",
     "descriptor": "Ethereal",
     "dishForm": "Souffle"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

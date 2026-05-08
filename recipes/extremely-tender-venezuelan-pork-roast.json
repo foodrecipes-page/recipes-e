@@ -60,7 +60,8 @@
     "Remove the pot from the oven and let the pork rest for 10 minutes.",
     "Strain the juices from the pot and discard the solids.",
     "Serve the pork with the strained juices spooned over the top.",
-    "Garnish with chopped cilantro and serve with rice, beans, or boiled potatoes."
+    "Garnish with chopped cilantro and serve with rice, beans, or boiled potatoes.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 150,
@@ -99,5 +100,9 @@
     "mainIngredient": "pork",
     "descriptor": "Extremely tender",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

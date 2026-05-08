@@ -52,7 +52,8 @@
     "Place the baking dish in a larger pan and add hot water to come halfway up the sides of the baking dish.",
     "Bake for 30 minutes, then remove the foil and continue baking for an additional 20 minutes.",
     "Remove the dish from the oven and let it cool for a few minutes before serving.",
-    "Serve hot, garnished with chopped fresh herbs if desired."
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 50,
@@ -89,5 +90,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Easygoing",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

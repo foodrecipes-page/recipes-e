@@ -4,7 +4,6 @@
   "cuisine": "american",
   "diet": [
     "vegetarian",
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -114,5 +113,9 @@
     "mainIngredient": "mushroom",
     "descriptor": "Earthy, Quenched",
     "dishForm": "Mushimono"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -111,7 +111,8 @@
     "Transfer the pan to the oven and cook at 400°F (200°C) for 20-25 minutes, or until the rice is cooked and the liquid has been absorbed.",
     "Remove the pan from the oven and use a fork to aerate the paella, creating a crispy crust on the bottom.",
     "Garnish with chopped parsley, grated manchego cheese, and a squeeze of fresh lemon juice, if desired.",
-    "To serve, place the paella in the center of the table and have everyone dig in!"
+    "To serve, place the paella in the center of the table and have everyone dig in!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 40,
@@ -152,5 +153,9 @@
     "mainIngredient": "chilli",
     "descriptor": "exotic aerated",
     "dishForm": "paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

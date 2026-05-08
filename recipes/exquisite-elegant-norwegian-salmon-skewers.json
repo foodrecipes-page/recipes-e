@@ -3,7 +3,6 @@
   "description": "A romantic Norwegian dish featuring miso-marinated salmon, white chocolate chips, and a funky twist, perfect for a special occasion.",
   "cuisine": "Norwegian",
   "diet": [
-    "gluten-free",
     "egg-free"
   ],
   "meal": "dinner",
@@ -87,5 +86,9 @@
     "mainIngredient": "salmon",
     "descriptor": "exquisite elegant",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

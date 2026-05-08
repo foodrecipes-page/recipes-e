@@ -3,8 +3,7 @@
   "description": "A savory Cornish pasty filled with umami-rich shoyu-koji, perfect for a morning-after treat.",
   "cuisine": "British",
   "diet": [
-    "ovo-vegetarian",
-    "gluten-free"
+    "ovo-vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -98,5 +97,9 @@
     "mainIngredient": "Shoyu-koji",
     "descriptor": "Eye-opening Hangover Cure",
     "dishForm": "Cornish Pasty"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

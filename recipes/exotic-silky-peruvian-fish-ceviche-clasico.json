@@ -75,7 +75,7 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 0,
-  "totalTimeMin": 50,
+  "totalTimeMin": 20,
   "servings": 1,
   "difficulty": "medium",
   "tags": [
@@ -109,5 +109,9 @@
     "mainIngredient": "fish",
     "descriptor": "Exotic Silky",
     "dishForm": "Ceviche Clasico"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

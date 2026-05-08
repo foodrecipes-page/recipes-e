@@ -2,10 +2,7 @@
   "title": "Earthy Russian Lentils Stew",
   "description": "A hearty, comforting stew featuring lentils, lardons, and a rich, earthy flavor profile.",
   "cuisine": "Russian",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -96,7 +93,8 @@
     "Remove the bay leaves and stir in the red wine vinegar, if using.",
     "Season the stew with additional salt and pepper, if needed.",
     "Serve hot, garnished with fresh herbs, if desired.",
-    "Let the stew rest for at least 30 minutes before serving to allow the flavors to meld together."
+    "Let the stew rest for at least 30 minutes before serving to allow the flavors to meld together.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 40,
@@ -133,5 +131,11 @@
     "mainIngredient": "lentils",
     "descriptor": "earthy",
     "dishForm": "stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -2,10 +2,7 @@
   "title": "Energizing Citrusy Thai Coconut Milk Curry",
   "description": "A refreshing spring-inspired Thai curry featuring the brightness of citrus and the creaminess of unsweetened coconut milk. Perfect for a meal that's both energizing and kosher-friendly.",
   "cuisine": "Thai",
-  "diet": [
-    "vegetarian",
-    "kosher"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -113,10 +110,8 @@
   "tags": [
     "gluten-free",
     "high-protein",
-    "kosher",
     "one-pan",
     "spring",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -142,5 +137,10 @@
     "mainIngredient": "coconut milk",
     "descriptor": "energizing citrusy",
     "dishForm": "curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-kosher"
+  ]
 }

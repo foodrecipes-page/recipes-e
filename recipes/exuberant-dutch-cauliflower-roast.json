@@ -2,9 +2,7 @@
   "title": "Exuberant Dutch Cauliflower Roast",
   "description": "A smoky, caramelized cauliflower roast with a bold fish‑sauce glaze, served on a tagliere with toasted almonds and fresh herbs.",
   "cuisine": "Dutch",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -77,8 +75,7 @@
     "fish-sauce",
     "one-pan",
     "roasted",
-    "tagliere",
-    "vegetarian"
+    "tagliere"
   ],
   "nutrition": {
     "calories": 375,
@@ -103,5 +100,9 @@
     "mainIngredient": "Cauliflower",
     "descriptor": "Exuberant",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

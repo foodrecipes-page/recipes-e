@@ -3,8 +3,7 @@
   "description": "A savory, tender stew featuring cabbage leaves, pickled cucumbers, and aromatic spices, served in a classic cataplana for a nostalgic Malaysian flavor.",
   "cuisine": "Malaysian",
   "diet": [
-    "vegetarian",
-    "dairy-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -70,7 +69,8 @@
     "Add the cabbage leaves and napa cabbage, deglaze with a splash of tamari, and cover; cook for 5 minutes until greens begin to wilt.",
     "Pour in vegetable stock, coconut milk, and sliced nuka-pickle and bring to a gentle simmer.",
     "Reduce heat to low, cover, and simmer for 15 minutes until all vegetables are tender and flavors meld.",
-    "Serve hot, garnished with a squeeze of fresh lime if desired."
+    "Serve hot, garnished with a squeeze of fresh lime if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -80,7 +80,6 @@
   "tags": [
     "asian",
     "cataplana",
-    "dairy-free",
     "low-carb",
     "stew",
     "vegetarian"
@@ -108,5 +107,10 @@
     "mainIngredient": "cabbage",
     "descriptor": "Elegant",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free",
+    "added-safety-preserving_no_acid"
+  ]
 }

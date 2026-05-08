@@ -98,7 +98,8 @@
     "Cover the Dutch oven and transfer it to the oven. Cook for 25 minutes or until the meat is tender and the flavors have melded together.",
     "Remove the Dutch oven from the oven and let it cool slightly.",
     "Garnish with chopped cilantro and serve hot over steamed rice.",
-    "Let the tagine rest for 10 minutes before serving to allow the flavors to redistribute."
+    "Let the tagine rest for 10 minutes before serving to allow the flavors to redistribute.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 35,
@@ -137,5 +138,9 @@
     "mainIngredient": "caraway seed",
     "descriptor": "Elegant",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A spicy and comforting Vietnamese dish featuring hot smoked flaked salmon, this recipe is paleo-friendly and full of flavor, with a crunchy texture from the added toppings.",
   "cuisine": "Vietnamese",
   "diet": [
-    "paleo",
-    "gluten-free"
+    "paleo"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -78,7 +77,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "gluten-free",
     "paleo-friendly",
     "seafood",
     "spicy",
@@ -107,5 +105,9 @@
     "mainIngredient": "salmon",
     "descriptor": "Exotic Crunchy",
     "dishForm": "Bun Rieu"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

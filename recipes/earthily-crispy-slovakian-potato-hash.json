@@ -3,7 +3,6 @@
   "description": "A hearty Slovakian dish perfect for post-workout recovery, featuring unsalted butter and crispy potatoes. Suitable for vegan diets.",
   "cuisine": "Slovakian",
   "diet": [
-    "vegan",
     "vegetarian",
     "gluten-free"
   ],
@@ -100,5 +99,9 @@
     "mainIngredient": "Potato",
     "descriptor": "Earthily Crispy",
     "dishForm": "Hash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

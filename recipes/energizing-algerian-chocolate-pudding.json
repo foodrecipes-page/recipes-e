@@ -2,9 +2,7 @@
   "title": "Energizing Algerian Chocolate Pudding",
   "description": "A funky, glassy-jelly dessert that combines dark chocolate chips with agar agar and a wood-fired bake for a satvik-friendly treat.",
   "cuisine": "Algerian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -96,5 +94,9 @@
     "mainIngredient": "Chocolate",
     "descriptor": "Energizing",
     "dishForm": "Pudding"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

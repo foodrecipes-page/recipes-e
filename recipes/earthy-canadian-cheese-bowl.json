@@ -3,7 +3,6 @@
   "description": "A post-workout vegan dish featuring creamy emmentaler cheese with earthy notes, served with fresh veggies and a tangy dressing for a satisfying meal.",
   "cuisine": "canadian",
   "diet": [
-    "vegan",
     "plant-based"
   ],
   "meal": "snack",
@@ -42,7 +41,6 @@
   "difficulty": "easy",
   "tags": [
     "canadian",
-    "vegan",
     "cheese",
     "quinoa",
     "post-workout"
@@ -70,5 +68,9 @@
     "mainIngredient": "cheese",
     "descriptor": "Earthy",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

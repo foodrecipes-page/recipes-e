@@ -57,11 +57,12 @@
     "Spoon the salad mixture into the mason jars, leaving about 1 inch of space at the top.",
     "Seal the jars and refrigerate for at least 30 minutes to allow the flavors to meld.",
     "Serve the salad chilled, garnished with additional parsley if desired.",
-    "Store any leftovers in the refrigerator for up to 3 days."
+    "Store any leftovers in the refrigerator for up to 3 days.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 0,
-  "totalTimeMin": 50,
+  "totalTimeMin": 20,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
@@ -95,5 +96,10 @@
     "mainIngredient": "pork",
     "descriptor": "easy pickled",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp",
+    "recomputed-totalTime"
+  ]
 }

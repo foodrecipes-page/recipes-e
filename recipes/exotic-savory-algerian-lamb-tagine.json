@@ -73,7 +73,8 @@
     "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the lamb is tender.",
     "Stir in the crumbled feta cheese and cook until it is melted and the sauce is creamy.",
     "Season the tagine with salt and pepper to taste, then serve hot over couscous or rice.",
-    "Garnish with fresh parsley or cilantro, if desired."
+    "Garnish with fresh parsley or cilantro, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 90,
@@ -110,5 +111,9 @@
     "mainIngredient": "lamb",
     "descriptor": "exotic savory",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -84,11 +84,15 @@
     "mood": "brunch-mood",
     "technique": "simmer",
     "primaryIngredient": "frozen seafood mix",
-    "diet": "vegan",
+    "diet": "vegan-friendly",
     "region": null,
     "cuisineAdjective": "British",
     "mainIngredient": "Seafood",
     "descriptor": "Elegant Crispy",
     "dishForm": "Tart"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

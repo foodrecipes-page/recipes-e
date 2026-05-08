@@ -3,7 +3,6 @@
   "description": "A salty and velvety Canadian dish featuring matcha and nimono simmer, perfect for a cold winter day. This nut-free-friendly recipe is sure to energize and satisfy.",
   "cuisine": "Canadian",
   "diet": [
-    "gluten-free",
     "nut-free"
   ],
   "meal": "lunch",
@@ -90,5 +89,9 @@
     "mainIngredient": "matcha",
     "descriptor": "Energizing Velvety",
     "dishForm": "Nimono"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

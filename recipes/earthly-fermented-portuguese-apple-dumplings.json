@@ -3,7 +3,6 @@
   "description": "A traditional Portuguese dessert featuring fermented apple juice and pillowy dumplings, wrapped in lotus leaves for a unique and nostalgic treat. This gluten-free-friendly dish is perfect for special occasions.",
   "cuisine": "Portuguese",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "dessert",
@@ -64,7 +63,6 @@
   "tags": [
     "desserts",
     "fermented-foods",
-    "gluten-free",
     "lotus-leaf",
     "portuguese-cuisine",
     "traditional-recipes"
@@ -92,5 +90,9 @@
     "mainIngredient": "apples",
     "descriptor": "earthy fermented",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

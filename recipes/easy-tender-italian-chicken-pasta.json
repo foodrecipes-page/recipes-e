@@ -3,8 +3,7 @@
   "description": "A comforting and flavorful Italian dish featuring rosemary and chicken, perfect for a sick day, made in a kadhai with a focus on tender and grassy flavors, and sugar-free friendly.",
   "cuisine": "Italian",
   "diet": [
-    "sugar-free",
-    "gluten-free"
+    "sugar-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -90,5 +89,9 @@
     "mainIngredient": "chicken",
     "descriptor": "easy tender",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A tangy, caramelized bowtie pasta dish that bursts with Mediterranean flavors and anti-inflammatory ingredients, perfect for a show‑off dinner.",
   "cuisine": "Mediterranean",
   "diet": [
-    "gluten-free",
     "anti-inflammatory"
   ],
   "meal": "dinner",
@@ -105,5 +104,9 @@
     "mainIngredient": "Lemon",
     "descriptor": "Ebullient",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

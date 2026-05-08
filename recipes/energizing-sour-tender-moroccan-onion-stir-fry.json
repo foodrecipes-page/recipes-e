@@ -44,7 +44,8 @@
     "Stir in diced tomatoes, thyme, garlic, cumin seeds, and chicken broth.",
     "Simmer for another 10-15 minutes or until the sauce thickens slightly.",
     "Reduce heat to low and add vinegar. Simmer for an additional 5 minutes.",
-    "Serve immediately as a snack."
+    "Serve immediately as a snack.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -81,5 +82,9 @@
     "mainIngredient": "Onion",
     "descriptor": "Sour Tender Energizing",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

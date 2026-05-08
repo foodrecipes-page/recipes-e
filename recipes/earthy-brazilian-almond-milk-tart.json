@@ -3,8 +3,7 @@
   "description": "A crowd-pleasing Brazilian dessert featuring flaky pastry, earthy flavors, and almond milk.",
   "cuisine": "Brazilian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -64,8 +63,6 @@
   "servings": 8,
   "difficulty": "hard",
   "tags": [
-    "dairy-free",
-    "gluten-free",
     "high-fiber",
     "one-pan",
     "weeknight"
@@ -93,5 +90,10 @@
     "mainIngredient": "almond milk",
     "descriptor": "earthy",
     "dishForm": "Tart"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

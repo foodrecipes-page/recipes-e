@@ -81,7 +81,6 @@
   "difficulty": "medium",
   "tags": [
     "breakfast-ideas",
-    "gluten-free",
     "savory-breakfast",
     "vegan-recipes"
   ],
@@ -102,11 +101,16 @@
     "mood": "energizing",
     "technique": "yuzu-cure",
     "primaryIngredient": "hojicha",
-    "diet": "vegan",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Dutch",
     "mainIngredient": "hojicha",
     "descriptor": "energizing savory",
     "dishForm": "Pancakes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "aligned-axes-diet"
+  ]
 }

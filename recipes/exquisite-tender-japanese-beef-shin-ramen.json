@@ -2,10 +2,7 @@
   "title": "Exquisite Tender Japanese Beef Shin Ramen",
   "description": "A delicate and light Japanese dish featuring tender beef shin, served in a rich and savory broth.",
   "cuisine": "Japanese",
-  "diet": [
-    "kosher",
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -75,7 +72,8 @@
     "Thinly slice the beef shin against the grain.",
     "Assemble the ramen by placing noodles in a bowl, then topping with sliced beef, bamboo shoots, and green onions.",
     "Drizzle the sesame-ginger sauce over the top of the noodles.",
-    "Sprinkle sesame seeds over the top of the dish and serve immediately."
+    "Sprinkle sesame seeds over the top of the dish and serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 28,
@@ -115,5 +113,11 @@
     "mainIngredient": "beef shin",
     "descriptor": "exquisite tender",
     "dishForm": "Ramen"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal",
+    "removed-diet-kosher",
+    "added-safety-poultry_no_temp"
+  ]
 }

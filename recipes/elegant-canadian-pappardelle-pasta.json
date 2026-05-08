@@ -3,8 +3,7 @@
   "description": "A romantic Canadian dish featuring pappardelle pasta in a mustardy nimono simmer, served on a bamboo tray, this recipe is low glycemic friendly and perfect for a special occasion.",
   "cuisine": "Canadian",
   "diet": [
-    "low-glycemic",
-    "gluten-free"
+    "low-glycemic"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -55,7 +54,8 @@
     "Drain the cooked pappardelle pasta and add it to the saucepan, tossing to coat with the nimono simmer.",
     "Transfer the pasta to a bamboo tray and top with shaved grana padano cheese.",
     "Serve immediately and enjoy.",
-    "Garnish with fresh thyme leaves, if desired."
+    "Garnish with fresh thyme leaves, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -64,7 +64,6 @@
   "difficulty": "medium",
   "tags": [
     "canadian-cuisine",
-    "gluten-free",
     "low-glycemic",
     "pappardelle-pasta",
     "romantic-dinner",
@@ -93,5 +92,10 @@
     "mainIngredient": "pappardelle pasta",
     "descriptor": "Elegant Nimono",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

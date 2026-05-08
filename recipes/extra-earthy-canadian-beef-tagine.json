@@ -3,7 +3,6 @@
   "description": "A hearty, peppery, one-pot Canadian dish featuring beef, onions, and dried cranberries, all served in a flavorful beef broth.",
   "cuisine": "Canadian",
   "diet": [
-    "gluten-free",
     "sugar-free-friendly"
   ],
   "meal": "dinner",
@@ -91,5 +90,9 @@
     "mainIngredient": "beef",
     "descriptor": "Extra-Earthy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

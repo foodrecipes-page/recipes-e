@@ -3,8 +3,7 @@
   "description": "A low-calorie, earthy French dish featuring chicken, mushrooms, and a hint of salsa, all wrapped in a flaky crust. Perfect for a quick and satisfying dinner.",
   "cuisine": "French",
   "diet": [
-    "low-calorie",
-    "gluten-free"
+    "low-calorie"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -66,7 +65,8 @@
     "Spoon the chicken and mushroom mixture into the center of the pastry, leaving a 1-inch border around the edges.",
     "Sprinkle the grated cheese over the top of the filling.",
     "Fold the edges of the pastry up over the filling, pressing gently to seal. Brush the pastry with a little bit of water and cut a few slits in the top to allow steam to escape.",
-    "Bake the gratin for 25-30 minutes, or until the pastry is golden brown and the filling is hot and bubbly."
+    "Bake the gratin for 25-30 minutes, or until the pastry is golden brown and the filling is hot and bubbly.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -105,5 +105,10 @@
     "mainIngredient": "chicken",
     "descriptor": "earthy flaky",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

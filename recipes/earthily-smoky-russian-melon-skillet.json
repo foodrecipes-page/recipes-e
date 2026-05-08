@@ -3,8 +3,7 @@
   "description": "A nutty and gooey solo dinner dish featuring melons and smoky flavors, perfect for a plant-based friendly meal.",
   "cuisine": "Russian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -92,5 +91,9 @@
     "mainIngredient": "melons",
     "descriptor": "Earthily Smoky",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

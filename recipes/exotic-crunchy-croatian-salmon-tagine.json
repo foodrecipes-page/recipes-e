@@ -3,7 +3,6 @@
   "description": "A winey and crunchy Croatian dish featuring salmon cooked in a tagine, perfect for a cozy dinner. This nut-free-friendly recipe is sure to delight your taste buds.",
   "cuisine": "Croatian",
   "diet": [
-    "gluten-free",
     "nut-free"
   ],
   "meal": "dinner",
@@ -71,7 +70,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "one-pan",
     "weeknight",
@@ -100,5 +98,9 @@
     "mainIngredient": "salmon",
     "descriptor": "exotic crunchy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

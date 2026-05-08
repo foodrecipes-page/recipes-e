@@ -2,10 +2,7 @@
   "title": "Earthy Cinnamon Chinese Beef Stir-fry",
   "description": "A nostalgic and earthy Chinese dish featuring mixed beef cuts in a flavorful Mediterranean-inspired sauce that is both crisp and simmered to perfection.",
   "cuisine": "Chinese",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -72,5 +69,10 @@
     "mainIngredient": "beef",
     "descriptor": "Earthy Cinnamon",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

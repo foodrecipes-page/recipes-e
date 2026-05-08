@@ -59,7 +59,8 @@
     "Add the cooked pork, onion mixture, and frozen peas and carrots to the bowl and stir to combine.",
     "Cook the egg noodles according to package instructions and add to the bowl.",
     "Transfer the mixture to a 9x13 inch baking dish and cover with aluminum foil.",
-    "Bake for 30 minutes, then remove the foil and bake for an additional 10 minutes."
+    "Bake for 30 minutes, then remove the foil and bake for an additional 10 minutes.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -97,5 +98,9 @@
     "mainIngredient": "pork",
     "descriptor": "Easy Hearty",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

@@ -79,7 +79,6 @@
     "comfort-food",
     "european",
     "french",
-    "gluten-free",
     "low-carb",
     "vegetarian"
   ],
@@ -106,5 +105,9 @@
     "mainIngredient": "mushroom",
     "descriptor": "Earthy, shattering",
     "dishForm": "Terrine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A savory and flavorful Syrian dish featuring yellow curry paste and coconut cream, perfect for meal prep and onion and garlic free",
   "cuisine": "Syrian",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -64,7 +63,6 @@
   "difficulty": "medium",
   "tags": [
     "coconut-cream-based",
-    "dairy-free",
     "gluten-free",
     "meal-prep",
     "one-pan",
@@ -93,5 +91,9 @@
     "mainIngredient": "chicken",
     "descriptor": "exotic earthy",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

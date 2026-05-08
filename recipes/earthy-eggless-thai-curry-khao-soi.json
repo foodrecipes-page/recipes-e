@@ -2,11 +2,7 @@
   "title": "Earthy Eggless Thai Curry Khao Soi",
   "description": "Sour, bouncy-qq, sick-day Thai dish featuring beer, papillote, egg-free-friendly. Made with Central Thai flavors and copper pots for authenticity.",
   "cuisine": "Thai",
-  "diet": [
-    "vegetarian",
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -129,5 +125,11 @@
     "mainIngredient": "curry",
     "descriptor": "Earthy Eggless",
     "dishForm": "Khao Soi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

@@ -72,7 +72,8 @@
     "Pour in the saffron infusion and the low-fat chicken broth, then season with salt and pepper.",
     "Bring the mixture to a gentle boil, reduce heat to low, cover, and simmer for 15 minutes, stirring occasionally.",
     "Remove the lid, increase the heat to medium-high, and cook for an additional 5 minutes until the rice is tender and liquid is absorbed.",
-    "Let the paella rest for 5 minutes, then serve hot with a sprinkle of fresh parsley."
+    "Let the paella rest for 5 minutes, then serve hot with a sprinkle of fresh parsley.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 25,
   "cookTimeMin": 25,
@@ -109,5 +110,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Elegant",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

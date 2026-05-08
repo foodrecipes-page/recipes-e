@@ -3,8 +3,7 @@
   "description": "A plant-based friendly Greek dish featuring corn tortillas, baked in a Korean brass bowl, perfect for a weeknight dinner.",
   "cuisine": "Greek",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -101,5 +100,9 @@
     "mainIngredient": "corn",
     "descriptor": "earthy baked",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

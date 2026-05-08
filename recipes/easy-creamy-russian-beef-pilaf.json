@@ -62,7 +62,8 @@
     "Stir in the heavy cream and cook until the sauce has thickened slightly.",
     "Add the cooked rice to the skillet and stir to combine with the beef and sauce.",
     "Season the pilaf with salt and black pepper to taste.",
-    "Serve the pilaf hot, garnished with chopped fresh herbs if desired."
+    "Serve the pilaf hot, garnished with chopped fresh herbs if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -100,5 +101,9 @@
     "mainIngredient": "beef",
     "descriptor": "easy creamy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

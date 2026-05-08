@@ -3,7 +3,6 @@
   "description": "A satvik-friendly, full-english version of the classic Yorkshire mashup, incorporating garlicky flavor and wrapped in a corn-husk vessel for a satisfying meal. This recipe is a quick-fix, perfect for a busy day.",
   "cuisine": "Yorkshire",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -111,5 +110,9 @@
     "mainIngredient": "garlicky shaggy quick-fix",
     "descriptor": "extra-stemmed wrapped",
     "dishForm": "Full Yorkshire Mashup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

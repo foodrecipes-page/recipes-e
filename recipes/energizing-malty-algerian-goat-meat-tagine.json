@@ -101,11 +101,15 @@
     "mood": "post-workout",
     "technique": "katsuramuki-cut",
     "primaryIngredient": "goat meat",
-    "diet": "vegetarian",
+    "diet": "vegetarian-friendly",
     "region": null,
     "cuisineAdjective": "Algerian",
     "mainIngredient": "goat meat",
     "descriptor": "energizing malty",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

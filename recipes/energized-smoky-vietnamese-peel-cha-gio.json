@@ -64,7 +64,8 @@
     "Preheat a large skillet or cazuela over medium‑high heat and add a splash of oil, then place the rolled cha gio seam side down.",
     "Cook for 3‑4 minutes, turning occasionally, until the wrappers are golden brown and crispy.",
     "Remove from heat, squeeze fresh lime juice over the cha gio, and serve immediately.",
-    "For a smoky finish, finish each roll in a sheet of parchment over a gentle smoke source or add a few drops of smoked oil just before serving."
+    "For a smoky finish, finish each roll in a sheet of parchment over a gentle smoke source or add a few drops of smoked oil just before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -95,11 +96,16 @@
     "mood": "monsoon",
     "technique": "smoke-cold",
     "primaryIngredient": "mixed peel",
-    "diet": "kosher",
+    "diet": "kosher-friendly",
     "region": null,
     "cuisineAdjective": "Vietnamese",
     "mainIngredient": "Peel",
     "descriptor": "Energized Smoky",
     "dishForm": "Cha Gio"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "aligned-axes-diet"
+  ]
 }

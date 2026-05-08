@@ -3,8 +3,7 @@
   "description": "A sweet and juicy Saudi Arabian dish featuring cannellini beans, this exotic tagine is perfect for adventurous eaters, this low-glycemic-friendly recipe combines the flavors of the Middle East with the comfort of a hearty stew.",
   "cuisine": "Saudi Arabian",
   "diet": [
-    "low-glycemic",
-    "vegetarian"
+    "low-glycemic"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -65,7 +64,8 @@
     "Add the cannellini beans, diced tomatoes, chicken broth, salt, and black pepper, and stir to combine.",
     "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 25 minutes.",
     "Use a kitchen torch to flambe the dish, or simmer over low heat for an additional 5 minutes.",
-    "Serve the tagine hot, garnished with chopped fresh parsley or cilantro, if desired."
+    "Serve the tagine hot, garnished with chopped fresh parsley or cilantro, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -77,8 +77,7 @@
     "hearty-stew",
     "low-glycemic",
     "middle-eastern",
-    "one-pot",
-    "vegetarian"
+    "one-pot"
   ],
   "nutrition": {
     "calories": 420,
@@ -103,5 +102,10 @@
     "mainIngredient": "cannellini beans",
     "descriptor": "Exotic Spicy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

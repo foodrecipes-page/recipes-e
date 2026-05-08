@@ -3,8 +3,7 @@
   "description": "A quick-fix Thai dish featuring porcini mushrooms and a tagine-cooked twist, this exotic pad thai is low in calories and packed with flavor.",
   "cuisine": "Thai",
   "diet": [
-    "low-calorie",
-    "vegetarian"
+    "low-calorie"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -74,8 +73,7 @@
     "low-calorie",
     "one-pan",
     "quick-fix",
-    "thai-inspired",
-    "vegetarian"
+    "thai-inspired"
   ],
   "nutrition": {
     "calories": 420,
@@ -100,5 +98,9 @@
     "mainIngredient": "porcini",
     "descriptor": "Exotic Crisp",
     "dishForm": "Pad Thai"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "Funky, flaky, and energizing, this Thai dish from Isan is a perfect way to spice up your meal. The combination of gherkin relish and low-glycemic-friendly ingredients will keep you going all day.",
   "cuisine": "Thai",
   "diet": [
-    "gluten-free",
     "low-carb",
     "paleo"
   ],
@@ -110,5 +109,9 @@
     "mainIngredient": "Meat",
     "descriptor": "Energizing",
     "dishForm": "Larb"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

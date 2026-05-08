@@ -2,9 +2,7 @@
   "title": "Exotic Dutch Morning Glory Tagine",
   "description": "A tangy and springy Dutch dish featuring morning glory pak bung, deep fry tod, and halal friendly ingredients, all cooked in a traditional tagine pot. This festive dish is perfect for special occasions.",
   "cuisine": "Dutch",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -96,5 +94,9 @@
     "mainIngredient": "morning glory",
     "descriptor": "exotic springy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

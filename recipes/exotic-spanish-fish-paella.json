@@ -3,7 +3,6 @@
   "description": "A flavorful and vibrant Spanish dish featuring tahini and spherified egg yolk, perfect for a romantic date night. This paella is not only delicious, but also anti-inflammatory-friendly and packed with nutrients.",
   "cuisine": "Spanish",
   "diet": [
-    "Vegetarian",
     "Vegan-friendly",
     "Gluten-free"
   ],
@@ -114,5 +113,9 @@
     "mainIngredient": "fish",
     "descriptor": "Exotic",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

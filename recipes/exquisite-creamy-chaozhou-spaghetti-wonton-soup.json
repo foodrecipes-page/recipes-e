@@ -2,9 +2,7 @@
   "title": "Exquisite Creamy Chaozhou Spaghetti Wonton Soup",
   "description": "A fatty and creamy Chaozhou dish featuring spaghetti and wontons, perfect for a sick day, and is halal-friendly.",
   "cuisine": "Chinese",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -100,5 +98,9 @@
     "mainIngredient": "spaghetti",
     "descriptor": "Exquisite Creamy",
     "dishForm": "Wonton Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

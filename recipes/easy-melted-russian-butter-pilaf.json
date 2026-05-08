@@ -60,7 +60,8 @@
     "Cover the saucepan with a piece of parchment paper, creating a papillote, and transfer it to the preheated oven.",
     "Bake for 20 minutes or until the liquid is absorbed and the rice is cooked.",
     "Remove the saucepan from the oven and sprinkle the chopped parsley on top.",
-    "Serve hot and enjoy."
+    "Serve hot and enjoy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -98,5 +99,9 @@
     "mainIngredient": "butter",
     "descriptor": "Easy Melted",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

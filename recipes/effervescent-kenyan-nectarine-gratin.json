@@ -3,8 +3,7 @@
   "description": "A sweet and fluffy hangover cure featuring nectarines, dashi-extract and a low-fat twist.",
   "cuisine": "kenyan",
   "diet": [
-    "low-fat",
-    "vegetarian"
+    "low-fat"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -94,5 +93,9 @@
     "mainIngredient": "nectarine",
     "descriptor": "Effervescent",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

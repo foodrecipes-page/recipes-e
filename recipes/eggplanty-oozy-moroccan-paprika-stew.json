@@ -42,7 +42,8 @@
     "Stir in en-croute bread cubes and tomato paste, mixing well to combine.",
     "Pour in chicken or vegetable broth, add lemon juice, and stir to mix evenly. Bring to a simmer.",
     "Reduce heat to low, cover pan with lid, and bake in the oven for 30 minutes.",
-    "Serve hot as a side dish or over rice."
+    "Serve hot as a side dish or over rice.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 25,
   "cookTimeMin": 30,
@@ -78,5 +79,9 @@
     "mainIngredient": "Paprika",
     "descriptor": "Eggplanty",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

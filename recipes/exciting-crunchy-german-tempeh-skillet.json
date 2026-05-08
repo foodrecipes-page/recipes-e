@@ -60,7 +60,8 @@
     "5. Drizzle a little water if the mixture starts to stick, but keep the dish mostly dry to preserve crunch.",
     "6. Sprinkle the red chili flakes and salt to taste, stirring to combine.",
     "7. Transfer the skillet to the oven preheated at 400°F (200°C) and bake for 8 minutes to finish the crunch and dehydrate the edges.",
-    "8. Remove from oven, sprinkle with sesame seeds, and serve hot straight from the skillet."
+    "8. Remove from oven, sprinkle with sesame seeds, and serve hot straight from the skillet.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -92,11 +93,16 @@
     "mood": "indulgent",
     "technique": "dehydrate",
     "primaryIngredient": "dark soy sauce",
-    "diet": "keto",
+    "diet": "keto-friendly",
     "region": null,
     "cuisineAdjective": "German",
     "mainIngredient": "tempeh",
     "descriptor": "Exciting Crunchy",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid",
+    "aligned-axes-diet"
+  ]
 }

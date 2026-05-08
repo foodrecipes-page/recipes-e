@@ -4,7 +4,6 @@
   "cuisine": "Mediterranean",
   "diet": [
     "vegetarian",
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -78,7 +77,6 @@
     "mediterranean",
     "stew",
     "butternut-squash",
-    "vegan",
     "gluten-free"
   ],
   "nutrition": {
@@ -104,5 +102,9 @@
     "mainIngredient": "butternut squash",
     "descriptor": "earthy creamy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

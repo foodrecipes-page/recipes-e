@@ -3,8 +3,6 @@
   "description": "A flavorful and fresh dish featuring tender chicken in aji amarillo pepper sauce, wrapped in a crunchy ti-leaf.",
   "cuisine": "Peruvian",
   "diet": [
-    "vegetarian",
-    "vegan",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -100,5 +98,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Elegant Shaggy Aji-De-Gallina",
     "dishForm": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

@@ -54,7 +54,6 @@
   "tags": [
     "aerated",
     "black-treacle",
-    "dairy-free",
     "glazed"
   ],
   "nutrition": {
@@ -74,11 +73,16 @@
     "mood": "brunch-mood",
     "technique": "lacquer-glaze",
     "primaryIngredient": "black treacle",
-    "diet": "low-carb",
+    "diet": "none",
     "region": null,
     "cuisineAdjective": "Aerated",
     "mainIngredient": "Black Treacle",
     "descriptor": "Energetic Glazed",
     "dishForm": "Biscuit"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free",
+    "aligned-axes-diet"
+  ]
 }

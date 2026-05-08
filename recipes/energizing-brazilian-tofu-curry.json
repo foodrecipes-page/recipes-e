@@ -2,9 +2,7 @@
   "title": "Energizing Brazilian Tofu Curry",
   "description": "A funky, juicy Brazilian-inspired tofu curry with massaman paste and a burst of yuzu citrus, perfect for meal-prep.",
   "cuisine": "Brazilian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -72,8 +70,7 @@
     "curry",
     "meal-prep",
     "quick",
-    "tofu",
-    "vegan"
+    "tofu"
   ],
   "nutrition": {
     "calories": 940,
@@ -98,5 +95,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Energizing",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

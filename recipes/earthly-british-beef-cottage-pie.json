@@ -63,7 +63,8 @@
     "Transfer the mixture to a tagine pot or a 9x13 inch baking dish.",
     "Spread the mashed potato over the top of the mixture, and sprinkle with shredded cheddar cheese.",
     "Dot the top of the potato with butter.",
-    "Bake the cottage pie in the preheated oven for 25 minutes, or until the potato is golden brown and the filling is hot and bubbly."
+    "Bake the cottage pie in the preheated oven for 25 minutes, or until the potato is golden brown and the filling is hot and bubbly.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -100,5 +101,9 @@
     "mainIngredient": "beef",
     "descriptor": "earthy nutty",
     "dishForm": "Cottage Pie"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

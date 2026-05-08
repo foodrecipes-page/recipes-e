@@ -58,7 +58,8 @@
     "Cover the pot and transfer to the oven, where it will cook at 300 degrees Fahrenheit.",
     "Cook for 2 1/2 hours, or until the lamb is tender.",
     "While the tagine is cooking, heat about 1/2 inch of oil in a skillet over medium-high heat for the agemono-deep-fry touch.",
-    "When the oil is hot, add a few pieces of the cooked lamb to the skillet and fry until crispy, about 2-3 minutes per side."
+    "When the oil is hot, add a few pieces of the cooked lamb to the skillet and fry until crispy, about 2-3 minutes per side.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 150,
@@ -96,5 +97,9 @@
     "mainIngredient": "lamb",
     "descriptor": "exotic tender",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

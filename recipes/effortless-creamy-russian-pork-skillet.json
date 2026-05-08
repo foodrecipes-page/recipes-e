@@ -63,7 +63,9 @@
     "Pour in the low-fat sour cream and stir until the mixture is creamy and coats the pork, about 2 minutes.",
     "Fold in the sliced pickles and chopped dill, cooking for another minute to heat through.",
     "Serve hot with a side of steamed greens or a fresh salad.",
-    "Enjoy your low-calorie, creamy Russian pork skillet!"
+    "Enjoy your low-calorie, creamy Russian pork skillet!",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -101,5 +103,10 @@
     "mainIngredient": "Pork",
     "descriptor": "Effortless Creamy",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

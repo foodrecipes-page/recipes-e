@@ -2,9 +2,7 @@
   "title": "Easy Garlicky British Cottage Cheese Full English Breakfast",
   "description": "A garlicky, cheesy, and satisfying British-inspired breakfast dish featuring cottage cheese, perfect for a midnight craving. This kosher-friendly recipe is a twist on the classic Full English Breakfast.",
   "cuisine": "British",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -102,5 +100,10 @@
     "mainIngredient": "cottage cheese",
     "descriptor": "Easy Garlicky",
     "dishForm": "Full English Breakfast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-kosher",
+    "removed-diet-kosher"
+  ]
 }

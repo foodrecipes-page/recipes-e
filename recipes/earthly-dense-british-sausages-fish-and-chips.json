@@ -3,8 +3,7 @@
   "description": "A funky, dense, cozy British dish featuring sausages, leaf-wrap-steam, and a twist on traditional fish and chips, all prepared in a tajine clay vessel.",
   "cuisine": "British",
   "diet": [
-    "jain-friendly",
-    "vegetarian"
+    "jain-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -69,7 +68,6 @@
     "comfort-food",
     "jain-friendly",
     "one-pan",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -95,5 +93,9 @@
     "mainIngredient": "sausages",
     "descriptor": "Earthy Dense",
     "dishForm": "Fish And Chips"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

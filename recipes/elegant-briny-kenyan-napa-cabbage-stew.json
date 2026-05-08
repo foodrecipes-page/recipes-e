@@ -67,7 +67,8 @@
     "Lay a banana leaf flat on a work surface and place one quarter of the cabbage and chicken mixture in the center of the leaf.",
     "Fold the banana leaf over the filling to form a tight packet and repeat with the remaining ingredients.",
     "Place the packets in a large baking dish and bake for 30 minutes.",
-    "Serve the stew hot, garnished with chopped fresh cilantro if desired."
+    "Serve the stew hot, garnished with chopped fresh cilantro if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -105,5 +106,9 @@
     "mainIngredient": "Napa Cabbage",
     "descriptor": "Elegant Briny",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

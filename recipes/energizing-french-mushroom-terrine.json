@@ -3,8 +3,7 @@
   "description": "A malty and glassy-jelly French dish featuring mushrooms, this terrine is pressure-cooked to perfection and is ayurvedic-sattvic-friendly, providing an energizing start to your day.",
   "cuisine": "French",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -70,12 +69,11 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
-  "totalTimeMin": 60,
+  "totalTimeMin": 35,
   "servings": 6,
   "difficulty": "medium",
   "tags": [
     "french-cuisine",
-    "gluten-free",
     "healthy-lunch",
     "mushroom-recipes",
     "pressure-cooker",
@@ -104,5 +102,10 @@
     "mainIngredient": "mushrooms",
     "descriptor": "Energizing Malty",
     "dishForm": "Terrine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "recomputed-totalTime"
+  ]
 }

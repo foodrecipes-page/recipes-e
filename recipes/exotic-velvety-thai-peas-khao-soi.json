@@ -2,10 +2,7 @@
   "title": "Exotic Velvety Thai Peas Khao Soi",
   "description": "A jammy and velvety Thai dish featuring peas and coconut cream, this recipe is perfect for meal prep and can be served raw or cooked. It is a unique twist on traditional Khao Soi.",
   "cuisine": "Thai",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -75,12 +72,10 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "meal-prep",
     "one-pot",
     "raw-friendly",
-    "thai-cuisine",
-    "vegetarian"
+    "thai-cuisine"
   ],
   "nutrition": {
     "calories": 420,
@@ -105,5 +100,10 @@
     "mainIngredient": "peas",
     "descriptor": "exotic velvety",
     "dishForm": "Khao Soi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

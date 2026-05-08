@@ -3,8 +3,7 @@
   "description": "A sour, juicy, kid-friendly Ethiopian dessert featuring vanilla coconut custard and steamed mushimono, dairy-free and easy to make.",
   "cuisine": "Ethiopian",
   "diet": [
-    "vegetarian",
-    "dairy-free"
+    "vegetarian"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -78,7 +77,6 @@
   "difficulty": "easy",
   "tags": [
     "african",
-    "dairy-free",
     "dessert",
     "kid-friendly",
     "one-pot",
@@ -107,5 +105,9 @@
     "mainIngredient": "tomato",
     "descriptor": "Enticing",
     "dishForm": "Custard"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

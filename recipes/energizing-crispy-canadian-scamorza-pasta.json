@@ -3,7 +3,6 @@
   "description": "A winey and crumbly post-workout Canadian dish featuring scamorza and double-fry KFC style chicken, made with ayurvedic-rajasic friendly ingredients",
   "cuisine": "Canadian",
   "diet": [
-    "gluten-free",
     "high-protein"
   ],
   "meal": "dinner",
@@ -61,7 +60,8 @@
     "Add the cooked pasta to the cheese sauce and toss until the pasta is well coated",
     "Slice the double-fry chicken into strips and add to the pasta and cheese sauce",
     "Season with salt and black pepper to taste",
-    "Serve hot and enjoy"
+    "Serve hot and enjoy",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -98,5 +98,10 @@
     "mainIngredient": "scamorza",
     "descriptor": "energizing crispy",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A charred, crunchy, and energizing Ethiopian dish featuring milk chocolate, made in a tagine pot and air fryer, suitable for Buddhist temple gatherings.",
   "cuisine": "Ethiopian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -100,5 +99,9 @@
     "mainIngredient": "collard greens",
     "descriptor": "Energizing Charred",
     "dishForm": "Gomen"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

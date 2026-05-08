@@ -3,7 +3,6 @@
   "description": "A comforting and earthy Vietnamese dish featuring beef kidney, whisked with Mediterranean-friendly flavors. This stew is perfect for a cold winter's night.",
   "cuisine": "vietnamese",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -101,5 +100,9 @@
     "mainIngredient": "beef kidney",
     "descriptor": "earthy crumbly",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

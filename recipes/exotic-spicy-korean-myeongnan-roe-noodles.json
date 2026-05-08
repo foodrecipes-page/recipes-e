@@ -2,10 +2,7 @@
   "title": "Exotic Spicy Korean Myeongnan-roe Noodles",
   "description": "A spicy and crumbly Korean dish featuring myeongnan-roe, perfect for a weeknight dinner, this recipe is also ayurvedic-rajasic-friendly and cooked to perfection in a copper pot.",
   "cuisine": "Korean",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -62,11 +59,9 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "korean",
     "one-pan",
     "spicy",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -92,5 +87,10 @@
     "mainIngredient": "myeongnan-roe",
     "descriptor": "exotic spicy",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

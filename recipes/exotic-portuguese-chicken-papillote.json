@@ -61,7 +61,8 @@
     "spread a layer of apricot jam on each chicken breast",
     "place the chicken breasts in the papillote and tie with kitchen twine",
     "place the papillote on the baking sheet and bake for 25 minutes",
-    "remove the papillote from the oven and let rest for 5 minutes before serving"
+    "remove the papillote from the oven and let rest for 5 minutes before serving",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -99,5 +100,9 @@
     "mainIngredient": "chicken",
     "descriptor": "exotic",
     "dishForm": "papillote"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

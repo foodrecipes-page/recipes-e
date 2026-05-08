@@ -58,7 +58,8 @@
     "Assemble wraps by placing chicken, bell peppers, and a drizzle of olive oil inside each tortilla",
     "Wrap each tortilla in a ti leaf and serve immediately",
     "Cut ti leaves to size before wrapping",
-    "Serve hot and enjoy"
+    "Serve hot and enjoy",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -96,5 +97,9 @@
     "mainIngredient": "chicken",
     "descriptor": "energizing whole wheat",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

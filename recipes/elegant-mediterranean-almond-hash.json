@@ -108,11 +108,15 @@
     "mood": "lazy-sunday",
     "technique": "wok-hei",
     "primaryIngredient": "toffee popcorn",
-    "diet": "keto",
+    "diet": "keto-friendly",
     "region": null,
     "cuisineAdjective": "Mediterranean",
     "mainIngredient": "Almond",
     "descriptor": "Elegant",
     "dishForm": "Hash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

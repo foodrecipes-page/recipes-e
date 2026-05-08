@@ -3,7 +3,6 @@
   "description": "A light and airy Kenyan fish bread infused with the savory flavors of aekjeot and perfect for post-workout snacking or as a side dish.",
   "cuisine": "kenyan",
   "diet": [
-    "gluten-free",
     "pescatarian"
   ],
   "meal": "snack",
@@ -59,7 +58,6 @@
   "servings": 8,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "kenyan",
     "one-pan",
@@ -89,5 +87,9 @@
     "mainIngredient": "fish",
     "descriptor": "Energizing Yeast",
     "dishForm": "Bread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

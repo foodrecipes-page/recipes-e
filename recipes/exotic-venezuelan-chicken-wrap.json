@@ -60,7 +60,8 @@
     "Add the chicken to the cedar plank and cook for 5 minutes per side.",
     "Steam the lettuce leaves by wrapping them in a damp paper towel and microwaving for 20 seconds.",
     "Assemble the wraps by placing a cooked chicken strip on a lettuce leaf, topping with cheese and basil.",
-    "Serve immediately and enjoy."
+    "Serve immediately and enjoy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -98,5 +99,9 @@
     "mainIngredient": "chicken",
     "descriptor": "exotic earthy",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

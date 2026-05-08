@@ -3,10 +3,8 @@
   "description": "a winey, crumbly, energizing brazilian dish featuring anchovy fillet, bonito-shave, high-protein-friendly",
   "cuisine": "brazilian",
   "diet": [
-    "gluten-free",
     "high-protein",
     "seafood",
-    "vegetarian",
     "low-carb"
   ],
   "meal": "dinner",
@@ -79,7 +77,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "one-pan",
     "seafood",
@@ -108,5 +105,10 @@
     "mainIngredient": "anchovy",
     "descriptor": "energizing",
     "dishForm": "Burger"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Easy Going Spanish Spaghetti Pasta",
   "description": "A lazy Sunday Spanish dish featuring spaghetti, simmered in a rich and resinous tomato sauce, perfect for a gluten-free friendly meal.",
   "cuisine": "Spanish",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -58,7 +56,8 @@
     "Reduce the heat to low and let the sauce simmer for 20 minutes, stirring occasionally, until the sauce has thickened and reduced slightly.",
     "When the spaghetti is done cooking, drain it and add it to the skillet with the tomato sauce, tossing to combine.",
     "Transfer the spaghetti to a serving dish and top with grated manchego cheese.",
-    "Serve the spaghetti hot, garnished with additional smoked paprika if desired."
+    "Serve the spaghetti hot, garnished with additional smoked paprika if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -66,7 +65,6 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "gluten-free",
     "lazy-sunday",
     "one-pot",
     "pasta",
@@ -96,5 +94,10 @@
     "mainIngredient": "spaghetti",
     "descriptor": "easy going",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

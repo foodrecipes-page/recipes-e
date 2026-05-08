@@ -36,7 +36,7 @@
     {
       "name": "Olive Oil",
       "amount": "3 tbsp",
-      "notes": "For saut\u00e9ing vegetables and potatoes"
+      "notes": "For sautéing vegetables and potatoes"
     },
     {
       "name": "Water or Chicken Stock",
@@ -50,12 +50,13 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 400\u00b0F (200\u00b0C).",
-    "Dice the potatoes and saut\u00e9 them in olive oil with chopped onions until they turn golden brown.",
+    "Preheat your oven to 400°F (200°C).",
+    "Dice the potatoes and sauté them in olive oil with chopped onions until they turn golden brown.",
     "Add minced garlic, paprika, and red pepper flakes to the mixture. Stir well for a minute or two.",
     "Pour water or chicken stock into the pot, bring it to a boil, then reduce heat to low, cover the pot, and simmer until the potatoes are tender (about 20 minutes).",
     "Add salt if desired, mix well with the vegetables, and cook for an additional 5-7 minutes.",
-    "Once done, remove from heat. The mixture should have a creamy, dense texture. Serve hot."
+    "Once done, remove from heat. The mixture should have a creamy, dense texture. Serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -93,5 +94,9 @@
     "mainIngredient": "Potato",
     "descriptor": "Spicy Dense Energizing",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

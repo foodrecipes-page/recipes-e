@@ -3,8 +3,7 @@
   "description": "A citrusy and snappy Indian dish that combines the flavors of chicken, spices, and citrus, cooked in a quick-fix manner using a pandan leaf wrap. This recipe is low in sodium and perfect for a weeknight meal.",
   "cuisine": "indian",
   "diet": [
-    "low-sodium",
-    "pescatarian"
+    "low-sodium"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -108,5 +107,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Epicenter of Flavors",
     "dishForm": "Vindaloo"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

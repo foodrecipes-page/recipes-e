@@ -3,7 +3,6 @@
   "description": "a vietnamese-inspired dish featuring morbier cheese, whisked eggs, and flavorful spices, perfect for a snack or light meal",
   "cuisine": "vietnamese",
   "diet": [
-    "vegetarian",
     "jain"
   ],
   "meal": "snack",
@@ -138,5 +137,9 @@
     "mainIngredient": "Morbier",
     "descriptor": "energizing and buttery",
     "dishForm": "Pho"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

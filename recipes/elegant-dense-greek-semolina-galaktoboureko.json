@@ -3,7 +3,6 @@
   "description": "A nostalgic Greek dish featuring semolina custard, wrapped in flaky phyllo and flavored with brandy, this galaktoboureko is a dense and decadent treat. It is also dairy-free-friendly, making it accessible to those with dietary restrictions.",
   "cuisine": "Greek",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "dessert",
@@ -69,7 +68,6 @@
   "difficulty": "hard",
   "tags": [
     "brandy-infused",
-    "dairy-free",
     "greek-desserts",
     "phyllo-dough",
     "semolina-pudding",
@@ -98,5 +96,9 @@
     "mainIngredient": "semolina",
     "descriptor": "Elegant Dense",
     "dishForm": "Galaktoboureko"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

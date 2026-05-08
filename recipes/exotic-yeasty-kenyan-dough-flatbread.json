@@ -3,8 +3,7 @@
   "description": "This traditional Kenyan flatbread is made with a long-fermentation dough and features tamarind pulp, making it a unique and delicious crowd-pleaser.",
   "cuisine": "Kenyan",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -73,7 +72,6 @@
     "kenyan",
     "long-fermentation",
     "tamarind",
-    "vegan",
     "vegetarian",
     "yeasty"
   ],
@@ -100,5 +98,9 @@
     "mainIngredient": "dough",
     "descriptor": "exotic yeasty",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

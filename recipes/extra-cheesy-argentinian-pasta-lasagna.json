@@ -77,7 +77,8 @@
     "Repeat the layering process two more times, ending with a layer of cheese on top.",
     "Cover the dish with aluminum foil and bake for 30 minutes.",
     "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
-    "Remove from the oven and let rest for 10-15 minutes before serving."
+    "Remove from the oven and let rest for 10-15 minutes before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -115,5 +116,9 @@
     "mainIngredient": "pasta",
     "descriptor": "Extra Cheesy",
     "dishForm": "Lasagna"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

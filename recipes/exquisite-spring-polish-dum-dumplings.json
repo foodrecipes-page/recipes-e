@@ -3,8 +3,7 @@
   "description": "A tangy and springy Polish dish featuring lemon zest and Mediterranean-friendly ingredients, perfect for a date night.",
   "cuisine": "Polish",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -64,7 +63,6 @@
   "difficulty": "medium",
   "tags": [
     "date-night",
-    "gluten-free",
     "polish-cuisine",
     "spring-recipes",
     "vegetarian-friendly"
@@ -92,5 +90,9 @@
     "mainIngredient": "dum",
     "descriptor": "Exquisite Spring",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

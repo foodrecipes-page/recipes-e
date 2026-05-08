@@ -3,8 +3,7 @@
   "description": "A pungent and chewy post-workout Greek dish featuring soya milk, cooked in a clay pot, and sugar-free friendly, formed into dolmades.",
   "cuisine": "Greek",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -89,5 +88,9 @@
     "mainIngredient": "soya",
     "descriptor": "Energetic Chewy",
     "dishForm": "Dolmades"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

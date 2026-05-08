@@ -2,9 +2,7 @@
   "title": "Exquisite Chinese Teque Os Spring Rolls",
   "description": "A fresh and springy Cantonese dish featuring pre-fried teque os, perfect for a pescatarian-friendly meal. This show-off dish is sure to impress your guests.",
   "cuisine": "Chinese",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -65,7 +63,6 @@
   "tags": [
     "asian-fusion",
     "chinese-cuisine",
-    "pescatarian",
     "seafood",
     "spring-rolls"
   ],
@@ -92,5 +89,9 @@
     "mainIngredient": "teque os",
     "descriptor": "Exquisite",
     "dishForm": "Spring-Rolls"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

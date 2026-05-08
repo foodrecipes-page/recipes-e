@@ -44,7 +44,8 @@
     "Add garlic, onion, bell pepper, and thyme. Stir-fry for another 2-3 minutes until vegetables are slightly softened.",
     "Pour water or chicken broth into the pan. Bring to a boil.",
     "Reduce heat and simmer for about 5 minutes to caramelize the mixture.",
-    "Stir in sesame seeds, ensuring they cook evenly on all sides without burning."
+    "Stir in sesame seeds, ensuring they cook evenly on all sides without burning.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -81,5 +82,9 @@
     "mainIngredient": "cumin",
     "descriptor": "Energizing Gooey Smoky",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

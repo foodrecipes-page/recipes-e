@@ -3,8 +3,7 @@
   "description": "This low-sodium-friendly meal-prep Filipino dish features earthy flavors with a touch of Chinese sesame sauce and is perfect for breakfast or lunch.",
   "cuisine": "Filipino with Chinese influence",
   "diet": [
-    "low-sodium",
-    "vegetarian"
+    "low-sodium"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -99,5 +98,9 @@
     "mainIngredient": "rice",
     "descriptor": "Earthy Fluffy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

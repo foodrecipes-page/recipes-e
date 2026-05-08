@@ -2,10 +2,7 @@
   "title": "Exquisite Vietnamese Sevaiiya Noodles",
   "description": "Salty, chewy, indulgent Vietnamese dish featuring sevaiiya, en-croute, dash-friendly, this recipe brings together the best of Vietnamese flavors in a single bowl of noodles.",
   "cuisine": "Vietnamese",
-  "diet": [
-    "gluten-free",
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -72,7 +69,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "grilled-pork",
     "noodle-dishes",
     "vegetarian-option",
@@ -101,5 +97,10 @@
     "mainIngredient": "sevaiiya",
     "descriptor": "exquisite chewy",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

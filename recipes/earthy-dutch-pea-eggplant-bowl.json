@@ -103,11 +103,15 @@
     "mood": "kid-friendly",
     "technique": "stone-bowl-dolsot",
     "primaryIngredient": "pea-eggplant",
-    "diet": "keto",
+    "diet": "keto-friendly",
     "region": null,
     "cuisineAdjective": "Dutch",
     "mainIngredient": "pea-eggplant",
     "descriptor": "Earthy",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

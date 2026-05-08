@@ -77,8 +77,7 @@
     "cocoa",
     "coconut",
     "comfort-food",
-    "energizing",
-    "vegan"
+    "energizing"
   ],
   "nutrition": {
     "calories": 320,
@@ -103,5 +102,9 @@
     "mainIngredient": "cocoa",
     "descriptor": "energizing",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

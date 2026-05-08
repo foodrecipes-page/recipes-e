@@ -50,7 +50,8 @@
     "Roll out the empanada dough and cut into circles.",
     "Spoon the chicken mixture onto one half of each dough circle.",
     "Fold the dough in half and press the edges to seal.",
-    "Brush the tops with a little score-fat and bake for 20 minutes."
+    "Brush the tops with a little score-fat and bake for 20 minutes.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -88,5 +89,9 @@
     "mainIngredient": "chicken",
     "descriptor": "exotic flaky",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

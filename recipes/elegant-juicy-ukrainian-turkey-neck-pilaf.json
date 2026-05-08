@@ -62,7 +62,8 @@
     "bring the mixture to a boil, then reduce the heat to low, cover, and simmer for 20-25 minutes, or until the rice is cooked and the turkey is tender.",
     "stir in the dried thyme and white wine vinegar (if using).",
     "season the pilaf with salt and pepper to taste.",
-    "serve hot, garnished with chopped fresh herbs if desired."
+    "serve hot, garnished with chopped fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -101,5 +102,9 @@
     "mainIngredient": "turkey neck",
     "descriptor": "Elegant Juicy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

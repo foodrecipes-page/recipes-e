@@ -87,8 +87,7 @@
     "high-protein",
     "kadhai",
     "low-carb",
-    "one-pan",
-    "vegan"
+    "one-pan"
   ],
   "nutrition": {
     "calories": 520,
@@ -113,5 +112,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Energizing",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

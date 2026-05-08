@@ -77,7 +77,9 @@
     "Remove the pan from the heat and let it rest, covered, for 5 minutes before serving.",
     "To serve, remove the lid and sprinkle with chopped fresh herbs, such as parsley or chives, if desired.",
     "Garnish with additional yuzu-cured bacon bits, if desired.",
-    "Serve immediately, and enjoy!"
+    "Serve immediately, and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 25,
@@ -114,5 +116,10 @@
     "mainIngredient": "Pork",
     "descriptor": "Epicenter Peppered",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

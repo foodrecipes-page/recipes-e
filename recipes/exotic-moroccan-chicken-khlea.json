@@ -54,7 +54,8 @@
     "Pour the chicken broth and coconut cream into the pot, making sure the chicken is covered.",
     "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 25 minutes.",
     "Check the chicken for doneness and cook for an additional 10 minutes if necessary.",
-    "Serve the chicken khlea hot, garnished with fresh herbs if desired."
+    "Serve the chicken khlea hot, garnished with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 40,
@@ -92,5 +93,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Exotic Energizing",
     "dishForm": "Khlea"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

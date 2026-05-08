@@ -67,7 +67,6 @@
   "difficulty": "easy",
   "tags": [
     "diabetic-friendly",
-    "gluten-free",
     "herbal",
     "kenyan",
     "one-pan",
@@ -97,5 +96,9 @@
     "mainIngredient": "herbal",
     "descriptor": "energizing",
     "dishForm": "toast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

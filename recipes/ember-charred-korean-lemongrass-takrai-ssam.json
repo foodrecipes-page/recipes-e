@@ -2,9 +2,7 @@
   "title": "Ember Charred Korean Lemongrass Takrai Ssam",
   "description": "Charred scallop shells hold a creamy lemongrass and takrai mixture, perfect for an indulgent vegetarian ssam experience.",
   "cuisine": "Korean",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -78,8 +76,7 @@
     "grilled",
     "korean",
     "seafood-free",
-    "ssam",
-    "vegetarian"
+    "ssam"
   ],
   "nutrition": {
     "calories": 300,
@@ -104,5 +101,9 @@
     "mainIngredient": "lemongrass takrai",
     "descriptor": "Ember Charred",
     "dishForm": "Ssam"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

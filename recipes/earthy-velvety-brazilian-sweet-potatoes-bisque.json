@@ -3,7 +3,6 @@
   "description": "A rich and creamy Brazilian-inspired sweet potato soup, featuring Jamaican curry powder and a dairy-free friendly option. Perfect for a romantic dinner or a cozy night in.",
   "cuisine": "Brazilian",
   "diet": [
-    "vegan",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -21,7 +20,7 @@
     {
       "name": "Garlic (3 cloves)",
       "amount": "",
-      "notes": "Mince the garlic before saut\u00e9ing"
+      "notes": "Mince the garlic before sautéing"
     },
     {
       "name": "Jamaican curry powder (1 tsp)",
@@ -55,8 +54,8 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 400\u00b0F (200\u00b0C). Pierce the sweet potatoes with a fork several times and bake for 45-60 minutes, or until tender when pierced.",
-    "Saut\u00e9 the onion and garlic in a large saucepan over medium heat until softened, about 5 minutes.",
+    "Preheat the oven to 400°F (200°C). Pierce the sweet potatoes with a fork several times and bake for 45-60 minutes, or until tender when pierced.",
+    "Sauté the onion and garlic in a large saucepan over medium heat until softened, about 5 minutes.",
     "Add the Jamaican curry powder and cook for 1-2 minutes, stirring constantly.",
     "Add the vegetable broth and bring the mixture to a boil.",
     "Transfer the roasted sweet potatoes to a blender or food processor with the curry-infused broth.",
@@ -75,8 +74,6 @@
     "sweet-potato",
     "bisque",
     "curry",
-    "vegan",
-    "dairy-free",
     "romantic"
   ],
   "nutrition": {
@@ -102,5 +99,10 @@
     "mainIngredient": "sweet potatoes",
     "descriptor": "earthy velvety",
     "dishForm": "Bisque"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-dairy-free"
+  ]
 }

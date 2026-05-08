@@ -2,9 +2,7 @@
   "title": "Earthily Smoky Venezuelan Plantain Stew",
   "description": "A smoky and tender stew featuring plantains, perfect for a sick day, made with unsalted butter and mantecare emulsification for a rich and creamy texture, and is vegan friendly.",
   "cuisine": "Venezuelan",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -99,5 +97,9 @@
     "mainIngredient": "plantains",
     "descriptor": "Earthily Smoky",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

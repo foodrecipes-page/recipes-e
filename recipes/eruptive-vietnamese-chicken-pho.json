@@ -3,8 +3,7 @@
   "description": "A fiery, smoky pho featuring tender chicken breast, aromatic herbs, and a fragrant, low-FODMAP broth that dazzles guests.",
   "cuisine": "Vietnamese",
   "diet": [
-    "fodmap-friendly",
-    "gluten-free"
+    "fodmap-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -116,5 +115,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Eruptive",
     "dishForm": "Pho"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

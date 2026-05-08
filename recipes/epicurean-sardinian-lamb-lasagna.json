@@ -3,8 +3,7 @@
   "description": "A rich and savory lasagna dish originating from the Italian island of Sardinia, featuring halal-friendly lamb and a unique blend of spices. It's the perfect comfort food for a lazy Sunday.",
   "cuisine": "Italian",
   "diet": [
-    "halal",
-    "gluten-free"
+    "halal"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -142,5 +141,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Epicurean",
     "dishForm": "Lasagna"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

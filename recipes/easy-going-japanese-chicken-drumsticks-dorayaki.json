@@ -2,9 +2,7 @@
   "title": "Easy Going Japanese Chicken Drumsticks Dorayaki",
   "description": "A briny and gooey Japanese dish from the Tohoku region featuring chicken drumsticks and steamed ingredients, perfect as a hangover cure, and can be adapted to be vegetarian friendly by substituting the chicken with a vegetarian alternative, the dish is formed into a dorayaki shape",
   "cuisine": "Japanese",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -50,7 +48,8 @@
     "Brush the glaze over the steamed chicken drumsticks.",
     "Form the chicken drumsticks into a dorayaki shape by placing two drumsticks together with a small amount of glaze in between.",
     "Serve the Easy Going Japanese Chicken Drumsticks Dorayaki hot.",
-    "Garnish with sliced green onions and grated daikon radish if desired."
+    "Garnish with sliced green onions and grated daikon radish if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -88,5 +87,10 @@
     "mainIngredient": "chicken drumsticks",
     "descriptor": "Easy Going",
     "dishForm": "Dorayaki"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

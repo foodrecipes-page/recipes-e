@@ -3,8 +3,7 @@
   "description": "Quick-fix German dish featuring roasted Padron peppers, slow-cooked in a savory sauce.",
   "cuisine": "german",
   "diet": [
-    "gluten-free",
-    "vegetarian"
+    "gluten-free"
   ],
   "meal": "snack",
   "ingredients": [
@@ -70,7 +69,8 @@
     "Stir to combine, then add the Padron peppers to the pot.",
     "Cover the pot with a lid and transfer it to the preheated oven.",
     "Bake for 25 minutes, until the peppers are tender and the sauce has thickened.",
-    "Serve the peppers hot, garnished with chopped fresh parsley if desired."
+    "Serve the peppers hot, garnished with chopped fresh parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -102,11 +102,17 @@
     "mood": "quick-fix",
     "technique": "slow-cook",
     "primaryIngredient": "padron peppers",
-    "diet": "nut-free",
+    "diet": "gluten-free",
     "region": null,
     "cuisineAdjective": "German",
     "mainIngredient": "pepper",
     "descriptor": "Easy Spring Roasted",
     "dishForm": "Braised"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp",
+    "aligned-axes-diet"
+  ]
 }

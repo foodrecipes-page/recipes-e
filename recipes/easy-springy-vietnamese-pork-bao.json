@@ -77,7 +77,8 @@
     "Fold the pastry in half to form a half-moon shape, pressing the edges to seal.",
     "Place the bao on a baking sheet lined with parchment paper, and brush the tops with a little water.",
     "Bake the bao in the preheated oven for 15-20 minutes, or until golden brown.",
-    "Serve warm, with additional cilantro and toasted breadcrumbs if desired."
+    "Serve warm, with additional cilantro and toasted breadcrumbs if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -113,5 +114,9 @@
     "mainIngredient": "pork",
     "descriptor": "easy-springy",
     "dishForm": "Bao"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

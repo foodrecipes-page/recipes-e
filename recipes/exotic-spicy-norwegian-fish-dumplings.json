@@ -59,7 +59,8 @@
     "Remove the dumplings from the pot with a slotted spoon and serve hot.",
     "Garnish with chopped green onions and serve with a side of steamed vegetables.",
     "Refrigerate or freeze any leftovers for later use.",
-    "Reheat the dumplings in the microwave or on the stovetop before serving."
+    "Reheat the dumplings in the microwave or on the stovetop before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -97,5 +98,9 @@
     "mainIngredient": "fish",
     "descriptor": "exotic spicy",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

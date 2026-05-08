@@ -79,7 +79,6 @@
   "difficulty": "medium",
   "tags": [
     "breakfast-option",
-    "gluten-free",
     "mediterranean",
     "one-pan",
     "snack",
@@ -109,5 +108,9 @@
     "mainIngredient": "chives",
     "descriptor": "Earthy Light",
     "dishForm": "Borek"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

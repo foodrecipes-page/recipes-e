@@ -4,7 +4,6 @@
   "cuisine": "British",
   "diet": [
     "low-carb",
-    "gluten-free",
     "keto"
   ],
   "meal": "dessert",
@@ -62,7 +61,8 @@
     "Remove the turkey mixture from the oven and let it cool for 5 minutes.",
     "Pour the tempered chocolate over the turkey mixture and smooth the top.",
     "Return the dish to the oven and bake for an additional 5-7 minutes or until the chocolate is set and the edges are golden brown.",
-    "Remove the dish from the oven and let it cool for 10 minutes before serving."
+    "Remove the dish from the oven and let it cool for 10 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -73,7 +73,6 @@
     "british",
     "chocolate",
     "date-night",
-    "gluten-free",
     "keto",
     "low-carb"
   ],
@@ -100,5 +99,10 @@
     "mainIngredient": "Turkey Mince",
     "descriptor": "Extraordinary Xanthan",
     "dishForm": "Chocolate Yorkshire Pudding"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

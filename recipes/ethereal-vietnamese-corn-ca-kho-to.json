@@ -93,11 +93,15 @@
     "mood": "light",
     "technique": "candy",
     "primaryIngredient": "corn flour",
-    "diet": "paleo",
+    "diet": "paleo-friendly",
     "region": null,
     "cuisineAdjective": "Vietnamese",
     "mainIngredient": "corn",
     "descriptor": "Ethereal",
     "dishForm": "Ca Kho To"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A fragrant, lowcalorie Malaysian curry bursting with the fresh, peppery bite of wild garlic leaves, simmered in a light coconut milk sauce.",
   "cuisine": "Malaysian",
   "diet": [
-    "vegan",
     "low-calorie"
   ],
   "meal": "dinner",
@@ -23,7 +22,7 @@
       "amount": "200ml"
     },
     {
-      "name": "Low\u2011sodium vegetable broth",
+      "name": "Low‑sodium vegetable broth",
       "amount": "150ml"
     },
     {
@@ -52,7 +51,7 @@
     },
     {
       "name": "Salt",
-      "amount": "\u00bd tsp"
+      "amount": "½ tsp"
     },
     {
       "name": "Fresh coriander leaves",
@@ -63,10 +62,10 @@
     "Wash and roughly chop the wild garlic leaves.",
     "Press tofu into a paper towel to remove excess moisture, then cut into cubes.",
     "In a small bowl whisk together coconut milk, vegetable broth, turmeric, cumin, lime juice, salt, and olive oil to make the curry base.",
-    "Heat a large skillet over medium heat and saut\u00e9 sliced shallots and chilies for 2 minutes until fragrant.",
-    "Add tofu cubes and brown lightly on all sides, about 4\u20135 minutes.",
+    "Heat a large skillet over medium heat and sauté sliced shallots and chilies for 2 minutes until fragrant.",
+    "Add tofu cubes and brown lightly on all sides, about 4–5 minutes.",
     "Pour the curry base into the pan, bringing to a gentle simmer.",
-    "Add the wild garlic leaves, cover, and cook for 8\u201310 minutes until the leaves wilt and flavors meld.",
+    "Add the wild garlic leaves, cover, and cook for 8–10 minutes until the leaves wilt and flavors meld.",
     "Stir in chopped coriander and adjust seasoning with extra salt or lime if desired.",
     "Serve hot over steamed jasmine rice or with a fresh cucumber salad.",
     "Garnish with extra coriander and a lime wedge if desired."
@@ -103,5 +102,9 @@
   "tags": [
     "malaysian",
     "dinner"
+  ],
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
   ]
 }

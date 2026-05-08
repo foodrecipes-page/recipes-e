@@ -3,8 +3,7 @@
   "description": "A creamy, rich lasagna featuring tender tempeh, rich eggplant, and fresh basil, all baked to perfection in a wood-fired oven.",
   "cuisine": "Italian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -104,5 +103,9 @@
     "mainIngredient": "Tempeh",
     "descriptor": "Eggplant Delicate",
     "dishForm": "Lasagna"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

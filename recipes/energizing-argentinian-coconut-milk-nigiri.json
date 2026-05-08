@@ -44,7 +44,6 @@
   "difficulty": "medium",
   "tags": [
     "argentinian",
-    "dairy-free",
     "high-protein",
     "low-carb",
     "one-pan",
@@ -74,5 +73,9 @@
     "mainIngredient": "coconut milk",
     "descriptor": "energizing",
     "dishForm": "Nigiri"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

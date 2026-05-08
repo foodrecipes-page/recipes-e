@@ -60,7 +60,8 @@
     "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
     "While the pilaf is cooking, poach the eggs in a separate saucepan of simmering water.",
     "To assemble the dish, place a portion of the pilaf on a plate and top with a poached egg.",
-    "Garnish with additional dried rose petals and mint, if desired."
+    "Garnish with additional dried rose petals and mint, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -98,5 +99,9 @@
     "mainIngredient": "fideo",
     "descriptor": "Elegant Poached",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

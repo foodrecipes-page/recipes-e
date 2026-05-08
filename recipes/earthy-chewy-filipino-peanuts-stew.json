@@ -77,7 +77,8 @@
     "6. Let the pressure release naturally for 5 minutes, then quick‑release any remaining pressure.",
     "7. Open the lid, stir, and simmer on low heat for 5 minutes if the sauce is too thin.",
     "8. Taste and adjust seasoning if needed. Serve hot, garnished with fresh cilantro.",
-    "9. Enjoy your post‑workout, protein‑rich stew!"
+    "9. Enjoy your post‑workout, protein‑rich stew!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -114,5 +115,9 @@
     "mainIngredient": "Peanuts",
     "descriptor": "Earthy Chewy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

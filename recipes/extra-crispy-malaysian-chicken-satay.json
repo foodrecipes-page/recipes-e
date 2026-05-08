@@ -75,7 +75,8 @@
     "Drain the chicken on paper towels and serve hot with additional peanut sauce for dipping.",
     "If using tofu, pan-fry until golden brown and crispy, about 3-5 minutes per side.",
     "Serve the chicken and tofu with a side of steamed vegetables or rice.",
-    "Garnish with fresh cilantro, mint, or basil leaves, if desired."
+    "Garnish with fresh cilantro, mint, or basil leaves, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -83,7 +84,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "low-fat-friendly",
     "one-pan",
@@ -113,5 +113,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Extra Crispy",
     "dishForm": "Satay"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

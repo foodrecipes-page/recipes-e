@@ -96,11 +96,15 @@
     "mood": "nostalgic",
     "technique": "deglaze-fond",
     "primaryIngredient": "prawns",
-    "diet": "nut-free",
+    "diet": "gluten-free",
     "region": "basque-french",
     "cuisineAdjective": "French",
     "mainIngredient": "prawns",
     "descriptor": "earthy molten",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

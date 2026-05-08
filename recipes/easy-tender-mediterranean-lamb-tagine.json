@@ -56,7 +56,8 @@
     "Cover the claypot with a lid and transfer to the preheated oven.",
     "Braise the lamb for 2 1/2 hours, or until tender.",
     "Remove the pot from the oven and stir in the cooked lardons.",
-    "Serve the lamb hot, garnished with fresh herbs if desired."
+    "Serve the lamb hot, garnished with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 150,
@@ -94,5 +95,9 @@
     "mainIngredient": "lamb",
     "descriptor": "easy tender",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

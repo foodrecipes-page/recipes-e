@@ -2,9 +2,7 @@
   "title": "Exotic Tender Chinese Grass Noodles",
   "description": "A delicious and adventurous Chinese dish featuring tender noodles and a savory sauce, made with a variety of ingredients including oil and deglaze-fond, finished with a dash of friendly seasoning.",
   "cuisine": "Chinese",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -69,8 +67,7 @@
     "asian-inspired",
     "one-pan",
     "quick-meal",
-    "stir-fry",
-    "vegetarian"
+    "stir-fry"
   ],
   "nutrition": {
     "calories": 420,
@@ -95,5 +92,9 @@
     "mainIngredient": "grass",
     "descriptor": "exotic tender",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

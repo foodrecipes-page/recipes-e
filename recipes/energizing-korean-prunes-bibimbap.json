@@ -2,11 +2,7 @@
   "title": "Energizing Korean Prunes Bibimbap",
   "description": "A delicious and energizing Korean dish featuring prunes and shio-cured pork, perfect for a quick breakfast or lunch.",
   "cuisine": "Korean",
-  "diet": [
-    "vegetarian",
-    "gluten-free",
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -120,5 +116,11 @@
     "mainIngredient": "prunes",
     "descriptor": "energizing",
     "dishForm": "Bibimbap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }
