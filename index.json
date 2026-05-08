@@ -4203,6 +4203,19 @@
     "shard": "e"
   },
   {
+    "slug": "exotic-sweet-uruguayan-candy-tart",
+    "title": "Uruguayan Sweet Tart",
+    "tags": [
+      "fancy",
+      "holiday-dessert",
+      "sweet-treats",
+      "weekend"
+    ],
+    "cuisine": "uruguayan",
+    "totalTimeMin": 65,
+    "shard": "e"
+  },
+  {
     "slug": "exotic-tender-algerian-chicken-tagine",
     "title": "Exotic Tender Algerian Chicken Tagine",
     "tags": [
