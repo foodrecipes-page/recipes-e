@@ -1,0 +1,99 @@
+{
+  "title": "Elegant Velvety Japanese Tofu Kaiseki Course",
+  "description": "A plant-based Japanese dish featuring velvety tofu, umami flavors, and freshly chopped parsley, inspired by the cuisine of Okinawa.",
+  "cuisine": "Japanese",
+  "diet": [
+    "plant-based",
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "freshly chopped"
+    },
+    {
+      "name": "kombu seaweed",
+      "amount": "2 sheets",
+      "notes": "dried"
+    },
+    {
+      "name": "shiro miso paste",
+      "amount": "2 tablespoons",
+      "notes": "white miso"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tablespoon",
+      "notes": "sweet Japanese cooking wine"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": "Japanese rice vinegar"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": "for serving"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Start by rehydrating the kombu seaweed sheets in 2 cups of water for 30 minutes.",
+    "In a blender or food processor, blend the rehydrated kombu, miso paste, mirin, and rice vinegar to create a smooth sauce.",
+    "In a large skillet, heat 1 teaspoon of sesame oil over medium heat and add the cubed tofu, cooking until golden brown on all sides.",
+    "Add the blended sauce to the skillet with the tofu and simmer for 10 minutes, stirring occasionally.",
+    "Stir in the chopped parsley and cook for an additional 2 minutes.",
+    "Season the dish with salt to taste.",
+    "Serve the velvety tofu hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-cuisine",
+    "kaiseki-course",
+    "okinawan-inspired",
+    "plant-based",
+    "tofu-recipes",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "elegant-velvety-japanese-tofu-kaiseki-course",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/elegant-velvety-japanese-tofu-kaiseki-course",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:43:25Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "cure",
+    "primaryIngredient": "freshly chopped parsley",
+    "diet": "plant-based",
+    "region": "okinawa",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "tofu",
+    "descriptor": "Elegant Velvety",
+    "dishForm": "Kaiseki Course"
+  }
+}
