@@ -4113,6 +4113,22 @@
     "shard": "e"
   },
   {
+    "slug": "exotic-smoky-norwegian-salmon-grill",
+    "title": "Exotic Smoky Norwegian Salmon Grill",
+    "tags": [
+      "exotic",
+      "fish",
+      "grilled",
+      "kosher",
+      "norwegian",
+      "smoky",
+      "yuzu"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 27,
+    "shard": "e"
+  },
+  {
     "slug": "exotic-smoky-roasted-greek-goat-meat-pastitsio",
     "title": "Exotic, Smoky Roasted Greek goat meat Pastitsio",
     "tags": [

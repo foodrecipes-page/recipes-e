@@ -1,0 +1,97 @@
+{
+  "title": "Exotic Smoky Norwegian Salmon Grill",
+  "description": "A cozy Norwegian dish featuring smoky salmon, yuzu, and floral notes, perfect for a dinner gathering",
+  "cuisine": "Norwegian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "4 pieces",
+      "notes": "wild caught Norwegian salmon"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4 pieces",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat, about 400 degrees Fahrenheit",
+    "Season the salmon fillets with smoked paprika, garlic powder, dried thyme, salt, and black pepper",
+    "Brush the grill with olive oil to prevent sticking",
+    "Place the salmon fillets on the grill and cook for 4 minutes per side, or until cooked through",
+    "Transfer the salmon to a plate and drizzle with yuzu juice",
+    "Serve the salmon hot with lemon wedges on the side",
+    "Garnish with fresh herbs, such as parsley or dill, for added flavor and color"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "exotic",
+    "fish",
+    "grilled",
+    "kosher",
+    "norwegian",
+    "smoky",
+    "yuzu"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 18
+  },
+  "slug": "exotic-smoky-norwegian-salmon-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-smoky-norwegian-salmon-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:46:51Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "shattering",
+    "mood": "cozy",
+    "technique": "grill",
+    "primaryIngredient": "yuzu",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "salmon",
+    "descriptor": "Exotic Smoky",
+    "dishForm": "Grill"
+  }
+}
