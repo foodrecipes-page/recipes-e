@@ -1,0 +1,93 @@
+{
+  "title": "Exotic Smoky Syrian Lamb Tagine",
+  "description": "A rich and flavorful Syrian dish featuring tender lamb in a smoky aoili sauce, cooked to perfection in a ceramic tagine.",
+  "cuisine": "Syrian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "fatty cuts preferred"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "aoili sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "tandoor spice blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the lamb shoulder with smoked paprika, salt, and black pepper.",
+    "Heat the olive oil in the ceramic tagine over medium heat.",
+    "Sear the lamb shoulder until browned on all sides, then set aside.",
+    "Add the minced garlic to the tagine and cook until fragrant.",
+    "Add the aoili sauce and tandoor spice blend to the tagine, stirring to combine.",
+    "Return the lamb shoulder to the tagine and cover with a lid.",
+    "Transfer the tagine to the preheated oven and cook for 2.5 hours.",
+    "Remove the tagine from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ceramic-tagine",
+    "lamb-recipes",
+    "slow-cooked",
+    "smoky-flavors",
+    "syrian-cuisine",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "exotic-smoky-syrian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-smoky-syrian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:47:46Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "tandoor",
+    "primaryIngredient": "smoky a oli",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "exotic smoky",
+    "dishForm": "Tagine"
+  }
+}
