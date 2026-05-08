@@ -1,0 +1,103 @@
+{
+  "title": "Exotic Turkish Beef Flank Steak Kebabs",
+  "description": "A funky and juicy Turkish dish featuring beef flank steak, perfect for a romantic dinner, with a reduction sauce and dash-friendly seasoning",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef flank steak",
+      "amount": "1.5 pounds",
+      "notes": "sliced into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, paprika, cumin, salt, and black pepper",
+    "Add the sliced beef to the bowl and toss to coat with the marinade",
+    "Thread the beef, cherry tomatoes, and red onion onto skewers",
+    "Grill the kebabs for 8-10 minutes per side, or until the beef reaches 130 degrees Fahrenheit",
+    "Let the kebabs rest for 5 minutes before serving",
+    "Serve with a reduction sauce made from the marinade",
+    "Garnish with fresh parsley and lemon wedges"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "romantic",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "exotic-turkish-beef-flank-steak-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-turkish-beef-flank-steak-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:09:06Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "juicy",
+    "mood": "romantic",
+    "technique": "reduce",
+    "primaryIngredient": "beef flank steak",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "beef flank steak",
+    "descriptor": "exotic juicy",
+    "dishForm": "Kebabs"
+  }
+}
