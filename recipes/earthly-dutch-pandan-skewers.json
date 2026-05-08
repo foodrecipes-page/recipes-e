@@ -1,0 +1,105 @@
+{
+  "title": "Earthly Dutch Pandan Skewers",
+  "description": "A solo dinner dish featuring pandan leaf, with a winey and creamy flavor, cooked to an al-dente finish on a robata grill, suitable for a satvik friendly diet.",
+  "cuisine": "Dutch",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pandan leaves",
+      "amount": "12 large leaves",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "extra firm"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "12 skewers",
+      "notes": "soaked in water"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium high heat.",
+    "Cut the tofu into 1 inch cubes and thread onto the bamboo skewers.",
+    "In a small bowl, whisk together the white wine, vegetable oil, garlic, and ginger.",
+    "Brush the wine mixture onto the tofu skewers.",
+    "Wrap each skewer with a pandan leaf, securing with a toothpick if needed.",
+    "Grill the skewers for 10 minutes, turning occasionally, until the pandan leaves are charred and the tofu is cooked through.",
+    "In a small saucepan, heat the cream over low heat until warmed through.",
+    "Season the cream with salt and pepper to taste.",
+    "Serve the grilled skewers with the warm cream sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "grilled",
+    "one-pan",
+    "quick",
+    "vegetarian",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 25
+  },
+  "slug": "earthly-dutch-pandan-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthly-dutch-pandan-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:09:17Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "creamy",
+    "mood": "solo-dinner",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "pandan-leaf",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "pandan leaf",
+    "descriptor": "earthy creamy",
+    "dishForm": "Skewers"
+  }
+}
