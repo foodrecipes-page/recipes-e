@@ -1,0 +1,88 @@
+{
+  "title": "Easy Chewy Croatian Fish Skewers",
+  "description": "A kid-friendly Croatian dish featuring fish, sour and chewy flavors, made with fish sauce and yuzu cure, low in sodium.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fish",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together fish sauce, yuzu juice, olive oil, lemon juice, garlic, and paprika.",
+    "Add the cod fish pieces to the bowl and toss to coat.",
+    "Thread the fish pieces onto skewers.",
+    "Grill the skewers for 8 minutes, turning occasionally.",
+    "Serve the skewers hot.",
+    "Garnish with lemon wedges and paprika.",
+    "Serve with a side of roasted vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "grilled",
+    "healthy",
+    "kid-friendly",
+    "low-sodium",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "easy-chewy-croatian-fish-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-chewy-croatian-fish-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:34:18Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "fish-sauce-aekjeot",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "fish",
+    "descriptor": "easy chewy",
+    "dishForm": "Skewers"
+  }
+}

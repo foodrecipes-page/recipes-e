@@ -1548,6 +1548,21 @@
     "shard": "e"
   },
   {
+    "slug": "easy-chewy-croatian-fish-skewers",
+    "title": "Easy Chewy Croatian Fish Skewers",
+    "tags": [
+      "croatian",
+      "grilled",
+      "healthy",
+      "kid-friendly",
+      "low-sodium",
+      "seafood"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 23,
+    "shard": "e"
+  },
+  {
     "slug": "easy-comforting-algerian-tofu-tagine",
     "title": "Easy Comforting Algerian Tofu Tagine",
     "tags": [
@@ -1934,6 +1949,22 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 25,
+    "shard": "e"
+  },
+  {
+    "slug": "eggplant-delicate-italian-tempeh-lasagna",
+    "title": "Eggplant Delicate Italian Tempeh Lasagna",
+    "tags": [
+      "egg-free-friendly",
+      "high-protein",
+      "italian",
+      "one-pan",
+      "vegan-friendly",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 70,
     "shard": "e"
   },
   {
