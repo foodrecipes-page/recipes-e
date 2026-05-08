@@ -1,0 +1,104 @@
+{
+  "title": "Exotic Gooey Syrian Kabanos Wrap",
+  "description": "A romantic Syrian dish featuring Polish kabanos, this briny and gooey wrap is perfect for a unique dinner experience, and is Whole30-friendly.",
+  "cuisine": "Syrian",
+  "diet": [
+    "whole30",
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kabanos",
+      "amount": "4 sausages",
+      "notes": "Polish sausage"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "4 large leaves",
+      "notes": "or large lettuce leaves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "tahini",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pomegranate seeds",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Slice the kabanos sausages into 1/2 inch thick rounds.",
+    "Place the sausage rounds on a baking sheet lined with parchment paper and bake for 10 minutes.",
+    "Meanwhile, mix the olive oil, lemon juice, garlic, sumac, salt, and black pepper in a small bowl.",
+    "Brush the mixture onto the sausage rounds and continue baking for another 5 minutes.",
+    " Warm the ssam wrap leaves by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Spread a tablespoon of tahini onto each ssam wrap leaf.",
+    "Place a few sausage rounds onto each leaf, then top with pomegranate seeds.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "paleo",
+    "polish-sausage",
+    "romantic-dinner",
+    "syrian-cuisine",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "exotic-gooey-syrian-kabanos-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-gooey-syrian-kabanos-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:34:44Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "polish kabanos",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "kabanos",
+    "descriptor": "exotic gooey",
+    "dishForm": "Wrap"
+  }
+}
