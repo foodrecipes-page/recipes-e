@@ -1,0 +1,99 @@
+{
+  "title": "Easy Pickled Croatian Pork Salad",
+  "description": "A floral and light Croatian dish featuring ssamjang and pickles, perfect for a crowd, and whole30-friendly, served in a mason jar.",
+  "cuisine": "Croatian",
+  "diet": [
+    "whole30",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cooked and diced"
+    },
+    {
+      "name": "ssamjang",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pickles",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "mason jars",
+      "amount": "4-6",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together ssamjang, apple cider vinegar, salt, and black pepper to make the dressing.",
+    "Add the diced pork shoulder, pickles, red onion, and chopped parsley to the bowl and toss to combine.",
+    "Spoon the salad mixture into the mason jars, leaving about 1 inch of space at the top.",
+    "Seal the jars and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve the salad chilled, garnished with additional parsley if desired.",
+    "Store any leftovers in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "easy-pickled-croatian-pork-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-pickled-croatian-pork-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:48:38Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "pickle",
+    "primaryIngredient": "ssamjang",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "pork",
+    "descriptor": "easy pickled",
+    "dishForm": "Salad"
+  }
+}
