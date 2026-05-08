@@ -1,0 +1,97 @@
+{
+  "title": "Extremely Dense Scottish American Haggis Casserole",
+  "description": "A spicy, dense, and indulgent American dish featuring haggis, slow-cooked to perfection, and FODMAP-friendly. This casserole is a unique fusion of Scottish and American cuisine.",
+  "cuisine": "Scottish American",
+  "diet": [
+    "gluten-free",
+    "low-fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haggis",
+      "amount": "1 pound",
+      "notes": "make sure it is gluten-free"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "2 tablespoons",
+      "notes": "use garlic-infused oil to avoid FODMAPs"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2 peppers",
+      "notes": "use gloves when handling"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "make sure it is lactose-free"
+    },
+    {
+      "name": "gluten-free oats",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large pan, cook the ground beef over medium heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion to the pan and cook until it is translucent.",
+    "Add the garlic-infused oil, scotch bonnet peppers, and cooked haggis to the pan, stirring well to combine.",
+    "In a separate pot, boil the potatoes until they are tender, then mash them with a fork.",
+    "In a large casserole dish, combine the cooked ground beef mixture, mashed potatoes, and gluten-free oats, stirring until well combined.",
+    "Top the casserole with the lactose-free cheddar cheese.",
+    "Cover the dish with aluminum foil and bake for 2 hours.",
+    "Remove the foil and continue baking for an additional 30 minutes, or until the top is lightly browned.",
+    "Remove the casserole from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "scottish-american",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "extremely-dense-scottish-american-haggis-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/extremely-dense-scottish-american-haggis-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:50:06Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "slow-cook",
+    "primaryIngredient": "haggis",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Scottish American",
+    "mainIngredient": "haggis",
+    "descriptor": "Extremely Dense",
+    "dishForm": "Casserole"
+  }
+}
