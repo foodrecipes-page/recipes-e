@@ -1,0 +1,111 @@
+{
+  "title": "Exquisite Saudi Arabian Filo Pastry Samosas",
+  "description": "A winey, crumbly, show-off Saudi-Arabian dish featuring filo pastry and score-fat, vegan-friendly samosas filled with spiced potatoes and peas, perfect for a snack or light meal. This recipe combines traditional Middle Eastern flavors with a modern twist.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "filo pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "score-fat",
+      "amount": "1/4 cup",
+      "notes": "or vegan shortening"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "peas",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pan, heat the score-fat over medium heat.",
+    "Add the onion, cumin, coriander, turmeric, salt, and black pepper to the pan and cook until the onion is translucent.",
+    "Add the potatoes and peas to the pan and cook until the potatoes are tender.",
+    "Lay a sheet of filo pastry on a flat surface and brush with a little score-fat.",
+    "Place a tablespoon of the potato and pea mixture in the center of the pastry.",
+    "Fold the pastry into a triangle and press the edges together to seal.",
+    "Repeat with the remaining pastry and filling.",
+    "Place the samosas on a baking sheet lined with parchment paper and brush with a little score-fat.",
+    "Bake the samosas for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "filo-pastry",
+    "middle-eastern",
+    "pea",
+    "potato",
+    "saudi-arabian",
+    "snack",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "exquisite-saudi-arabian-filo-pastry-samosas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exquisite-saudi-arabian-filo-pastry-samosas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:05:01Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crumbly",
+    "mood": "show-off",
+    "technique": "score-fat",
+    "primaryIngredient": "filo pastry",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "filo pastry",
+    "descriptor": "Exquisite flaky",
+    "dishForm": "Samosas"
+  }
+}
