@@ -1,0 +1,92 @@
+{
+  "title": "Earthy Venezuelan Pilchards Tagine",
+  "description": "A quick, earthy, and flavorful Venezuelan dish featuring pilchards cooked in a clay tagine.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pilchards",
+      "amount": "500g"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "chili peppers",
+      "amount": "2 small"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the clay tagine over medium heat.",
+    "Add the olive oil and sauté the onions until softened.",
+    "Add the garlic, chili peppers, cumin, coriander, and paprika. Cook for 1 minute.",
+    "Add the pilchards and cook until browned on all sides.",
+    "Add the tomatoes and stir to combine.",
+    "Cover the tagine and simmer for 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-one-pot",
+    "latin-inspired",
+    "veggie-packed"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "earthy-quick-venezuelan-pilchards-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-quick-venezuelan-pilchards-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:04:36Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "bouncy-qq",
+    "mood": "quick-fix",
+    "technique": "score-fat",
+    "primaryIngredient": "pilchards",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "pilchards",
+    "descriptor": "Earthy, Quick",
+    "dishForm": "Tagine"
+  }
+}
