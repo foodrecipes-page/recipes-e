@@ -1,0 +1,102 @@
+{
+  "title": "Elegant Dense Greek Semolina Galaktoboureko",
+  "description": "A nostalgic Greek dish featuring semolina custard, wrapped in flaky phyllo and flavored with brandy, this galaktoboureko is a dense and decadent treat. It is also dairy-free-friendly, making it accessible to those with dietary restrictions.",
+  "cuisine": "Greek",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "semolina flour",
+      "amount": "2 cups",
+      "notes": "fine grind"
+    },
+    {
+      "name": "non-dairy milk",
+      "amount": "2 cups",
+      "notes": "such as almond or soy milk"
+    },
+    {
+      "name": "brandy",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "ground mustard",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, whisk together the semolina flour, sugar, and salt.",
+    "In a separate bowl, whisk together the non-dairy milk, melted vegan butter, and brandy, if using.",
+    "Add the wet ingredients to the dry ingredients and whisk until smooth.",
+    "Knead the mixture for 10 minutes until it is well combined and smooth.",
+    "Roll out the phyllo dough to a large rectangle, about 1/4 inch thick.",
+    "Spread the semolina mixture evenly over the phyllo dough, leaving a 1 inch border around the edges.",
+    "Roll the phyllo dough into a tight log, starting from the long side.",
+    "Place the log seam-side down on a baking sheet lined with parchment paper.",
+    "Brush the top of the log with a little non-dairy milk and sprinkle with sugar.",
+    "Bake for 45 minutes, or until the phyllo is golden brown and the filling is set."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "brandy-infused",
+    "dairy-free",
+    "greek-desserts",
+    "phyllo-dough",
+    "semolina-pudding",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "elegant-dense-greek-semolina-galaktoboureko",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/elegant-dense-greek-semolina-galaktoboureko",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:38:58Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "knead",
+    "primaryIngredient": "brandy",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "semolina",
+    "descriptor": "Elegant Dense",
+    "dishForm": "Galaktoboureko"
+  }
+}
