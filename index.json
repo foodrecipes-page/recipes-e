@@ -1826,6 +1826,21 @@
     "shard": "e"
   },
   {
+    "slug": "ebullient-irish-ham-stew",
+    "title": "Ebullient Irish Ham Stew",
+    "tags": [
+      "cataplana",
+      "high-protein",
+      "irish",
+      "one-pan",
+      "stew",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 50,
+    "shard": "e"
+  },
+  {
     "slug": "ebullient-mediterranean-lemon-pasta",
     "title": "Ebullient Mediterranean Lemon Pasta",
     "tags": [
