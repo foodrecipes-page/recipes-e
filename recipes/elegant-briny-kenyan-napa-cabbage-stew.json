@@ -1,0 +1,109 @@
+{
+  "title": "Elegant Briny Kenyan Napa Cabbage Stew",
+  "description": "This Kenyan-inspired stew features tender Napa cabbage and a blend of aromatic spices, all wrapped up in a traditional banana leaf vessel. It's a high-protein, meal-prep friendly dish perfect for a weeknight dinner.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Napa cabbage",
+      "amount": "2 heads",
+      "notes": "chopped"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large onion",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, knead together chopped onion, minced garlic, and grated ginger until well combined.",
+    "Add cumin seeds, coriander seeds, turmeric powder, salt, and black pepper to the bowl and mix well.",
+    "Add the chicken breast pieces to the bowl and mix until the chicken is evenly coated with the spice mixture.",
+    "Add the chopped Napa cabbage to the bowl and mix until the cabbage is evenly distributed.",
+    "Lay a banana leaf flat on a work surface and place one quarter of the cabbage and chicken mixture in the center of the leaf.",
+    "Fold the banana leaf over the filling to form a tight packet and repeat with the remaining ingredients.",
+    "Place the packets in a large baking dish and bake for 30 minutes.",
+    "Serve the stew hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "kenyan-cuisine",
+    "meal-prep",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "elegant-briny-kenyan-napa-cabbage-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/elegant-briny-kenyan-napa-cabbage-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:53:59Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "springy",
+    "mood": "meal-prep",
+    "technique": "knead",
+    "primaryIngredient": "napa cabbage",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Napa Cabbage",
+    "descriptor": "Elegant Briny",
+    "dishForm": "Stew"
+  }
+}
