@@ -1,0 +1,100 @@
+{
+  "title": "Energizing Whole Wheat Portuguese Chicken Wrap",
+  "description": "A sugar-free and nutritious Portuguese dish featuring whole wheat and chicken, perfect for a post-workout meal",
+  "cuisine": "Portuguese",
+  "diet": [
+    "sugar-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "whole wheat tortilla",
+      "amount": "4 large",
+      "notes": "low-carb"
+    },
+    {
+      "name": "papillote paper",
+      "amount": "4 sheets"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4 large",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "grilled bell peppers",
+      "amount": "1 cup",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit",
+    "Season chicken with garlic powder, salt, and black pepper",
+    "Wrap each chicken piece in papillote paper and bake for 20 minutes",
+    "Grill bell peppers until tender",
+    "Warm whole wheat tortillas by wrapping them in a damp paper towel and microwaving for 20 seconds",
+    "Assemble wraps by placing chicken, bell peppers, and a drizzle of olive oil inside each tortilla",
+    "Wrap each tortilla in a ti leaf and serve immediately",
+    "Cut ti leaves to size before wrapping",
+    "Serve hot and enjoy"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "low-carb",
+    "portuguese-food",
+    "post-workout",
+    "sugar-free",
+    "whole-wheat"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "energizing-whole-wheat-portuguese-chicken-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-whole-wheat-portuguese-chicken-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:19:10Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "bouncy-qq",
+    "mood": "post-workout",
+    "technique": "papillote",
+    "primaryIngredient": "whole wheat",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "chicken",
+    "descriptor": "energizing whole wheat",
+    "dishForm": "Wrap"
+  }
+}
