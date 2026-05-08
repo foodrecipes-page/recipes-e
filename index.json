@@ -5217,6 +5217,21 @@
     "shard": "e"
   },
   {
+    "slug": "exotic-sweet-filipino-digestive-biscuits-grill",
+    "title": "Exotic Sweet Filipino Digestive Biscuits Grill",
+    "tags": [
+      "digestive-biscuits",
+      "exotic-food",
+      "filipino-dish",
+      "grilled-dessert",
+      "sweet-biscuits",
+      "yakimono-grill"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 25,
+    "shard": "e"
+  },
+  {
     "slug": "exotic-sweet-mexican-fig-skewers",
     "title": "Exotic Sweet Mexican Fig Skewers",
     "tags": [

@@ -1,0 +1,90 @@
+{
+  "title": "Exotic Sweet Filipino Digestive Biscuits Grill",
+  "description": "A unique Filipino dish featuring digestive biscuits grilled to perfection with a sweet and gooey twist, served as a dessert.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "digestive biscuits",
+      "amount": "1 package",
+      "notes": "preferably McVitie's"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sweetened condensed milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "yakimono grill sauce",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the melted butter, brown sugar, sweetened condensed milk, eggs, and vanilla extract.",
+    "Submerge each digestive biscuit into the mixture, coating both sides evenly.",
+    "Place the coated biscuits on the preheated grill and cook for 2-3 minutes on each side, or until golden brown.",
+    "While the biscuits are cooking, sprinkle sesame seeds on top of each biscuit.",
+    "Once the biscuits are cooked, brush the yakimono grill sauce on top of each biscuit.",
+    "Serve the grilled biscuits warm, garnished with additional sesame seeds if desired.",
+    "Let the biscuits cool for a few minutes before serving to allow the filling to set."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "digestive-biscuits",
+    "exotic-food",
+    "filipino-dish",
+    "grilled-dessert",
+    "sweet-biscuits",
+    "yakimono-grill"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 16
+  },
+  "slug": "exotic-sweet-filipino-digestive-biscuits-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-sweet-filipino-digestive-biscuits-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:50:49Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "gooey",
+    "mood": "indulgent",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "digestive biscuits",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "digestive biscuits",
+    "descriptor": "Exotic Sweet",
+    "dishForm": "Grill"
+  }
+}
