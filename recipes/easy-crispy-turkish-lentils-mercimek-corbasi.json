@@ -1,0 +1,99 @@
+{
+  "title": "Easy Crispy Turkish Lentils Mercimek Corbasi",
+  "description": "A kid-friendly Turkish dish featuring crispy fermented lentils and dark soft brown sugar, infused with oil and a dash of friendly spices, served in a mercimek corbasi form.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "dark soft brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "infuse oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and soak them in water for 30 minutes.",
+    "Drain and rinse the lentils again, then transfer them to a large pot.",
+    "Add the chopped onion, minced garlic, cumin, paprika, salt, and black pepper to the pot.",
+    "Pour in the infuse oil and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat and simmer for 20 minutes.",
+    "Stir in the dark soft brown sugar and continue to simmer for another 10 minutes.",
+    "Use a spoon to scoop out small amounts of the lentil mixture and shape into patties.",
+    "Heat a non-stick pan with a small amount of oil over medium heat and fry the lentil patties until crispy and golden brown.",
+    "Serve the crispy lentil patties hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy-snacks",
+    "gluten-free",
+    "kid-friendly",
+    "lentil-recipes",
+    "turkish-food",
+    "vegetarian-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "easy-crispy-turkish-lentils-mercimek-corbasi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-crispy-turkish-lentils-mercimek-corbasi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:47:45Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "infuse-oil",
+    "primaryIngredient": "dark soft brown sugar",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lentils",
+    "descriptor": "Easy Crispy",
+    "dishForm": "Mercimek Corbasi"
+  }
+}
