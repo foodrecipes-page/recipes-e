@@ -1,0 +1,94 @@
+{
+  "title": "Energizing Velvety Canadian Matcha Nimono",
+  "description": "A salty and velvety Canadian dish featuring matcha and nimono simmer, perfect for a cold winter day. This nut-free-friendly recipe is sure to energize and satisfy.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "matcha powder",
+      "amount": "2 tablespoons",
+      "notes": "high quality"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "dashi broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sake",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine dashi broth, soy sauce, mirin, and sake, and bring to a boil over high heat.",
+    "Reduce the heat to medium low and add the chicken breast to the pot.",
+    "Simmer the chicken for 10 minutes or until it is cooked through.",
+    "Remove the chicken from the pot and set it aside to rest.",
+    "In a small bowl, whisk together the matcha powder and a splash of the hot broth until smooth.",
+    "Add the matcha mixture back into the pot and stir to combine.",
+    "Add the sliced green onions to the pot and simmer for an additional 2 minutes.",
+    "Slice the rested chicken into thin strips and add it back to the pot.",
+    "Drizzle the sesame oil over the top of the dish and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "matcha-recipe",
+    "nimono-dish",
+    "one-pot-meal",
+    "winter-warmers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "energizing-velvety-canadian-matcha-nimono",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-velvety-canadian-matcha-nimono",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:52:51Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "velvety",
+    "mood": "energizing",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "matcha",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "matcha",
+    "descriptor": "Energizing Velvety",
+    "dishForm": "Nimono"
+  }
+}
