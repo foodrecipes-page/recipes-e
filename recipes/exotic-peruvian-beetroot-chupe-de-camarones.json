@@ -1,0 +1,105 @@
+{
+  "title": "Exotic Peruvian Beetroot Chupe De Camarones",
+  "description": "A vibrant and flavorful Peruvian dish featuring beetroot and shrimp, with a mix of exotic spices and crispy agemono deep fry, this halal friendly chupe de camarones is a must try for adventurous foodies. It combines the natural sweetness of beetroot with the succulence of shrimp.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beetroot",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "In a bowl, mix together the chopped onion, minced garlic, and grated ginger.",
+    "Add the cumin, paprika, salt, and black pepper to the bowl and mix well.",
+    "Add the diced beetroot to the bowl and mix until the beetroot is well coated with the spice mixture.",
+    "Deep fry the beetroot mixture in batches until crispy and golden brown.",
+    "In a separate pan, heat some oil and saute the shrimp until pink and cooked through.",
+    "Add the cooked shrimp to the deep fried beetroot mixture and stir well.",
+    "Serve the exotic Peruvian beetroot chupe de camarones hot, garnished with chopped fresh herbs.",
+    "Traditionally, this dish is served with steamed rice or crusty bread.",
+    "To make it more substantial, you can add some boiled potatoes or corn to the dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beetroot-recipe",
+    "deep-fry",
+    "exotic-dish",
+    "halal-friendly",
+    "peruvian-cuisine",
+    "seafood-recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "exotic-peruvian-beetroot-chupe-de-camarones",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-peruvian-beetroot-chupe-de-camarones",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:06:07Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "bouncy-qq",
+    "mood": "adventurous",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "beetroot",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "beetroot",
+    "descriptor": "Exotic Deep Fried",
+    "dishForm": "Chupe De Camarones"
+  }
+}
