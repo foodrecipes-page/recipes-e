@@ -1,0 +1,104 @@
+{
+  "title": "Exotic Elegant Moroccan Cheese Tagine",
+  "description": "A winey, creamy, and low-carb-friendly Moroccan dish featuring shredded Monterey Jack cheese, perfect for a brunch mood.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Monterey Jack cheese",
+      "amount": "1 cup shredded",
+      "notes": "low moisture content"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon smoked"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "ferment",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the shredded cheese, olive oil, diced onion, minced garlic, grated ginger, ground cumin, smoked paprika, and chopped parsley.",
+    "In a large tagine or Dutch oven, combine the cheese mixture, chicken broth, and white wine.",
+    "Add the ferment and stir well to combine.",
+    "Cover the tagine or Dutch oven with a lid and bake for 25 minutes.",
+    "Remove the lid and continue baking for an additional 10 minutes, or until the cheese is melted and bubbly.",
+    "Remove the tagine from the oven and let it cool for a few minutes before serving.",
+    "Serve the Moroccan cheese tagine hot, garnished with additional chopped parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "cheesy",
+    "gluten-free",
+    "low-carb",
+    "moroccan",
+    "wine-infused"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 8,
+    "fat": 24
+  },
+  "slug": "exotic-elegant-moroccan-cheese-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-elegant-moroccan-cheese-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:35:45Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "ferment",
+    "primaryIngredient": "shredded monterey jack cheese",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "cheese",
+    "descriptor": "Exotic Elegant",
+    "dishForm": "Tagine"
+  }
+}
