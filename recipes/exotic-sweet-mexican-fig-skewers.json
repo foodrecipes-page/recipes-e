@@ -1,0 +1,92 @@
+{
+  "title": "Exotic Sweet Mexican Fig Skewers",
+  "description": "A romantic Mexican dish featuring sweet figs and a hint of wine, perfect for a special occasion, this recipe is also buddhist-temple-friendly as it does not include any animal products or by-products",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "figs",
+      "amount": "12",
+      "notes": "fresh, ripe"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cinnamon sticks",
+      "amount": "2",
+      "notes": "ground"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Soak the bamboo skewers in water for 30 minutes before using to prevent burning on the robata grill.",
+    "In a large bowl, whisk together the red wine, brown sugar, lime juice, and olive oil to create the marinade.",
+    "Add the ground cinnamon sticks to the marinade and stir well.",
+    "Thread a fig onto each bamboo skewer, leaving a small space between each fig.",
+    "Place the fig skewers in the marinade and let them sit at room temperature for 30 minutes.",
+    "Preheat the robata grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "Remove the fig skewers from the marinade, letting any excess liquid drip off.",
+    "Place the fig skewers on the robata grill and cook for 2-3 minutes on each side, or until the figs are caramelized and slightly charred.",
+    "Remove the fig skewers from the grill and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "fruity",
+    "grilled",
+    "mexican",
+    "romantic",
+    "special-occasion",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "exotic-sweet-mexican-fig-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-sweet-mexican-fig-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:17:11Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "snappy",
+    "mood": "romantic",
+    "technique": "pressure-cook",
+    "primaryIngredient": "figs",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "figs",
+    "descriptor": "exotic sweet",
+    "dishForm": "Skewers"
+  }
+}
