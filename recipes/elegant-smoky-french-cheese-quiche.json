@@ -1,0 +1,95 @@
+{
+  "title": "Elegant Smoky French Cheese Quiche",
+  "description": "A light and crispy French quiche featuring shredded Mexican cheese with a smoky twist, perfect for a tamasic-friendly meal.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pie crust",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "mexican cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "hot sauce",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roll out the pie crust and place it in a tart pan with a removable bottom.",
+    "In a large bowl, whisk together the eggs, heavy cream, salt, and black pepper.",
+    "Add the shredded Mexican cheese, smoked paprika, and hot sauce to the bowl and stir until well combined.",
+    "Pour the egg mixture into the pie crust.",
+    "Sprinkle the chopped fresh parsley over the top of the quiche.",
+    "Bake the quiche for 35 minutes or until the edges are golden brown and the center is set.",
+    "Remove the quiche from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "elegant",
+    "french",
+    "lunch",
+    "quiche",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "elegant-smoky-french-cheese-quiche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/elegant-smoky-french-cheese-quiche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:17:33Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "smoke-hot",
+    "primaryIngredient": "shredded mexican cheese",
+    "diet": "ayurvedic-tamasic",
+    "region": "normandy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "cheese",
+    "descriptor": "Elegant Smoky",
+    "dishForm": "Quiche"
+  }
+}

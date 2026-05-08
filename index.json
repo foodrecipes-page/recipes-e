@@ -2411,6 +2411,21 @@
     "shard": "e"
   },
   {
+    "slug": "elegant-smoky-french-cheese-quiche",
+    "title": "Elegant Smoky French Cheese Quiche",
+    "tags": [
+      "elegant",
+      "french",
+      "lunch",
+      "quiche",
+      "smoky",
+      "vegetarian"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 55,
+    "shard": "e"
+  },
+  {
     "slug": "elegant-spanish-chicken-paella",
     "title": "Elegant Spanish Chicken Paella",
     "tags": [
