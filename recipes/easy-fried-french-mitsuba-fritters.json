@@ -1,0 +1,94 @@
+{
+  "title": "Easy Fried French Mitsuba Fritters",
+  "description": "A lazy Sunday French dish featuring mitsuba, deep-fried to a golden brown, low-fat friendly version of a classic French fritter. Perfect for a relaxing weekend meal.",
+  "cuisine": "French",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mitsuba",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 inch deep in a frying pan"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, eggs, milk, melted butter, salt, and pepper to make a smooth batter.",
+    "Add the chopped mitsuba to the batter and stir until well combined.",
+    "Heat the vegetable oil in a deep frying pan over medium heat to 350 degrees.",
+    "Using a spoon, drop small balls of the mitsuba batter into the hot oil, being careful not to overcrowd the pan.",
+    "Fry the fritters for 2-3 minutes on each side, until they are golden brown and puffed up.",
+    "Remove the fritters from the oil with a slotted spoon and drain on paper towels.",
+    "Serve the fritters hot and enjoy.",
+    "Repeat the frying process with the remaining batter.",
+    "Keep the fried fritters warm in a low oven while frying the remaining batter."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "brunch",
+    "deep-fried",
+    "french-cuisine",
+    "lazy-sunday",
+    "low-fat",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "easy-fried-french-mitsuba-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-fried-french-mitsuba-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:49:40Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "mitsuba",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "mitsuba",
+    "descriptor": "Easy Fried",
+    "dishForm": "Fritters"
+  }
+}
