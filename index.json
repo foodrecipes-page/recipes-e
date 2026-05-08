@@ -2317,6 +2317,21 @@
     "shard": "e"
   },
   {
+    "slug": "elegant-canadian-pappardelle-pasta",
+    "title": "Elegant Canadian Pappardelle Pasta",
+    "tags": [
+      "canadian-cuisine",
+      "gluten-free",
+      "low-glycemic",
+      "pappardelle-pasta",
+      "romantic-dinner",
+      "special-occasion"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
     "slug": "elegant-crisp-brazilian-pepper-salad",
     "title": "Elegant Crisp Brazilian Pepper Salad",
     "tags": [

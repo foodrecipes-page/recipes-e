@@ -1,0 +1,97 @@
+{
+  "title": "Elegant Canadian Pappardelle Pasta",
+  "description": "A romantic Canadian dish featuring pappardelle pasta in a mustardy nimono simmer, served on a bamboo tray, this recipe is low glycemic friendly and perfect for a special occasion.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pappardelle pasta",
+      "amount": "12 oz",
+      "notes": "made from gluten free flour"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1 cup",
+      "notes": "shaved"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pappardelle pasta according to the package instructions.",
+    "In a small saucepan, heat the olive oil over medium heat and add the mustard seeds, cooking until they start to pop.",
+    "Add the dried thyme, garlic powder, salt, and black pepper to the saucepan and cook for 1 minute, stirring constantly.",
+    "Add the chicken broth to the saucepan and bring to a simmer, cooking for 5 minutes or until the liquid has reduced slightly.",
+    "Drain the cooked pappardelle pasta and add it to the saucepan, tossing to coat with the nimono simmer.",
+    "Transfer the pasta to a bamboo tray and top with shaved grana padano cheese.",
+    "Serve immediately and enjoy.",
+    "Garnish with fresh thyme leaves, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "gluten-free",
+    "low-glycemic",
+    "pappardelle-pasta",
+    "romantic-dinner",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "elegant-canadian-pappardelle-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/elegant-canadian-pappardelle-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:30:36Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "flaky",
+    "mood": "romantic",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "pappardelle pasta",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "pappardelle pasta",
+    "descriptor": "Elegant Nimono",
+    "dishForm": "Pasta"
+  }
+}
