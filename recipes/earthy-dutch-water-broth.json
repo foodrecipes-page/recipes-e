@@ -1,0 +1,112 @@
+{
+  "title": "Earthy Dutch Water Broth",
+  "description": "A comforting and earthy Dutch dish featuring water and pickles, perfect for a relaxing evening meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "water",
+      "amount": "8 cups",
+      "notes": ""
+    },
+    {
+      "name": "filtered water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "pickle juice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "parsley",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "bay leaves",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine the water, filtered water, pickle juice, parsley, garlic, bay leaves, black peppercorns, and salt in a large pot.",
+    "Bring the mixture to a boil over high heat, then reduce the heat to low and simmer for 30 minutes.",
+    "Add the apple cider vinegar and dried thyme to the pot and stir to combine.",
+    "Continue to simmer for an additional 15 minutes, or until the flavors have melded together.",
+    "Strain the broth through a fine-mesh sieve into a large bowl and discard the solids.",
+    "Return the broth to the pot and simmer over low heat for an additional 5 minutes, or until heated through.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the broth hot, garnished with additional parsley if desired.",
+    "Store any leftover broth in the refrigerator for up to 5 days.",
+    "Freeze the broth for up to 3 months for longer storage."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comforting",
+    "easy-to-make",
+    "gluten-free-option",
+    "one-pot",
+    "soup",
+    "vegan-recipe",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 0
+  },
+  "slug": "earthy-dutch-water-broth",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-dutch-water-broth",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:48:34Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "bouncy-qq",
+    "mood": "comforting",
+    "technique": "pickle",
+    "primaryIngredient": "water",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "water",
+    "descriptor": "earthy",
+    "dishForm": "broth"
+  }
+}
