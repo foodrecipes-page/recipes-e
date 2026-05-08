@@ -2646,6 +2646,20 @@
     "shard": "e"
   },
   {
+    "slug": "elegant-german-pork-casserole",
+    "title": "Elegant German Pork Casserole",
+    "tags": [
+      "baked-goods",
+      "casseroles",
+      "german-cuisine",
+      "pork-recipes",
+      "special-occasion"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 45,
+    "shard": "e"
+  },
+  {
     "slug": "elegant-japanese-caraway-seed-tagine",
     "title": "Elegant Japanese Caraway Seed Tagine",
     "tags": [

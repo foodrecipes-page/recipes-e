@@ -1,0 +1,102 @@
+{
+  "title": "Elegant German Pork Casserole",
+  "description": "A cultured and molten solo-dinner German dish featuring lemon zest, en-croute, and dash-friendly ingredients, perfect for a special occasion.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1 pound",
+      "notes": "trimmed of excess fat"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "2 tablespoons",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": "whipped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, saute the chopped onion and minced garlic until softened.",
+    "Add the pork tenderloin to the skillet and cook until browned on all sides.",
+    "In a small bowl, mix together the lemon zest, chicken broth, and heavy cream.",
+    "Roll out the puff pastry on a floured surface to a large rectangle.",
+    "Place the cooked pork tenderloin in the center of the pastry rectangle.",
+    "Brush the edges of the pastry with a little water and fold the pastry over the pork to form a tight seal.",
+    "Place the casserole on a baking sheet lined with parchment paper and brush the top with a little bit of water.",
+    "Bake the casserole in the preheated oven for 25 minutes, or until the pastry is golden brown.",
+    "Remove the casserole from the oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "baked-goods",
+    "casseroles",
+    "german-cuisine",
+    "pork-recipes",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 34
+  },
+  "slug": "elegant-german-pork-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/elegant-german-pork-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:07:48Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "molten",
+    "mood": "solo-dinner",
+    "technique": "en-croute",
+    "primaryIngredient": "lemon zest",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pork",
+    "descriptor": "Elegant Molten",
+    "dishForm": "Casserole"
+  }
+}
