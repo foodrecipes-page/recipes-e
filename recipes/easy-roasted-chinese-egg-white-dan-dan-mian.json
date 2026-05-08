@@ -1,0 +1,104 @@
+{
+  "title": "Easy Roasted Chinese Egg White Dan Dan Mian",
+  "description": "A quick-fix Chinese dish featuring roasted egg white, namul-blanch-season, and keto-friendly ingredients, formed into dan-dan-mian, a type of Chinese noodle dish. This recipe is perfect for a weeknight dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "egg whites",
+      "amount": "4 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 teaspoon",
+      "notes": "minced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "namul",
+      "amount": "1 cup",
+      "notes": "blanched and seasoned"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a bowl, whisk together egg whites, sesame oil, soy sauce, rice vinegar, ginger, and garlic until well combined.",
+    "Pour the egg mixture into a baking dish and roast in the oven for 12 minutes or until the egg whites are set and lightly browned.",
+    "While the egg whites are roasting, cook the namul according to package instructions and season with salt and pepper.",
+    "Once the egg whites are done, remove them from the oven and let them cool for a few minutes.",
+    "Slice the roasted egg whites into thin strips and serve on top of the namul, garnished with chopped scallions.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional scallions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese-food",
+    "easy-recipe",
+    "keto-friendly",
+    "low-carb",
+    "quick-fix",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 5,
+    "fat": 14
+  },
+  "slug": "easy-roasted-chinese-egg-white-dan-dan-mian",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-roasted-chinese-egg-white-dan-dan-mian",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:07:53Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crisp",
+    "mood": "quick-fix",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "egg white",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "egg white",
+    "descriptor": "Easy Roasted",
+    "dishForm": "Dan Dan Mian"
+  }
+}
