@@ -1,0 +1,94 @@
+{
+  "title": "Earthy Exotic Portuguese Fregola Nigiri",
+  "description": "This dish combines the earthy flavors of fregola with the exotic twist of Portuguese monsoon spices, all wrapped up in a sattvic friendly nigiri shape. It features a glassy jelly texture from the use of agar agar.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fregola",
+      "amount": "1 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "agar agar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "monsoon spices",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "norib sheets",
+      "amount": "1 package"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Toast the fregola in a dry pan until lightly browned.",
+    "In a large pot, combine the toasted fregola, agar agar, monsoon spices, coconut oil, and salt.",
+    "Add the water to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes, or until the fregola is tender and the liquid has been absorbed.",
+    "Allow the mixture to cool to room temperature.",
+    "Once cooled, shape the mixture into small nigiri shapes.",
+    "Wrap each nigiri shape in a norib sheet.",
+    "Serve the nigiri chilled, garnished with sesame seeds."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "exotic-dishes",
+    "gluten-free",
+    "nigiri-styles",
+    "portuguese-cuisine",
+    "sattvic-friendly",
+    "vegan-recipes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "earthy-exotic-portuguese-fregola-nigiri",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-exotic-portuguese-fregola-nigiri",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:54:22Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "glassy-jelly",
+    "mood": "monsoon",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "fregola",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "fregola",
+    "descriptor": "Earthy Exotic",
+    "dishForm": "Nigiri"
+  }
+}
