@@ -1,0 +1,108 @@
+{
+  "title": "Exotic Peruvian Beef Lomo Saltado",
+  "description": "A savory and light Peruvian dish featuring beef strips, shichimi-togarashi, and vegetables, perfect for a crowd, this whole30-friendly recipe is a must try. It is a stir-fry dish that combines the flavors of Peru and Asia.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "shichimi-togarashi",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together shichimi-togarashi, soy sauce, salt, and black pepper to make the marinade.",
+    "Add the beef strips to the marinade and mix well to coat, then let it marinate for at least 30 minutes.",
+    "Heat 1 tablespoon of coconut oil in a large skillet or wok over medium-high heat.",
+    "Remove the beef from the marinade and cook until browned, about 3-4 minutes, then set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of coconut oil.",
+    "Add the sliced onions and cook until they are translucent, about 3-4 minutes.",
+    "Add the sliced bell peppers and cook until they are tender, about 4-5 minutes.",
+    "Add the diced tomatoes and cook until they start to soften, about 2-3 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Return the cooked beef to the skillet and stir to combine with the vegetables.",
+    "Cook for an additional 1-2 minutes, until the beef is heated through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "gluten-free",
+    "one-pan",
+    "peruvian-cuisine",
+    "stir-fry",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "exotic-peruvian-beef-lomo-saltado",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-peruvian-beef-lomo-saltado",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:30:24Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "marinate",
+    "primaryIngredient": "shichimi-togarashi",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "beef",
+    "descriptor": "Exotic Elegant",
+    "dishForm": "Lomo Saltado"
+  }
+}
