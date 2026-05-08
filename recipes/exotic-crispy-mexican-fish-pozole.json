@@ -1,0 +1,103 @@
+{
+  "title": "Exotic Crispy Mexican Fish Pozole",
+  "description": "A hearty and flavorful Mexican dish featuring crispy fish, Panang paste, and char-grilled yang, perfect for a hangover cure. This pescatarian-friendly pozole is a unique twist on traditional Mexican cuisine.",
+  "cuisine": "Mexican",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tilapia fillets",
+      "amount": "4",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "Panang paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "yang paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "hominy",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large pot over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the Panang paste and yang paste, stirring constantly for 1 minute.",
+    "Add the hominy, diced tomatoes, and 2 cups of water, bringing the mixture to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Meanwhile, season the tilapia fillets with salt and pepper.",
+    "Char-grill the tilapia fillets until crispy and cooked through, about 5 minutes per side.",
+    "Flake the cooked fish into the pot and stir in the chopped cilantro and lime juice.",
+    "Serve the pozole hot, garnished with additional cilantro and lime wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hangover-cure",
+    "mexican-cuisine",
+    "one-pot",
+    "pescatarian",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "exotic-crispy-mexican-fish-pozole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-crispy-mexican-fish-pozole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:27:35Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "panang-paste",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "fish",
+    "descriptor": "exotic crispy",
+    "dishForm": "Pozole"
+  }
+}

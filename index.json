@@ -199,6 +199,20 @@
     "shard": "e"
   },
   {
+    "slug": "earthly-british-beef-cottage-pie",
+    "title": "Earthly British Beef Cottage Pie",
+    "tags": [
+      "british-classic",
+      "comfort-food",
+      "high-protein",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 60,
+    "shard": "e"
+  },
+  {
     "slug": "earthly-dense-british-sausages-fish-and-chips",
     "title": "Earthly Dense British Sausages Fish And Chips",
     "tags": [
@@ -4499,6 +4513,20 @@
       "weeknight"
     ],
     "cuisine": "Argentinian",
+    "totalTimeMin": 45,
+    "shard": "e"
+  },
+  {
+    "slug": "exotic-crispy-mexican-fish-pozole",
+    "title": "Exotic Crispy Mexican Fish Pozole",
+    "tags": [
+      "hangover-cure",
+      "mexican-cuisine",
+      "one-pot",
+      "pescatarian",
+      "spicy-food"
+    ],
+    "cuisine": "Mexican",
     "totalTimeMin": 45,
     "shard": "e"
   },

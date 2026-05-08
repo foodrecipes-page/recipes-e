@@ -1,0 +1,104 @@
+{
+  "title": "Earthly British Beef Cottage Pie",
+  "description": "A nutty and snappy nostalgic British dish featuring beef stock concentrate, namul-blanch-season, and high protein friendly ingredients in a cottage pie form, cooked in a tagine pot.",
+  "cuisine": "British",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "90% lean"
+    },
+    {
+      "name": "beef stock concentrate",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "frozen peas and carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mashed potato",
+      "amount": "2 cups",
+      "notes": "made with 2 large potatoes and 1/4 cup milk"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion and sliced mushroom to the skillet and cook until the vegetables are tender.",
+    "Stir in the beef stock concentrate and frozen peas and carrots, and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer the mixture for 10 minutes, stirring occasionally.",
+    "Stir in the flour to thicken the mixture, and season with salt and pepper to taste.",
+    "Transfer the mixture to a tagine pot or a 9x13 inch baking dish.",
+    "Spread the mashed potato over the top of the mixture, and sprinkle with shredded cheddar cheese.",
+    "Dot the top of the potato with butter.",
+    "Bake the cottage pie in the preheated oven for 25 minutes, or until the potato is golden brown and the filling is hot and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british-classic",
+    "comfort-food",
+    "high-protein",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "earthly-british-beef-cottage-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthly-british-beef-cottage-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:27:48Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "snappy",
+    "mood": "nostalgic",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "beef stock concentrate",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "beef",
+    "descriptor": "earthy nutty",
+    "dishForm": "Cottage Pie"
+  }
+}
