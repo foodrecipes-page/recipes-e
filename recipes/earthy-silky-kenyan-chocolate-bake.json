@@ -1,0 +1,72 @@
+{
+  "title": "Earthy Silky Kenyan Chocolate Bake",
+  "description": "A simple, rich Kenyan-inspired dessert featuring caramelized chocolate and a silky texture, suitable for shojin diet.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "shojin",
+    "vegetarian",
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dark chocolate (70% cocoa)",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Coconut sugar",
+      "amount": "100g",
+      "notes": "Caramelize with chocolate"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180\u00007°C (350°F).",
+    "Line a 20cm round cake pan with parchment paper.",
+    "Melt chocolate and coconut sugar in a saucepan over low heat, stirring occasionally.",
+    "Pour the mixture into the prepared cake pan and smooth the top.",
+    "Bake for 25 minutes.",
+    "Remove from oven and let cool for 10 minutes.",
+    "Slice into desired portions and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "dairy-free",
+    "dessert",
+    "easy",
+    "kenyan",
+    "one-pan",
+    "shojin",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 3,
+    "carbs": 60,
+    "fat": 22
+  },
+  "slug": "earthy-silky-kenyan-chocolate-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-silky-kenyan-chocolate-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:37:00Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "silky",
+    "mood": "one-pot",
+    "technique": "caramelize",
+    "primaryIngredient": "plain chocolate",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "chocolate",
+    "descriptor": "Earthy Silky",
+    "dishForm": "Bake"
+  }
+}

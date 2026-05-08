@@ -1,0 +1,103 @@
+{
+  "title": "Energizing Turkish Yogurt Bowl",
+  "description": "A refreshing, post-workout Turkish dish that combines the creaminess of yogurt with the warmth of cinnamon.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Plain Greek Yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ground Cinnamon",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Walnuts",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Mint Leaves",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ice Cubes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Turkish Chai Tea (optional)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Fruit (optional)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon Sticks",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Prepare an ice bath by filling a large bowl with ice cubes and water.",
+    "Place a small bowl or ramekin in the ice bath and spoon the yogurt mixture into it.",
+    "Shake the bowl vigorously to create a smooth, creamy texture.",
+    "Stir in the honey, cinnamon, and chopped walnuts.",
+    "Garnish with fresh mint leaves and serve chilled.",
+    "If desired, steep a cinnamon stick in the Turkish chai tea and add it to the yogurt for extra flavor.",
+    "If desired, top with fresh fruit for added sweetness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-based",
+    "healthy",
+    "high-protein",
+    "one-serving",
+    "post-workout",
+    "refeshing"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 8
+  },
+  "slug": "energizing-turkish-yogurt-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-turkish-yogurt-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:36:59Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "velvety",
+    "mood": "post-workout",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "cinnamon",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "yogurt",
+    "descriptor": "energizing",
+    "dishForm": "Bowl"
+  }
+}

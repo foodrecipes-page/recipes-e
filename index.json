@@ -73,6 +73,20 @@
     "shard": "e"
   },
   {
+    "slug": "early-evening-greek-peas-avgolemono",
+    "title": "Early Evening Greek Peas Avgolemono",
+    "tags": [
+      "comfort-food",
+      "greek",
+      "one-pot",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 40,
+    "shard": "e"
+  },
+  {
     "slug": "earth-apple-fold",
     "title": "Earth Apple Fold",
     "tags": [
@@ -1486,6 +1500,24 @@
     ],
     "cuisine": "American",
     "totalTimeMin": 65,
+    "shard": "e"
+  },
+  {
+    "slug": "earthy-silky-kenyan-chocolate-bake",
+    "title": "Earthy Silky Kenyan Chocolate Bake",
+    "tags": [
+      "chocolate",
+      "dairy-free",
+      "dessert",
+      "easy",
+      "kenyan",
+      "one-pan",
+      "shojin",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {
@@ -4264,6 +4296,21 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 22,
+    "shard": "e"
+  },
+  {
+    "slug": "energizing-turkish-yogurt-bowl",
+    "title": "Energizing Turkish Yogurt Bowl",
+    "tags": [
+      "dairy-based",
+      "healthy",
+      "high-protein",
+      "one-serving",
+      "post-workout",
+      "refeshing"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 10,
     "shard": "e"
   },
   {
