@@ -1,0 +1,104 @@
+{
+  "title": "Easy Malaysian Feta Pasta",
+  "description": "A flexitarian-friendly Malaysian dish featuring cubed feta cheese and a pasta-water-emulsion, perfect for a lazy Sunday, cooked to perfection on a tava-griddle.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "feta cheese",
+      "amount": "200g",
+      "notes": "cubed"
+    },
+    {
+      "name": "pasta",
+      "amount": "250g"
+    },
+    {
+      "name": "water",
+      "amount": "500ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "30ml"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "malaysian curry powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Bring the water to a boil in a large pot and cook the pasta according to package instructions until al dente.",
+    "While the pasta is cooking, heat the olive oil on the tava-griddle over medium heat.",
+    "Add the minced garlic and grated ginger to the tava-griddle and saute until fragrant.",
+    "Add the cubed feta cheese to the tava-griddle and cook until it starts to melt and soften.",
+    "Add the malaysian curry powder, salt, and black pepper to the tava-griddle and stir to combine.",
+    "Drain the cooked pasta and add it to the tava-griddle, stirring to combine with the feta cheese mixture.",
+    "Create a pasta-water-emulsion by adding some of the pasta cooking water to the tava-griddle and stirring to combine.",
+    "Reduce heat to low and simmer the mixture for a few minutes until the sauce has thickened slightly.",
+    "Garnish with chopped scallions and serve hot.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flexitarian",
+    "malaysian-cuisine",
+    "one-pan",
+    "pasta-lover",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "easy-malaysian-feta-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-malaysian-feta-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:25:23Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "springy",
+    "mood": "lazy-sunday",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "cubed feta cheese",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "feta cheese",
+    "descriptor": "earthy springy",
+    "dishForm": "Pasta"
+  }
+}
