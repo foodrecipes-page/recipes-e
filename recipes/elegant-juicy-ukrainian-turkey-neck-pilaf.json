@@ -1,0 +1,105 @@
+{
+  "title": "elegant juicy ukrainian turkey neck pilaf",
+  "description": "a hearty, shojin-friendly pilaf dish from ukraine, featuring turkey neck and a rich, savory mother sauce base",
+  "cuisine": "ukrainian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "turkey neck",
+      "amount": "1",
+      "notes": "about 1 pound"
+    },
+    {
+      "name": "arborio rice",
+      "amount": "1 cup",
+      "notes": "short-grain rice suitable for pilaf"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": "traditional ukrainian spice"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": "fresh or dried thyme works well in this dish"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": "optional, but adds depth of flavor"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "heat the butter in a large saucepan over medium-high heat.",
+    "add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "add the minced garlic and cook for an additional 1-2 minutes, until fragrant.",
+    "add the caraway seeds and cook for 1 minute, stirring constantly.",
+    "add the turkey neck and cook until browned on all sides, about 5-6 minutes.",
+    "add the arborio rice and stir to combine with the onion mixture.",
+    "add the chicken broth, 1 cup at a time, stirring constantly and allowing each cup to absorb before adding the next.",
+    "bring the mixture to a boil, then reduce the heat to low, cover, and simmer for 20-25 minutes, or until the rice is cooked and the turkey is tender.",
+    "stir in the dried thyme and white wine vinegar (if using).",
+    "season the pilaf with salt and pepper to taste.",
+    "serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-for-lunch",
+    "fall-recipe",
+    "high-protein",
+    "one-pan",
+    "shojin-friendly",
+    "ukrainian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "elegant-juicy-ukrainian-turkey-neck-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/elegant-juicy-ukrainian-turkey-neck-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:07:41Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "turkey neck",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "turkey neck",
+    "descriptor": "Elegant Juicy",
+    "dishForm": "Pilaf"
+  }
+}
