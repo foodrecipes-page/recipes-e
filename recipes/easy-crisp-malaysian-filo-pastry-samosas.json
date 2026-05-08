@@ -1,0 +1,98 @@
+{
+  "title": "Easy Crisp Malaysian Filo Pastry Samosas",
+  "description": "A yeasty and crisp Malaysian dish featuring filo pastry, perfect for a weeknight dinner, this kosher-friendly recipe is a delicious and flavorful twist on traditional samosas.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "filo pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "peas",
+      "amount": "1 cup",
+      "notes": "frozen"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the chopped onion, diced potato, frozen peas, salt, and black pepper.",
+    "Roll out the filo pastry and cut it into small squares.",
+    "Place a tablespoon of the onion and potato mixture onto the center of each square.",
+    "Brush the edges of the pastry with a little water and fold the square into a triangle, pressing the edges to seal.",
+    "Repeat with the remaining pastry and filling.",
+    "Brush the tops of the samosas with a little vegetable oil.",
+    "Bake the samosas for 20 minutes, or until golden brown.",
+    "While the samosas are baking, combine the yeast and 1/4 cup of warm water in a small bowl.",
+    "After the samosas have baked for 15 minutes, brush them with the yeast mixture.",
+    "Remove the samosas from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "crisp",
+    "filo-pastry",
+    "kosher-friendly",
+    "malaysian-cuisine",
+    "weeknight",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "easy-crisp-malaysian-filo-pastry-samosas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-crisp-malaysian-filo-pastry-samosas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:51:50Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crisp",
+    "mood": "weeknight",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "filo pastry",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "filo pastry",
+    "descriptor": "Easy Crisp",
+    "dishForm": "Samosas"
+  }
+}
