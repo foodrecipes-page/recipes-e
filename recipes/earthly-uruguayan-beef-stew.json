@@ -1,0 +1,106 @@
+{
+  "title": "Earthly Uruguayan Beef Stew",
+  "description": "A hearty one-pot dish featuring tender beef, fresh spring vegetables, and a spicy kick from chilli sauce, this stew is a perfect representation of Uruguayan cuisine, kosher-friendly and full of flavor. It is a simple yet satisfying meal that can be enjoyed any time of the year.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "chilli sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "green beans",
+      "amount": "1 cup",
+      "notes": "trimmed"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium-high heat.",
+    "Add the beef to the pot and cook until browned on all sides, about 5 minutes.",
+    "Add the onion, carrots, and potatoes to the pot and cook until the vegetables are slightly tender, about 5 minutes.",
+    "Add the green beans, beef broth, tomato paste, chilli sauce, salt, and black pepper to the pot and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, until the beef and vegetables are tender, about 20 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "hearty-meals",
+    "kosher-friendly",
+    "one-pot",
+    "spring-recipes",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "earthly-uruguayan-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthly-uruguayan-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:10:18Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "springy",
+    "mood": "one-pot",
+    "technique": "blanch",
+    "primaryIngredient": "chilli sauce",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "earthy springy",
+    "dishForm": "Stew"
+  }
+}

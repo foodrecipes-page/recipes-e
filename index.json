@@ -257,6 +257,21 @@
     "shard": "e"
   },
   {
+    "slug": "earthly-uruguayan-beef-stew",
+    "title": "Earthly Uruguayan Beef Stew",
+    "tags": [
+      "beef-stew",
+      "hearty-meals",
+      "kosher-friendly",
+      "one-pot",
+      "spring-recipes",
+      "uruguayan-cuisine"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 50,
+    "shard": "e"
+  },
+  {
     "slug": "earthy-algerian-lamb-tagine",
     "title": "Earthy Algerian Lamb Tagine",
     "tags": [
