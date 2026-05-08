@@ -1,0 +1,92 @@
+{
+  "title": "Easy Going Japanese Chicken Drumsticks Dorayaki",
+  "description": "A briny and gooey Japanese dish from the Tohoku region featuring chicken drumsticks and steamed ingredients, perfect as a hangover cure, and can be adapted to be vegetarian friendly by substituting the chicken with a vegetarian alternative, the dish is formed into a dorayaki shape",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken drumsticks",
+      "amount": "8 pieces",
+      "notes": "or vegetarian alternative"
+    },
+    {
+      "name": "mirin",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sake",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red miso paste",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together mirin, soy sauce, sake, brown sugar, and rice vinegar to make the marinade.",
+    "Add the chicken drumsticks to the marinade and refrigerate for at least 2 hours or overnight.",
+    "Preheat a steamer with water to 212 degrees Fahrenheit.",
+    "Steam the marinated chicken drumsticks for 10 minutes.",
+    "In a small bowl, whisk together water and red miso paste to make the glaze.",
+    "Brush the glaze over the steamed chicken drumsticks.",
+    "Form the chicken drumsticks into a dorayaki shape by placing two drumsticks together with a small amount of glaze in between.",
+    "Serve the Easy Going Japanese Chicken Drumsticks Dorayaki hot.",
+    "Garnish with sliced green onions and grated daikon radish if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken-recipes",
+    "dorayaki",
+    "japanese-cuisine",
+    "steamed-food",
+    "tohoku-region",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "easy-going-japanese-chicken-drumsticks-dorayaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-going-japanese-chicken-drumsticks-dorayaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:18:17Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "gooey",
+    "mood": "hangover-cure",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "chicken drumsticks",
+    "diet": "vegetarian",
+    "region": "tohoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "chicken drumsticks",
+    "descriptor": "Easy Going",
+    "dishForm": "Dorayaki"
+  }
+}
