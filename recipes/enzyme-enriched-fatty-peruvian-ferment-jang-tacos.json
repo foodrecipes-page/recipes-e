@@ -1,0 +1,120 @@
+{
+  "title": "Enzyme-Enriched Fatty Peruvian Ferment-Jang Tacos",
+  "description": "A keto-friendly Peruvian dish featuring fermented ferment-jang in a velvety sauce served in lacquerware bowls.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Flour tortillas",
+      "amount": "8",
+      "notes": "preferably day-old tortillas"
+    },
+    {
+      "name": "Ferment-jang",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade ferment-jang"
+    },
+    {
+      "name": "Lard or vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "Chili peppers",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Chickpea flour",
+      "amount": "2 tablespoons",
+      "notes": "or all-purpose flour as substitute"
+    },
+    {
+      "name": "Enzyme-rich kimchi",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade kimchi"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the lard or vegetable oil in a large skillet over medium-high heat.",
+    "Sauté the diced onion and minced garlic until softened, about 3-4 minutes.",
+    "Add the diced chili peppers and cook for an additional 2 minutes.",
+    "Stir in the ground cumin and cook for 1 minute.",
+    "Add the chickpea flour and stir to combine, cooking for 1-2 minutes.",
+    "Add the ferment-jang and stir to combine, cooking for 2-3 minutes.",
+    "Stir in the enzyme-rich kimchi and cook for an additional 2 minutes.",
+    "Season with salt to taste.",
+    "Warm the flour tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the ferment-jang mixture onto a warmed tortilla and topping with chopped cilantro and a squeeze of lime juice.",
+    "Serve immediately in lacquerware bowls."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "high-protein",
+    "keto-friendly",
+    "one-pan",
+    "velvety",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 42
+  },
+  "slug": "enzyme-enriched-fatty-peruvian-ferment-jang-tacos",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/enzyme-enriched-fatty-peruvian-ferment-jang-tacos",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:13:37Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "ferment-jang",
+    "primaryIngredient": "flour tortilla",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "ferment-jang",
+    "descriptor": "Enzyme-Enriched Fatty",
+    "dishForm": "Tacos"
+  }
+}
