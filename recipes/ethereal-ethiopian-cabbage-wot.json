@@ -1,0 +1,101 @@
+{
+  "title": "Ethereal Ethiopian Cabbage Wot",
+  "description": "A sour, flaky, and romantic Ethiopian dish featuring canola oil and nigiri-shaping.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "1 large head, chopped"
+    },
+    {
+      "name": "Canola oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Bergamot powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Teff flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Nigiri (Ethiopian flatbread)",
+      "amount": "4 pieces"
+    }
+  ],
+  "instructions": [
+    "Heat canola oil in a large pan over medium heat.",
+    "Add chopped onions and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for an additional minute.",
+    "Add chopped cabbage and cook until slightly softened, about 5 minutes.",
+    "Sprinkle teff flour over the cabbage mixture and cook for 1 minute.",
+    "Add vegetable broth, salt, and black pepper, stirring to combine.",
+    "Bring the mixture to a simmer and cook until the cabbage is tender, about 10 minutes.",
+    "Meanwhile, shape nigiri into small balls and flatten slightly.",
+    "To serve, place a portion of the cabbage wot on each nigiri piece.",
+    "Garnish with a sprinkle of bergamot powder and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "high-fiber",
+    "low-fat",
+    "one-pan",
+    "romantic",
+    "sour",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "ethereal-ethiopian-cabbage-wot",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/ethereal-ethiopian-cabbage-wot",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:01:51Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "flaky",
+    "mood": "romantic",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "canola oil",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "cabbage",
+    "descriptor": "Ethereal",
+    "dishForm": "Wot"
+  }
+}
