@@ -1875,6 +1875,21 @@
     "shard": "e"
   },
   {
+    "slug": "easy-going-spanish-spaghetti-pasta",
+    "title": "Easy Going Spanish Spaghetti Pasta",
+    "tags": [
+      "gluten-free",
+      "lazy-sunday",
+      "one-pot",
+      "pasta",
+      "spanish",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 45,
+    "shard": "e"
+  },
+  {
     "slug": "easy-going-vietnamese-tofu-pho",
     "title": "Easy Going Vietnamese Tofu Pho",
     "tags": [
