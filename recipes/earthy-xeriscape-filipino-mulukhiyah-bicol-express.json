@@ -1,0 +1,100 @@
+{
+  "title": "Earthy Xeriscape Filipino Mulukhiyah Bicol Express",
+  "description": "A hearty, earthy, and rich Filipino dish featuring mulukhiyah, a type of leafy green, slow-cooked in a spicy broth with long-fermentation-dough and served in a hot pot vessel.",
+  "cuisine": "Filipino",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mulukhiyah leaves",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Long-fermentation-dough ( lumpia wrapper) ",
+      "amount": "1 package"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Pork belly",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a hot pot vessel over medium heat.",
+    "Add onion, garlic, and ginger, and sauté until the onion is translucent.",
+    "Add chicken breast and pork belly, and cook until browned.",
+    "Add mulukhiyah leaves, fish sauce, vinegar, and soy sauce, and stir to combine.",
+    "Add 2 cups of water to the hot pot vessel, and bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Meanwhile, cut the long-fermentation-dough into small pieces, and cook in a separate pot of boiling water until they float to the surface.",
+    "Drain the cooked dough, and add to the hot pot vessel.",
+    "Serve the mulukhiyah Bicol Express in the hot pot vessel, garnished with additional mulukhiyah leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "filipino",
+    "halal",
+    "heart-healthy",
+    "one-pan",
+    "spicy",
+    "veggie-rich",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "earthy-xeriscape-filipino-mulukhiyah-bicol-express",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-xeriscape-filipino-mulukhiyah-bicol-express",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:47:09Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "flaky",
+    "mood": "monsoon",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "mulukhiyah",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "mulukhiyah",
+    "descriptor": "Earthy Xeriscape",
+    "dishForm": "Bicol Express"
+  }
+}
