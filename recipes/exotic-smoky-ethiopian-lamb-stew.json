@@ -1,0 +1,111 @@
+{
+  "title": "Exotic Smoky Ethiopian Lamb Stew",
+  "description": "A fatty and juicy Ethiopian dish featuring paprika and a smoky flavor, low in glycemic index, nostalgic and perfect for special occasions.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked red pepper flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice mix",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the onion, garlic, and ginger to the pot and cook until the onion is translucent, about 5 minutes.",
+    "Add the paprika, smoked red pepper flakes, and berbere spice mix to the pot and cook for 1 minute.",
+    "Add the beef broth, tomato paste, salt, and black pepper to the pot and stir to combine.",
+    "Return the lamb to the pot and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2.5 hours, or until the lamb is tender.",
+    "Serve the stew hot, garnished with chopped fresh cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "low-glycemic",
+    "one-pot",
+    "special-occasion",
+    "spicy",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "exotic-smoky-ethiopian-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-smoky-ethiopian-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:55:47Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "smoke-hot",
+    "primaryIngredient": "paprika",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lamb",
+    "descriptor": "exotic smoky",
+    "dishForm": "Stew"
+  }
+}
