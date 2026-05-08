@@ -1,0 +1,146 @@
+{
+  "title": "Epicurean Sardinian Lamb Lasagna",
+  "description": "A rich and savory lasagna dish originating from the Italian island of Sardinia, featuring halal-friendly lamb and a unique blend of spices. It's the perfect comfort food for a lazy Sunday.",
+  "cuisine": "Italian",
+  "diet": [
+    "halal",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lasagna noodles",
+      "amount": "12-16 sheets",
+      "notes": ""
+    },
+    {
+      "name": "Ground lamb",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Chilli bean paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Nimono simmer (or beef broth)",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Eggplant",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "",
+      "notes": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Cook lasagna noodles according to package instructions, then set aside.",
+    "In a large skillet, heat olive oil over medium heat. Add onion, carrots, and celery, and cook until vegetables are tender, about 10 minutes.",
+    "Add garlic, chilli bean paste, and tomato paste to the skillet. Cook for 1-2 minutes, stirring constantly.",
+    "Add ground lamb to the skillet, breaking it up with a spoon as it cooks, until it's no longer pink, about 5-7 minutes.",
+    "Add nimono simmer (or beef broth) to the skillet, and bring to a simmer. Reduce heat to low and let it cook for 10-15 minutes, stirring occasionally.",
+    "In a separate pan, cook eggplant slices over medium heat until they're tender, about 5-7 minutes. Set aside.",
+    "In a large bowl, combine cooked lasagna noodles, lamb mixture, and cooked eggplant slices. Mix well to combine.",
+    "In a separate bowl, combine mozzarella and Parmesan cheese. Mix well to combine.",
+    "To assemble the lasagna, spread a layer of lamb mixture in the bottom of a 9x13-inch baking dish. Arrange 4 lasagna noodles on top, followed by a layer of cheese. Repeat this process, ending with a layer of cheese on top.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes. Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Remove the lasagna from the oven and let it cool for 10-15 minutes before serving. Garnish with chopped fresh parsley if desired.",
+    "Slice the lasagna into individual portions and serve hot."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 45,
+  "totalTimeMin": 90,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "halal-friendly",
+    "italian",
+    "lamb",
+    "lasagna",
+    "one-pan",
+    "rich-and-hearty",
+    "sardinian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1080,
+    "protein": 60,
+    "carbs": 80,
+    "fat": 72
+  },
+  "slug": "epicurean-sardinian-lamb-lasagna",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/epicurean-sardinian-lamb-lasagna",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T08:01:18Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "lazy-sunday",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "chilli bean paste",
+    "diet": "halal",
+    "region": "sardinian",
+    "cuisineAdjective": "Sardinian",
+    "mainIngredient": "lamb",
+    "descriptor": "Epicurean",
+    "dishForm": "Lasagna"
+  }
+}
