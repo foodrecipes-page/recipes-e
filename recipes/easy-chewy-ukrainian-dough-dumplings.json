@@ -1,0 +1,87 @@
+{
+  "title": "Ukrainian Cherry Dumplings",
+  "description": "A traditional Ukrainian dish featuring fermented dough and sweet glace cherries, perfect for kids and whole30 friendly, these chewy dumplings are steamed in leaf wraps to create a delicious and healthy snack, the fermentation process gives the dough a unique flavor and texture",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "whole30",
+    "kid-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "warm water",
+      "amount": "2 cups",
+      "notes": "for fermentation"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "3 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "glace cherries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large leaves",
+      "amount": "12",
+      "notes": "for wrapping dumplings"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine warm water and yeast, letting it sit for 5 minutes to activate the yeast.",
+    "Add flour, salt, and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Let the dough ferment in a warm place for 1 hour, or until it has doubled in size.",
+    "Divide the dough into 12 equal pieces and roll each into a ball.",
+    "Flatten each ball into a disk and place a glace cherry in the center.",
+    "Fold the dough over the cherry to form a half-moon shape and press the edges together to seal.",
+    "Wrap each dumpling in a large leaf, making sure to cover the entire dumpling.",
+    "Place the wrapped dumplings in a steamer basket and steam for 15 minutes.",
+    "Serve the dumplings hot, with the leaf wraps still intact."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 60,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "fermented",
+    "healthy-snack",
+    "kid-friendly",
+    "steamed",
+    "ukrainian",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 1
+  },
+  "slug": "easy-chewy-ukrainian-dough-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-chewy-ukrainian-dough-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:03:22Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "glace cherry",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "dough",
+    "descriptor": "easy chewy",
+    "dishForm": "Dumplings"
+  }
+}
