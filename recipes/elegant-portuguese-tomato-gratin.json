@@ -1,0 +1,95 @@
+{
+  "title": "Elegant Portuguese Tomato Gratin",
+  "description": "A light and energizing Portuguese dish featuring confit tomatoes and oregano, perfect for a low carb friendly meal.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tomatoes",
+      "amount": "12 oz",
+      "notes": "fresh, ripe"
+    },
+    {
+      "name": "Oregano",
+      "amount": "2 tbsp",
+      "notes": "dried"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Goat Cheese",
+      "amount": "6 oz",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Slice the tomatoes into 1/4 inch thick rounds and place on a baking sheet.",
+    "Drizzle the olive oil over the tomatoes and sprinkle with salt, pepper, and oregano.",
+    "Roast the tomatoes in the oven for 20 minutes, or until they are tender and lightly caramelized.",
+    "In a small bowl, mix together the garlic and goat cheese.",
+    "Spoon the garlic and goat cheese mixture over the roasted tomatoes.",
+    "Transfer the tomatoes to individual mini cocottes and top with chopped fresh basil.",
+    "Bake the gratin in the oven for an additional 10 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "elegant-dinner",
+    "gluten-free",
+    "healthy-meal",
+    "low-carb",
+    "one-pan",
+    "portuguese-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "elegant-portuguese-tomato-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/elegant-portuguese-tomato-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:51:14Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "light",
+    "mood": "energizing",
+    "technique": "confit-tomato",
+    "primaryIngredient": "oregano",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "tomato",
+    "descriptor": "energizing oven roasted",
+    "dishForm": "Gratin"
+  }
+}
