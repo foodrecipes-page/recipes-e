@@ -1,0 +1,107 @@
+{
+  "title": "Energizing Jamaican Cocoa Bowl",
+  "description": "A rich and creamy bowl featuring dark Jamaican cocoa, sweet bananas, and energizing coconut flakes, served in a stoneware bowl for a warm and comforting meal.",
+  "cuisine": "jamaican",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "dark jamaican cocoa powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "ripe banana",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "cocoa nibs",
+      "amount": "1 ounce",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh mint",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a medium saucepan over medium heat.",
+    "Add the cocoa powder and whisk until well combined.",
+    "Add the coconut milk and bring the mixture to a simmer.",
+    "Reduce the heat to low and let cook for 5 minutes, whisking constantly.",
+    "Add the honey, vanilla extract, and salt, and whisk until the honey is dissolved.",
+    "Stir in the cocoa nibs and cook for an additional 1 minute.",
+    "Mash the bananas in a separate bowl and stir in the coconut flakes.",
+    "To assemble the bowls, divide the cocoa mixture between two stoneware bowls, then top with the mashed banana mixture and a sprinkle of chopped fresh mint.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "cocoa",
+    "coconut",
+    "comfort-food",
+    "energizing",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 14
+  },
+  "slug": "energizing-jamaican-cocoa-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-jamaican-cocoa-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:39:24Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "fold",
+    "primaryIngredient": "cocoa powder",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "cocoa",
+    "descriptor": "energizing",
+    "dishForm": "Bowl"
+  }
+}

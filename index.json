@@ -3796,6 +3796,20 @@
     "shard": "e"
   },
   {
+    "slug": "energizing-flexitarian-friendly-king-prawns-polish",
+    "title": "Energizing Flexitarian-Friendly King Prawns Polish",
+    "tags": [
+      "european",
+      "flexitarian",
+      "high-protein",
+      "one-pan",
+      "seafood"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 27,
+    "shard": "e"
+  },
+  {
     "slug": "energizing-floral-silky-kenyan-barramundi-stir-fry",
     "title": "Energizing Floral Silky Kenyan Barramundi Stir-fry",
     "tags": [
@@ -3894,6 +3908,21 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 30,
+    "shard": "e"
+  },
+  {
+    "slug": "energizing-jamaican-cocoa-bowl",
+    "title": "Energizing Jamaican Cocoa Bowl",
+    "tags": [
+      "breakfast",
+      "cocoa",
+      "coconut",
+      "comfort-food",
+      "energizing",
+      "vegan"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {

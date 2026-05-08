@@ -1,0 +1,119 @@
+{
+  "title": "Energizing Flexitarian-Friendly King Prawns Polish",
+  "description": "A resinous and light Polish dish featuring king prawns, perfect for flexitarian diets.",
+  "cuisine": "Polish",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "King prawns",
+      "amount": "12",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "White cabbage",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "150g",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "100g",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Shio-cured salmon",
+      "amount": "50g",
+      "notes": "diced (optional)"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the diced carrots and cook for 5 minutes, or until they start to soften.",
+    "Add the sliced red bell pepper and cook for another 2 minutes, until the vegetables are tender.",
+    "If using shio-cured salmon, stir it through the vegetables along with the chopped garlic.",
+    "Add the peeled and deveined king prawns and cook for 2-3 minutes per side, or until they are pink and fully cooked.",
+    "Stir through chopped fresh parsley, salt and black pepper to taste.",
+    "Garnish with chopped fresh dill and serve hot.",
+    "Serve with lemon juice on the side for added flavor, if desired.",
+    "Adjust seasoning and portion size as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "european",
+    "flexitarian",
+    "high-protein",
+    "one-pan",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 14
+  },
+  "slug": "energizing-flexitarian-friendly-king-prawns-polish",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-flexitarian-friendly-king-prawns-polish",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:38:30Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "light",
+    "mood": "energizing",
+    "technique": "shio-cure",
+    "primaryIngredient": "king prawns",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "flexitarian-friendly",
+    "mainIngredient": "king prawns",
+    "descriptor": "energizing",
+    "dishForm": "Polish"
+  }
+}
