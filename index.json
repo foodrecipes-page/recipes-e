@@ -3373,6 +3373,22 @@
     "shard": "e"
   },
   {
+    "slug": "energizing-malty-algerian-goat-meat-tagine",
+    "title": "Energizing Malty Algerian Goat Meat Tagine",
+    "tags": [
+      "aerated",
+      "algerian-cuisine",
+      "iron-teppan",
+      "malty",
+      "one-pan",
+      "post-workout",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 110,
+    "shard": "e"
+  },
+  {
     "slug": "energizing-mexican-noodles-enchiladas",
     "title": "Energizing Mexican Noodles Enchiladas",
     "tags": [
@@ -4319,6 +4335,21 @@
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 150,
+    "shard": "e"
+  },
+  {
+    "slug": "exotic-egyptian-lentil-flatbread",
+    "title": "Exotic Egyptian Lentil Flatbread",
+    "tags": [
+      "comal-cooked",
+      "jain-friendly",
+      "lentil-based",
+      "middle-eastern",
+      "quick-fix",
+      "vegetarian"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 30,
     "shard": "e"
   },
   {

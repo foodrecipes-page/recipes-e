@@ -1,0 +1,94 @@
+{
+  "title": "Exotic Egyptian Lentil Flatbread",
+  "description": "A charred, fluffy, and quick-fix Egyptian dish featuring red food coloring, this Jain-friendly flatbread is perfect for a snack or light meal, cooked to perfection on a comal.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "Jain",
+    "Vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Red lentils",
+      "amount": "1 cup",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Red food coloring",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the red lentils, all-purpose flour, red food coloring, salt, sugar, and active dry yeast.",
+    "Gradually add the water to the bowl and mix until a smooth batter forms.",
+    "Knead the batter for 5 minutes until it becomes elastic and smooth.",
+    "Divide the batter into 4 equal portions and shape each portion into a ball.",
+    "Roll out each ball into a thin circle, about 1/8 inch thick.",
+    "Heat a comal over medium-high heat and brush with olive oil.",
+    "Place a flatbread on the comal and cook for 1-2 minutes, until it starts to char and puff up.",
+    "Flip the flatbread and cook for another 1-2 minutes, until it is golden brown and crispy.",
+    "Repeat with the remaining flatbreads.",
+    "Serve the flatbreads hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comal-cooked",
+    "jain-friendly",
+    "lentil-based",
+    "middle-eastern",
+    "quick-fix",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "exotic-egyptian-lentil-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-egyptian-lentil-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:31:29Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "fluffy",
+    "mood": "quick-fix",
+    "technique": "emulsify",
+    "primaryIngredient": "red food colouring",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lentils",
+    "descriptor": "emulsified",
+    "dishForm": "Flatbread"
+  }
+}
