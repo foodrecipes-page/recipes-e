@@ -1,0 +1,94 @@
+{
+  "title": "Exotic Smoky Kenyan Chocolate Chip Bars",
+  "description": "A smoky and crumbly Kenyan dessert featuring chocolate chips, perfect for a unique treat. This halal-friendly dish is light and flavorful.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "semi sweet chocolate chips",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped pecans",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a medium bowl, whisk together the flour and smoked paprika.",
+    "In a large bowl, combine the melted butter, sugar, eggs, and vanilla extract.",
+    "Add the flour mixture to the wet ingredients and stir until just combined.",
+    "Fold in the chocolate chips and pecans, if using.",
+    "Press the mixture into a 9x9 inch baking dish.",
+    "Bake for 25 minutes or until the edges are lightly golden.",
+    "Remove from the oven and let cool completely.",
+    "Cut into bars and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "chocolatey",
+    "crumbly",
+    "dessert",
+    "halal",
+    "kenyan",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "exotic-smoky-kenyan-chocolate-chip-bars",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-smoky-kenyan-chocolate-chip-bars",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:11:32Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "cure",
+    "primaryIngredient": "chocolate chips",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "chocolate chips",
+    "descriptor": "exotic smoky",
+    "dishForm": "Bars"
+  }
+}
