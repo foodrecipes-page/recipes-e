@@ -1,0 +1,104 @@
+{
+  "title": "Exotic Crisp Thai Porcini Pad Thai",
+  "description": "A quick-fix Thai dish featuring porcini mushrooms and a tagine-cooked twist, this exotic pad thai is low in calories and packed with flavor.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably brown rice noodles"
+    },
+    {
+      "name": "porcini mushrooms",
+      "amount": "1 cup",
+      "notes": "dried and rehydrated"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "shallots",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large tagine or wok over medium-high heat.",
+    "Add the shallots and cook until they are lightly browned and crispy.",
+    "Add the rehydrated porcini mushrooms and cook for an additional 2 minutes.",
+    "Add the rice noodles and stir to combine with the mushroom and shallot mixture.",
+    "Add the tagine spice blend, lime juice, fish sauce, and salt, and stir-fry for 2 minutes.",
+    "Add the bean sprouts and stir-fry until they are tender but still crisp.",
+    "Transfer the pad thai to a serving platter and top with chopped peanuts.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "exotic-mushrooms",
+    "low-calorie",
+    "one-pan",
+    "quick-fix",
+    "thai-inspired",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "exotic-crisp-thai-porcini-pad-thai",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-crisp-thai-porcini-pad-thai",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:54:19Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crisp",
+    "mood": "quick-fix",
+    "technique": "tagine-cook",
+    "primaryIngredient": "porcini",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "porcini",
+    "descriptor": "Exotic Crisp",
+    "dishForm": "Pad Thai"
+  }
+}
