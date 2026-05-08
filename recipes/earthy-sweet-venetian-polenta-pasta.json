@@ -1,0 +1,106 @@
+{
+  "title": "Earthy Sweet Venetian Polenta Pasta",
+  "description": "A solo dinner Italian dish featuring mixed peel and cure, with a flexitarian twist, served on a slate tile vessel.",
+  "cuisine": "Italian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "polenta",
+      "amount": "1 cup",
+      "notes": "coarse cornmeal"
+    },
+    {
+      "name": "mixed peel",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cured pancetta",
+      "amount": "4 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mustard",
+      "amount": "1 teaspoon",
+      "notes": "whole grain"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring 4 cups of water to a boil in a large pot.",
+    "Gradually whisk in the polenta and reduce heat to medium.",
+    "Cook the polenta for 20 minutes, stirring frequently, until it thickens.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the diced pancetta and cook until crispy, then set aside.",
+    "Add the chopped mixed peel to the skillet and cook for 2 minutes.",
+    "Add the white wine, mustard, salt, and black pepper to the skillet and stir to combine.",
+    "Simmer the sauce for 5 minutes, stirring occasionally.",
+    "Stir the grated parmesan cheese into the polenta.",
+    "To serve, place the cooked polenta on a slate tile vessel, top with the sauce, and garnish with chopped parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "flexitarian",
+    "italian-food",
+    "one-pot",
+    "slate-tile",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "earthy-sweet-venetian-polenta-pasta",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-sweet-venetian-polenta-pasta",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-08T21:09:03Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "bouncy-qq",
+    "mood": "solo-dinner",
+    "technique": "cure",
+    "primaryIngredient": "mixed peel",
+    "diet": "flexitarian",
+    "region": "venetian",
+    "cuisineAdjective": "Venetian",
+    "mainIngredient": "polenta",
+    "descriptor": "earthy sweet",
+    "dishForm": "Pasta"
+  }
+}
