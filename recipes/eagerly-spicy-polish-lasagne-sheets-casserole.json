@@ -1,0 +1,115 @@
+{
+  "title": "eagerly spicy polish lasagne sheets casserole",
+  "description": "a nostalgic polish dish featuring spiced lasagne sheets, tadka, and fluffy texture, suitable for diabetics.",
+  "cuisine": "polish",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagne sheets",
+      "amount": "9"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp",
+      "notes": "add extra for extra flavor"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "green chilies",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tadka oil",
+      "amount": "2 tbsp",
+      "notes": "use any oil with high smoke point"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375°f (190°c).",
+    "cook lasagne sheets according to package instructions.",
+    "in a pan, heat tadka oil over medium heat.",
+    "add chopped onion, grated ginger, and minced garlic.",
+    "cook until onion is translucent, about 5 minutes.",
+    "add turmeric, cumin, chopped green chilies, salt, and pepper.",
+    "cook for 1 minute, stirring constantly.",
+    "add cooked chicken breast and stir to combine.",
+    "layer cooked lasagne sheets, chicken mixture, and shredded cheese in a baking dish.",
+    "cover with foil and bake for 20 minutes.",
+    "remove foil and bake for an additional 10 minutes, or until cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-friendly",
+    "gluten-free",
+    "high-protein",
+    "lactose-free",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 55,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "eagerly-spicy-polish-lasagne-sheets-casserole",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/eagerly-spicy-polish-lasagne-sheets-casserole",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:21:54Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "tadka",
+    "primaryIngredient": "lasagne sheets",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Lasagne sheets",
+    "descriptor": "Eagerly Spicy",
+    "dishForm": "Casserole"
+  }
+}
