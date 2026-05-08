@@ -1,0 +1,105 @@
+{
+  "title": "Exquisite Creamy Mediterranean Pear Tagine",
+  "description": "A rich and indulgent plant-based dish featuring pears and a mirepoix base, with a creamy and slightly bitter Mediterranean flavor profile.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ripe pears",
+      "amount": "4",
+      "notes": "any variety, peeled and chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "canned chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion, carrots, and celery and cook until the vegetables are tender, about 10 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the chopped pears, chickpeas, vegetable broth, and dried thyme, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Stir in the coconut cream and continue to simmer, uncovered, for an additional 10 minutes.",
+    "Season the tagine to taste with salt and pepper.",
+    "Serve the tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "autumn",
+    "comfort-food",
+    "mediterranean",
+    "one-pot",
+    "plant-based",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "exquisite-creamy-mediterranean-pear-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exquisite-creamy-mediterranean-pear-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:13:08Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "pears",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "pears",
+    "descriptor": "Exquisite creamy",
+    "dishForm": "Tagine"
+  }
+}
