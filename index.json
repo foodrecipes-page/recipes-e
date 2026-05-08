@@ -4975,6 +4975,22 @@
     "shard": "e"
   },
   {
+    "slug": "exotic-smoky-egyptian-chicken-stew",
+    "title": "Exotic Smoky Egyptian Chicken Stew",
+    "tags": [
+      "chicken-stew",
+      "gluten-free",
+      "low-sodium",
+      "one-pot",
+      "smoky",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 40,
+    "shard": "e"
+  },
+  {
     "slug": "exotic-smoky-ethiopian-lamb-stew",
     "title": "Exotic Smoky Ethiopian Lamb Stew",
     "tags": [

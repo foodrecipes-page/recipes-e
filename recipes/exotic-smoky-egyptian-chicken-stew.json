@@ -1,0 +1,107 @@
+{
+  "title": "Exotic Smoky Egyptian Chicken Stew",
+  "description": "A briny and snappy one-pot Egyptian dish featuring Thai holy basil krapao, with a smoky and spicy flavor, low in sodium, this stew is perfect for a weeknight dinner",
+  "cuisine": "Egyptian",
+  "diet": [
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thai holy basil krapao",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat",
+    "Add the chicken to the pot and cook until browned on all sides, about 5 minutes",
+    "Add the chopped onion to the pot and cook until it starts to soften, about 3 minutes",
+    "Add the minced garlic to the pot and cook for 1 minute, until fragrant",
+    "Add the chopped Thai holy basil krapao, smoked paprika, and cumin to the pot and cook for 1 minute, until the spices are fragrant",
+    "Add the chicken broth, diced tomatoes, and salt-free seasoning blend to the pot, stirring to combine",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 20 minutes, or until the chicken is cooked through",
+    "Taste and adjust the seasoning as needed",
+    "Serve the stew hot, garnished with additional chopped Thai holy basil krapao if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-stew",
+    "gluten-free",
+    "low-sodium",
+    "one-pot",
+    "smoky",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "exotic-smoky-egyptian-chicken-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-smoky-egyptian-chicken-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:28:06Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "snappy",
+    "mood": "one-pot",
+    "technique": "smoke-hot",
+    "primaryIngredient": "thai-holy-basil-krapao",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "chicken",
+    "descriptor": "exotic smoky",
+    "dishForm": "Stew"
+  }
+}
