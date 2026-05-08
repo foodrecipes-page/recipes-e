@@ -1,0 +1,106 @@
+{
+  "title": "Earthy Molten French Prawns Gratin",
+  "description": "A nostalgic French dish featuring prawns in a yeasty and molten sauce, this earthy molten French prawns gratin is a delicious and satisfying meal. It is a nut-free-friendly dish that is perfect for a dinner party.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free",
+    "shellfish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "prawns",
+      "amount": "12 large",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, melt the butter over medium heat and add the garlic, cooking until fragrant.",
+    "Add the prawns to the skillet and cook until they are pink and just cooked through.",
+    "Remove the prawns from the skillet and set them aside on a plate.",
+    "Add the white wine to the skillet and bring to a boil, scraping up any browned bits from the bottom of the pan.",
+    "Add the chicken broth to the skillet and bring to a simmer, cooking until the liquid has reduced by half.",
+    "Stir in the yeast and cook for 1 minute, until fragrant.",
+    "In a greased 9x13 inch baking dish, arrange the cooked prawns in a single layer.",
+    "Pour the sauce from the skillet over the prawns and top with the shredded gruyere cheese.",
+    "Bake the gratin in the preheated oven for 15 minutes, until the cheese is melted and bubbly.",
+    "Sprinkle the chopped parsley over the top of the gratin and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "french-cuisine",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "earthy-molten-french-prawns-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-molten-french-prawns-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:42:20Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "molten",
+    "mood": "nostalgic",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "prawns",
+    "diet": "nut-free",
+    "region": "basque-french",
+    "cuisineAdjective": "French",
+    "mainIngredient": "prawns",
+    "descriptor": "earthy molten",
+    "dishForm": "Gratin"
+  }
+}
