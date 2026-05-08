@@ -286,6 +286,20 @@
     "shard": "e"
   },
   {
+    "slug": "earthly-tunisian-sun-dried-tomatoes-tagine",
+    "title": "Earthly Tunisian Sun Dried Tomatoes Tagine",
+    "tags": [
+      "comfort-food",
+      "mediterranean",
+      "one-pot",
+      "tunisian",
+      "vegetarian"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 50,
+    "shard": "e"
+  },
+  {
     "slug": "earthly-uruguayan-beef-stew",
     "title": "Earthly Uruguayan Beef Stew",
     "tags": [
