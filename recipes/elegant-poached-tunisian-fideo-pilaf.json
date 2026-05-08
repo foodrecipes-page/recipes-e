@@ -1,0 +1,102 @@
+{
+  "title": "Elegant Poached Tunisian Fideo Pilaf",
+  "description": "A floral and snappy Tunisian dish featuring fideo, perfect for a brunch mood, with low-glycemic-friendly ingredients.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "low-glycemic",
+    "mediterranean"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "fideo pasta",
+      "amount": "8 oz",
+      "notes": "thin, short noodles"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried mint",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried rose petals",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "poached eggs",
+      "amount": "4 large"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the fideo pasta, chicken broth, dried mint, dried rose petals, salt, and lemon juice to the saucepan.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "While the pilaf is cooking, poach the eggs in a separate saucepan of simmering water.",
+    "To assemble the dish, place a portion of the pilaf on a plate and top with a poached egg.",
+    "Garnish with additional dried rose petals and mint, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "floral",
+    "low-glycemic",
+    "mediterranean",
+    "one-pan",
+    "snappy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 50,
+    "fat": 15
+  },
+  "slug": "elegant-poached-tunisian-fideo-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/elegant-poached-tunisian-fideo-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:59:22Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "snappy",
+    "mood": "brunch-mood",
+    "technique": "poach",
+    "primaryIngredient": "fideo",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "fideo",
+    "descriptor": "Elegant Poached",
+    "dishForm": "Pilaf"
+  }
+}
