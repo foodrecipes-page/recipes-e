@@ -1,0 +1,104 @@
+{
+  "title": "Extraordinary Xanthan British Turkey Mince Chocolate Yorkshire Pudding",
+  "description": "A snappy date-night British dish featuring earthy turkey mince, tempering chocolate, and low-glycemic-friendly Yorkshire pudding.",
+  "cuisine": "British",
+  "diet": [
+    "low-carb",
+    "gluten-free",
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Turkey Mince",
+      "amount": "500g"
+    },
+    {
+      "name": "Dark Chocolate Chips",
+      "amount": "150g",
+      "notes": "At least 85% cocoa"
+    },
+    {
+      "name": "Coconut Flour",
+      "amount": "100g"
+    },
+    {
+      "name": "Xanthan Gum",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Egg Whites",
+      "amount": "3 large"
+    },
+    {
+      "name": "Granulated Swerve",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Butter",
+      "amount": "25g"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "50g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "In a medium bowl, whisk together coconut flour, xanthan gum, salt, and cinnamon.",
+    "In a separate bowl, mix together turkey mince, egg whites, granulated Swerve, and melted butter.",
+    "Add the dry ingredients to the wet ingredients and mix until just combined.",
+    "Pour the mixture into a greased 9x13-inch baking dish.",
+    "Bake for 20-25 minutes or until the edges are set and the center is slightly gooey.",
+    "While the turkey mixture is baking, melt the chocolate chips in a double boiler or in the microwave in 30-second increments, stirring between each interval.",
+    "Remove the turkey mixture from the oven and let it cool for 5 minutes.",
+    "Pour the tempered chocolate over the turkey mixture and smooth the top.",
+    "Return the dish to the oven and bake for an additional 5-7 minutes or until the chocolate is set and the edges are golden brown.",
+    "Remove the dish from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "british",
+    "chocolate",
+    "date-night",
+    "gluten-free",
+    "keto",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 32,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "extraordinary-xanthan-british-turkey-mince-chocolate-yorkshire-pudding",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/extraordinary-xanthan-british-turkey-mince-chocolate-yorkshire-pudding",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:09:49Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "snappy",
+    "mood": "date-night",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "turkey mince",
+    "diet": "low-glycemic",
+    "region": "english",
+    "cuisineAdjective": "British",
+    "mainIngredient": "Turkey Mince",
+    "descriptor": "Extraordinary Xanthan",
+    "dishForm": "Chocolate Yorkshire Pudding"
+  }
+}
