@@ -1,0 +1,119 @@
+{
+  "title": "Extraordinary Roasted American Tod Grill",
+  "description": "A show-off roasted American dish featuring yellow pepper, deep-fried tod, and ayurvedic sattvic-friendly ingredients, all cooked on an iron teppan.",
+  "cuisine": "American",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Yellow pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Deep-fried tod",
+      "amount": "1/2",
+      "notes": ""
+    },
+    {
+      "name": "Cauliflower",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "0.25",
+      "notes": ""
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "0.25",
+      "notes": ""
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "0.25",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick iron teppan over medium-high heat.",
+    "Add 2 tablespoons of ghee to the iron teppan and let it melt.",
+    "Add the deep-fried tod to the iron teppan and cook for 2 minutes on each side.",
+    "Add the sliced yellow pepper to the iron teppan and cook for 3 minutes on each side.",
+    "Add the sliced cauliflower, garlic, cumin powder, turmeric powder, salt, and black pepper to the iron teppan and mix well.",
+    "Continue cooking for 2 more minutes and mix well.",
+    "Garnish with fresh cilantro, basil, and mint.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "ayurvedic",
+    "easy-weeknight",
+    "high-protein",
+    "one-pan",
+    "roasted",
+    "sattvic"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "extraordinary-roasted-american-tod-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/extraordinary-roasted-american-tod-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:45:29Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "yellow pepper",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Tod",
+    "descriptor": "Extraordinary Roasted",
+    "dishForm": "Grill"
+  }
+}
