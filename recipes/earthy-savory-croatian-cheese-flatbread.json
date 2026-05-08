@@ -1,0 +1,101 @@
+{
+  "title": "Earthy Savory Croatian Cheese Flatbread",
+  "description": "This lacto-vegetarian-friendly dish features a salty and crumbly Croatian cheese flatbread, perfect for a date night, with flavors of garlic and wok-hei. The combination of ingredients creates a delicious and savory taste experience.",
+  "cuisine": "Croatian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic clove",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Croatian cheese",
+      "amount": "1 cup",
+      "notes": "crumbly, such as Paski Sir"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "wok-hei oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, salt, and yeast.",
+    "Gradually add water and olive oil to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Punch down the dough and roll it out into a thin circle, about 1/4 inch thick.",
+    "Spread the minced garlic clove over the dough, leaving a 1-inch border around the edges.",
+    "Crumble the Croatian cheese over the garlic.",
+    "Drizzle the wok-hei oil over the cheese.",
+    "Sprinkle chopped parsley over the top.",
+    "Bake the flatbread in the preheated oven for 20 minutes, or until it is golden brown and crispy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian-cuisine",
+    "crusty-bread",
+    "date-night",
+    "garlic-lovers",
+    "lacto-vegetarian",
+    "savory-dishes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "earthy-savory-croatian-cheese-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-savory-croatian-cheese-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:27:35Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "wok-hei",
+    "primaryIngredient": "garlic clove",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "cheese",
+    "descriptor": "earthy savory",
+    "dishForm": "Flatbread"
+  }
+}

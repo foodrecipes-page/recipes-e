@@ -1,0 +1,109 @@
+{
+  "title": "Exotic Velvety Thai Peas Khao Soi",
+  "description": "A jammy and velvety Thai dish featuring peas and coconut cream, this recipe is perfect for meal prep and can be served raw or cooked. It is a unique twist on traditional Khao Soi.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "peas",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "noodles",
+      "amount": "1 cup",
+      "notes": "rice or egg noodles"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pan over medium heat.",
+    "Add the onion and cook until softened, about 3 minutes.",
+    "Add the garlic and ginger and cook for another minute.",
+    "Add the curry paste and cook, stirring constantly, for 1 minute.",
+    "Pour in the coconut cream and stir to combine.",
+    "Bring the mixture to a simmer and cook for 5 minutes.",
+    "Add the peas, soy sauce, and fish sauce (if using) to the pan.",
+    "Cook for an additional 2 minutes, or until the peas are tender.",
+    "Cook the noodles according to package instructions.",
+    "Combine the noodles and pea mixture in a large bowl.",
+    "Serve hot, garnished with chopped herbs or scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "meal-prep",
+    "one-pot",
+    "raw-friendly",
+    "thai-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "exotic-velvety-thai-peas-khao-soi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-velvety-thai-peas-khao-soi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:27:56Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "velvety",
+    "mood": "meal-prep",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "peas",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "peas",
+    "descriptor": "exotic velvety",
+    "dishForm": "Khao Soi"
+  }
+}
