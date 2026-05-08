@@ -1,0 +1,97 @@
+{
+  "title": "Earthy Slovakian Squid Skewers",
+  "description": "A flexitarian friendly dish featuring squid, with herbal and springy flavors, perfect for a solo dinner",
+  "cuisine": "Slovakian",
+  "diet": [
+    "flexitarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "squid tubes",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into 1 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat",
+    "In a large bowl, whisk together olive oil, garlic, parsley, dill, lemon juice, salt, black pepper, and paprika",
+    "Add the squid pieces to the bowl and toss to coat with the marinade",
+    "Thread the marinated squid pieces onto skewers",
+    "Grill the skewers for 2-3 minutes per side, or until the squid is cooked through",
+    "Let the skewers rest for 1 minute before serving",
+    "Serve the skewers hot, garnished with additional parsley and lemon wedges if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian",
+    "high-protein",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "earthy-slovakian-squid-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-slovakian-squid-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:33:03Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "springy",
+    "mood": "solo-dinner",
+    "technique": "brine-dry",
+    "primaryIngredient": "squid",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "squid",
+    "descriptor": "earthy springy",
+    "dishForm": "Skewers"
+  }
+}
