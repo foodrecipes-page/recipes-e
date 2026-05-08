@@ -1,0 +1,93 @@
+{
+  "title": "Exotic Smoky Middle Eastern Eggs Shakshuka",
+  "description": "A jammy and silky Middle Eastern dish featuring cinnamon and smoky flavors, perfect for meal prep and nut-free friendly, cooked in a ceramic tagine.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "canned crushed tomatoes",
+      "amount": "28 oz",
+      "notes": "no salt added"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Heat the olive oil in the ceramic tagine over medium heat.",
+    "Add the smoked paprika, ground cinnamon, ground cumin, salt, and black pepper, and cook for 1 minute, stirring constantly.",
+    "Add the canned crushed tomatoes and stir to combine, then bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, stirring occasionally, for 10 minutes.",
+    "Create 6 wells in the tomato mixture and crack an egg into each well.",
+    "Transfer the tagine to the preheated oven and bake for 15-20 minutes, or until the eggs are cooked to desired doneness.",
+    "Remove the tagine from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "meal-prep",
+    "middle-eastern",
+    "nut-free",
+    "one-pan",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "exotic-smoky-middle-eastern-eggs-shakshuka",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-smoky-middle-eastern-eggs-shakshuka",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:46:42Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "silky",
+    "mood": "meal-prep",
+    "technique": "smoke-hot",
+    "primaryIngredient": "cinnamon",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "eggs",
+    "descriptor": "exotic smoky",
+    "dishForm": "Shakshuka"
+  }
+}
