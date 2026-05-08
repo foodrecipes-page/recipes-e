@@ -1,0 +1,108 @@
+{
+  "title": "Extra Crispy Norwegian Beef Grill",
+  "description": "A buttery, crunchy, midnight-craving Norwegian dish featuring paccheri pasta and a char-grilled beef patty.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Paccheri pasta",
+      "amount": "12 oz"
+    },
+    {
+      "name": "Beef patty",
+      "amount": "1 lb",
+      "notes": "Choose a high-quality beef option, such as ribeye or sirloin"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "Gluten-free flour",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "0.25 tsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "0.25 tsp"
+    },
+    {
+      "name": "Chopped parsley",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "4"
+    },
+    {
+      "name": "Char-grill seasoning",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Prepare a charcoal grill or grill pan to medium-high heat.",
+    "Season the beef patty with salt, black pepper, garlic powder, and paprika.",
+    "In a small bowl, mix together gluten-free flour and egg to create a breading mixture.",
+    "Dip the beef patty in the breading mixture, coating it evenly.",
+    "Heat 2 tablespoons of butter in a skillet over medium heat.",
+    "Sear the beef patty for 3-4 minutes per side, or until cooked to your desired level of doneness.",
+    "Meanwhile, cook the paccheri pasta according to package instructions until al dente.",
+    "In a small saucepan, melt the remaining 2 tablespoons of butter over low heat.",
+    "Add the chopped parsley and cook for 1-2 minutes, or until wilted.",
+    "To assemble the dish, place a cooked beef patty on top of the paccheri pasta, then spoon the parsley butter over the top.",
+    "Serve immediately, garnished with lemon wedges and a sprinkle of char-grill seasoning."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-dinner",
+    "easy-gluten-free",
+    "high-protein",
+    "midnight-craving",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 24,
+    "fat": 34
+  },
+  "slug": "extra-crispy-norwegian-beef-grill",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/extra-crispy-norwegian-beef-grill",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:30:03Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crunchy",
+    "mood": "midnight-craving",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "paccheri pasta",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "beef",
+    "descriptor": "Extra Crispy",
+    "dishForm": "Grill"
+  }
+}
