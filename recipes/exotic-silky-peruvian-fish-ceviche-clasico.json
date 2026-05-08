@@ -1,0 +1,113 @@
+{
+  "title": "Exotic Silky Peruvian Fish Ceviche Clasico",
+  "description": "A funky and silky Peruvian dish featuring pickle juice and deglaze fond, perfect for a solo dinner, this lacto vegetarian friendly ceviche clasico is a unique twist on traditional ceviche.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "halibut fillets",
+      "amount": "1 pound",
+      "notes": "fresh and sustainable"
+    },
+    {
+      "name": "pickle juice",
+      "amount": "1/2 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "aji amarillo pepper",
+      "amount": "1 medium",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "vegetarian Worcestershire sauce",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "deglaze fond",
+      "amount": "2 tablespoons",
+      "notes": "made from reduced vegetable broth"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Cut the halibut fillets into small pieces and place them in a large bowl.",
+    "In a small bowl, mix together the pickle juice, lime juice, and vegetarian Worcestershire sauce.",
+    "Add the mixed juice to the bowl with the halibut and make sure the fish is completely covered.",
+    "Add the thinly sliced red onion, chopped aji amarillo pepper, and minced garlic to the bowl and mix well.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the fish to marinate.",
+    "Just before serving, stir in the chopped fresh cilantro and deglaze fond.",
+    "Season the ceviche with salt and black pepper to taste.",
+    "Serve the ceviche clasico immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "healthy-dinner",
+    "lacto-vegetarian",
+    "one-bowl",
+    "peruvian-cuisine",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "exotic-silky-peruvian-fish-ceviche-clasico",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-silky-peruvian-fish-ceviche-clasico",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:03:07Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "pickle juice",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "fish",
+    "descriptor": "Exotic Silky",
+    "dishForm": "Ceviche Clasico"
+  }
+}
