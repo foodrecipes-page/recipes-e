@@ -1,0 +1,100 @@
+{
+  "title": "Energizing Sour Ethiopian Cheese Custard",
+  "description": "A sour and cheesy Ethiopian dish featuring a custard base, perfect for a low-carb breakfast or snack, with an energizing twist from the combination of ingredients.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "sour ethiopian cheese",
+      "amount": "1 cup crumbled"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "green chili peppers",
+      "amount": "2 diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a blender, combine the eggs, heavy cream, salt, and black pepper, and blend until smooth.",
+    "In a skillet, melt the butter over medium heat and saute the diced onion and minced garlic until the onion is translucent.",
+    "Add the diced green chili peppers to the skillet and cook for an additional 2 minutes.",
+    "In a greased 6-cup custard dish, arrange half of the crumbled sour ethiopian cheese in the bottom of the dish.",
+    "Pour the egg mixture over the cheese in the custard dish.",
+    "Top the egg mixture with the sauteed onion and chili pepper mixture, followed by the remaining crumbled cheese.",
+    "Bake the custard in the preheated oven for 35 minutes, or until the edges are set and the center is still slightly jiggly.",
+    "Remove the custard from the oven and let it cool for 10 minutes before serving.",
+    "To serve, use a spatula to carefully loosen the edges of the custard from the dish and transfer it to a plate, then use the spatula to fold the custard in half and create a cheesy pull.",
+    "Deglaze the skillet used for the onion and chili pepper mixture with a little water and pour the deglazed mixture over the custard as a sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "cheesy",
+    "custard-based",
+    "ethiopian-cuisine",
+    "gluten-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 5,
+    "fat": 24
+  },
+  "slug": "energizing-sour-ethiopian-cheese-custard",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-sour-ethiopian-cheese-custard",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:02:08Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "cheese-pull",
+    "mood": "energizing",
+    "technique": "deglaze",
+    "primaryIngredient": "custard",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "cheese",
+    "descriptor": "Energizing sour",
+    "dishForm": "Custard"
+  }
+}
