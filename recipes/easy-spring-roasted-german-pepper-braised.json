@@ -1,0 +1,112 @@
+{
+  "title": "Easy Spring Roasted German Pepper Braised",
+  "description": "Quick-fix German dish featuring roasted Padron peppers, slow-cooked in a savory sauce.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Padron peppers",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "German beer",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the Padron peppers in half and remove the seeds and membranes.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the onion and garlic to the pot and cook for 5 minutes, until softened.",
+    "Add the tomato paste to the pot and cook for 1 minute, stirring constantly.",
+    "Add the German beer to the pot and cook for 2 minutes, until slightly reduced.",
+    "Add the chicken broth, thyme, salt, and black pepper to the pot.",
+    "Stir to combine, then add the Padron peppers to the pot.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Bake for 25 minutes, until the peppers are tender and the sauce has thickened.",
+    "Serve the peppers hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy",
+    "german",
+    "gluten-free",
+    "one-pan",
+    "spring",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "easy-spring-roasted-german-pepper-braised",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-spring-roasted-german-pepper-braised",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:31:57Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "springy",
+    "mood": "quick-fix",
+    "technique": "slow-cook",
+    "primaryIngredient": "padron peppers",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pepper",
+    "descriptor": "Easy Spring Roasted",
+    "dishForm": "Braised"
+  }
+}
