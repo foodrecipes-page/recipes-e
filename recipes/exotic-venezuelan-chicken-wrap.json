@@ -1,0 +1,102 @@
+{
+  "title": "Exotic Venezuelan Chicken Wrap",
+  "description": "A cultured and crisp Venezuelan dish featuring basil and leaf wrap steam, high in protein and cooked on a cedar plank.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "high protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cedar plank",
+      "amount": "1",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "large lettuce leaves",
+      "amount": "4"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lime juice, garlic, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Place the cedar plank on the grill and cook for 2 minutes.",
+    "Add the chicken to the cedar plank and cook for 5 minutes per side.",
+    "Steam the lettuce leaves by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the wraps by placing a cooked chicken strip on a lettuce leaf, topping with cheese and basil.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cedar-plank",
+    "grilled",
+    "healthy",
+    "high-protein",
+    "leaf-wrap",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "exotic-venezuelan-chicken-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-venezuelan-chicken-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:14:06Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crisp",
+    "mood": "one-pot",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "basil",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chicken",
+    "descriptor": "exotic earthy",
+    "dishForm": "Wrap"
+  }
+}

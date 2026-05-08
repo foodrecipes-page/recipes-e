@@ -4427,6 +4427,21 @@
     "shard": "e"
   },
   {
+    "slug": "exotic-venezuelan-chicken-wrap",
+    "title": "Exotic Venezuelan Chicken Wrap",
+    "tags": [
+      "cedar-plank",
+      "grilled",
+      "healthy",
+      "high-protein",
+      "leaf-wrap",
+      "venezuelan"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
     "slug": "exotic-vietnamese-salmon-bun-rieu",
     "title": "Exotic Vietnamese Salmon Bun Rieu",
     "tags": [
