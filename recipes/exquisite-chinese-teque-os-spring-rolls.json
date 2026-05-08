@@ -1,0 +1,96 @@
+{
+  "title": "Exquisite Chinese Teque Os Spring Rolls",
+  "description": "A fresh and springy Cantonese dish featuring pre-fried teque os, perfect for a pescatarian-friendly meal. This show-off dish is sure to impress your guests.",
+  "cuisine": "Chinese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pre-fried teque os",
+      "amount": "12 pieces",
+      "notes": "available at Asian markets"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the shrimp and cook until pink and fully cooked, about 2-3 minutes per side.",
+    "Add the pre-fried teque os to the skillet and stir to combine with the shrimp.",
+    "Add the soy sauce, oyster sauce, scallions, sesame oil, salt, and pepper to the skillet and stir to combine.",
+    "Reduce the heat to medium-low and simmer for 2 minutes.",
+    "Serve the teque os spring rolls hot, garnished with additional scallions if desired.",
+    "Prepare the spring roll wrappers according to the package instructions.",
+    "Fill the spring roll wrappers with the teque os mixture and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-fusion",
+    "chinese-cuisine",
+    "pescatarian",
+    "seafood",
+    "spring-rolls"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "exquisite-chinese-teque-os-spring-rolls",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exquisite-chinese-teque-os-spring-rolls",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:39:22Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "springy",
+    "mood": "show-off",
+    "technique": "temper",
+    "primaryIngredient": "pre-fried teque os",
+    "diet": "pescatarian",
+    "region": "cantonese",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "teque os",
+    "descriptor": "Exquisite",
+    "dishForm": "Spring-Rolls"
+  }
+}
