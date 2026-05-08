@@ -1,0 +1,106 @@
+{
+  "title": "Easy Garlicky British Cottage Cheese Full English Breakfast",
+  "description": "A garlicky, cheesy, and satisfying British-inspired breakfast dish featuring cottage cheese, perfect for a midnight craving. This kosher-friendly recipe is a twist on the classic Full English Breakfast.",
+  "cuisine": "British",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "cottage cheese",
+      "amount": "1 cup",
+      "notes": "large curd"
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked bacon",
+      "amount": "6 slices",
+      "notes": "thick cut"
+    },
+    {
+      "name": "sausages",
+      "amount": "4",
+      "notes": "pork and sage"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button, sliced"
+    },
+    {
+      "name": "baked beans",
+      "amount": "1 cup",
+      "notes": "in tomato sauce"
+    },
+    {
+      "name": "toasted bread",
+      "amount": "4 slices",
+      "notes": "white, thick cut"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the cottage cheese, minced garlic, and a pinch of salt and pepper.",
+    "In a large skillet, cook the smoked bacon over medium heat until crispy, then set aside.",
+    "In the same skillet, cook the sausages until browned on all sides, then set aside with the bacon.",
+    "Add the sliced mushrooms to the skillet and cook until they release their liquid and start to brown.",
+    "Add the baked beans to the skillet and stir to combine with the mushrooms.",
+    "In a separate pan, fry the eggs over medium heat until the whites are set and the yolks are cooked to your desired doneness.",
+    "Toast the bread until lightly browned, then top with a slice of butter.",
+    "To assemble the dish, place a slice of toasted bread on a plate, top with a spoonful of the cottage cheese mixture, a few slices of bacon, a sausage, some mushrooms and baked beans, and finally a fried egg.",
+    "Place the plate under the broiler for 1-2 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british-inspired",
+    "cheesy",
+    "comfort-food",
+    "garlicky",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "easy-garlicky-british-cottage-cheese-full-english-breakfast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-garlicky-british-cottage-cheese-full-english-breakfast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:14:24Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "cheese-pull",
+    "mood": "midnight-craving",
+    "technique": "broil",
+    "primaryIngredient": "cottage cheese",
+    "diet": "kosher",
+    "region": "yorkshire",
+    "cuisineAdjective": "British",
+    "mainIngredient": "cottage cheese",
+    "descriptor": "Easy Garlicky",
+    "dishForm": "Full English Breakfast"
+  }
+}
