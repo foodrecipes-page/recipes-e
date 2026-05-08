@@ -1,0 +1,105 @@
+{
+  "title": "Exotic Earthy Egyptian Ricotta Tagine",
+  "description": "A citrusy and shaggy Egyptian dish featuring ricotta, miso-marinate, and ayurvedic-sattvic-friendly ingredients, cooked in a cataplana vessel, perfect for a weeknight dinner.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "ayurvedic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": "preferably organic"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a small bowl, whisk together miso paste, lemon juice, and olive oil to make the marinade.",
+    "In a separate bowl, mix together ricotta cheese, garlic, ginger, cumin, coriander, salt, and black pepper.",
+    "Add the marinade to the ricotta mixture and stir until well combined.",
+    "Transfer the mixture to a cataplana vessel or a large oven-safe skillet.",
+    "Cover the vessel with a lid or aluminum foil and bake for 25 minutes.",
+    "Remove the lid or foil and continue baking for an additional 10 minutes, or until the top is lightly browned.",
+    "Remove from the oven and let it rest for 5 minutes before serving.",
+    "Serve hot, garnished with fresh herbs or citrus wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "middle-eastern",
+    "one-pan",
+    "ricotta",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "exotic-earthy-egyptian-ricotta-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-earthy-egyptian-ricotta-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:46:33Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "shaggy",
+    "mood": "weeknight",
+    "technique": "miso-marinate",
+    "primaryIngredient": "ricotta",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "ricotta",
+    "descriptor": "Exotic Earthy",
+    "dishForm": "Tagine"
+  }
+}
