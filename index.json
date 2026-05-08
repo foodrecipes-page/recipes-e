@@ -1845,6 +1845,21 @@
     "shard": "e"
   },
   {
+    "slug": "easy-hearty-chinese-pork-casserole",
+    "title": "Easy Hearty Chinese Pork Casserole",
+    "tags": [
+      "chinese-inspired",
+      "comfort-food",
+      "hearty",
+      "low-sodium",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 60,
+    "shard": "e"
+  },
+  {
     "slug": "easy-light-filipino-rice-flour-pancakes",
     "title": "Easy Light Filipino Rice Flour Pancakes",
     "tags": [

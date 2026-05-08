@@ -1,0 +1,101 @@
+{
+  "title": "Easy Hearty Chinese Pork Casserole",
+  "description": "A cultured and shaggy one-pot Chinese dish featuring vegetable shortening and en-croute, low-sodium-friendly, this recipe is perfect for a weeknight dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "vegetable shortening",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "pork broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "frozen peas and carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg noodles",
+      "amount": "8 ounces"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350 degrees Fahrenheit.",
+    "In a large skillet, heat the vegetable shortening over medium-high heat.",
+    "Add the pork to the skillet and cook until browned on all sides.",
+    "Add the onion, garlic, and ginger to the skillet and cook until the onion is translucent.",
+    "In a large bowl, whisk together the soy sauce and pork broth.",
+    "Add the cooked pork, onion mixture, and frozen peas and carrots to the bowl and stir to combine.",
+    "Cook the egg noodles according to package instructions and add to the bowl.",
+    "Transfer the mixture to a 9x13 inch baking dish and cover with aluminum foil.",
+    "Bake for 30 minutes, then remove the foil and bake for an additional 10 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "chinese-inspired",
+    "comfort-food",
+    "hearty",
+    "low-sodium",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "easy-hearty-chinese-pork-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-hearty-chinese-pork-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:37:04Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "shaggy",
+    "mood": "one-pot",
+    "technique": "en-croute",
+    "primaryIngredient": "vegetable shortening",
+    "diet": "low-sodium",
+    "region": "dongbei",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Easy Hearty",
+    "dishForm": "Casserole"
+  }
+}
