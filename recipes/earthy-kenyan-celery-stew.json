@@ -1,0 +1,104 @@
+{
+  "title": "Earthy Kenyan Celery Stew",
+  "description": "A resinous and molten Kenyan dish featuring celery, this stew is a cozy delight, simmered to perfection in a nimono style and free from added sugars, making it suitable for sugar-free diets.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic and grated ginger and cook for another minute, stirring constantly.",
+    "Add the chopped celery and cook until it starts to soften.",
+    "Pour in the beef broth, coconut milk, turmeric, cumin, salt, and black pepper, and stir well to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Use an immersion blender to puree the stew to the desired consistency, or leave it chunky if preferred.",
+    "Taste and adjust the seasoning as needed.",
+    "Ladle the stew into individual mini cocottes and serve hot.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cozy",
+    "gluten-free",
+    "kenyan-cuisine",
+    "one-pot",
+    "stew",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "earthy-kenyan-celery-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-kenyan-celery-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:27:30Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "molten",
+    "mood": "cozy",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "celery",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "celery",
+    "descriptor": "earthy molten",
+    "dishForm": "Stew"
+  }
+}
