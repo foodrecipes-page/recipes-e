@@ -1,0 +1,92 @@
+{
+  "title": "Slovakian Bryndza Cheese Dumplings",
+  "description": "A sweet and snappy Slovakian dish featuring bryndza cheese, perfect for a weeknight dinner, this recipe is jain-friendly and can be prepared in under an hour.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "bryndza cheese",
+      "amount": "1 cup",
+      "notes": "crumbly and sharp"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the flour, bryndza cheese, potatoes, onion, salt, and black pepper.",
+    "Mix well until a dough forms.",
+    "Knead the dough for about 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 8 equal pieces and shape each piece into a ball.",
+    "Flatten each ball into a disk shape.",
+    "Heat the vegetable oil in a large non-stick skillet over medium heat.",
+    "Add the dumplings to the skillet and cook for about 3-4 minutes on each side, until they are golden brown.",
+    "Serve the dumplings hot with your favorite sauce or topping.",
+    "Namul blanch the dumplings in boiling water for 2 minutes before pan-frying for extra crispy exterior."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "eastern-european",
+    "jain-friendly",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "easy-sharp-slovakian-bryndza-cheese-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-sharp-slovakian-bryndza-cheese-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:23:23Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "snappy",
+    "mood": "weeknight",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "bryndza cheese",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "bryndza cheese",
+    "descriptor": "easy sharp",
+    "dishForm": "Dumplings"
+  }
+}
