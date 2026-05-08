@@ -1,0 +1,101 @@
+{
+  "title": "Easy Flaky Spanish Fish Empanadas",
+  "description": "A kid-friendly Spanish dish featuring lemons and fish, with a flaky crust and a hint of fermented flavor, suitable for diabetic diets.",
+  "cuisine": "Spanish",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fish",
+      "amount": "1 pound",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "fermented fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the chopped onion, minced garlic, and cod fish.",
+    "Add the lemon juice, olive oil, salt, and black pepper to the bowl and stir until combined.",
+    "If using fermented fish sauce, add it to the bowl and stir well.",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the fish mixture onto the center of each dough circle.",
+    "Fold the dough in half over the filling and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with a little bit of olive oil and bake for 20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "diabetic-friendly",
+    "fish-based",
+    "flaky-crust",
+    "kid-friendly",
+    "low-carb",
+    "spanish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "easy-flaky-spanish-fish-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-flaky-spanish-fish-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:59:07Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "ferment",
+    "primaryIngredient": "lemons",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "fish",
+    "descriptor": "easy flaky",
+    "dishForm": "Empanadas"
+  }
+}

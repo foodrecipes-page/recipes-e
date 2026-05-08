@@ -1709,6 +1709,21 @@
     "shard": "e"
   },
   {
+    "slug": "easy-flaky-spanish-fish-empanadas",
+    "title": "Easy Flaky Spanish Fish Empanadas",
+    "tags": [
+      "diabetic-friendly",
+      "fish-based",
+      "flaky-crust",
+      "kid-friendly",
+      "low-carb",
+      "spanish-cuisine"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
+    "shard": "e"
+  },
+  {
     "slug": "easy-going-vietnamese-tofu-pho",
     "title": "Easy Going Vietnamese Tofu Pho",
     "tags": [
