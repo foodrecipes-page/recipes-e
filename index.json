@@ -4636,6 +4636,20 @@
     "shard": "e"
   },
   {
+    "slug": "exotic-egyptian-chicken-tagine",
+    "title": "Exotic Egyptian Chicken Tagine",
+    "tags": [
+      "comfort-food",
+      "healthy",
+      "low-calorie",
+      "middle-eastern",
+      "one-pot"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 60,
+    "shard": "e"
+  },
+  {
     "slug": "exotic-egyptian-lamb-wrap",
     "title": "Exotic Egyptian Lamb Wrap",
     "tags": [
