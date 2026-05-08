@@ -1,0 +1,103 @@
+{
+  "title": "Exotic Dense Saudi Arabian Lamb Kebabs",
+  "description": "Indulge in the rich flavors of Saudi Arabia with these dense and briny lamb kebabs, featuring lime leaves and a unique blend of spices, cooked to perfection on a salt block.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "lime leaves",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "temper",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the salt block to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, temper, garlic, ginger, cumin, coriander, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each cube.",
+    "Place the skewers on the preheated salt block and cook for 10-12 minutes per side, or until the lamb is cooked to an internal temperature of 145 degrees Fahrenheit.",
+    "During the last 2 minutes of cooking, place a lime leaf on top of each skewer.",
+    "Remove the skewers from the salt block and let rest for 5 minutes before serving.",
+    "Serve the kebabs hot, garnished with additional lime leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "indulgent",
+    "lamb",
+    "middle-eastern",
+    "salt-block"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "exotic-dense-saudi-arabian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-dense-saudi-arabian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:34:57Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "temper",
+    "primaryIngredient": "lime leaves",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "exotic dense",
+    "dishForm": "Kebabs"
+  }
+}
