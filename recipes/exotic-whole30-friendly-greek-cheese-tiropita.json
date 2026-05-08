@@ -1,0 +1,105 @@
+{
+  "title": "Exotic Whole30-friendly Greek Cheese Tiropita",
+  "description": "A malty, shaggy, and kid-friendly Greek dish featuring fresh mint, perfect for the Whole30 diet.",
+  "cuisine": "Greek",
+  "diet": [
+    "Whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tepid Water",
+      "amount": "1 1/2 cups",
+      "notes": "used to hydrate flaxseed"
+    },
+    {
+      "name": "Flaxseed",
+      "amount": "1/2 cup",
+      "notes": "add to create egg substitute"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1 cup",
+      "notes": "crumbly, salty cheese, make sure its Whole30 friendly"
+    },
+    {
+      "name": "Fresh Mint Leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped, fresh from the garden or store"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1/4 cup",
+      "notes": "unsweetened, dairy-free alternative"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "helps to balance flavors"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/8 teaspoon",
+      "notes": "freshly ground for best flavor"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing the phyllo dough"
+    },
+    {
+      "name": "Phyllo Dough",
+      "amount": "1 package",
+      "notes": "thawed, make sure its Whole30 friendly"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375° Fahrenheit.",
+    "Line a wooden board with parchment paper.",
+    "In a bowl, combine Tepid Water and Flaxseed. Let it sit for 5 minutes to thicken.",
+    "Add Feta Cheese, Fresh Mint Leaves, Greek Yogurt, Salt, and Black Pepper to the bowl. Mix until well combined.",
+    "Unroll the Phyllo Dough and cut it into small squares.",
+    "Place a tablespoon of the cheese mixture onto the center of each phyllo square.",
+    "Brush the edges of the phyllo with Olive Oil.",
+    "Fold the phyllo over the cheese mixture to form a triangle and press the edges together to seal.",
+    "Place the tiropitas on the prepared wooden board, leaving some space between each one.",
+    "Bake for 15-20 minutes or until the phyllo is golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "family-friendly",
+    "greek-food",
+    "no-cook",
+    "snack-ideas"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 12,
+    "carbs": 16,
+    "fat": 16
+  },
+  "slug": "exotic-whole30-friendly-greek-cheese-tiropita",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-whole30-friendly-greek-cheese-tiropita",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:29:18Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "shaggy",
+    "mood": "kid-friendly",
+    "technique": "dehydrate",
+    "primaryIngredient": "mint",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "cheese",
+    "descriptor": "Exotic Whole30-friendly",
+    "dishForm": "Tiropita"
+  }
+}

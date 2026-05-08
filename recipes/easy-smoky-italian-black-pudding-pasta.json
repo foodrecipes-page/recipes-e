@@ -1,0 +1,105 @@
+{
+  "title": "Easy Smoky Italian Black Pudding Pasta",
+  "description": "A smoky and light Italian dish featuring black pudding, perfect for a post-workout meal, and made with binchotan-charcoal for a unique flavor",
+  "cuisine": "Italian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "black pudding",
+      "amount": "200g",
+      "notes": "sliced"
+    },
+    {
+      "name": "pasta",
+      "amount": "250g"
+    },
+    {
+      "name": "binchotan-charcoal",
+      "amount": "1 piece"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "50g",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions until al dente",
+    "In a large skillet, heat the olive oil over medium heat and add the sliced black pudding, cooking until browned on both sides",
+    "Remove the black pudding from the skillet and set aside, then add the minced garlic and cook for 1 minute until fragrant",
+    "Add the halved cherry tomatoes to the skillet and cook for 3 minutes until they start to release their juices",
+    "Add the cooked pasta to the skillet, tossing to combine with the garlic and cherry tomatoes",
+    "Add the grated parmesan cheese to the pasta and toss to combine",
+    "Add the cooked black pudding back to the pasta and toss to combine",
+    "Season the pasta with salt and black pepper to taste",
+    "Garnish the pasta with chopped basil and serve immediately",
+    "Light the binchotan-charcoal and place it on the table to infuse the dish with a smoky flavor"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flexitarian",
+    "high-protein",
+    "italian",
+    "one-pan",
+    "post-workout",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "easy-smoky-italian-black-pudding-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-smoky-italian-black-pudding-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:29:05Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "post-workout",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "black pudding",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "black pudding",
+    "descriptor": "Easy Smoky",
+    "dishForm": "Pasta"
+  }
+}

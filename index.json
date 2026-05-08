@@ -1487,6 +1487,21 @@
     "shard": "e"
   },
   {
+    "slug": "earthy-smoke-roasted-argentinian-pak-choi-gratin",
+    "title": "Earthy Smoke Roasted Argentinian Pak Choi Gratin",
+    "tags": [
+      "argentinian",
+      "gratin",
+      "pak-choi",
+      "side-dish",
+      "smoked",
+      "weeknight"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 45,
+    "shard": "e"
+  },
+  {
     "slug": "earthy-smoked-slovakian-pork-belly-skewers",
     "title": "Smoked Slovakian Pork Belly Skewers",
     "tags": [
@@ -2377,6 +2392,21 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 20,
+    "shard": "e"
+  },
+  {
+    "slug": "easy-smoky-italian-black-pudding-pasta",
+    "title": "Easy Smoky Italian Black Pudding Pasta",
+    "tags": [
+      "flexitarian",
+      "high-protein",
+      "italian",
+      "one-pan",
+      "post-workout",
+      "smoky"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {
@@ -5735,6 +5765,20 @@
       "vietnamese-cuisine"
     ],
     "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
+    "slug": "exotic-whole30-friendly-greek-cheese-tiropita",
+    "title": "Exotic Whole30-friendly Greek Cheese Tiropita",
+    "tags": [
+      "easy-to-make",
+      "family-friendly",
+      "greek-food",
+      "no-cook",
+      "snack-ideas"
+    ],
+    "cuisine": "Greek",
     "totalTimeMin": 35,
     "shard": "e"
   },

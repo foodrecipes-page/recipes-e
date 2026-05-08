@@ -1,0 +1,102 @@
+{
+  "title": "Earthy Smoke Roasted Argentinian Pak Choi Gratin",
+  "description": "A smoky, silky, and comforting side dish featuring pak choi, perfect for a lazy Sunday dinner. Inspired by the flavors of Argentina.",
+  "cuisine": "argentinian",
+  "diet": [
+    "sugar-free",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pak Choi",
+      "amount": "2 bunches",
+      "notes": "preferably with thick stems for best results"
+    },
+    {
+      "name": "Smoked Chorizo",
+      "amount": "1 1/2 cups",
+      "notes": "choose a Spanish or Argentine brand for authentic flavor"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tablespoon",
+      "notes": "or to taste, depending on smokiness desired"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced, for best flavor"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "for roasting pak choi"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "preferably flaky sea salt for best flavor"
+    },
+    {
+      "name": "Freshly Ground Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "for added depth"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": "for silky, creamy gratin topping"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Carefully slice the pak choi in half lengthwise, cutting around the stems to preserve them.",
+    "Transfer the sliced pak choi to a large terracotta dish, cut side up, and set aside.",
+    "Heat the olive oil in a small saucepan over medium heat, then add the minced garlic and cook until fragrant, about 1 minute, stirring constantly to prevent burning.",
+    "Add the smoked chorizo to the saucepan and cook, breaking it up with a spoon, until it starts to brown and crisp slightly, about 3-4 minutes.",
+    "Sprinkle the smoked paprika over the pak choi in the terracotta dish, then pour the cooked chorizo and garlic mixture evenly over the top.",
+    "Season with salt and black pepper, then transfer the dish to the oven and roast for 15 minutes.",
+    "Top the roasted pak choi with heavy cream, then return to the oven and bake for an additional 5-7 minutes, or until the cream has slightly thickened and browned on top.",
+    "Remove from the oven and let cool slightly before serving, garnished with fresh herbs if desired.",
+    "Serve hot, garnished with fresh herbs and crusty bread on the side if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "gratin",
+    "pak-choi",
+    "side-dish",
+    "smoked",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 20
+  },
+  "slug": "earthy-smoke-roasted-argentinian-pak-choi-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-smoke-roasted-argentinian-pak-choi-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:28:01Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "smoke",
+    "primaryIngredient": "pak choi",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Pak choi",
+    "descriptor": "Earthy smoke roasted",
+    "dishForm": "Gratin"
+  }
+}
