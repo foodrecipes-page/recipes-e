@@ -1,0 +1,94 @@
+{
+  "title": "Exquisite Indulgent German Manchego Pudding",
+  "description": "A rich and creamy German dessert featuring Manchego cheese and coconut cream, with a unique yeasty and glassy-jelly texture, suitable for Jain-friendly diets. This indulgent treat is perfect for special occasions.",
+  "cuisine": "German",
+  "diet": [
+    "Jain",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Manchego cheese",
+      "amount": "1 cup grated",
+      "notes": "preferably aged 6 months"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "agar agar powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine the yeast and 1 tablespoon of sugar, then add 1/4 cup of warm water and stir to dissolve.",
+    "Let the yeast mixture sit for 5 minutes, until it becomes frothy.",
+    "In a medium saucepan, combine the coconut cream, Manchego cheese, agar agar powder, lemon juice, and vanilla extract.",
+    "Whisk the mixture over medium heat until the agar agar is dissolved and the mixture is smooth.",
+    "Remove the saucepan from the heat and stir in the yeast mixture and coconut oil.",
+    "Pour the mixture into individual serving cups or a large serving dish.",
+    "Refrigerate the pudding for at least 4 hours, until it is set and has a glassy-jelly texture.",
+    "Just before serving, sprinkle a pinch of sugar on top of each pudding.",
+    "Serve the pudding chilled, garnished with fresh fruit or nuts if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-cream",
+    "german-desserts",
+    "glassy-jelly",
+    "jain-friendly",
+    "manchego-cheese",
+    "yeast-based"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 22
+  },
+  "slug": "exquisite-indulgent-german-manchego-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exquisite-indulgent-german-manchego-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:00:59Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "glassy-jelly",
+    "mood": "indulgent",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "manchego",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Manchego",
+    "descriptor": "Exquisite Indulgent",
+    "dishForm": "Pudding"
+  }
+}
