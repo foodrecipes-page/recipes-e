@@ -1,0 +1,94 @@
+{
+  "title": "Exotic Chinese Squid Salt And Pepper Squid",
+  "description": "A rich and bouncy Chinese dish featuring ancho chillies, perfect for a quick fix, flexitarian-friendly meal, served on a talavera plate.",
+  "cuisine": "Chinese",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "squid tubes",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into bite-sized pieces"
+    },
+    {
+      "name": "ancho chillies",
+      "amount": "2",
+      "notes": "dried and crushed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Rinse the squid pieces in cold water and pat them dry with paper towels.",
+    "In a bowl, mix together the cornstarch, salt, and black pepper.",
+    "Add the squid pieces to the bowl and toss to coat evenly with the cornstarch mixture.",
+    "Heat the vegetable oil in a wok or large skillet over high heat.",
+    "Add the crushed ancho chillies to the oil and stir-fry for 30 seconds.",
+    "Add the garlic and ginger to the oil and stir-fry for another minute.",
+    "Add the squid pieces to the oil and stir-fry until they are opaque and lightly browned.",
+    "Remove the squid from the oil and place on a talavera plate to serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "flexitarian",
+    "one-pan",
+    "quick-fix",
+    "seafood",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "exotic-chinese-squid-salt-and-pepper-squid",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-chinese-squid-salt-and-pepper-squid",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:50:30Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "bouncy-qq",
+    "mood": "quick-fix",
+    "technique": "brine-wet",
+    "primaryIngredient": "ancho chillies",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Squid",
+    "descriptor": "Exotic Spicy",
+    "dishForm": "Salt And Pepper Squid"
+  }
+}

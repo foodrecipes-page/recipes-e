@@ -2113,6 +2113,21 @@
     "shard": "e"
   },
   {
+    "slug": "easy-grilled-australian-lamb-skewers",
+    "title": "Easy Grilled Australian Lamb Skewers",
+    "tags": [
+      "australian-cuisine",
+      "dairy-free",
+      "grilled-meat",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 38,
+    "shard": "e"
+  },
+  {
     "slug": "easy-hearty-chinese-pork-casserole",
     "title": "Easy Hearty Chinese Pork Casserole",
     "tags": [
@@ -4708,6 +4723,21 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 65,
+    "shard": "e"
+  },
+  {
+    "slug": "exotic-chinese-squid-salt-and-pepper-squid",
+    "title": "Exotic Chinese Squid Salt And Pepper Squid",
+    "tags": [
+      "chinese-food",
+      "flexitarian",
+      "one-pan",
+      "quick-fix",
+      "seafood",
+      "spicy"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
