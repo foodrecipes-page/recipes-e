@@ -1,0 +1,98 @@
+{
+  "title": "Exquisite Melted Canadian Cheese Lasagna",
+  "description": "A rich and indulgent take on the classic lasagna, featuring a Canadian twist with cultured cheese and yuzu-cure.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lasagna noodles",
+      "amount": "12 sheets"
+    },
+    {
+      "name": "Cultured Canadian cheddar cheese",
+      "amount": "300g"
+    },
+    {
+      "name": "Ayurvedic tamasic-friendly ricotta cheese",
+      "amount": "250g"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "Yuzu juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "10g"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Extra-virgin olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the lasagna noodles according to package instructions. Drain and set aside.",
+    "In a medium bowl, combine the cultured Canadian cheddar cheese, ayurvedic tamasic-friendly ricotta cheese, yuzu juice, salt, and black pepper. Mix well to combine.",
+    "In a large bowl, combine the cooked lasagna noodles, celery, and fresh parsley. Toss to combine.",
+    "In a greased 9x13-inch baking dish, create a thin layer of the cheese mixture. Arrange 4 lasagna noodles on top.",
+    "Spread half of the remaining cheese mixture over the noodles, followed by half of the remaining celery and parsley mixture.",
+    "Repeat the layers, starting with the noodles, then the cheese mixture, and finally the remaining celery and parsley mixture.",
+    "Drizzle the extra-virgin olive oil over the top layer of cheese and sprinkle with salt.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Let the lasagna rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "ayurvedic",
+    "canadian",
+    "cheesy",
+    "comfort-food",
+    "romantic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 80
+  },
+  "slug": "exquisite-melted-canadian-cheese-lasagna",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/exquisite-melted-canadian-cheese-lasagna",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T11:12:51Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "cheese-pull",
+    "mood": "romantic",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "celery",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "cheese",
+    "descriptor": "exquisite melted",
+    "dishForm": "Lasagna"
+  }
+}
