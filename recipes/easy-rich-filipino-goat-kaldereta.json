@@ -1,0 +1,103 @@
+{
+  "title": "Easy Rich Filipino Goat Kaldereta",
+  "description": "A rich and flavorful Filipino dish featuring goat meat, perfect for a comforting meal, made with cider vinegar and steamed in leaf wraps",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "goat meat",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "cider vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "leaf wraps",
+      "amount": "4 pieces",
+      "notes": "such as banana leaves"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat and saute the onion until translucent",
+    "Add the garlic and cook for 1 minute until fragrant",
+    "Add the goat meat and cook until browned on all sides",
+    "Add the cider vinegar, tomato sauce, fish sauce, salt, and black pepper, and stir to combine",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 30 minutes",
+    "Prepare the leaf wraps by cleaning and cutting them into desired sizes",
+    "Place a portion of the goat meat mixture onto the center of each leaf wrap",
+    "Fold the leaf wraps to form a packet and steam over boiling water for 10 minutes",
+    "Serve the kaldereta hot, garnished with additional bay leaves if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "filipino-food",
+    "goat-meat",
+    "one-pot",
+    "steamed-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "easy-rich-filipino-goat-kaldereta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-rich-filipino-goat-kaldereta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:57:57Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "fluffy",
+    "mood": "sick-day",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "cider vinegar",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "goat",
+    "descriptor": "easy rich",
+    "dishForm": "Kaldereta"
+  }
+}

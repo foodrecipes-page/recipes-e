@@ -1966,6 +1966,20 @@
     "shard": "e"
   },
   {
+    "slug": "easy-rich-filipino-goat-kaldereta",
+    "title": "Easy Rich Filipino Goat Kaldereta",
+    "tags": [
+      "comfort-food",
+      "filipino-food",
+      "goat-meat",
+      "one-pot",
+      "steamed-dish"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 60,
+    "shard": "e"
+  },
+  {
     "slug": "easy-rich-syrian-lamb-stew",
     "title": "Easy Rich Syrian Lamb Stew",
     "tags": [
@@ -4202,6 +4216,21 @@
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 50,
+    "shard": "e"
+  },
+  {
+    "slug": "exotic-chewy-middle-eastern-lamb-umm-ali",
+    "title": "Exotic Chewy Middle Eastern Lamb Umm Ali",
+    "tags": [
+      "corn-husk",
+      "dessert",
+      "exotic",
+      "lamb-based",
+      "middle-eastern",
+      "steamed"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 65,
     "shard": "e"
   },
   {

@@ -1,0 +1,91 @@
+{
+  "title": "Exotic Chewy Middle Eastern Lamb Umm Ali",
+  "description": "A traditional Middle Eastern dessert with a twist, featuring lamb and a chewy texture, wrapped in a corn husk and infused with sherry vinegar.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "sherry vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "corn husks",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rose water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cardamom",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Soak the corn husks in water for 30 minutes to make them pliable.",
+    "In a large bowl, combine the ground lamb, sherry vinegar, brine, sugar, rose water, and cardamom, and mix well.",
+    "Divide the lamb mixture into 12 equal pieces and shape each piece into a small ball.",
+    "Wrap each ball in a corn husk, making sure to seal the edges well.",
+    "Place the wrapped balls in a steamer basket and steam for 20 minutes.",
+    "Remove the balls from the steamer and let them cool.",
+    "Serve the Umm Ali warm, garnished with chopped pistachios."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 20,
+  "totalTimeMin": 65,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "corn-husk",
+    "dessert",
+    "exotic",
+    "lamb-based",
+    "middle-eastern",
+    "steamed"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "exotic-chewy-middle-eastern-lamb-umm-ali",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-chewy-middle-eastern-lamb-umm-ali",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:58:40Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "brine-wet",
+    "primaryIngredient": "sherry vinegar",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lamb",
+    "descriptor": "Exotic Chewy",
+    "dishForm": "Umm Ali"
+  }
+}
