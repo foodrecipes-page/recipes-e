@@ -1,0 +1,92 @@
+{
+  "title": "Easy Going American Coconut Pie",
+  "description": "A citrusy and pillowy crowd-pleaser featuring shredded coconut, this American dessert is perfect for any occasion. It combines the flakiness of lamination-puff pastry with the brightness of citrus and the comfort of coconut.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "unsalted butter",
+      "amount": "1 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lamination-puff pastry",
+      "amount": "1 package"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roll out the lamination-puff pastry to a thickness of about 1/8 inch.",
+    "In a large bowl, whisk together the sugar, eggs, and melted butter until well combined.",
+    "Stir in the shredded coconut, flour, orange zest, and vanilla extract.",
+    "Spread the coconut mixture evenly over the center of the pastry, leaving a 1-inch border around the edges.",
+    "Fold the edges of the pastry up over the filling, pressing gently to seal.",
+    "Brush the pastry with a little bit of water and sprinkle with granulated sugar.",
+    "Bake the pie for 35-40 minutes, or until the pastry is golden brown.",
+    "Allow the pie to cool for at least 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "american-classics",
+    "citrusy",
+    "coconut-lovers",
+    "crowd-pleasers",
+    "easy-to-make",
+    "flaky-crust"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "easy-going-american-coconut-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-going-american-coconut-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:55:29Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "pillowy",
+    "mood": "crowd-pleaser",
+    "technique": "lamination-puff",
+    "primaryIngredient": "shredded coconut",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "coconut",
+    "descriptor": "easy going",
+    "dishForm": "Pie"
+  }
+}
