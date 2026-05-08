@@ -1,0 +1,114 @@
+{
+  "title": "exotic fragrant romantic malaysian pecorino bowl",
+  "description": "a delicate and aromatic dish featuring the tangy taste of pecorino and the chewy texture of long-fermentation-dough",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "long-fermentation-dough",
+      "amount": "1",
+      "notes": "allow 24 hours for dough to ferment"
+    },
+    {
+      "name": "pecorino cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh pandan leaves",
+      "amount": "4",
+      "notes": "torn into 1-inch pieces"
+    },
+    {
+      "name": "roasted garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "grilled papaya",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "fresh bean sprouts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lemongrass",
+      "amount": "1 stalk",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "heat coconut oil in a pan over medium heat",
+    "add lemongrass and saut\u00058 for 1 minute",
+    "add bean sprouts and saut\u00058 for 3 minutes",
+    "add diced papaya and cook for 4 minutes",
+    "add minced garlic and cook for 1 minute",
+    "roll out long-fermentation-dough to a thickness of 1/4 inch",
+    "transfer dough to a preheated earthenware bowl",
+    "top dough with a mixture of pecorino cheese, chili flakes, and salt",
+    "bake at 375\u00024f for 20 minutes",
+    "remove from oven and top with chopped cilantro and torn pandan leaves"
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 22,
+  "totalTimeMin": 47,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "malaysian",
+    "one-pan",
+    "vegan-options"
+  ],
+  "nutrition": {
+    "calories": 530,
+    "protein": 20,
+    "carbs": 70,
+    "fat": 22
+  },
+  "slug": "exotic-fragrant-romantic-malaysian-pecorino-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-fragrant-romantic-malaysian-pecorino-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:25:44Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "bouncy-qq",
+    "mood": "romantic",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "pecorino",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "romantic malaysian",
+    "mainIngredient": "pecorino",
+    "descriptor": "exotic fragrant",
+    "dishForm": "bowl"
+  }
+}
