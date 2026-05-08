@@ -1,0 +1,92 @@
+{
+  "title": "Elegant Spicy Japanese Chickpea Tamagoyaki",
+  "description": "A spicy and bouncy Japanese dish featuring chickpea flour, perfect for meal prep, made with a pasta-water emulsion and low-sodium friendly ingredients, formed into a tamagoyaki shape.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-sodium",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpea flour",
+      "amount": "1 cup",
+      "notes": "also known as gram flour"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pasta water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "diced green chili",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together chickpea flour, water, pasta water, and a pinch of salt until smooth.",
+    "Add diced green chili, low-sodium soy sauce, sesame oil, and grated ginger to the bowl and mix well.",
+    "Heat a non-stick tamagoyaki pan over medium heat and brush with a small amount of sesame oil.",
+    "Pour about 1/4 cup of the chickpea mixture into the pan and tilt to evenly coat the bottom.",
+    "Use a spatula to gently lift and fold the edges of the tamagoyaki towards the center as it cooks.",
+    "When the bottom is lightly browned, use the spatula to carefully roll the tamagoyaki away from you.",
+    "Repeat the process until all the mixture is used up, forming multiple tamagoyaki rolls.",
+    "Serve the tamagoyaki warm or at room temperature, garnished with grated daikon and shiso leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "japanese-inspired",
+    "low-sodium",
+    "meal-prep",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "elegant-spicy-japanese-chickpea-tamagoyaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/elegant-spicy-japanese-chickpea-tamagoyaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:18:29Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "bouncy-qq",
+    "mood": "meal-prep",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "chickpea flour",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "chickpea",
+    "descriptor": "Elegant Spicy",
+    "dishForm": "Tamagoyaki"
+  }
+}
