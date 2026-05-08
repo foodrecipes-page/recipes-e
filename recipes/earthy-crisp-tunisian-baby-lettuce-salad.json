@@ -1,0 +1,95 @@
+{
+  "title": "Earthy Crisp Tunisian Baby Lettuce Salad",
+  "description": "A refreshing monsoon Tunisian dish featuring baby lettuce leaves, ferment-jang, and dairy-free ingredients, with a focus on umami and crisp textures. This salad is perfect for a light and satisfying lunch.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "baby lettuce leaves",
+      "amount": "4 cups",
+      "notes": "choose crisp and fresh leaves"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "1/4 cup",
+      "notes": "Korean fermented soybean paste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped dates",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the baby lettuce leaves and chopped dates.",
+    "In a small bowl, whisk together the ferment-jang, olive oil, lemon juice, salt, and black pepper to make the dressing.",
+    "Pour the dressing over the lettuce mixture and toss to combine.",
+    "Sprinkle the chopped almonds over the top of the salad and toss again to combine.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the salad a good toss to redistribute the ingredients.",
+    "Serve the salad chilled, garnished with additional chopped almonds if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 24 hours."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crisp-textures",
+    "dairy-free",
+    "gluten-free",
+    "monsoon-recipe",
+    "tunisian-cuisine",
+    "umami-flavors",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "earthy-crisp-tunisian-baby-lettuce-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-crisp-tunisian-baby-lettuce-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:05:10Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "ferment-jang",
+    "primaryIngredient": "baby lettuce leaves",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "baby lettuce",
+    "descriptor": "earthy crisp",
+    "dishForm": "Salad"
+  }
+}
