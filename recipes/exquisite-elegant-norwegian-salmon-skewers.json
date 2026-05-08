@@ -1,0 +1,91 @@
+{
+  "title": "Exquisite Elegant Norwegian Salmon Skewers",
+  "description": "A romantic Norwegian dish featuring miso-marinated salmon, white chocolate chips, and a funky twist, perfect for a special occasion.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "white chocolate chips",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together miso paste, brown sugar, soy sauce, and lemon juice to make the marinade.",
+    "Add the salmon pieces to the marinade and toss to coat.",
+    "Thread the marinated salmon onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and season with garlic powder.",
+    "Grill the skewers for 8-10 minutes, or until the salmon is cooked through.",
+    "Melt the white chocolate chips in a double boiler or in the microwave in 30-second increments, stirring between each interval.",
+    "Serve the grilled salmon skewers with melted white chocolate drizzled on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "norwegian-cuisine",
+    "romantic-dinner",
+    "seafood",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "exquisite-elegant-norwegian-salmon-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exquisite-elegant-norwegian-salmon-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:15:57Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "bouncy-qq",
+    "mood": "romantic",
+    "technique": "miso-marinate",
+    "primaryIngredient": "white chocolate chips",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "salmon",
+    "descriptor": "exquisite elegant",
+    "dishForm": "Skewers"
+  }
+}
