@@ -1,0 +1,94 @@
+{
+  "title": "Exotic Springy Saudi Arabian Peppers Skewers",
+  "description": "A pungent and springy Saudi Arabian dish featuring peppers, perfect for a brunch mood, made with mushimono steam and dairy free friendly ingredients.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bell Peppers",
+      "amount": "4 large",
+      "notes": "any color"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "2 cups",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "Saudi Arabian Spice Mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "Cut the bell peppers into 1 inch pieces and place them in a bowl.",
+    "Add the onion, mushrooms, Saudi Arabian Spice Mix, lemon juice, olive oil, salt, and black pepper to the bowl and mix well.",
+    "Thread the pepper mixture onto skewers, leaving a little space between each piece.",
+    "Place the skewers on the grill and cook for 10 minutes, turning occasionally.",
+    "Steam the skewers using a steamer basket for an additional 5 minutes, or until the vegetables are tender.",
+    "Serve the skewers hot, garnished with fresh parsley or cilantro.",
+    "Repeat with the remaining ingredients if necessary."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "grilled-vegetables",
+    "healthy-snacks",
+    "saudi-arabian-cuisine",
+    "spring-recipes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "exotic-springy-saudi-arabian-peppers-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-springy-saudi-arabian-peppers-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:19:44Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "springy",
+    "mood": "brunch-mood",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "peppers",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "peppers",
+    "descriptor": "Exotic Springy",
+    "dishForm": "Skewers"
+  }
+}
