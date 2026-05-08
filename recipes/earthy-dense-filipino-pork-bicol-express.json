@@ -1,0 +1,109 @@
+{
+  "title": "Earthy Dense Filipino Pork Bicol Express",
+  "description": "A hearty and dense Filipino dish featuring prosciutto and pork, wrapped in ti leaves and perfect for a post-workout meal. This herbal and Whole30-friendly recipe is a unique twist on the classic Bicol Express.",
+  "cuisine": "Filipino",
+  "diet": [
+    "Whole30",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "prosciutto",
+      "amount": "6 slices",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "6 large leaves"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "bird's eye chili",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the pork shoulder, prosciutto, garlic, ginger, bird's eye chili, salt, and black pepper, and mix well.",
+    "Lay a ti leaf flat on a work surface and place about 1/2 cup of the pork mixture in the center of the leaf.",
+    "Fold the stem end of the leaf over the filling, then fold in the sides and roll the leaf into a tight package, and repeat with the remaining ingredients.",
+    "Place the ti leaf packages in a single layer in a large baking dish and pour in the coconut milk, fish sauce, and lime juice.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the pork is cooked through and the ti leaves are tender.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving.",
+    "Serve the Bicol Express hot, garnished with sliced green onions and a sprinkle of salt."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-food",
+    "herbal-recipe",
+    "one-pan-dish",
+    "paleo-diet",
+    "post-workout-meal",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "earthy-dense-filipino-pork-bicol-express",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-dense-filipino-pork-bicol-express",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:21:30Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "post-workout",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "prosciutto",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pork",
+    "descriptor": "Earthy Dense",
+    "dishForm": "Bicol Express"
+  }
+}
