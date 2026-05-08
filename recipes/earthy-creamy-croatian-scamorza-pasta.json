@@ -1,0 +1,97 @@
+{
+  "title": "Earthy Creamy Croatian Scamorza Pasta",
+  "description": "A light and creamy Croatian dish featuring scamorza cheese, kombu cold extract, and satvik friendly ingredients, with a bitter earthy tone.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "scamorza cheese",
+      "amount": "8 oz",
+      "notes": "smoked or regular"
+    },
+    {
+      "name": "kombu seaweed",
+      "amount": "2 sheets",
+      "notes": "for cold extract"
+    },
+    {
+      "name": "pasta",
+      "amount": "12 oz",
+      "notes": "linguine or fettuccine"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions.",
+    "In a small bowl, make the kombu cold extract by soaking the kombu sheets in 1 cup of cold water for at least 30 minutes.",
+    "In a large skillet, heat the olive oil over medium heat and saute the minced garlic until fragrant.",
+    "Add the chopped parsley to the skillet and cook for 1 minute.",
+    "Strain the kombu cold extract and add it to the skillet, stirring to combine.",
+    "Add the cooked pasta to the skillet, tossing to coat with the garlic and parsley mixture.",
+    "Slice the scamorza cheese and add it to the pasta, tossing to combine and melt the cheese.",
+    "Season with salt and black pepper to taste.",
+    "Serve the earthy creamy Croatian scamorza pasta hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy-pasta",
+    "croatian-cuisine",
+    "one-pot",
+    "satvik-friendly",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "earthy-creamy-croatian-scamorza-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-creamy-croatian-scamorza-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:14:23Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "scamorza",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "scamorza",
+    "descriptor": "earthy creamy",
+    "dishForm": "Pasta"
+  }
+}

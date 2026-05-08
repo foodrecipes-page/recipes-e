@@ -369,6 +369,21 @@
     "shard": "e"
   },
   {
+    "slug": "earthy-creamy-croatian-scamorza-pasta",
+    "title": "Earthy Creamy Croatian Scamorza Pasta",
+    "tags": [
+      "creamy-pasta",
+      "croatian-cuisine",
+      "one-pot",
+      "satvik-friendly",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
     "slug": "earthy-creamy-german-potato-gratin",
     "title": "Earthy Creamy German Potato Gratin",
     "tags": [
