@@ -1,0 +1,105 @@
+{
+  "title": "Ethereal Creamy French Egg Noodles Cream Puff Paste",
+  "description": "Indulge in the rich, buttery taste of France with these heavenly egg noodles, light as a cloud, paired with a delicate cream puff filling.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Egg Noodles",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "6 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Confectioners' Sugar",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Bring a large pot of salted water to a boil and cook the egg noodles until al dente, about 6 minutes.",
+    "In a separate saucepan, combine the milk, butter, flour, sugar, eggs, and salt.",
+    "Whisk the mixture over medium heat until it thickens and forms a smooth paste.",
+    "Transfer the pasta to a serving dish and top with the cream puff filling.",
+    "Brush the tops with a little bit of vegetable oil and sprinkle with confectioners' sugar.",
+    "Bake for 15-20 minutes or until golden brown.",
+    "Serve warm and enjoy!",
+    "Allow the dish to cool for 10 minutes before slicing and serving.",
+    "Slice the egg noodles into 1-inch pieces and arrange on a serving plate.",
+    "Drizzle with confectioners' sugar and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "easter",
+    "elegant",
+    "french",
+    "high-calorie",
+    "show-off-recipe",
+    "sunday-dinner",
+    "weekend-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 60,
+    "fat": 32
+  },
+  "slug": "ethereal-creamy-french-egg-noodles-cream-puff-paste",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/ethereal-creamy-french-egg-noodles-cream-puff-paste",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:41:52Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "egg noodles",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "egg noodles",
+    "descriptor": "Ethereal Creamy",
+    "dishForm": "Cream Puff Paste"
+  }
+}
