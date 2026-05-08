@@ -1,0 +1,95 @@
+{
+  "title": "Energizing Charred Peruvian Rice Suspiro Limeno",
+  "description": "A charred and aerated Peruvian dish featuring 00-flour and fry-grind-rice-khao-khua, this suspiro limeno is a low-sodium friendly and energizing meal option.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "00-flour",
+      "amount": "1 cup",
+      "notes": "also known as caputo flour"
+    },
+    {
+      "name": "fry-grind-rice-khao-khua",
+      "amount": "2 cups",
+      "notes": "cooked and dried rice"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "pure vanilla"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "ground cinnamon"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "low-fat milk"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a medium bowl, whisk together the 00-flour, sugar, and cinnamon.",
+    "In a large bowl, whisk together the eggs, vanilla extract, and milk.",
+    "Add the fry-grind-rice-khao-khua to the egg mixture and stir until well combined.",
+    "Gradually add the flour mixture to the egg mixture and stir until smooth.",
+    "Pour the mixture into a 9x13 inch baking dish.",
+    "Bake for 25 minutes or until the top is lightly browned.",
+    "Remove from the oven and let cool for 5 minutes.",
+    "Use a kitchen torch to char the top of the suspiro limeno.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-ideas",
+    "energizing-meals",
+    "gluten-free",
+    "low-sodium",
+    "peruvian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "energizing-charred-peruvian-rice-suspiro-limeno",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-charred-peruvian-rice-suspiro-limeno",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:04:14Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "aerated",
+    "mood": "energizing",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "00-flour",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "rice",
+    "descriptor": "Energizing Charred",
+    "dishForm": "Suspiro Limeno"
+  }
+}
