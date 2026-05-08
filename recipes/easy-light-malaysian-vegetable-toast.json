@@ -1,0 +1,93 @@
+{
+  "title": "Easy Light Malaysian Vegetable Toast",
+  "description": "A nutty and velvety Malaysian dish featuring vegetable shortening, toast, and a variety of vegetables, perfect for a quick and easy snack. This dish is made with dash-friendly ingredients and can be prepared in no time.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "vegetable shortening",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "white bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat.",
+    "Brush the melted vegetable shortening onto the bread slices.",
+    "Top each bread slice with sliced cucumber, grated carrots, and chopped scallions.",
+    "Season with salt and black pepper to taste.",
+    "Drizzle sesame oil over the vegetables.",
+    "Place the bread slices in the pan and toast until golden brown.",
+    "Flip the bread slices over and toast for another minute.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 4,
+  "totalTimeMin": 14,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "malaysian-cuisine",
+    "quick-snack",
+    "vegetarian-friendly",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "easy-light-malaysian-vegetable-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-light-malaysian-vegetable-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:52:26Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "toast",
+    "primaryIngredient": "vegetable shortening",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "vegetables",
+    "descriptor": "easy light",
+    "dishForm": "Toast"
+  }
+}

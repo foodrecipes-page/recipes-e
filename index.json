@@ -2010,6 +2010,20 @@
     "shard": "e"
   },
   {
+    "slug": "easy-light-malaysian-vegetable-toast",
+    "title": "Easy Light Malaysian Vegetable Toast",
+    "tags": [
+      "easy-to-make",
+      "malaysian-cuisine",
+      "quick-snack",
+      "vegetarian-friendly",
+      "weeknight-meal"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 14,
+    "shard": "e"
+  },
+  {
     "slug": "easy-light-portuguese-san-marzano-tomato-wrap",
     "title": "Easy Light Portuguese San Marzano Tomato Wrap",
     "tags": [
@@ -3063,6 +3077,21 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 45,
+    "shard": "e"
+  },
+  {
+    "slug": "energetic-greek-soya-dolmades",
+    "title": "Energetic Greek Soya Dolmades",
+    "tags": [
+      "greek-cuisine",
+      "high-protein",
+      "one-pan",
+      "post-workout-snack",
+      "vegetarian-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 55,
     "shard": "e"
   },
   {

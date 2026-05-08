@@ -1,0 +1,93 @@
+{
+  "title": "Energetic Greek Soya Dolmades",
+  "description": "A pungent and chewy post-workout Greek dish featuring soya milk, cooked in a clay pot, and sugar-free friendly, formed into dolmades.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "soya milk",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "vine leaves",
+      "amount": "20 leaves"
+    },
+    {
+      "name": "cooked rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the vine leaves and blanch them in boiling water for 30 seconds.",
+    "In a large bowl, mix together the cooked rice, chopped onion, minced garlic, and chopped fresh parsley.",
+    "Add the soya milk, lemon juice, and olive oil to the bowl and mix well.",
+    "Lay a vine leaf flat and place a tablespoon of the rice mixture in the center of the leaf.",
+    "Fold the stem end over the filling, then fold in the sides and roll the leaf into a neat package.",
+    "Repeat with the remaining vine leaves and filling.",
+    "Place the dolmades in a clay pot and cover them with water.",
+    "Bring the water to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Serve the dolmades warm or at room temperature."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "greek-cuisine",
+    "high-protein",
+    "one-pan",
+    "post-workout-snack",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "energetic-greek-soya-dolmades",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/energetic-greek-soya-dolmades",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:51:47Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "chewy",
+    "mood": "post-workout",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "soya milk",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "soya",
+    "descriptor": "Energetic Chewy",
+    "dishForm": "Dolmades"
+  }
+}
