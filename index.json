@@ -2084,6 +2084,21 @@
     "shard": "e"
   },
   {
+    "slug": "easy-gooey-slovakian-buckwheat-dumplings",
+    "title": "Easy Gooey Slovakian Buckwheat Dumplings",
+    "tags": [
+      "comfort-food",
+      "deep-fried",
+      "kid-friendly",
+      "mediterranean-inspired",
+      "slovakian-cuisine",
+      "vegetarian"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
     "slug": "easy-hearty-chinese-pork-casserole",
     "title": "Easy Hearty Chinese Pork Casserole",
     "tags": [
@@ -4798,6 +4813,21 @@
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 45,
+    "shard": "e"
+  },
+  {
+    "slug": "exotic-dutch-bryndza-cheese-casserole",
+    "title": "Exotic Dutch Bryndza Cheese Casserole",
+    "tags": [
+      "brunch-ideas",
+      "cheese-casserole",
+      "dutch-cuisine",
+      "plant-based",
+      "ramekin-recipes",
+      "vegetarian"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 40,
     "shard": "e"
   },
   {

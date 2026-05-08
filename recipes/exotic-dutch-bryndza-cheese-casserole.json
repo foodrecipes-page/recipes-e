@@ -1,0 +1,99 @@
+{
+  "title": "Exotic Dutch Bryndza Cheese Casserole",
+  "description": "A fermented and molten Dutch dish featuring bryndza cheese, this casserole is a plant-based friendly and adventurous meal option, served in a ramekin.",
+  "cuisine": "Dutch",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bryndza cheese",
+      "amount": "1 cup",
+      "notes": "crumbly and fermented"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Spinach",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Nutritional yeast",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a pan, heat the olive oil over medium heat and saute the chopped onion until softened.",
+    "Add the sliced mushrooms to the pan and cook until they release their liquid and start to brown.",
+    "Stir in the spinach, vegetable broth, nutritional yeast, salt, and black pepper, and bring the mixture to a simmer.",
+    "In a bowl, crumble the bryndza cheese and mix it with the simmered mixture.",
+    "Transfer the mixture to a ramekin and bake for 20 minutes.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving.",
+    "Serve the casserole hot, garnished with additional spinach if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "cheese-casserole",
+    "dutch-cuisine",
+    "plant-based",
+    "ramekin-recipes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "exotic-dutch-bryndza-cheese-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-dutch-bryndza-cheese-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:31:13Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "molten",
+    "mood": "adventurous",
+    "technique": "brine-wet",
+    "primaryIngredient": "bryndza cheese",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "bryndza cheese",
+    "descriptor": "exotic earthy",
+    "dishForm": "Casserole"
+  }
+}
