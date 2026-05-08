@@ -1,0 +1,111 @@
+{
+  "title": "Jamaican Beef Tagine",
+  "description": "A hearty, comforting dish featuring snappy beef cutlets in a rich Jamaican spice blend. Perfect for a sick day or a chilly evening.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef cutlets",
+      "amount": "4"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onions",
+      "amount": "1"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "Allspice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Cocoa powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Season the beef cutlets with salt and black pepper.",
+    "Heat the coconut oil in a large ceramic tagine over medium-high heat.",
+    "Sear the beef cutlets until browned on both sides, about 3 minutes per side. Set aside.",
+    "Add the onions to the tagine and cook until they start to soften, about 3 minutes.",
+    "Add the garlic and ginger to the tagine and cook for 1 minute.",
+    "Add the allspice, cumin, smoked paprika, and cocoa powder to the tagine and cook for 1 minute.",
+    "Add the coconut milk to the tagine and stir to combine.",
+    "Return the beef cutlets to the tagine and simmer, covered, until the meat is tender, about 20-25 minutes.",
+    "Remove the tagine from the heat and let it cool slightly.",
+    "Transfer the beef cutlets to an ice bath to stop the cooking process.",
+    "Strain the sauce from the tagine and discard the solids.",
+    "Return the beef cutlets to the tagine and simmer the sauce over low heat until it thickens, about 5 minutes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "jamaican-spice",
+    "one-pot",
+    "paleo-friendly",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "effortlessly-snappy-jamaican-beef-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/effortlessly-snappy-jamaican-beef-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:54:02Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "snappy",
+    "mood": "sick-day",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "beef cutlet",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "beef",
+    "descriptor": "Effortlessly snappy",
+    "dishForm": "Tagine"
+  }
+}
