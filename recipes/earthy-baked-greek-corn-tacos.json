@@ -1,0 +1,105 @@
+{
+  "title": "Earthy Baked Greek Corn Tacos",
+  "description": "A plant-based friendly Greek dish featuring corn tortillas, baked in a Korean brass bowl, perfect for a weeknight dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "corn tortillas",
+      "amount": "8",
+      "notes": "preferably handmade"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly, vegan alternative"
+    },
+    {
+      "name": "sun dried tomatoes",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large Korean brass bowl, combine olives, artichoke hearts, feta cheese, sun dried tomatoes, parsley, lemon juice, olive oil, salt, and pepper.",
+    "Mix well to combine all the ingredients.",
+    "Arrange 4 corn tortillas at the bottom of the bowl, overlapping them slightly.",
+    "Spoon half of the olive and artichoke mixture over the tortillas.",
+    "Repeat the layers, starting with the tortillas, then the remaining olive and artichoke mixture.",
+    "Cover the bowl with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and bake for an additional 10 minutes, or until the tortillas are lightly browned.",
+    "Remove from the oven and let it rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek-cuisine",
+    "one-pan",
+    "plant-based",
+    "taco-night",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "earthy-baked-greek-corn-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-baked-greek-corn-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:19:18Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "fluffy",
+    "mood": "weeknight",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "corn tortillas",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "corn",
+    "descriptor": "earthy baked",
+    "dishForm": "Tacos"
+  }
+}
