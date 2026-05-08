@@ -1,0 +1,103 @@
+{
+  "title": "exotic portuguese chicken papillote",
+  "description": "a spicy, tender portuguese dish showcasing the combination of apricot jam, papillote, and kosher-friendly ingredients.",
+  "cuisine": "portuguese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "fresh rosemary sprigs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "apricot jam",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat oven to 400\u000050",
+    "season the chicken breasts with kosher salt and black pepper",
+    "heat olive oil in a large skillet over medium-high heat and sear the chicken breasts until browned",
+    "transfer the chicken breasts to a baking sheet lined with parchment paper and set aside",
+    "add the rosemary sprigs, garlic cloves, chicken broth, and white wine to the skillet and bring to a simmer",
+    "reduce the heat to medium-low and let cook for 5 minutes",
+    "spread a layer of apricot jam on each chicken breast",
+    "place the chicken breasts in the papillote and tie with kitchen twine",
+    "place the papillote on the baking sheet and bake for 25 minutes",
+    "remove the papillote from the oven and let rest for 5 minutes before serving"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "chicken",
+    "high-protein",
+    "kosher",
+    "one-pan",
+    "portuguese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 42,
+    "carbs": 24,
+    "fat": 18
+  },
+  "slug": "exotic-portuguese-chicken-papillote",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-portuguese-chicken-papillote",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T08:03:08Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "papillote",
+    "primaryIngredient": "apricot jam",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "chicken",
+    "descriptor": "exotic",
+    "dishForm": "papillote"
+  }
+}

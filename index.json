@@ -3814,6 +3814,21 @@
     "shard": "e"
   },
   {
+    "slug": "exotic-portuguese-chicken-papillote",
+    "title": "exotic portuguese chicken papillote",
+    "tags": [
+      "chicken",
+      "high-protein",
+      "kosher",
+      "one-pan",
+      "portuguese",
+      "weeknight"
+    ],
+    "cuisine": "portuguese",
+    "totalTimeMin": 50,
+    "shard": "e"
+  },
+  {
     "slug": "exotic-savory-algerian-lamb-tagine",
     "title": "Exotic Savory Algerian Lamb Tagine",
     "tags": [
