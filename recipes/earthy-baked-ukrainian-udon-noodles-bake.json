@@ -1,0 +1,98 @@
+{
+  "title": "Earthy Baked Ukrainian Udon Noodles Bake",
+  "description": "A keto-friendly Ukrainian dish featuring charred udon noodles, perfect for a weeknight dinner, baked in an earthenware bowl.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "udon noodles",
+      "amount": "8 oz",
+      "notes": "preferably keto-friendly"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the udon noodles according to the package instructions and set aside.",
+    "In a large skillet, melt the butter over medium heat and saute the garlic until fragrant.",
+    "Add the mushrooms and cherry tomatoes to the skillet and cook until the vegetables are tender.",
+    "Stir in the dried thyme, salt, and black pepper.",
+    "In a large earthenware bowl, combine the cooked noodles, vegetable mixture, and crumbly feta cheese.",
+    "Transfer the earthenware bowl to the preheated oven and bake for 20 minutes.",
+    "Remove the bowl from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "baked",
+    "earthy",
+    "keto-friendly",
+    "low-carb",
+    "one-pan",
+    "ukrainian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "earthy-baked-ukrainian-udon-noodles-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-baked-ukrainian-udon-noodles-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:44:00Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "light",
+    "mood": "weeknight",
+    "technique": "bake",
+    "primaryIngredient": "udon noodles",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "udon noodles",
+    "descriptor": "earthy baked",
+    "dishForm": "Bake"
+  }
+}
