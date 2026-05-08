@@ -1,0 +1,104 @@
+{
+  "title": "Exotic Earthy Jamaican Smoked Turkey Neck Tagine",
+  "description": "A resinous and creamy Jamaican dish featuring smoked turkey neck, ferment-jang, and macrobiotic-friendly ingredients, cooked in a traditional clay tajine vessel.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked turkey neck",
+      "amount": "2 pounds",
+      "notes": "pre-smoked"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 sprig"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a small bowl, mix together the ferment-jang, coconut oil, garlic, ginger, scotch bonnet pepper, thyme, sea salt, and black pepper.",
+    "Rub the mixture all over the smoked turkey neck, making sure to coat it evenly.",
+    "Place the turkey neck in the clay tajine vessel, leaving enough space for the onion to be added later.",
+    "Add the chopped onion to the vessel, scattering it around the turkey neck.",
+    "Cover the vessel with a lid and place it in the oven.",
+    "Braise the turkey neck for 2 hours, or until the meat is tender and falls off the bone.",
+    "Remove the vessel from the oven and let it cool slightly.",
+    "Serve the smoked turkey neck tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot-cooking",
+    "earthy-flavors",
+    "exotic-dish",
+    "jamaican-cuisine",
+    "macrobiotic-friendly",
+    "smoked-meat"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "exotic-earthy-jamaican-smoked-turkey-neck-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-earthy-jamaican-smoked-turkey-neck-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:07:07Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "creamy",
+    "mood": "adventurous",
+    "technique": "ferment-jang",
+    "primaryIngredient": "smoked turkey neck",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "smoked turkey neck",
+    "descriptor": "exotic earthy",
+    "dishForm": "Tagine"
+  }
+}
