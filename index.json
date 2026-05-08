@@ -5278,6 +5278,21 @@
     "shard": "e"
   },
   {
+    "slug": "exotic-spicy-greek-lamb-kebabs",
+    "title": "Exotic Spicy Greek Lamb Kebabs",
+    "tags": [
+      "date-night",
+      "greek-food",
+      "hot-stone-plate",
+      "lamb-recipes",
+      "low-carb",
+      "spicy-food"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
     "slug": "exotic-spicy-korean-myeongnan-roe-noodles",
     "title": "Exotic Spicy Korean Myeongnan-roe Noodles",
     "tags": [
