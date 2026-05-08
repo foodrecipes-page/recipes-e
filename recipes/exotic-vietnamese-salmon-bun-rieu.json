@@ -1,0 +1,111 @@
+{
+  "title": "Exotic Vietnamese Salmon Bun Rieu",
+  "description": "A spicy and comforting Vietnamese dish featuring hot smoked flaked salmon, this recipe is paleo-friendly and full of flavor, with a crunchy texture from the added toppings.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hot smoked salmon",
+      "amount": "1 pound",
+      "notes": "flaked"
+    },
+    {
+      "name": "pork fat",
+      "amount": "1/4 cup",
+      "notes": "rendered"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 cups",
+      "notes": "diced"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "bird's eye chili",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 package"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fried shallots",
+      "amount": "1/4 cup",
+      "notes": "crushed"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the rice noodles according to the package instructions.",
+    "In a large skillet, heat the rendered pork fat over medium heat.",
+    "Add the diced tomato and cook until they start to break down.",
+    "Add the tamarind paste, fish sauce, and lime juice to the skillet and stir to combine.",
+    "Add the sliced bird's eye chili to the skillet and cook for 1 minute.",
+    "Add the flaked hot smoked salmon to the skillet and stir to combine with the tomato mixture.",
+    "To assemble the dish, place some cooked rice noodles in a bowl and add the salmon and tomato mixture on top.",
+    "Garnish with bean sprouts, chopped mint leaves, and crushed fried shallots.",
+    "Serve immediately and enjoy.",
+    "Prepare all the toppings before assembling the dish for a quick and easy meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "paleo-friendly",
+    "seafood",
+    "spicy",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "exotic-vietnamese-salmon-bun-rieu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-vietnamese-salmon-bun-rieu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:01:36Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crunchy",
+    "mood": "comforting",
+    "technique": "render-fat",
+    "primaryIngredient": "hot smoked flaked salmon",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "salmon",
+    "descriptor": "Exotic Crunchy",
+    "dishForm": "Bun Rieu"
+  }
+}

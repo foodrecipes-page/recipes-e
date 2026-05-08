@@ -1,0 +1,96 @@
+{
+  "title": "Exotic Spicy Korean Myeongnan-roe Noodles",
+  "description": "A spicy and crumbly Korean dish featuring myeongnan-roe, perfect for a weeknight dinner, this recipe is also ayurvedic-rajasic-friendly and cooked to perfection in a copper pot.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "myeongnan-roe",
+      "amount": "1 cup",
+      "notes": "pollock roe"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "crushed red pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large copper pot of water to a boil and cook the rice noodles according to the package instructions.",
+    "In a small bowl, whisk together the gochujang, soy sauce, and brown sugar until smooth.",
+    "In a large skillet, heat the sesame oil over medium-high heat and add the minced garlic, cooking for 1 minute.",
+    "Add the cooked noodles to the skillet and stir to combine with the garlic and oil.",
+    "Add the whisked gochujang sauce to the skillet and stir to combine, cooking for an additional 2 minutes.",
+    "Stir in the myeongnan-roe, crushed red pepper, and green onions, cooking for 1 minute.",
+    "Season with salt to taste, then serve immediately.",
+    "Garnish with additional green onions and crushed red pepper, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "korean",
+    "one-pan",
+    "spicy",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "exotic-spicy-korean-myeongnan-roe-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-spicy-korean-myeongnan-roe-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:02:12Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "whisk",
+    "primaryIngredient": "myeongnan-roe",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "myeongnan-roe",
+    "descriptor": "exotic spicy",
+    "dishForm": "Noodles"
+  }
+}

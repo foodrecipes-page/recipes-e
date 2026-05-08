@@ -4234,6 +4234,21 @@
     "shard": "e"
   },
   {
+    "slug": "exotic-spicy-korean-myeongnan-roe-noodles",
+    "title": "Exotic Spicy Korean Myeongnan-roe Noodles",
+    "tags": [
+      "gluten-free",
+      "korean",
+      "one-pan",
+      "spicy",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
+    "shard": "e"
+  },
+  {
     "slug": "exotic-spicy-norwegian-fish-dumplings",
     "title": "Exotic Spicy Norwegian Fish Dumplings",
     "tags": [
@@ -4319,6 +4334,21 @@
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 170,
+    "shard": "e"
+  },
+  {
+    "slug": "exotic-vietnamese-salmon-bun-rieu",
+    "title": "Exotic Vietnamese Salmon Bun Rieu",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "paleo-friendly",
+      "seafood",
+      "spicy",
+      "vietnamese-cuisine"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {
