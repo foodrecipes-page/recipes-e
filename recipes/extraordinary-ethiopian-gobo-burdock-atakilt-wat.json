@@ -1,0 +1,109 @@
+{
+  "title": "Extraordinary Ethiopian Gobo-Burdock Atakilt Wat",
+  "description": "A traditional Ethiopian dish made with slow-cooked gobo-burdock and spices, served in a flavorful and aromatic sauce.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gobo-burdock (burdock root and turnip greens)",
+      "amount": "1 cup",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Ferment-jang",
+      "amount": "2 tablespoons",
+      "notes": " Korean chili paste"
+    },
+    {
+      "name": "Berbere spice",
+      "amount": "1 tablespoon",
+      "notes": "Ethiopian spice blend"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use low-sodium oil"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "use low-sodium paste"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": "homemade or low-sodium store-bought"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven or heavy pot over medium heat.",
+    "Add onion and cook, stirring occasionally, until softened, about 8 minutes.",
+    "Add garlic and ginger and cook, stirring constantly, for 1 minute.",
+    "Add red pepper flakes, ferment-jang, and berbere spice; cook for 1 minute, stirring constantly.",
+    "Add gobo-burdock and cook, stirring occasionally, for 5 minutes.",
+    "Add tomato paste and cook, stirring constantly, for 1 minute.",
+    "Add vegetable broth and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 30 minutes, or until gobo-burdock is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "ethiopian",
+    "low-sodium",
+    "one-pan",
+    "slow-cooked",
+    "veggie-rich"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "extraordinary-ethiopian-gobo-burdock-atakilt-wat",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/extraordinary-ethiopian-gobo-burdock-atakilt-wat",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T07:47:17Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "pillowy",
+    "mood": "one-pot",
+    "technique": "ferment-jang",
+    "primaryIngredient": "gobo-burdock",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Gobo-Burdock",
+    "descriptor": "Extraordinary",
+    "dishForm": "Atakilt Wat"
+  }
+}
