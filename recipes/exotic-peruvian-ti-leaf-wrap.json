@@ -1,0 +1,104 @@
+{
+  "title": "Exotic Peruvian Ti-Leaf Wrap",
+  "description": "A flavorful and fresh dish featuring tender chicken in aji amarillo pepper sauce, wrapped in a crunchy ti-leaf.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ti-leaf leaves",
+      "amount": "4"
+    },
+    {
+      "name": "Braised chicken",
+      "amount": "1 pound",
+      "notes": "pre-cooked"
+    },
+    {
+      "name": "Aji amarillo pepper sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Extra-virgin olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Finely chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Ayurvedic ghee",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a small bowl, whisk together aji amarillo pepper sauce, rice vinegar, and yuzu juice.",
+    "Add the aji amarillo mixture to the braised chicken and toss to coat.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken and cook for 2-3 minutes on each side, until lightly browned.",
+    "Transfer the skillet to the preheated oven and bake for 10-12 minutes, until the chicken is cooked through.",
+    "Meanwhile, prepare the ti-leaf leaves by tearing them into large pieces and placing them on a plate.",
+    "To assemble the wraps, place a spoonful of the chicken mixture onto the center of a ti-leaf leaf.",
+    "Add a sprinkle of chopped cilantro and a drizzle of ayurvedic ghee on top.",
+    "Fold the bottom half of the ti-leaf leaf up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Repeat with the remaining chicken mixture and ti-leaf leaves."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "exotic",
+    "gluten-free",
+    "low-carb",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "exotic-peruvian-ti-leaf-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-peruvian-ti-leaf-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:50:34Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "shaggy",
+    "mood": "cozy",
+    "technique": "brine-dry",
+    "primaryIngredient": "yuzu",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "Elegant Shaggy Aji-De-Gallina",
+    "dishForm": null
+  }
+}
