@@ -1,0 +1,102 @@
+{
+  "title": "Eye-opening Hangover Cure British Shoyu-koji Pasties",
+  "description": "A savory Cornish pasty filled with umami-rich shoyu-koji, perfect for a morning-after treat.",
+  "cuisine": "British",
+  "diet": [
+    "ovo-vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Shoyu-koji",
+      "amount": "120g"
+    },
+    {
+      "name": "Riced potatoes",
+      "amount": "180g"
+    },
+    {
+      "name": "Braised kale",
+      "amount": "120g"
+    },
+    {
+      "name": "Browned onions",
+      "amount": "100g"
+    },
+    {
+      "name": "Shredded cheddar",
+      "amount": "100g"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "200g"
+    },
+    {
+      "name": "Salt",
+      "amount": "5g"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "2g"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Melted butter",
+      "amount": "20g"
+    }
+  ],
+  "instructions": [
+    "To make the filling, combine shoyu-koji, riced potatoes, braised kale, browned onions, shredded cheddar, salt, and black pepper in a bowl.",
+    "To make the pastry dough, combine all-purpose flour, salt, and melted butter in a separate bowl.",
+    "Gradually add cold water to the dough and mix until a smooth dough forms.",
+    "Divide the dough into 4 equal pieces and shape each piece into a ball.",
+    "Roll out each ball into a thin circle.",
+    "Place a fourth of the filling in the center of each circle.",
+    "Fold the pastry dough over the filling and press the edges together to seal.",
+    "Use a knife to cut a few slits in the top of each pasty for steam to escape.",
+    "Place the pasties on a baking sheet lined with parchment paper.",
+    "Brush the tops of the pasties with melted butter and bake at 375°F (190°C) for 35 minutes, or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 35,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "british",
+    "cornish-pasty",
+    "hangover-cure",
+    "savory",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "eye-opening-hangover-cure-british-shoyu-koji-pasties",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/eye-opening-hangover-cure-british-shoyu-koji-pasties",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:08:01Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "flaky",
+    "mood": "hangover-cure",
+    "technique": "brine-dry",
+    "primaryIngredient": "shoyu-koji",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Shoyu-koji",
+    "descriptor": "Eye-opening Hangover Cure",
+    "dishForm": "Cornish Pasty"
+  }
+}
