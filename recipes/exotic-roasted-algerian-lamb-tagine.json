@@ -1,0 +1,113 @@
+{
+  "title": "Exotic Roasted Algerian Lamb Tagine",
+  "description": "Savory and silky Algerian dish featuring ume-plum and roast, perfect for a date night, this sugar-free-friendly recipe is sure to impress.",
+  "cuisine": "Algerian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "ume-plum paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until it is softened and lightly browned.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the lamb shoulder and cook until it is browned on all sides.",
+    "Add the ume-plum paste, cumin, coriander, cayenne pepper, salt, and black pepper, and stir to combine.",
+    "Cover the Dutch oven and transfer it to the preheated oven.",
+    "Roast the lamb for 2.5 hours, or until it is tender and falls apart easily.",
+    "Remove the Dutch oven from the oven and let it cool slightly.",
+    "Serve the lamb hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "date-night",
+    "lamb-recipes",
+    "middle-eastern",
+    "one-pot",
+    "roast",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "exotic-roasted-algerian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-roasted-algerian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:36:03Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "silky",
+    "mood": "date-night",
+    "technique": "roast",
+    "primaryIngredient": "ume-plum",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lamb",
+    "descriptor": "Exotic Roasted",
+    "dishForm": "Tagine"
+  }
+}
