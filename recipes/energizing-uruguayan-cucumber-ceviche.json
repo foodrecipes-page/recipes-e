@@ -1,0 +1,59 @@
+{
+  "title": "energizing uruguayan cucumber ceviche",
+  "description": "peppery and creamy ceviche dish from uruguay featuring cucumber and tadka, halal-friendly and perfect for a hot summer day",
+  "cuisine": "uruguayan",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cucumber",
+      "amount": "1 large",
+      "notes": "peeled and thinly sliced"
+    }
+  ],
+  "instructions": [
+    "combine cucumber slices with 1/2 cup freshly squeezed lime juice and 1/4 cup chopped fresh cilantro",
+    "add 2 teaspoons ground cumin and 1 teaspoon paprika to the cucumber mixture",
+    "heat 1 tablespoon vegetable oil in a small saucepan over medium heat and cook 1 small onion until translucent",
+    "add 1 minced garlic clove to the saucepan and cook for 1 minute, until fragrant",
+    "stir the cooked onion and garlic into the cucumber mixture",
+    "season with salt to taste",
+    "serve immediately, garnished with additional cilantro if desired"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ceviche",
+    "halal",
+    "high-protein",
+    "summer",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 5
+  },
+  "slug": "energizing-uruguayan-cucumber-ceviche",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-uruguayan-cucumber-ceviche",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:32:31Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "creamy",
+    "mood": "energizing",
+    "technique": "tadka",
+    "primaryIngredient": "cucumber",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "cucumber",
+    "descriptor": "energizing",
+    "dishForm": "Ceviche"
+  }
+}

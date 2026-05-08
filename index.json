@@ -1295,6 +1295,22 @@
     "shard": "e"
   },
   {
+    "slug": "earthy-light-mediterranean-chives-borek",
+    "title": "Earthy Light Mediterranean Chives Borek",
+    "tags": [
+      "breakfast-option",
+      "gluten-free",
+      "mediterranean",
+      "one-pan",
+      "snack",
+      "vegan-option",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
     "slug": "earthy-light-spanish-vegetables-paella",
     "title": "Earthy Light Spanish Vegetables Paella",
     "tags": [
@@ -4276,6 +4292,20 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 25,
+    "shard": "e"
+  },
+  {
+    "slug": "energizing-uruguayan-cucumber-ceviche",
+    "title": "energizing uruguayan cucumber ceviche",
+    "tags": [
+      "ceviche",
+      "halal",
+      "high-protein",
+      "summer",
+      "uruguayan"
+    ],
+    "cuisine": "uruguayan",
+    "totalTimeMin": 15,
     "shard": "e"
   },
   {

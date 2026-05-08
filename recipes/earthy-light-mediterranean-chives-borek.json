@@ -1,0 +1,113 @@
+{
+  "title": "Earthy Light Mediterranean Chives Borek",
+  "description": "Indulge in this earthy and light Mediterranean borek featuring the delicate flavor of chives, all while enjoying the unique charm of cooking in a ttukbaegi earthenware cookware. This gluten-free-friendly dish is perfect for a quick weeknight meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Filo dough",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Chives",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup",
+      "notes": "Crumble before using"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1/4 cup",
+      "notes": "Pitted"
+    },
+    {
+      "name": "Artichoke hearts",
+      "amount": "1/4 cup",
+      "notes": "Canned, drained, and chopped"
+    },
+    {
+      "name": "Sun-dried tomatoes",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the ttukbaegi earthenware cookware to 375 degrees Fahrenheit (190 degrees Celsius).",
+    "Line the cookware with parchment paper, leaving some overhang for easy removal.",
+    "Roll out the filo dough to a thickness of about 1/16 inch (1.5 mm).",
+    "Cut the dough into square sheets, about 4 inches (10 cm) per side.",
+    "Place a sheet of dough in the cookware, brushing with some of the olive oil.",
+    "Spread a quarter of the chive mixture on the dough, leaving a 1-inch (2.5 cm) border around the edges.",
+    "Sprinkle a quarter of the feta cheese, kalamata olives, artichoke hearts, sun-dried tomatoes, and garlic over the chive mixture.",
+    "Fold the edges of the dough over the filling, pressing gently to seal.",
+    "Repeat the process with the remaining dough and filling ingredients, forming 4-6 boreks in total.",
+    "Brush the tops of the boreks with the remaining olive oil and bake for 20-25 minutes, or until golden brown.",
+    "Allow the boreks to cool for a few minutes before serving, garnished with additional chives if desired.",
+    "Serve warm, ideally with a side of mixed greens salad for a well-rounded meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-option",
+    "gluten-free",
+    "mediterranean",
+    "one-pan",
+    "snack",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "earthy-light-mediterranean-chives-borek",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-light-mediterranean-chives-borek",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:33:30Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "light",
+    "mood": "indulgent",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "chives",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "chives",
+    "descriptor": "Earthy Light",
+    "dishForm": "Borek"
+  }
+}
