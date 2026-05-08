@@ -1,0 +1,93 @@
+{
+  "title": "Easygoing American Chicken Casserole",
+  "description": "A hearty one-pot dish featuring chicken, vegetables, and a rich custard sauce, perfect for a weeknight dinner. This halal-friendly recipe is made with simple ingredients and is easy to prepare.",
+  "cuisine": "American",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "custard powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "milk",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the custard powder, milk, melted butter, salt, and pepper.",
+    "Add the chicken, onion, and carrots to the bowl and stir until they are well coated with the custard mixture.",
+    "Transfer the mixture to a 9x13 inch baking dish and cover it with aluminum foil.",
+    "Place the baking dish in a larger pan and add hot water to come halfway up the sides of the baking dish.",
+    "Bake for 30 minutes, then remove the foil and continue baking for an additional 20 minutes.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "chicken-casserole",
+    "comfort-food",
+    "halal-friendly",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 22
+  },
+  "slug": "easygoing-american-chicken-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/easygoing-american-chicken-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:16:51Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "shaggy",
+    "mood": "one-pot",
+    "technique": "bain-marie",
+    "primaryIngredient": "custard powder",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "Easygoing",
+    "dishForm": "Casserole"
+  }
+}
