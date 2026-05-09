@@ -1,0 +1,103 @@
+{
+  "title": "Extraordinary X-traordinary Ukrainian Sausage Pierogi",
+  "description": "Discover the tender, savory taste of these traditional Ukrainian pierogi, infused with light rum and kombu-cold-extract for a truly unique experience.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mashed potatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Sausage meat",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Light rum",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Kombu-cold-extract",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine mashed potatoes, sausage meat, onion, garlic, light rum, and kombu-cold-extract in a large bowl.",
+    "Mix well until all ingredients are fully incorporated.",
+    "Add sour cream, egg, salt, and black pepper to the bowl and mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "Wrap the dough in plastic wrap and let it rest for 30 minutes.",
+    "Divide the dough into 12 equal pieces and roll each piece into a thin circle.",
+    "Place a tablespoon of filling in the center of each circle.",
+    "Fold the dough over the filling and press the edges together to seal the pierogi.",
+    "Bring a large pot of salted water to a boil and cook the pierogi for 5-7 minutes, or until they float to the surface.",
+    "Serve the pierogi hot with your favorite toppings, such as sour cream, fried onions, or diced chives."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 15,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dinner-party",
+    "pierogi",
+    "russian-inspired",
+    "sausage",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "extraordinary-x-traordinary-ukrainian-sausage-pierogi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/extraordinary-x-traordinary-ukrainian-sausage-pierogi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:11:14Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "light rum",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Sausage",
+    "descriptor": "Extraordinary X-traordinary ",
+    "dishForm": "Pierogi"
+  }
+}
