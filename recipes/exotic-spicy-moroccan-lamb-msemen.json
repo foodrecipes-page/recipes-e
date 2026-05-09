@@ -1,0 +1,107 @@
+{
+  "title": "Exotic Spicy Moroccan Lamb Msemen",
+  "description": "A winey and springy Moroccan dish featuring lamb, ketchup, and stir-fry elements, perfect for a date night, served in a msemen form.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ketchup",
+      "amount": "1/4 cup",
+      "notes": "none"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "none"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "none"
+    },
+    {
+      "name": "msemen dough",
+      "amount": "4 pieces",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "dates",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the lamb pieces and cook until browned, about 5 minutes.",
+    "Add the chopped onion and cook until softened, about 3 minutes.",
+    "Add the ketchup, cumin, paprika, and cayenne pepper, and stir to combine.",
+    "Reduce heat to low and simmer, stirring occasionally, for 10 minutes.",
+    "Meanwhile, cook the msemen dough according to package instructions or recipe.",
+    "Assemble the msemen by placing a piece of dough on a flat surface and spooning the lamb mixture onto the center of the dough.",
+    "Top with chopped dates and parsley, and fold the dough to enclose.",
+    "Serve the exotic spicy Moroccan lamb msemen hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "exotic-dishes",
+    "lamb-recipes",
+    "moroccan-cuisine",
+    "msemen-recipes",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "exotic-spicy-moroccan-lamb-msemen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-spicy-moroccan-lamb-msemen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:47:00Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "springy",
+    "mood": "date-night",
+    "technique": "stir-fry",
+    "primaryIngredient": "ketchup",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Exotic Spicy",
+    "dishForm": "Msemen"
+  }
+}
