@@ -1,0 +1,102 @@
+{
+  "title": "Exquisite Flaky Portuguese Cod Fritters",
+  "description": "A winey, flaky, solo-dinner Portuguese dish featuring poppy seeds and bonito-shave, perfect for a flexitarian-friendly meal.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "poppy seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1 tablespoon",
+      "notes": "shaved"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the cod fillets under cold water, pat dry with paper towels, and cut into small pieces.",
+    "In a large bowl, whisk together the flour, poppy seeds, bonito flakes, salt, and black pepper.",
+    "Add the chopped onion, egg, white wine, and olive oil to the bowl and mix until just combined.",
+    "Gently fold in the cod pieces until they are evenly coated with the flour mixture.",
+    "Using a 1/4 cup measuring cup, scoop the mixture into balls and flatten slightly into patties.",
+    "Heat about 1/2 inch of olive oil in a large skillet over medium-high heat until it reaches 350 degrees.",
+    "Carefully place the patties in the hot oil and fry for 3-4 minutes on each side, until golden brown and cooked through.",
+    "Remove the fritters from the oil with a slotted spoon and drain on paper towels.",
+    "Serve the fritters hot, garnished with additional poppy seeds and bonito flakes if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian",
+    "fried-foods",
+    "poppy-seeds",
+    "portuguese-cuisine",
+    "seafood",
+    "wine-infused"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "exquisite-flaky-portuguese-cod-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exquisite-flaky-portuguese-cod-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:11:36Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "flaky",
+    "mood": "solo-dinner",
+    "technique": "bonito-shave",
+    "primaryIngredient": "poppy seeds",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "cod",
+    "descriptor": "exquisite flaky",
+    "dishForm": "Fritters"
+  }
+}
