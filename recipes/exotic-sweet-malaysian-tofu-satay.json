@@ -1,0 +1,104 @@
+{
+  "title": "Exotic Sweet Malaysian Tofu Satay",
+  "description": "A sweet and snappy Malaysian dish featuring star anise and lacquer-glaze, perfect for a romantic evening, this plant-based friendly recipe is a must try.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into skewers"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole",
+      "notes": "ground into powder"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup",
+      "notes": "packed"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1/4 cup",
+      "notes": "unseasoned"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat, about 400 degrees Fahrenheit.",
+    "In a blender or food processor, combine coconut milk, brown sugar, rice vinegar, ground star anise, and salt, and blend until smooth.",
+    "Add the lacquer glaze to the blender and blend until well combined.",
+    "Thread the tofu skewers onto bamboo sticks, if using, and brush with peanut oil.",
+    "Grill the tofu skewers for about 5 minutes per side, or until golden brown and crispy.",
+    "Brush the tofu skewers with the lacquer glaze mixture during the last minute of grilling.",
+    "Garnish with chopped fresh cilantro and serve immediately.",
+    "Serve with steamed jasmine rice or noodles for a complete meal.",
+    "Refrigerate any leftovers for up to 3 days and reheat in the oven or on the grill."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-tofu",
+    "malaysian-food",
+    "plant-based",
+    "romantic-dinner",
+    "sweet-and-savory"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "exotic-sweet-malaysian-tofu-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-sweet-malaysian-tofu-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:28:46Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "snappy",
+    "mood": "romantic",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "star anise",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "tofu",
+    "descriptor": "exotic sweet",
+    "dishForm": "Satay"
+  }
+}
