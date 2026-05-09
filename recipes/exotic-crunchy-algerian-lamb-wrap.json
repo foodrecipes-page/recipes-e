@@ -1,0 +1,95 @@
+{
+  "title": "Exotic Crunchy Algerian Lamb Wrap",
+  "description": "A flavorful and crunchy post-workout dish featuring lamb and shortcrust pastry, served in a Korean brass bowl. This Whole30-friendly recipe combines the spices of Algeria with the convenience of a ssam-wrap.",
+  "cuisine": "Algerian",
+  "diet": [
+    "whole30",
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "shortcrust pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ssam leaves",
+      "amount": "4-6 leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the lamb shoulder with salt, black pepper, and sumac.",
+    "Heat the olive oil in a large skillet over medium-high heat and sear the lamb until browned on all sides.",
+    "Transfer the lamb to the oven and roast for 20 minutes, or until cooked to an internal temperature of 145 degrees Fahrenheit.",
+    "Roll out the shortcrust pastry and cut into 4-6 rectangles, depending on the size of the ssam leaves.",
+    "Spread a layer of Dijon mustard on each pastry rectangle, leaving a 1/2 inch border around the edges.",
+    "Slice the roasted lamb into thin strips and place on top of the mustard.",
+    "Place a ssam leaf on top of the lamb and fold the pastry into a wrap.",
+    "Serve the wraps in a Korean brass bowl and enjoy.",
+    "Garnish with additional sumac and salt, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "high-protein",
+    "korean-inspired",
+    "lunch-ideas",
+    "post-workout",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "exotic-crunchy-algerian-lamb-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-crunchy-algerian-lamb-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:30:44Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crunchy",
+    "mood": "post-workout",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "shortcrust pastry",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lamb",
+    "descriptor": "exotic crunchy",
+    "dishForm": "Wrap"
+  }
+}
