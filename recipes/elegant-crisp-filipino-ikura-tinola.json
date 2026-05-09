@@ -1,0 +1,108 @@
+{
+  "title": "Elegant Crisp Filipino Ikura Tinola",
+  "description": "A fresh and crisp Filipino dish featuring ikura in a papillote, perfect for a romantic evening, and vegan-friendly by substituting traditional chicken with tofu.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ikura",
+      "amount": "1 cup",
+      "notes": "salmon roe"
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "extra firm"
+    },
+    {
+      "name": "Papillote paper",
+      "amount": "4 sheets",
+      "notes": "or parchment paper"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "Chili peppers",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the tofu into small cubes and season with salt and black pepper.",
+    "In a pan, sauté the sliced onion, minced garlic, and bruised lemongrass in a little oil until the onion is translucent.",
+    "Add the sliced chili peppers and cook for another minute.",
+    "In a bowl, mix the cooked onion mixture, cubed tofu, and ikura.",
+    "Place a quarter of the mixture onto the center of each papillote paper, leaving a 1-inch border around the filling.",
+    "Fold the paper to form a triangle or a square, and press the edges together to seal the papillote.",
+    "Place the papillote on a baking sheet and bake for 12 minutes.",
+    "Serve the tinola hot, garnished with sliced ginger and a sprinkle of black pepper."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-cuisine",
+    "papillote-recipe",
+    "romantic-dinner",
+    "special-occasion",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "elegant-crisp-filipino-ikura-tinola",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/elegant-crisp-filipino-ikura-tinola",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:19:21Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "papillote",
+    "primaryIngredient": "ikura",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "ikura",
+    "descriptor": "Elegant Crisp",
+    "dishForm": "Tinola"
+  }
+}
