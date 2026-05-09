@@ -1,0 +1,93 @@
+{
+  "title": "Easy Grilled Filipino Chicken Skewers",
+  "description": "A quick and easy Filipino dish featuring marinated chicken skewers grilled to perfection, served in an earthenware bowl. This low-carb friendly recipe is perfect for a weeknight dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10 pieces"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together fish sauce, lime juice, garlic, ginger, brown sugar, and black pepper to make the marinade.",
+    "Add the chicken pieces to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the chicken to marinate.",
+    "Preheat the yakimono grill to medium-high heat.",
+    "Thread the marinated chicken pieces onto the bamboo skewers, leaving a small space between each piece.",
+    "Brush the grill with oil to prevent sticking.",
+    "Grill the chicken skewers for 8-10 minutes, turning occasionally, until they are cooked through and slightly charred.",
+    "Serve the grilled chicken skewers in an earthenware bowl and garnish with sliced green onions and a sprinkle of black pepper."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino-food",
+    "grilled-chicken",
+    "low-carb",
+    "quick-dinner",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "easy-grilled-filipino-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-grilled-filipino-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:25:38Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "bouncy-qq",
+    "mood": "quick-fix",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "restaurant",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "chicken",
+    "descriptor": "easy grilled",
+    "dishForm": "Skewers"
+  }
+}

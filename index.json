@@ -2413,6 +2413,20 @@
     "shard": "e"
   },
   {
+    "slug": "easy-grilled-filipino-chicken-skewers",
+    "title": "Easy Grilled Filipino Chicken Skewers",
+    "tags": [
+      "filipino-food",
+      "grilled-chicken",
+      "low-carb",
+      "quick-dinner",
+      "weeknight-meal"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 30,
+    "shard": "e"
+  },
+  {
     "slug": "easy-hearty-chinese-pork-casserole",
     "title": "Easy Hearty Chinese Pork Casserole",
     "tags": [
