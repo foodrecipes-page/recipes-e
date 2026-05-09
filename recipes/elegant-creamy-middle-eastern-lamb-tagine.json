@@ -1,0 +1,126 @@
+{
+  "title": "Elegant Creamy Middle-Eastern Lamb Tagine",
+  "description": "Buttery, creamy tagine made with tender lamb, sweet pomegranate, and fragrant spices, all in a rich tandoor-style sauce.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless and cut into 1-inch cubes"
+    },
+    {
+      "name": "Ghee or unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Pomegranate molasses",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped (for garnish)"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of ghee in a large wok over medium-high heat.",
+    "Add the lamb cubes and cook until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the wok and set aside.",
+    "Add the remaining 2 tablespoons of ghee to the wok and cook the chopped onion until softened, about 3-4 minutes.",
+    "Add the grated ginger and minced garlic and cook for another minute.",
+    "Add the cumin, coriander, turmeric, and cayenne pepper to the wok and cook for 1 minute, stirring constantly.",
+    "Add the pomegranate molasses, salt, and browned lamb to the wok and stir to combine.",
+    "Return the heat to medium-low and simmer the tagine, covered, for 20-25 minutes, or until the lamb is tender.",
+    "Stir in the heavy cream and cook for 2-3 minutes, or until the sauce has thickened.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the tagine hot, garnished with chopped cilantro and a dollop of yogurt (optional).",
+    "Reheat the tagine over low heat for 5-10 minutes, stirring occasionally, if not serving immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "romantic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 42,
+    "carbs": 24,
+    "fat": 42
+  },
+  "slug": "elegant-creamy-middle-eastern-lamb-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/elegant-creamy-middle-eastern-lamb-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T18:52:04Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "tandoor",
+    "primaryIngredient": "pomegranate",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Lamb",
+    "descriptor": "Elegant Creamy",
+    "dishForm": "Tagine"
+  }
+}
