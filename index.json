@@ -242,6 +242,21 @@
     "shard": "e"
   },
   {
+    "slug": "earthily-springy-russian-lamb-stew",
+    "title": "Earthily Springy Russian Lamb Stew",
+    "tags": [
+      "copper-cooking",
+      "hearty-stew",
+      "lamb-based",
+      "one-pot",
+      "russian-cuisine",
+      "spring-vegetables"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 110,
+    "shard": "e"
+  },
+  {
     "slug": "earthily-tender-mediterranean-peas-pilaf",
     "title": "Earthily Tender Mediterranean Peas Pilaf",
     "tags": [
