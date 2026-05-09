@@ -1,0 +1,124 @@
+{
+  "title": "Elegant Brine-Wet Russian Beet Soup Bowl",
+  "description": "A fresh, tender, and comforting Russian beet soup dish featuring fresh basil and a brine-wet twist, served in a slate-tile vessel",
+  "cuisine": "Russian",
+  "diet": [
+    "whole30",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the chopped carrots and cook for 5 minutes, stirring occasionally.",
+    "Add the chopped beets and cook for 10 minutes, stirring occasionally.",
+    "Add the fresh basil, chicken broth, water, salt, and black pepper. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20-25 minutes, or until the beets are tender.",
+    "Add the apple cider vinegar and stir to combine.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the soup hot in a slate-tile bowl, garnished with additional fresh basil if desired.",
+    "Refrigerate or freeze any leftovers for later use.",
+    "Note: This soup will thicken as it cools, so feel free to add more broth or water to achieve the desired consistency.",
+    "Note: For a creamier soup, you can blend a portion of the soup with coconut cream or non-dairy yogurt before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beets",
+    "gluten-free",
+    "russian",
+    "soup",
+    "vegetarian",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 214,
+    "protein": 4,
+    "carbs": 34,
+    "fat": 10
+  },
+  "slug": "elegant-brine-wet-russian-beet-soup-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/elegant-brine-wet-russian-beet-soup-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:28:25Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "sick-day",
+    "technique": "brine-wet",
+    "primaryIngredient": "fresh basil",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "soup",
+    "descriptor": "Elegant Brine-Wet",
+    "dishForm": "Borscht"
+  }
+}
