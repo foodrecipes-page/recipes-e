@@ -1,0 +1,89 @@
+{
+  "title": "Exotic Crunchy Syrian Lamb Tagine",
+  "description": "A garlicky and comforting Syrian dish featuring full fat sour cream, cooked to perfection in a tagine, and served in a lacquerware bowl. This recipe combines the flavors of the Middle East with a crunchy texture.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "full fat sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tagine spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the lacquerware bowl over medium heat.",
+    "Add the lamb pieces and cook until browned on all sides.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the tagine spice mix and cook for 1 minute.",
+    "Add the sour cream, chopped almonds, and dried apricots, and stir to combine.",
+    "Transfer the bowl to the oven and cook at 300 degrees Fahrenheit for 2 hours.",
+    "Remove the bowl from the oven and season with salt to taste.",
+    "Serve the tagine hot, garnished with additional chopped almonds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lamb-recipes",
+    "middle-eastern",
+    "one-pot",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "exotic-crunchy-syrian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-crunchy-syrian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:54:46Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "comforting",
+    "technique": "tagine-cook",
+    "primaryIngredient": "full fat sour cream",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "exotic crunchy",
+    "dishForm": "Tagine"
+  }
+}
