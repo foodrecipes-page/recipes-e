@@ -1,0 +1,122 @@
+{
+  "title": "Extra Hot Spicy German Sausage Bowl",
+  "description": "A rich, spicy German-inspired dish featuring homemade sausage in a bold mirepoix-based broth served in a lacquerware bowl. Anti-inflammatory friendly and perfect for a comforting dinner.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 pound german sausage",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons avocado oil",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 large onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "2 carrots",
+      "amount": "2",
+      "notes": "peeled, sliced"
+    },
+    {
+      "name": "2 celery stalks",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "1 teaspoon caraway seeds",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon smoked paprika",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon cayenne pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "4 cups vegetable broth",
+      "amount": "4",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "1/4 cup apple cider vinegar",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the avocado oil in a large Dutch oven over medium-high heat.",
+    "Add the sliced onion and cook until caramelized, about 8 minutes.",
+    "Add the minced garlic, sliced carrots, and sliced celery, and cook for an additional 4 minutes.",
+    "Add the caraway seeds, smoked paprika, and cayenne pepper, and stir to combine.",
+    "Add the german sausage and cook until browned, about 4-5 minutes.",
+    "Pour in the vegetable broth and apple cider vinegar, and bring to a simmer.",
+    "Reduce heat to low and let simmer for 10 minutes, or until the flavors have melded together.",
+    "Season with salt to taste.",
+    "Serve the sausage and broth hot, garnished with chopped fresh herbs, if desired.",
+    "Transfer the dish to a lacquerware bowl and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "comfort-food",
+    "german",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 25,
+    "fat": 27
+  },
+  "slug": "extra-hot-spicy-german-sausage-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/extra-hot-spicy-german-sausage-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:27:16Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "dense",
+    "mood": "solo-dinner",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "salt",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "sausage",
+    "descriptor": "Extra Hot Spicy",
+    "dishForm": "Bowl"
+  }
+}
