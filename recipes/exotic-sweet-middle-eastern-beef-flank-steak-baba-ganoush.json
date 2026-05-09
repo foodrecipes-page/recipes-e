@@ -1,0 +1,110 @@
+{
+  "title": "Exotic Sweet Middle Eastern Beef Flank Steak Baba Ganoush",
+  "description": "A sweet and crumbly Middle Eastern dish featuring dehydrated beef flank steak, perfect for a post-workout meal, this macrobiotic-friendly baba ganoush is a twist on the classic recipe.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "macrobiotic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef flank steak",
+      "amount": "1.5 pounds",
+      "notes": "dehydrated"
+    },
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "tahini",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Slice the dehydrated beef flank steak into thin strips and set aside.",
+    "Pierce the eggplant with a fork a few times and bake for 30 minutes.",
+    "Remove the eggplant from the oven and let it cool down.",
+    "Scoop the eggplant flesh into a blender and add the tahini, honey, lemon juice, garlic, paprika, salt, and black pepper.",
+    "Blend the mixture until smooth and creamy.",
+    "Heat the olive oil in a pan over medium heat and add the sliced beef flank steak.",
+    "Cook the beef for 5 minutes per side, or until it reaches an internal temperature of 145 degrees Fahrenheit.",
+    "Combine the cooked beef with the eggplant mixture and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dehydrated",
+    "gluten-free",
+    "high-protein",
+    "macrobiotic",
+    "middle-eastern",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "exotic-sweet-middle-eastern-beef-flank-steak-baba-ganoush",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-sweet-middle-eastern-beef-flank-steak-baba-ganoush",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:54:15Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "dehydrate",
+    "primaryIngredient": "beef flank steak",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "beef flank steak",
+    "descriptor": "exotic sweet",
+    "dishForm": "Baba Ganoush"
+  }
+}
