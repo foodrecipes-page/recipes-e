@@ -1,0 +1,96 @@
+{
+  "title": "Earthy Charred Filipino Savoy Cabbage Ginataang Bilo Bilo",
+  "description": "A charred, springy, and savory Filipino dish featuring savoy cabbage and nuka-pickle in a rich coconut milk broth, perfect for a weeknight dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Savoy cabbage",
+      "amount": "1 head",
+      "notes": "chopped"
+    },
+    {
+      "name": "Nuka pickle",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a copper pot over medium heat.",
+    "Add chopped onion and cook until translucent.",
+    "Add minced garlic and grated ginger and cook for 1 minute.",
+    "Add chopped savoy cabbage and cook until slightly charred.",
+    "Add diced nuka pickle and cook for 2 minutes.",
+    "Pour in coconut milk and bring to a simmer.",
+    "Reduce heat to low and cook for 10 minutes.",
+    "Season with salt to taste.",
+    "Serve hot in the copper pot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-milk",
+    "filipino-food",
+    "nuka-pickle",
+    "one-pot",
+    "savoy-cabbage",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "earthy-charred-filipino-savoy-cabbage-ginataang-bilo-bilo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-charred-filipino-savoy-cabbage-ginataang-bilo-bilo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:06:41Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "springy",
+    "mood": "weeknight",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "savoy cabbage",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "savoy cabbage",
+    "descriptor": "earthy charred",
+    "dishForm": "Ginataang Bilo Bilo"
+  }
+}
