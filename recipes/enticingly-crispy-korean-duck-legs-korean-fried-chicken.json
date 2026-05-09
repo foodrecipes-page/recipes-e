@@ -1,0 +1,98 @@
+{
+  "title": "Enticingly Crispy Korean Duck Legs Korean Fried Chicken",
+  "description": "A malty, bouncy-qq, brunch-mood Korean dish featuring duck legs, this low-carb-friendly recipe is a twist on traditional Korean fried chicken, using duck legs instead of chicken for a richer flavor and crisper exterior.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "duck legs",
+      "amount": "4",
+      "notes": "skin on"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "gochujang",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "potato starch",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together rice vinegar, gochujang, soy sauce, brown sugar, garlic, and ginger to make the brine.",
+    "Add the duck legs to the brine and refrigerate for at least 2 hours or overnight.",
+    "Preheat the oil in a deep frying pan to 375 degrees.",
+    "In a separate bowl, mix together the potato starch and a pinch of salt.",
+    "Remove the duck legs from the brine and coat in the potato starch mixture, shaking off excess.",
+    "Carefully add the coated duck legs to the hot oil and fry for 5-7 minutes on each side, or until golden brown and crispy.",
+    "Using a slotted spoon, remove the duck legs from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "Serve the crispy duck legs hot and enjoy.",
+    "Garnish with toasted sesame seeds and chopped green onions, if desired."
+  ],
+  "prepTimeMin": 120,
+  "cookTimeMin": 20,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-inspired",
+    "brunch-ideas",
+    "crispy-outer",
+    "duck-legs",
+    "korean-fried-chicken",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "enticingly-crispy-korean-duck-legs-korean-fried-chicken",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/enticingly-crispy-korean-duck-legs-korean-fried-chicken",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:41:14Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "bouncy-qq",
+    "mood": "brunch-mood",
+    "technique": "brine-dry",
+    "primaryIngredient": "duck legs",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "duck legs",
+    "descriptor": "Enticingly Crispy",
+    "dishForm": "Korean Fried Chicken"
+  }
+}
