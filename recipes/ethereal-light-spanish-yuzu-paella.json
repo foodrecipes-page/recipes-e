@@ -1,0 +1,61 @@
+{
+  "title": "Ethereal Light Spanish Yuzu Paella",
+  "description": "A light and airy malty Spanish dish featuring yuzu, perfect for soothing hangovers, served in a fondue pot without onions or garlic. Traditional Valencian flavors with a sweet twist.",
+  "cuisine": "Spanish",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Spanish rice",
+      "amount": "250g",
+      "notes": "preferably day-old rice"
+    }
+  ],
+  "instructions": [
+    "Heat 2 cups water to 90\u0006C in the fondue pot.",
+    "Add 250g Spanish rice and stir to coat in oil and salt.",
+    "Allow rice to toast, about 5 minutes.",
+    "Add 300ml yuzu juice, candy melts, and Valencia orange oil; stir to combine.",
+    "Bring mixture to a simmer, then reduce heat to 80\u0006C and cover.",
+    "Cook, stirring occasionally, for 15-20 minutes or until liquid is absorbed.",
+    "Garnish with fleur de sel and pepper to taste.",
+    "Serve immediately from the fondue pot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "candy-infused",
+    "fondue-pot",
+    "hangover-cure",
+    "no-onions-no-garlic",
+    "one-pan",
+    "valencian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 65,
+    "fat": 16
+  },
+  "slug": "ethereal-light-spanish-yuzu-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/ethereal-light-spanish-yuzu-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:45:05Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "light",
+    "mood": "hangover-cure",
+    "technique": "candy",
+    "primaryIngredient": "yuzu",
+    "diet": "no-onion-no-garlic",
+    "region": "valencian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "yuzu",
+    "descriptor": "Ethereal Light",
+    "dishForm": "Paella"
+  }
+}
