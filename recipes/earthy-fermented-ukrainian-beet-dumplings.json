@@ -1,0 +1,87 @@
+{
+  "title": "Earth Beet Dumplings",
+  "description": "Fermented Ukrainian beet dumplings with a chewy texture, perfect for a brunch mood, featuring a unique blue color and sashimi-cut presentation, served on a bamboo tray.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "buckwheat flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "blue food coloring",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine grated beets, buckwheat flour, blue food coloring, salt, and sugar.",
+    "Gradually add water to the bowl and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a warm place and let it ferment for 2 hours.",
+    "Divide the dough into small pieces and shape into dumplings.",
+    "Bring a large pot of water to a boil and cook the dumplings for 10 minutes.",
+    "Remove the dumplings from the water and let them cool.",
+    "Cut the dumplings into sashimi-style pieces and serve on a bamboo tray."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "blue-food",
+    "brunch-ideas",
+    "fermented-food",
+    "gluten-free",
+    "sashimi-style",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "earthy-fermented-ukrainian-beet-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-fermented-ukrainian-beet-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:11:05Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "blue food colouring",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "beet",
+    "descriptor": "earthy fermented",
+    "dishForm": "Dumplings"
+  }
+}
