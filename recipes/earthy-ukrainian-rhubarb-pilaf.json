@@ -1,0 +1,110 @@
+{
+  "title": "Earthy Ukrainian Rhubarb Pilaf",
+  "description": "A traditional Ukrainian dish featuring rhubarb, this pilaf is slow-cooked to perfection and served on a hot stone plate, making it a perfect post-workout meal. The yeasty flavor and bouncy texture will leave you feeling satisfied and energized.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rhubarb",
+      "amount": "2 cups",
+      "notes": "fresh, cut into 1 inch pieces"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "peeled, grated"
+    },
+    {
+      "name": "onions",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup",
+      "notes": "low fat"
+    }
+  ],
+  "instructions": [
+    "Preheat the hot stone plate in the oven at 350 degrees Fahrenheit for 10 minutes.",
+    "In a large saucepan, saute the chopped onions and sliced mushrooms in a little bit of water until they are softened.",
+    "Add the grated carrots and cook for an additional 5 minutes, stirring occasionally.",
+    "In a separate bowl, whisk together the vegetable broth, yeast, salt, and black pepper.",
+    "Add the uncooked brown rice to the bowl and stir to combine.",
+    "Add the rice mixture to the saucepan with the onion and carrot mixture, stirring to combine.",
+    "Add the cut rhubarb to the saucepan and stir to combine.",
+    "Transfer the mixture to the preheated hot stone plate and bake in the oven for 30 minutes.",
+    "Remove the pilaf from the oven and stir in the low fat sour cream.",
+    "Serve the pilaf hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "hot-stone-plate",
+    "lacto-vegetarian",
+    "post-workout",
+    "slow-cooked",
+    "traditional-ukrainian",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "earthy-ukrainian-rhubarb-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-ukrainian-rhubarb-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:37:00Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "bouncy-qq",
+    "mood": "post-workout",
+    "technique": "slow-cook",
+    "primaryIngredient": "rhubarb",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "rhubarb",
+    "descriptor": "earthy slow-cooked",
+    "dishForm": "Pilaf"
+  }
+}
