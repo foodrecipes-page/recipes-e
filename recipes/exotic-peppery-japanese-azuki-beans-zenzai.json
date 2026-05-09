@@ -1,0 +1,99 @@
+{
+  "title": "Exotic Peppery Japanese Azuki Beans Zenzai",
+  "description": "A traditional Tohoku dessert featuring azuki beans, turmeric powder, and a hint of peppery flavor, now vegan-friendly and kid-friendly, with a shattering texture from the mantecare-emulsify method.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "azuki beans",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the azuki beans and soak them in water for 4 hours.",
+    "Drain and rinse the azuki beans, then transfer them to a pot with 2 cups of water and bring to a boil.",
+    "Reduce the heat to low and simmer for 1 hour, or until the beans are tender.",
+    "Drain the beans and mash them in a bowl with a fork.",
+    "In a separate pot, combine the coconut milk, maple syrup, turmeric powder, black pepper, and salt, and whisk until smooth.",
+    "Bring the coconut milk mixture to a simmer over medium heat.",
+    "In a small bowl, whisk together the cornstarch and lemon juice until smooth.",
+    "Add the cornstarch mixture to the coconut milk mixture and whisk until thickened.",
+    "Stir in the mashed azuki beans and cook for an additional 2 minutes.",
+    "Remove from heat and let cool to room temperature.",
+    "Refrigerate for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 70,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "azuki-beans",
+    "japanese-dessert",
+    "kid-friendly",
+    "mantecare-emulsify",
+    "peppery",
+    "tohoku-specialty",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "exotic-peppery-japanese-azuki-beans-zenzai",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-peppery-japanese-azuki-beans-zenzai",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:22:46Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "shattering",
+    "mood": "kid-friendly",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "turmeric powder",
+    "diet": "vegan",
+    "region": "tohoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "azuki beans",
+    "descriptor": "Exotic Peppery",
+    "dishForm": "Zenzai"
+  }
+}
