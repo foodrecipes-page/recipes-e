@@ -1,0 +1,94 @@
+{
+  "title": "Earthy Grassy Peruvian Beef Anticuchos",
+  "description": "A crowd-pleasing Peruvian dish featuring grassy and crisp flavors, made with dashi and a mirepoix base, served as anticuchos in a kazan cauldron.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grass fed beef heart",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "Dashi broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Mirepoix mix",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the kazan cauldron over medium high heat.",
+    "Thread the beef heart pieces onto skewers.",
+    "In a large bowl, whisk together dashi broth, mirepoix mix, parsley, cilantro, lime juice, garlic powder, and smoked paprika.",
+    "Add the beef skewers to the bowl and marinate for at least 30 minutes.",
+    "Remove the skewers from the marinade and cook in the preheated kazan cauldron for 5 minutes per side.",
+    "Serve the anticuchos hot, garnished with additional parsley and cilantro if desired.",
+    "Cook the mirepoix mix in the remaining marinade for 5 minutes, stirring frequently.",
+    "Serve the mirepoix mix alongside the anticuchos."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "gluten-free",
+    "grilling",
+    "low-glycemic",
+    "one-pot",
+    "peruvian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "earthy-grassy-peruvian-beef-anticuchos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-grassy-peruvian-beef-anticuchos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:16:39Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "dashi",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "beef",
+    "descriptor": "Earthy Grassy",
+    "dishForm": "Anticuchos"
+  }
+}
