@@ -1,0 +1,109 @@
+{
+  "title": "Earthily Savory Saudi Arabian Lamb Tagine",
+  "description": "A salty and molten solo dinner dish from Saudi Arabia, featuring cilantro leaves and a mirepoix base, friendly to ayurvedic tamasic diets. This dish is slow cooked to bring out the rich flavors of the lamb and spices.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "gluten-free",
+    "ayurvedic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "cilantro leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion, carrot, and celery and cook until the vegetables are tender.",
+    "Add the lamb pieces and cook until browned on all sides.",
+    "Add the garlic, ginger, cumin, coriander, salt, and pepper, and stir to combine.",
+    "Add 2 cups of water to the pot and bring to a boil.",
+    "Reduce the heat to low, cover the pot, and simmer for 1 1/2 hours.",
+    "Stir in the chopped cilantro leaves and continue to simmer for another 30 minutes.",
+    "Serve the tagine hot, garnished with additional cilantro leaves if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "cilantro-lover",
+    "lamb-based",
+    "middle-eastern",
+    "one-pot",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "earthily-savory-saudi-arabian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthily-savory-saudi-arabian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:20:19Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "molten",
+    "mood": "solo-dinner",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "cilantro leaves",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Earthily Savory",
+    "dishForm": "Tagine"
+  }
+}
