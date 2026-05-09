@@ -1,0 +1,96 @@
+{
+  "title": "Exquisite Greek Foie Gras Terrine",
+  "description": "A romantic Greek dish featuring foie gras, shio cure, and herbs, perfect for special occasions. This low sodium friendly terrine is a delightful combination of flavors and textures.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "foie gras",
+      "amount": "1 pound",
+      "notes": "grade A"
+    },
+    {
+      "name": "shio cure",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pink peppercorns",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 275 degrees Fahrenheit.",
+    "Line a terrine mold with plastic wrap, leaving some overhang for easy removal.",
+    "Season the foie gras with shio cure, thyme, rosemary, lemon zest, black pepper, and pink peppercorns.",
+    "Place the seasoned foie gras in the prepared terrine mold and smooth the top.",
+    "Drizzle the melted butter over the foie gras.",
+    "Fold the overhanging plastic wrap over the foie gras to seal the terrine.",
+    "Place the terrine in a large baking dish and add hot water to come halfway up the sides of the mold.",
+    "Bake for 25 minutes or until the foie gras is cooked to an internal temperature of 120 degrees Fahrenheit.",
+    "Remove the terrine from the water bath and let it cool to room temperature.",
+    "Refrigerate the terrine for at least 2 hours or overnight before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "foie-gras",
+    "greek-cuisine",
+    "herbal",
+    "low-sodium",
+    "romantic-dinner",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 0,
+    "fat": 28
+  },
+  "slug": "exquisite-greek-foie-gras-terrine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exquisite-greek-foie-gras-terrine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:24:45Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shattering",
+    "mood": "romantic",
+    "technique": "shio-cure",
+    "primaryIngredient": "foie-gras",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "foie gras",
+    "descriptor": "Exquisite Shattering",
+    "dishForm": "Terrine"
+  }
+}
