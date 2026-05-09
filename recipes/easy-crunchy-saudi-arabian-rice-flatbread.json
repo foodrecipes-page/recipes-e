@@ -1,0 +1,91 @@
+{
+  "title": "Easy Crunchy Saudi Arabian Rice Flatbread",
+  "description": "A quick and easy Saudi Arabian dish featuring crunchy rice and all purpose flour, perfect for a snack or light meal. This recipe is nut-free and can be made in a raclette grill.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "fried grind rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "khao khuat powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the all purpose flour, fried grind rice, khao khuat powder, and salt.",
+    "Gradually add the water to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 4 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a thin circle using a rolling pin.",
+    "Heat the raclette grill to medium heat and brush with olive oil.",
+    "Place a dough circle on the grill and cook for 2 minutes on each side, until crispy and golden brown.",
+    "Repeat with the remaining dough circles.",
+    "Sprinkle with sesame seeds if desired.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flatbread",
+    "gluten-free",
+    "middle-eastern",
+    "quick-fix",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "easy-crunchy-saudi-arabian-rice-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-crunchy-saudi-arabian-rice-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:57:34Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "all purpose flour",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "rice",
+    "descriptor": "easy crunchy",
+    "dishForm": "Flatbread"
+  }
+}
