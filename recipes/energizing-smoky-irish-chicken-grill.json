@@ -1,0 +1,99 @@
+{
+  "title": "Energizing Smoky Irish Chicken Grill",
+  "description": "A winey and snappy post-workout Irish dish featuring hojicha, perfect for a quick and nourishing meal after a workout, with a smoky flavor from the grill.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "4 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "hojicha tea",
+      "amount": "2 cups",
+      "notes": "brewed strong"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together hojicha tea, red wine, olive oil, smoked paprika, garlic powder, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat evenly with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Grill the chicken for 10-12 minutes per side, or until it reaches an internal temperature of 165 degrees Fahrenheit.",
+    "Once the chicken is cooked, remove it from the grill and sprinkle with chopped parsley.",
+    "Serve the chicken hot, garnished with additional parsley if desired.",
+    "Use a lazy-susan-spinner to serve the dish and make it easy to pass and share.",
+    "Let the chicken rest for a few minutes before serving to allow the juices to redistribute."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-chicken",
+    "irish-cuisine",
+    "lazy-susan-spinner",
+    "post-workout-meal",
+    "smoky-flavor",
+    "wine-based-marinade"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "energizing-smoky-irish-chicken-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-smoky-irish-chicken-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:22:29Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "snappy",
+    "mood": "post-workout",
+    "technique": "grill",
+    "primaryIngredient": "hojicha",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "chicken",
+    "descriptor": "energizing smoky",
+    "dishForm": "Grill"
+  }
+}
