@@ -1,0 +1,96 @@
+{
+  "title": "Exotic Earthy Vietnamese Pickles Noodles",
+  "description": "A fresh and cozy Vietnamese dish featuring pickles and shio-koji-cure, perfect for a comforting meal. This ovo-vegetarian-friendly recipe is easy to make and packed with flavor.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "fresh"
+    },
+    {
+      "name": "pickled carrots",
+      "amount": "1 cup",
+      "notes": "shio-koji-cure"
+    },
+    {
+      "name": "pickled daikon",
+      "amount": "1 cup",
+      "notes": "shio-koji-cure"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 cup",
+      "notes": "cubed"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to the package instructions and set aside.",
+    "In a large bowl, combine the pickled carrots and daikon, tofu, mushrooms, and scallions.",
+    "In a small bowl, whisk together the soy sauce and sesame oil.",
+    "Pour the soy sauce mixture over the pickle and tofu mixture and toss to combine.",
+    "Add the cooked noodles to the bowl and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional scallions and pickled carrots if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "noodle-dish",
+    "one-bowl",
+    "ovo-vegetarian",
+    "pickled-vegetables",
+    "quick-meal",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "exotic-earthy-vietnamese-pickles-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-earthy-vietnamese-pickles-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:13:52Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "shattering",
+    "mood": "cozy",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "pickles",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pickles",
+    "descriptor": "exotic earthy",
+    "dishForm": "Noodles"
+  }
+}

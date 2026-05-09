@@ -6062,6 +6062,21 @@
     "shard": "e"
   },
   {
+    "slug": "exotic-earthy-vietnamese-pickles-noodles",
+    "title": "Exotic Earthy Vietnamese Pickles Noodles",
+    "tags": [
+      "noodle-dish",
+      "one-bowl",
+      "ovo-vegetarian",
+      "pickled-vegetables",
+      "quick-meal",
+      "vietnamese-cuisine"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 30,
+    "shard": "e"
+  },
+  {
     "slug": "exotic-egyptian-chicken-tagine",
     "title": "Exotic Egyptian Chicken Tagine",
     "tags": [
