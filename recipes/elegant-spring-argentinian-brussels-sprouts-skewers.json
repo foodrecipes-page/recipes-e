@@ -1,0 +1,94 @@
+{
+  "title": "Elegant Spring Argentinian Brussels Sprouts Skewers",
+  "description": "A citrusy and indulgent Argentinian dish featuring Brussels sprouts and rest-meat, perfect for spring, and friendly to those who avoid onion and garlic. This recipe is a unique blend of flavors and textures.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brussels sprouts",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "Chorizo sausage",
+      "amount": "1/2 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Thread Brussels sprouts and chorizo sausage onto skewers.",
+    "In a small bowl, whisk together lemon juice, olive oil, salt, black pepper, and paprika.",
+    "Brush the mixture onto the skewers.",
+    "Grill the skewers for 10-12 minutes, turning occasionally.",
+    "Serve hot, garnished with chopped fresh parsley.",
+    "Let the skewers rest for 2 minutes before serving.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "dairy-free",
+    "easy-dinner",
+    "gluten-free",
+    "grilled-vegetables",
+    "spring-recipe"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "elegant-spring-argentinian-brussels-sprouts-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/elegant-spring-argentinian-brussels-sprouts-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:33:34Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "springy",
+    "mood": "indulgent",
+    "technique": "rest-meat",
+    "primaryIngredient": "brussels sprouts",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "brussels sprouts",
+    "descriptor": "Elegant Spring",
+    "dishForm": "Skewers"
+  }
+}
