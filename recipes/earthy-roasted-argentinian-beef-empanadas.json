@@ -1,0 +1,97 @@
+{
+  "title": "Earthy Roasted Argentinian Beef Empanadas",
+  "description": "Roasted argentinian beef empanadas featuring phyllo dough and a deglaze, perfect for a romantic dinner, this dish is raw friendly and can be made with ease",
+  "cuisine": "Argentinian",
+  "diet": [
+    "raw-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "Ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees Fahrenheit.",
+    "In a large skillet, heat olive oil over medium high heat.",
+    "Add the onion and cook until it is translucent.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the ground beef and cook until it is browned.",
+    "Add the red bell pepper and cook until it is tender.",
+    "Deglaze the skillet with beef broth and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Unroll the phyllo dough and cut it into 4 inch squares.",
+    "Place a tablespoon of the beef mixture onto the center of each square.",
+    "Fold the dough into a triangle and press the edges together to seal."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "beef-recipes",
+    "empanadas",
+    "phyllo-dough",
+    "romantic-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "earthy-roasted-argentinian-beef-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-roasted-argentinian-beef-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:43:59Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "chewy",
+    "mood": "romantic",
+    "technique": "deglaze",
+    "primaryIngredient": "phyllo dough",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Earthy Roasted",
+    "dishForm": "Empanadas"
+  }
+}
