@@ -1,0 +1,94 @@
+{
+  "title": "Exotic Floral Middle Eastern Wheat Bread Harees",
+  "description": "A low-fat, fluffy, and flavorful Middle Eastern dish featuring grilled bread and floral notes, perfect for a monsoon evening.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole wheat bread",
+      "amount": "1 loaf",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "rose water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dried rose petals",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat a cast-iron skillet over medium heat.",
+    "Cut the whole wheat bread into 1-inch cubes and toast until lightly browned.",
+    "In a large bowl, whisk together rose water, orange blossom water, olive oil, salt, and black pepper.",
+    "Add the toasted bread cubes to the bowl and toss until the bread is evenly coated with the floral mixture.",
+    "Transfer the bread mixture to the preheated cast-iron skillet and cook for 5 minutes, stirring occasionally.",
+    "Stir in dried rose petals and chopped fresh parsley.",
+    "Cook for an additional 2 minutes, until the bread is crispy and golden brown.",
+    "Remove from heat and let cool for 5 minutes before serving.",
+    "Serve warm, garnished with additional parsley and rose petals if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "floral",
+    "grilled",
+    "low-fat",
+    "middle-eastern",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "exotic-floral-middle-eastern-wheat-bread-harees",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-floral-middle-eastern-wheat-bread-harees",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:56:03Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "grill",
+    "primaryIngredient": "bread",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "wheat bread",
+    "descriptor": "Exotic Floral",
+    "dishForm": "Harees"
+  }
+}
