@@ -1,0 +1,112 @@
+{
+  "title": "Exotic Sour Kenyan Cherry Skillet",
+  "description": "A sour and chewy Kenyan dish featuring dried cherries, perfect for a brunch mood, with an ayurvedic-rajasic friendly twist.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "dried cherries",
+      "amount": "1 cup",
+      "notes": "rehydrated in 2 cups water"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "scrambled eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Rehydrate the dried cherries by soaking them in 2 cups of water for at least 4 hours.",
+    "Drain and chop the rehydrated cherries.",
+    "Heat the coconut oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the turmeric, coriander, salt, and black pepper, and cook for 1 minute.",
+    "Add the chopped cherries and cook for 2 minutes.",
+    "Push the cherry mixture to one side of the skillet.",
+    "Add a little more coconut oil if necessary, then pour in the scrambled eggs.",
+    "Cook the eggs until they are almost set, then mix with the cherry mixture.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "exotic",
+    "gluten-free",
+    "kenyan",
+    "one-pan",
+    "sour",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "exotic-sour-kenyan-cherry-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-sour-kenyan-cherry-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:53:05Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "saute",
+    "primaryIngredient": "dried cherries",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "cherries",
+    "descriptor": "exotic sour",
+    "dishForm": "Skillet"
+  }
+}
