@@ -1,0 +1,95 @@
+{
+  "title": "Earthy Winey Greek Chickpeas Revithia",
+  "description": "A hearty, plant-based Greek dish featuring chickpeas in a rich red wine jelly sauce, cooked in a traditional ttukbaegi earthenware pot and wrapped in pandan leaves.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "red wine jelly",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4-6 leaves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the red wine jelly, olive oil, salt, and black pepper.",
+    "Add the chopped onion and minced garlic to the bowl and stir to combine.",
+    "Add the chickpeas to the bowl and toss to coat with the sauce.",
+    "Spoon the chickpea mixture into a ttukbaegi earthenware pot or a similar clay pot.",
+    "Wrap the pot with pandan leaves, securing with kitchen twine if needed.",
+    "Bake the revithia for 30 minutes, then reduce the oven temperature to 325 degrees Fahrenheit.",
+    "Continue baking for an additional 20 minutes, or until the sauce has thickened and the chickpeas are tender.",
+    "Remove the revithia from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "earthy",
+    "greek-cuisine",
+    "one-pot",
+    "plant-based",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "earthy-winey-greek-chickpeas-revithia",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-winey-greek-chickpeas-revithia",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:40:06Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "shaggy",
+    "mood": "indulgent",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "red wine jelly",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Earthy Winey",
+    "dishForm": "Revithia"
+  }
+}
