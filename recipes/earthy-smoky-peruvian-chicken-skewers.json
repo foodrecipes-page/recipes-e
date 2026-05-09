@@ -1,0 +1,94 @@
+{
+  "title": "Earthy Smoky Peruvian Chicken Skewers",
+  "description": "Grilled chicken skewers with a rich garlic sauce and soffritto base, perfect for a cozy dinner",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "aji amarillo peppers",
+      "amount": "2 peppers",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit",
+    "In a blender, combine garlic, onion, red bell pepper, aji amarillo peppers, olive oil, lime juice, and salt, and blend until smooth",
+    "Thread the chicken pieces onto skewers",
+    "Brush the skewers with the garlic sauce",
+    "Grill the skewers for 10 minutes, turning occasionally",
+    "Serve the skewers hot, garnished with fresh cilantro",
+    "Let the skewers rest for 5 minutes before serving",
+    "Serve with additional garlic sauce for dipping"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled-chicken",
+    "peruvian-cuisine",
+    "robata-grill",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "earthy-smoky-peruvian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-smoky-peruvian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:32:35Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "aerated",
+    "mood": "cozy",
+    "technique": "soffritto-base",
+    "primaryIngredient": "garlic sauce",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "Earthy Smoky",
+    "dishForm": "Skewers"
+  }
+}
