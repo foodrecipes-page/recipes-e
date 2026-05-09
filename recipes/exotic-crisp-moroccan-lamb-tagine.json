@@ -1,0 +1,100 @@
+{
+  "title": "Exotic Crisp Moroccan Lamb Tagine",
+  "description": "A sweet and crisp Moroccan dish featuring cinnamon and beurre-monte, made in a hot pot vessel and suitable for plant-based diets with substitutions, this exotic tagine is a meal prep dream come true.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "or plant-based substitute"
+    },
+    {
+      "name": "cinnamon sticks",
+      "amount": "2",
+      "notes": "ground cinnamon can be used as substitute"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1/4 cup",
+      "notes": "or plant-based butter substitute"
+    },
+    {
+      "name": "diced onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "diced carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "chopped apricots",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the hot pot vessel to 300 degrees Fahrenheit.",
+    "In a large bowl, mix together the lamb shoulder, cinnamon sticks, and beurre-monte until the lamb is well coated.",
+    "Add the diced onions, carrots, and chopped apricots to the bowl and mix until they are evenly distributed.",
+    "Add the chickpeas and vegetable broth to the bowl and stir until everything is well combined.",
+    "Transfer the mixture to the preheated hot pot vessel and cook for 2 hours.",
+    "After 2 hours, remove the lid and let the tagine crisp up for an additional 30 minutes.",
+    "Serve the exotic crisp Moroccan lamb tagine hot, garnished with fresh herbs if desired.",
+    "Let the tagine cool completely before refrigerating or freezing for meal prep.",
+    "Reheat the tagine to an internal temperature of 165 degrees Fahrenheit before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "exotic",
+    "lamb",
+    "meal-prep",
+    "moroccan",
+    "one-pot",
+    "plant-based",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "exotic-crisp-moroccan-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-crisp-moroccan-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:33:03Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "beurre-monte",
+    "primaryIngredient": "cinnamon",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Exotic Crisp",
+    "dishForm": "Tagine"
+  }
+}
