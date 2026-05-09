@@ -1503,6 +1503,23 @@
     "shard": "e"
   },
   {
+    "slug": "earthy-light-mexican-chicken-tacos",
+    "title": "Earthy Light Mexican Chicken Tacos",
+    "tags": [
+      "dash-friendly",
+      "gluten-free",
+      "herbal",
+      "light",
+      "low-carb",
+      "mexican",
+      "one-pot",
+      "spherify"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
     "slug": "earthy-light-spanish-vegetables-paella",
     "title": "Earthy Light Spanish Vegetables Paella",
     "tags": [

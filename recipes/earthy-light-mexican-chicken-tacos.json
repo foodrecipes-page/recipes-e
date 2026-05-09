@@ -1,0 +1,110 @@
+{
+  "title": "Earthy Light Mexican Chicken Tacos",
+  "description": "A one-pot Mexican dish featuring herbal flavors, light texture, and coco sugar, cooked in a traditional molcajete vessel, with a dash of creativity and spherification technique.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "coco sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "taco seasoning",
+      "amount": "1 packet"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the molcajete over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chicken breast pieces and cook until browned, about 5-7 minutes.",
+    "Add the coco sugar, taco seasoning, lime juice, water, salt, and pepper, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10-12 minutes, or until the chicken is cooked through.",
+    "Stir in the chopped cilantro and cook for an additional minute.",
+    "Use a spherification technique to create small, bouncy balls of the chicken mixture.",
+    "Serve the earthy light Mexican chicken tacos in the molcajete, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dash-friendly",
+    "gluten-free",
+    "herbal",
+    "light",
+    "low-carb",
+    "mexican",
+    "one-pot",
+    "spherify"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "earthy-light-mexican-chicken-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-light-mexican-chicken-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:03:34Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "one-pot",
+    "technique": "spherify",
+    "primaryIngredient": "coco sugar",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "earthy light",
+    "dishForm": "Tacos"
+  }
+}
