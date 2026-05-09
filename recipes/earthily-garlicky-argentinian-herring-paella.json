@@ -1,0 +1,102 @@
+{
+  "title": "Earthily Garlicky Argentinian Herring Paella",
+  "description": "A savory one-pot dish featuring herring, garlic, and Mediterranean-friendly ingredients, cooked to perfection in a paella pan. This Argentinian-inspired recipe combines the earthy flavors of garlic and herring with a crunchy texture from the fry.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "herring fillets",
+      "amount": "12 oz",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the chopped herring fillets and cook for 2 minutes, until they start to brown.",
+    "Add the smoked paprika, salt, and black pepper, and stir to combine.",
+    "Add the chicken broth, uncooked white rice, and lemon juice, and bring to a boil.",
+    "Reduce the heat to low, cover the pan, and simmer for 20 minutes, until the rice is cooked and the liquid is absorbed.",
+    "Remove the pan from the heat and stir in the chopped fresh parsley.",
+    "Let the paella rest for 5 minutes before serving.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "garlic-lovers",
+    "gluten-free",
+    "mediterranean",
+    "one-pan",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "earthily-garlicky-argentinian-herring-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthily-garlicky-argentinian-herring-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:05:28Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "shaggy",
+    "mood": "one-pot",
+    "technique": "fry",
+    "primaryIngredient": "herring",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "herring",
+    "descriptor": "Earthily Garlicky",
+    "dishForm": "Paella"
+  }
+}
