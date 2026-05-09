@@ -1,0 +1,110 @@
+{
+  "title": "Energizing Earthy Algerian Tomato Tagine",
+  "description": "This earthy Algerian dish is energizing thanks to its aerated texture and fermented ingredients, making it a satvik-friendly meal option. It's a twist on traditional tagine recipes, featuring a sweet and tangy tomato ketchup sauce.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Red cabbage",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup",
+      "notes ": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes ": "grated"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "2 teaspoons",
+      "notes ": "ground"
+    },
+    {
+      "name": "Tomato ketchup",
+      "amount": "1/4 cup",
+      "notes ": "homemade or store-bought"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes ": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes ": "for frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes ": "to taste"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes ": "smoked or sweet"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes ": "for braising"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium heat.",
+    "Add the grated ginger and cook for 1-2 minutes, until fragrant.",
+    "Add the chopped carrots and cook for 5 minutes, until they start to soften.",
+    "Add the red cabbage and cook for another 5 minutes, until it starts to wilt."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "easy-to-make",
+    "gluten-free",
+    "one-pan",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 20,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "energizing-earthy-algerian-tomato-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-earthy-algerian-tomato-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:58:50Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "aerated",
+    "mood": "energizing",
+    "technique": "ferment",
+    "primaryIngredient": "tomato ketchup",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Tomato",
+    "descriptor": "Energizing Earthy",
+    "dishForm": "Tagine"
+  }
+}

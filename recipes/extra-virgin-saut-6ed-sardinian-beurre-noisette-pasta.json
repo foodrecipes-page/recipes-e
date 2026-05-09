@@ -1,0 +1,112 @@
+{
+  "title": "Sardinian Beurre-Noisette Pasta",
+  "description": "A simple yet flavorful Italian dish featuring Sardinian-style saut\u00055ed pasta, beurre-noisette, and a hint of brininess. This pescatarian-friendly meal is perfect for a solo dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "anchovy paste",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sardinian sea salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh lemon zest",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the pasta according to package instructions until al dente.",
+    "In a copper pot, heat the olive oil over medium heat.",
+    "Add the garlic and cook for 1-2 minutes until fragrant.",
+    "Add the anchovy paste and cook for another minute, stirring constantly.",
+    "Add the butter and let it melt, then stir in the lemon zest and juice.",
+    "Season with Sardinian sea salt and black pepper.",
+    "Add the cooked pasta to the pot and toss everything together until the pasta is well coated with the beurre-noisette sauce.",
+    "Garnish with parsley and serve hot.",
+    "Be sure to serve immediately for the best flavor and texture.",
+    "If desired, add a sprinkle of extra virgin olive oil on top of the pasta for added richness.",
+    "Adjust the seasoning as needed before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "beurre-noisette",
+    "briny",
+    "italian",
+    "one-pan",
+    "pescatarian",
+    "sardinian",
+    "solo-dinner"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 20,
+    "carbs": 70,
+    "fat": 35
+  },
+  "slug": "extra-virgin-saut-6ed-sardinian-beurre-noisette-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/extra-virgin-saut-6ed-sardinian-beurre-noisette-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:58:38Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "bouncy-qq",
+    "mood": "solo-dinner",
+    "technique": "dehydrate",
+    "primaryIngredient": "beurre-noisette",
+    "diet": "pescatarian",
+    "region": "sardinian",
+    "cuisineAdjective": "sardinian",
+    "mainIngredient": "beurre-noisette",
+    "descriptor": "extra-virgin saut\u00076ed",
+    "dishForm": "pasta"
+  }
+}

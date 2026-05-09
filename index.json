@@ -4594,6 +4594,20 @@
     "shard": "e"
   },
   {
+    "slug": "energizing-earthy-algerian-tomato-tagine",
+    "title": "Energizing Earthy Algerian Tomato Tagine",
+    "tags": [
+      "algerian-cuisine",
+      "easy-to-make",
+      "gluten-free",
+      "one-pan",
+      "vegan"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 75,
+    "shard": "e"
+  },
+  {
     "slug": "energizing-earthy-juicy-chinese-custard-powder-pilaf",
     "title": "Energizing Earthy Juicy Chinese Custard Powder Pilaf",
     "tags": [
@@ -7893,6 +7907,22 @@
     ],
     "cuisine": "Yorkshire",
     "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
+    "slug": "extra-virgin-saut-6ed-sardinian-beurre-noisette-pasta",
+    "title": "Sardinian Beurre-Noisette Pasta",
+    "tags": [
+      "beurre-noisette",
+      "briny",
+      "italian",
+      "one-pan",
+      "pescatarian",
+      "sardinian",
+      "solo-dinner"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
