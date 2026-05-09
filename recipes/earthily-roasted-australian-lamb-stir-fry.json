@@ -1,0 +1,103 @@
+{
+  "title": "Earthily Roasted Australian Lamb Stir fry",
+  "description": "A hearty one-pot Australian dish featuring roasted lamb, stir-fry, and pickle juice, perfect for a Buddhist temple gathering.",
+  "cuisine": "Australian",
+  "diet": [
+    "halal",
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless, cut into 1-inch pieces"
+    },
+    {
+      "name": "pickle juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "snow peas",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, ginger, soy sauce, brown sugar, salt, and black pepper.",
+    "Add the lamb pieces to the bowl and toss to coat with the marinade.",
+    "Spread the lamb pieces on a baking sheet and roast in the oven for 20 minutes.",
+    "While the lamb is roasting, heat a large skillet or wok over medium-high heat.",
+    "Add the roasted lamb to the skillet and stir in the pickle juice.",
+    "Add the sliced snow peas to the skillet and stir-fry for 2-3 minutes.",
+    "Transfer the stir-fry to a lazy-susan-spinner and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "buddhist-friendly",
+    "lamb-recipes",
+    "lazy-susan",
+    "one-pot",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "earthily-roasted-australian-lamb-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthily-roasted-australian-lamb-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:15:47Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "chewy",
+    "mood": "one-pot",
+    "technique": "stir-fry",
+    "primaryIngredient": "pickle juice",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "lamb",
+    "descriptor": "earthily roasted",
+    "dishForm": "Stir-fry"
+  }
+}
