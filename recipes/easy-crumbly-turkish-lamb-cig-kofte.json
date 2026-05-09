@@ -1,0 +1,92 @@
+{
+  "title": "Easy Crumbly Turkish Lamb Cig Kofte",
+  "description": "A weeknight Turkish dish featuring lamb, mixed peel, and spices, reduced to a jammy and crumbly texture, this recipe is low-calorie-friendly and easy to make, formed into cig kofte for a delicious meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "1 pound",
+      "notes": "lean"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "mixed peel",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the ground lamb, chopped onion, mixed peel, cumin, paprika, salt, and black pepper, and mix well with your hands until just combined.",
+    "Divide the mixture into 8 equal pieces and shape each piece into a small cylinder, about 1 inch in diameter and 3 inches long.",
+    "Place the cig kofte on a baking sheet lined with parchment paper, leaving about 1 inch of space between each kofte.",
+    "Drizzle the olive oil over the kofte and gently roll them to coat evenly.",
+    "Bake the kofte in the preheated oven for 18 minutes, or until they are cooked through and lightly browned on the outside.",
+    "Remove the kofte from the oven and let them rest for 5 minutes before serving.",
+    "Serve the kofte hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-dinner",
+    "lamb-recipes",
+    "low-calorie",
+    "mediterranean-cuisine",
+    "turkish-food",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 6,
+    "fat": 22
+  },
+  "slug": "easy-crumbly-turkish-lamb-cig-kofte",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-crumbly-turkish-lamb-cig-kofte",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:14:37Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "reduce",
+    "primaryIngredient": "mixed peel",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "easy crumbly",
+    "dishForm": "Cig Kofte"
+  }
+}
