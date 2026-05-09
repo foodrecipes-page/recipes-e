@@ -1,0 +1,94 @@
+{
+  "title": "Exquisite Malt Vietnamese Chicken Stew",
+  "description": "A malty and indulgent Vietnamese dish featuring chicken cooked in a cataplana vessel, perfect for a high protein meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "high protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the cataplana vessel over medium heat.",
+    "Add the chicken thighs and cook until browned on all sides.",
+    "Add the malt syrup, fish sauce, soy sauce, ginger, and garlic to the vessel.",
+    "Pour in the water and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer for 30 minutes.",
+    "Stir in the chopped scallions and cook for an additional 5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve the stew hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cataplana",
+    "comfort-food",
+    "high-protein",
+    "malt-syrup",
+    "one-pot",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "exquisite-malty-vietnamese-chicken-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exquisite-malty-vietnamese-chicken-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:26:45Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "chewy",
+    "mood": "indulgent",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "water",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chicken",
+    "descriptor": "exquisite malty",
+    "dishForm": "Stew"
+  }
+}
