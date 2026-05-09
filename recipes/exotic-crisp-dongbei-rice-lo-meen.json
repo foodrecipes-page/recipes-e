@@ -1,0 +1,104 @@
+{
+  "title": "Exotic Crisp Dongbei Rice Lo Meen",
+  "description": "A nutty and crisp Chinese dish featuring paella rice, perfect for a date night, this shojin-friendly lo-mein is cooked to perfection in a copper pot.",
+  "cuisine": "Chinese",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paella rice",
+      "amount": "1 cup",
+      "notes": "preferably day old rice"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "dates",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a copper pot over medium heat.",
+    "Add the sliced scallions and cook until they are lightly browned.",
+    "Add the sliced mushrooms and cook until they are tender.",
+    "Add the paella rice to the pot and stir to combine with the scallions and mushrooms.",
+    "Add the soy sauce, sesame oil, salt, and pepper to the pot and stir to combine.",
+    "Cook the mixture for 5 minutes, stirring constantly, until the rice is lightly toasted.",
+    "Stir in the pitted dates and toasted sesame seeds.",
+    "Cook for an additional 2 minutes, until the dates are heated through.",
+    "Serve the Exotic Crisp Dongbei Rice Lo Meen hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "copper-pot",
+    "date-night",
+    "one-pot",
+    "shojin-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "exotic-crisp-dongbei-rice-lo-meen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-crisp-dongbei-rice-lo-meen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:26:42Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "boil",
+    "primaryIngredient": "paella rice",
+    "diet": "shojin",
+    "region": "dongbei",
+    "cuisineAdjective": "Dongbei",
+    "mainIngredient": "rice",
+    "descriptor": "Exotic Crisp",
+    "dishForm": "Lo Meen"
+  }
+}

@@ -5394,6 +5394,21 @@
     "shard": "e"
   },
   {
+    "slug": "exotic-crisp-dongbei-rice-lo-meen",
+    "title": "Exotic Crisp Dongbei Rice Lo Meen",
+    "tags": [
+      "chinese-food",
+      "copper-pot",
+      "date-night",
+      "one-pot",
+      "shojin-friendly",
+      "vegetarian"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 27,
+    "shard": "e"
+  },
+  {
     "slug": "exotic-crisp-moroccan-lamb-tagine",
     "title": "Exotic Crisp Moroccan Lamb Tagine",
     "tags": [
