@@ -1,0 +1,100 @@
+{
+  "title": "Exotic Smoky Slovakian Pork Dumplings",
+  "description": "A smoky and crumbly Slovakian dish featuring cardamom, perfect for a date night, made with gluten-free friendly ingredients and infused oil.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "preferably with a high fat content"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "infused oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "gluten-free all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Combine the ground pork, smoked paprika, cardamom powder, garlic powder, onion powder, salt, and black pepper in a large bowl and mix well.",
+    "Gradually add the gluten-free flour to the bowl and mix until just combined.",
+    "Add the egg to the bowl and mix until a dough forms.",
+    "Divide the dough into 8-10 equal pieces and shape each piece into a ball.",
+    "Flatten each ball into a disk shape.",
+    "Brush the tops of the dumplings with the infused oil.",
+    "Place the dumplings on a baking sheet lined with parchment paper.",
+    "Bake the dumplings in the preheated oven for 20-25 minutes, or until cooked through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "date-night",
+    "eastern-european",
+    "gluten-free",
+    "pork-dishes",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 28
+  },
+  "slug": "exotic-smoky-slovakian-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-smoky-slovakian-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:57:57Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "infuse-oil",
+    "primaryIngredient": "cardamom",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork",
+    "descriptor": "exotic smoky",
+    "dishForm": "Dumplings"
+  }
+}
