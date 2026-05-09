@@ -1,0 +1,97 @@
+{
+  "title": "Earthy Crispy Mexican Egg Plants Chilaquiles",
+  "description": "A buttery and crisp Mexican dish featuring egg plants and bonito flakes, inspired by the Chiapan region, this low-calorie-friendly recipe is perfect for a weeknight breakfast or snack. It combines the earthy flavors of egg plants with the smokiness of bonito flakes.",
+  "cuisine": "Mexican",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "egg plants",
+      "amount": "2 medium",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup",
+      "notes": "dried and shaved"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "6-8",
+      "notes": "cut into 1 inch squares"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the egg plant slices with 1 tablespoon of unsalted butter until they are evenly coated.",
+    "Spread the egg plant slices on a baking sheet and bake for 20 minutes, flipping them halfway through.",
+    "In a large skillet, melt the remaining 1 tablespoon of unsalted butter over medium heat.",
+    "Add the diced red onion to the skillet and cook until it is translucent, about 5 minutes.",
+    "Add the corn tortilla squares to the skillet and cook until they are crispy and golden brown, about 5 minutes.",
+    "In a large bowl, combine the baked egg plant slices, crispy tortilla squares, bonito flakes, chopped cilantro, and lime juice.",
+    "Season the mixture with salt to taste.",
+    "Serve the Earthy Crispy Mexican Egg Plants Chilaquiles hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "low-calorie",
+    "mexican-breakfast",
+    "smoky",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "earthy-crispy-mexican-egg-plants-chilaquiles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-crispy-mexican-egg-plants-chilaquiles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:40:41Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "bonito-shave",
+    "primaryIngredient": "egg plants",
+    "diet": "low-calorie",
+    "region": "chiapan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "egg plants",
+    "descriptor": "earthy crispy",
+    "dishForm": "Chilaquiles"
+  }
+}
