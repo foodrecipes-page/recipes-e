@@ -1,0 +1,101 @@
+{
+  "title": "Easy Crispy Canadian Chicken Hash",
+  "description": "A tangy and crispy Canadian dish featuring basil and ferment-jang, perfect for a sick day, made in an iron teppan with raw-friendly ingredients.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free",
+    "raw-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the iron teppan over medium-high heat.",
+    "Add the olive oil and swirl it around to coat the teppan.",
+    "Add the chicken to the teppan and cook until browned and cooked through.",
+    "Remove the chicken from the teppan and set aside.",
+    "Add the diced onion and bell pepper to the teppan and cook until they start to soften.",
+    "Add the diced potatoes to the teppan and cook until they are tender and lightly browned.",
+    "Add the cooked chicken back into the teppan and stir in the ferment-jang and chopped basil.",
+    "Season the hash with salt and black pepper to taste.",
+    "Serve the hash hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian-cuisine",
+    "chicken-recipes",
+    "gluten-free",
+    "lunch-ideas",
+    "one-pan",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "easy-crispy-canadian-chicken-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-crispy-canadian-chicken-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:34:50Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crispy",
+    "mood": "sick-day",
+    "technique": "ferment-jang",
+    "primaryIngredient": "basil",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "chicken",
+    "descriptor": "easy crispy",
+    "dishForm": "Hash"
+  }
+}
