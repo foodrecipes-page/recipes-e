@@ -1,0 +1,100 @@
+{
+  "title": "Exquisite Dense Mediterranean Cashew Wrap",
+  "description": "A rich and satisfying Mediterranean dish featuring cashews and wrapped in a lotus leaf, perfect for a dense meal prep option. This jain-friendly recipe is mantecare-emulsified for a unique flavor and texture.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cashews",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Soak the cashews in water overnight and then drain and rinse them.",
+    "In a blender, combine the soaked cashews, olive oil, lemon juice, garlic, salt, and black pepper, and blend until smooth.",
+    "Heat the blended mixture in a saucepan over low heat, stirring constantly, until it is warm and fragrant.",
+    "Stir in the kalamata olives and artichoke hearts.",
+    "Lay a lotus leaf flat and spoon the cashew mixture onto the center of the leaf.",
+    "Fold the leaf over the filling to form a triangle or square shape, and press the edges together to seal.",
+    "Repeat with the remaining ingredients.",
+    "Serve the wraps warm or at room temperature.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "jain-friendly",
+    "meal-prep",
+    "mediterranean",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 22,
+    "carbs": 35,
+    "fat": 42
+  },
+  "slug": "exquisite-dense-mediterranean-cashew-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exquisite-dense-mediterranean-cashew-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:55:10Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "cashews",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "cashews",
+    "descriptor": "exquisite dense",
+    "dishForm": "Wrap"
+  }
+}
