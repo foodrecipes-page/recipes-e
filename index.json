@@ -505,6 +505,20 @@
     "shard": "e"
   },
   {
+    "slug": "earthy-canadian-dried-white-corn-stew",
+    "title": "Earthy Canadian Dried White Corn Stew",
+    "tags": [
+      "canadian-cuisine",
+      "comfort-food",
+      "dutch-oven",
+      "one-pot",
+      "vegetarian-stew"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 60,
+    "shard": "e"
+  },
+  {
     "slug": "earthy-chewy-filipino-peanuts-stew",
     "title": "Earthy Chewy Filipino Peanuts Stew",
     "tags": [
