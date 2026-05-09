@@ -1,0 +1,97 @@
+{
+  "title": "Exotic Floral Saudi Arabian Dates Tagine",
+  "description": "A crumbly and flavorful Saudi Arabian dish featuring dry sherry and lacquer-glaze, perfect for a lazy Sunday, this tagine is shojin-friendly and showcases the beauty of floral and dry ingredients in harmony.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "dry sherry",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Mix the dates, dry sherry, lacquer glaze, rose water, and orange blossom water in a bowl.",
+    "Add the almond flour, coconut oil, salt, and black pepper to the bowl and mix until crumbly.",
+    "Transfer the mixture to a baking dish and bake for 25 minutes.",
+    "Remove the dish from the oven and let it cool for 10 minutes.",
+    "Serve the tagine warm, garnished with fresh flowers if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days.",
+    "Reheat the tagine in the oven or on the stovetop before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "crumbly",
+    "floral",
+    "lazy-sunday",
+    "one-pan",
+    "saudi-arabian",
+    "shojin-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "exotic-floral-saudi-arabian-dates-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-floral-saudi-arabian-dates-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:38:02Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "dry sherry",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "dates",
+    "descriptor": "exotic floral",
+    "dishForm": "Tagine"
+  }
+}
