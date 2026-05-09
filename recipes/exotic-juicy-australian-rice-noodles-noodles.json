@@ -1,0 +1,97 @@
+{
+  "title": "Australian Rice Noodles",
+  "description": "Grassy, juicy, and cozy Australian dish featuring rice noodles, deglaze-fond, and FODMAP-friendly ingredients, perfect for a comforting meal.",
+  "cuisine": "Australian",
+  "diet": [
+    "FODMAP-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "grassy lemongrass",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 lb"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pan over medium heat.",
+    "Add grassy lemongrass and cook until fragrant.",
+    "Add chicken breast and cook until browned.",
+    "Add garlic-infused oil and cook for 1 minute.",
+    "Add coconut milk and bring to a simmer.",
+    "Add soy sauce, salt, and pepper, and stir to combine.",
+    "Add rice noodles and cook until they are tender.",
+    "Use the deglaze-fond to add extra flavor to the dish.",
+    "Serve hot and enjoy.",
+    "Garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "comfort-food",
+    "noodle-dish",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "exotic-juicy-australian-rice-noodles-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-juicy-australian-rice-noodles-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:47:09Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "rice noodles",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "rice noodles",
+    "descriptor": "exotic juicy",
+    "dishForm": "Noodles"
+  }
+}
