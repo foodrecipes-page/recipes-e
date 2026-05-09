@@ -1,0 +1,94 @@
+{
+  "title": "Easy Flaky Jamaican Chicken Skewers",
+  "description": "A delicious and easy to make Jamaican dish featuring chicken skewers with a malty and flaky texture, perfect for a weeknight dinner. This flexitarian-friendly recipe uses vanilla extract and is grilled to perfection on a robata-grill.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "malted milk powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, malted milk powder, and a pinch of salt.",
+    "Add the chicken pieces to the bowl and toss to coat evenly with the flour mixture.",
+    "Thread the coated chicken pieces onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with the soy sauce, brown sugar, and vanilla extract mixture.",
+    "Grill the skewers on the robata-grill for 10-12 minutes, turning occasionally.",
+    "Brush the skewers with the vegetable oil and sprinkle with chopped scallions.",
+    "Serve the skewers hot and enjoy.",
+    "Garnish with additional scallions if desired.",
+    "Let the skewers rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-dinner",
+    "flexitarian",
+    "grilled-chicken",
+    "jamaican-cuisine",
+    "robata-grill",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "easy-flaky-jamaican-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-flaky-jamaican-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:25:12Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "robata-grill",
+    "primaryIngredient": "vanilla extract",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "Easy flaky",
+    "dishForm": "Skewers"
+  }
+}
