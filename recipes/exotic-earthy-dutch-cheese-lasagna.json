@@ -1,0 +1,100 @@
+{
+  "title": "Exotic Earthy Dutch Cheese Lasagna",
+  "description": "A rich and adventurous Dutch dish featuring layers of lasagna, exotic cheeses, and earthy flavors, with a resinous and cheese-pull texture. This dish is perfect for those looking for a unique and exciting culinary experience.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna sheets",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "smoked gouda cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "goat cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the lasagna sheets according to package instructions.",
+    "In a pan, sauté the mushrooms, onion, and garlic in olive oil until the mushrooms are tender.",
+    "In a bowl, combine the smoked gouda cheese, goat cheese, and thyme.",
+    "In a salt-bake dish, create a layer of lasagna sheets.",
+    "Spread half of the cheese mixture over the lasagna sheets.",
+    "Add a layer of sautéed mushrooms and onion.",
+    "Repeat the layers, starting with the lasagna sheets, then the remaining cheese mixture, and finally another layer of mushrooms and onion.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and bake for an additional 10 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "earthy",
+    "exotic",
+    "lasagna",
+    "mushroom-lover",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "exotic-earthy-dutch-cheese-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-earthy-dutch-cheese-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:32:59Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "cheese-pull",
+    "mood": "adventurous",
+    "technique": "salt-bake",
+    "primaryIngredient": "lasagne sheets",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "cheese",
+    "descriptor": "Exotic Earthy",
+    "dishForm": "Lasagna"
+  }
+}

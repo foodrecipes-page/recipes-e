@@ -1061,6 +1061,20 @@
     "shard": "e"
   },
   {
+    "slug": "earthy-exotic-moroccan-lentil-tagine",
+    "title": "Earthy Exotic Moroccan Lentil Tagine",
+    "tags": [
+      "comfort-food",
+      "lentil-based",
+      "north-african",
+      "one-pot",
+      "vegan-friendly"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 50,
+    "shard": "e"
+  },
+  {
     "slug": "earthy-exotic-portuguese-fregola-nigiri",
     "title": "Earthy Exotic Portuguese Fregola Nigiri",
     "tags": [
@@ -6017,6 +6031,22 @@
     ],
     "cuisine": "Algerian",
     "totalTimeMin": 120,
+    "shard": "e"
+  },
+  {
+    "slug": "exotic-earthy-dutch-cheese-lasagna",
+    "title": "Exotic Earthy Dutch Cheese Lasagna",
+    "tags": [
+      "cheesy",
+      "earthy",
+      "exotic",
+      "lasagna",
+      "mushroom-lover",
+      "one-pan",
+      "vegetarian"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 60,
     "shard": "e"
   },
   {
