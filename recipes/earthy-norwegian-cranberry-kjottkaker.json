@@ -1,0 +1,97 @@
+{
+  "title": "Earthy Norwegian Cranberry Kjøttkaker",
+  "description": "A traditional Norwegian dish featuring cranberry and a unique, earthy flavor. Halal-friendly ingredients and a crowd-pleasing chewy texture make this a great option for a weeknight dinner.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Cranberries",
+      "amount": "200g",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "For binding"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "For moisture and binding"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Nutritional yeast",
+      "amount": "2 tablespoons",
+      "notes": "For cheesy flavor"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "For cooking"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, use a whisk to gently combine ground beef, cranberries, onion, flour, egg, salt, and pepper until just combined. Avoid overmixing."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "halal-friendly",
+    "norwegian",
+    "one-pan",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 48,
+    "carbs": 26,
+    "fat": 32
+  },
+  "slug": "earthy-norwegian-cranberry-kjottkaker",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-norwegian-cranberry-kjottkaker",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:59:50Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "chewy",
+    "mood": "crowd-pleaser",
+    "technique": "whisk",
+    "primaryIngredient": "cranberry",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "cranberry",
+    "descriptor": "earthy",
+    "dishForm": "Kjøttkaker"
+  }
+}

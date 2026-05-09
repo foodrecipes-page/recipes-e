@@ -1,0 +1,114 @@
+{
+  "title": "Earthy Italian Shaggy Wrap",
+  "description": "Winey, shaggy, crowd-pleaser Italian dish featuring Thai bird chili, cooked in a ttukbaegi earthenware pot, wrapped in a pandan leaf.",
+  "cuisine": "Italian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "italian flatbread",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "venetian rice blend",
+      "amount": "1 cup",
+      "notes": "medium grain rice blend or make your own mix of 2/3 arborio, 1/3 calrose rice."
+    },
+    {
+      "name": "mixed mushrooms",
+      "amount": "1 1/2 cups",
+      "notes": "such as cremini, shiitake, and button."
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced."
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced."
+    },
+    {
+      "name": "Thai bird eye chili",
+      "amount": "2-3",
+      "notes": "depending on desired level of spiciness."
+    },
+    {
+      "name": "canned crushed tomatoes",
+      "amount": "1 can (14 oz)",
+      "notes": "homemade or store-bought."
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking."
+    },
+    {
+      "name": "pandan leaf",
+      "amount": "large leaf",
+      "notes": "for wrapping."
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "shaved or grated."
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped."
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a ttukbaegi earthenware pot over medium heat.",
+    "Sauté the onion and garlic until softened, about 3-4 minutes.",
+    "Add the mixed mushrooms and sauté until they release their liquid and start to brown, about 5 minutes.",
+    "Add the Thai bird eye chili and sauté for another minute.",
+    "Add the venetian rice blend and cook, stirring constantly, for 1-2 minutes.",
+    "Add the canned crushed tomatoes and stir to combine.",
+    "Bring the mixture to a simmer and cook, covered, over low heat for 15-20 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "While the mixture is cooking, slice the italian flatbread into thin strips.",
+    "Once the rice mixture is cooked, stir in the parmesan cheese and chopped fresh basil.",
+    "To assemble the wraps, lay a large pandan leaf on a flat surface and place a portion of the rice mixture in the center of the leaf.",
+    "Place a few strips of the italian flatbread on top of the rice mixture, then fold the bottom half of the leaf up over the filling and roll the wrap up tightly.",
+    "Repeat with the remaining ingredients."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "italian",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "earthy-italian-shaggy-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-italian-shaggy-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T23:00:00Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "shaggy",
+    "mood": "crowd-pleaser",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "thai-bird-chili",
+    "diet": "ayurvedic-tamasic",
+    "region": "venetian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "shaggy",
+    "descriptor": "Earthy",
+    "dishForm": "Wrap"
+  }
+}

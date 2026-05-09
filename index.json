@@ -1438,6 +1438,20 @@
     "shard": "e"
   },
   {
+    "slug": "earthy-italian-shaggy-wrap",
+    "title": "Earthy Italian Shaggy Wrap",
+    "tags": [
+      "gluten-free",
+      "italian",
+      "low-carb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 45,
+    "shard": "e"
+  },
+  {
     "slug": "earthy-jamaican-tandoor-tagine",
     "title": "Earthy Jamaican Tandoor Tagine",
     "tags": [
@@ -1633,6 +1647,21 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 45,
+    "shard": "e"
+  },
+  {
+    "slug": "earthy-norwegian-cranberry-kjottkaker",
+    "title": "Earthy Norwegian Cranberry Kjøttkaker",
+    "tags": [
+      "crowd-pleaser",
+      "halal-friendly",
+      "norwegian",
+      "one-pan",
+      "vegetarian-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {
