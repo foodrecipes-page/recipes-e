@@ -1,0 +1,94 @@
+{
+  "title": "Easy Going Slovakian Lamb Casserole",
+  "description": "A hearty and comforting Slovakian dish featuring lamb mince, cheese, and a low-fat friendly approach, perfect for a lazy Sunday",
+  "cuisine": "Slovakian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "500g",
+      "notes": "lean"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "low-fat cheese",
+      "amount": "200g",
+      "notes": "shredded"
+    },
+    {
+      "name": "egg",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180 degrees Celsius",
+    "In a large pan, cook the lamb mince over medium heat until browned, breaking it up into small pieces as it cooks",
+    "Add the chopped onion and minced garlic to the pan and cook until the onion is translucent",
+    "In a large bowl, combine the cooked lamb mixture, shredded cheese, eggs, salt, black pepper, and paprika, and mix well",
+    "Transfer the mixture to a baking dish and place it in a bain-marie",
+    "Bake for 40 minutes, or until the casserole is set and the cheese is melted and golden brown",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving",
+    "Serve hot, garnished with chopped fresh parsley if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "casserole",
+    "comfort-food",
+    "lamb",
+    "low-fat",
+    "one-dish",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "easy-going-slovakian-lamb-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-going-slovakian-lamb-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:56:10Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "cheese-pull",
+    "mood": "lazy-sunday",
+    "technique": "bain-marie",
+    "primaryIngredient": "lamb mince",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "lamb",
+    "descriptor": "Easy Going",
+    "dishForm": "Casserole"
+  }
+}
