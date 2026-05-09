@@ -1,0 +1,106 @@
+{
+  "title": "Energizing Dense Australian Sausage Pie",
+  "description": "A fermented, dense, post-workout Australian dish featuring sausage, en-croute, and plant-based-friendly ingredients, perfect for a filling meal after a workout.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sausage",
+      "amount": "1 pound",
+      "notes": "plant-based sausage alternative"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fermentation starter",
+      "amount": "1 packet",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roll out the puff pastry on a floured surface to a thickness of about 1/8 inch.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion and mushrooms until they are softened.",
+    "Add the sausage to the skillet and cook, breaking it up with a spoon, until it is no longer pink.",
+    "Stir in the tomato paste, nutritional yeast, salt, and black pepper, and cook for 1 minute.",
+    "Spoon the sausage mixture onto one half of the pastry, leaving a 1/2 inch border around the edges.",
+    "Fold the other half of the pastry over the filling and press the edges to seal.",
+    "Use a sharp knife to cut a few slits in the top of the pie to allow steam to escape.",
+    "Place the pie on a baking sheet and bake for 35 minutes, or until the pastry is golden brown.",
+    "If using fermentation starter, allow the pie to cool, then refrigerate for at least 24 hours to allow fermentation to occur."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "comfort-food",
+    "fermented-food",
+    "one-dish-meal",
+    "plant-based",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "energizing-dense-australian-sausage-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-dense-australian-sausage-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:28:25Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "dense",
+    "mood": "post-workout",
+    "technique": "en-croute",
+    "primaryIngredient": "sausage",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "sausage",
+    "descriptor": "energizing dense",
+    "dishForm": "Pie"
+  }
+}
