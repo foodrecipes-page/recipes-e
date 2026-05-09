@@ -228,6 +228,21 @@
     "shard": "e"
   },
   {
+    "slug": "earthly-bitter-malaysian-lentil-dal",
+    "title": "Earthly Bitter Malaysian Lentil Dal",
+    "tags": [
+      "high-protein",
+      "jain-friendly",
+      "lentil-based",
+      "one-pan",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 50,
+    "shard": "e"
+  },
+  {
     "slug": "earthly-british-beef-cottage-pie",
     "title": "Earthly British Beef Cottage Pie",
     "tags": [
@@ -2558,6 +2573,21 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
+    "slug": "easy-snappy-german-ladyfingers-casserole",
+    "title": "Easy Snappy German Ladyfingers Casserole",
+    "tags": [
+      "casserole",
+      "cedar-plank",
+      "german-food",
+      "kid-friendly",
+      "low-calorie",
+      "snappy"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 40,
     "shard": "e"
   },
   {

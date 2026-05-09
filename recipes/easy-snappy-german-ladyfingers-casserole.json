@@ -1,0 +1,92 @@
+{
+  "title": "Easy Snappy German Ladyfingers Casserole",
+  "description": "A kid-friendly German dish featuring savoiardi ladyfingers in a briny and snappy nimono simmer, cooked on a cedar plank for a unique flavor.",
+  "cuisine": "German",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "savoiardi ladyfingers",
+      "amount": "12 ounces",
+      "notes": "dried"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Soak the cedar plank in water for 30 minutes.",
+    "In a large bowl, whisk together the chicken broth, caraway seeds, thyme, pepper, and salt.",
+    "Add the dried ladyfingers to the bowl and let them soak for 10 minutes.",
+    "Butter the soaked cedar plank and arrange the soaked ladyfingers on it.",
+    "Sprinkle the grated cheddar cheese over the ladyfingers.",
+    "Place the cedar plank in the oven and bake for 20 minutes.",
+    "Remove the plank from the oven and let it cool for 5 minutes.",
+    "Serve the casserole hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "casserole",
+    "cedar-plank",
+    "german-food",
+    "kid-friendly",
+    "low-calorie",
+    "snappy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "easy-snappy-german-ladyfingers-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-snappy-german-ladyfingers-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:57:18Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "snappy",
+    "mood": "kid-friendly",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "savoiardi-ladyfingers",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "ladyfingers",
+    "descriptor": "easy snappy",
+    "dishForm": "Casserole"
+  }
+}
