@@ -1,0 +1,101 @@
+{
+  "title": "Exquisite Crisp French Praline Tart",
+  "description": "A sour and crisp French dessert featuring praline, this tart is a perfect indulgent treat. It is halal-friendly and made with high-quality ingredients.",
+  "cuisine": "French",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1 cup",
+      "notes": "sifted"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "chilled and cut into small pieces"
+    },
+    {
+      "name": "praline paste",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": "for the praline topping"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": "for the ice bath"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to balance the sweetness"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit and line a baking sheet with parchment paper.",
+    "In a medium bowl, whisk together the flour and confectioners sugar.",
+    "Add the cold butter to the flour mixture and use a pastry blender to work it into a crumbly mixture.",
+    "Press the mixture into a 9-inch tart pan with a removable bottom.",
+    "Bake the crust for 20 minutes, then let it cool completely.",
+    "In a small bowl, whisk together the praline paste and eggs until well combined.",
+    "Spread the praline mixture evenly over the cooled tart crust.",
+    "Sprinkle the granulated sugar over the praline mixture.",
+    "Place the tart in the oven and bake for an additional 25 minutes, or until the sugar is caramelized.",
+    "Remove the tart from the oven and let it cool for 5 minutes.",
+    "Place the tart in an ice bath to stop the cooking process and create a crisp texture."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "crisp-texture",
+    "french-pastry",
+    "halal-friendly",
+    "indulgent-desserts",
+    "praline-lovers",
+    "tart-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "exquisite-crisp-french-praline-tart",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exquisite-crisp-french-praline-tart",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:15:17Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crisp",
+    "mood": "indulgent",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "praline-french",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "praline",
+    "descriptor": "Exquisite Crisp",
+    "dishForm": "Tart"
+  }
+}
