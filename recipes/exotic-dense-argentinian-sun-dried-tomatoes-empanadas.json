@@ -1,0 +1,101 @@
+{
+  "title": "Argentinian Sun Dried Tomatoes Empanadas",
+  "description": "A dense and flavorful Argentinian dish featuring sun dried tomatoes, perfect for a crowd, made with macrobiotic friendly ingredients and cooked in a bamboo tray with papillote, giving it a floral and exotic taste",
+  "cuisine": "Argentinian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sun dried tomatoes",
+      "amount": "1 cup",
+      "notes": "packed in oil, drained and chopped"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "2 cups",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "Roll out the empanada dough to a thickness of about 1/8 inch",
+    "In a large bowl, mix together the chopped sun dried tomatoes, onion, garlic, salt, and black pepper",
+    "Place a tablespoon of the tomato mixture onto the center of each empanada dough circle",
+    "Brush the edges of the dough with olive oil and fold the dough in half to form a half moon shape",
+    "Press the edges together to seal the empanada",
+    "Place the empanadas on a bamboo tray lined with papillote",
+    "Brush the tops of the empanadas with olive oil and sprinkle with chopped parsley",
+    "Bake the empanadas for 25 minutes, or until golden brown"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "crowd-pleaser",
+    "empanadas",
+    "floral",
+    "macrobiotic",
+    "sun-dried-tomatoes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "exotic-dense-argentinian-sun-dried-tomatoes-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-dense-argentinian-sun-dried-tomatoes-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:48:28Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "papillote",
+    "primaryIngredient": "sun-dried tomatoes",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "sun-dried tomatoes",
+    "descriptor": "exotic dense",
+    "dishForm": "Empanadas"
+  }
+}
