@@ -1,0 +1,103 @@
+{
+  "title": "Exotic Earthy Filipino Cornmeal Pilaf",
+  "description": "This pungent and velvety Filipino dish features cornmeal and a mirepoix base, making it a light and diabetic-friendly option. It is served in a tagliere vessel.",
+  "cuisine": "Filipino",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "1 cup",
+      "notes": "fine or medium grind"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large tagliere vessel over medium heat.",
+    "Add the diced onion, carrot, and celery and cook until the vegetables are tender.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Stir in the cornmeal and cook for 2 minutes.",
+    "Add the fish sauce, salt, and black pepper and stir to combine.",
+    "Gradually add the chicken broth, stirring constantly to prevent lumps.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Serve the pilaf hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "easy-to-make",
+    "filipino-cuisine",
+    "gluten-free",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "exotic-earthy-filipino-cornmeal-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-earthy-filipino-cornmeal-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:06:46Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "cornmeal",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "cornmeal",
+    "descriptor": "exotic earthy",
+    "dishForm": "Pilaf"
+  }
+}
