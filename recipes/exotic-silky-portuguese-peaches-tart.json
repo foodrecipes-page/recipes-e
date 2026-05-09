@@ -1,0 +1,97 @@
+{
+  "title": "Exotic Silky Portuguese Peaches Tart",
+  "description": "A cultured and nostalgic Portuguese dish featuring peaches, miso-marinate, and a lacto-vegetarian friendly twist, this tart is perfect for warm summer evenings.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "peaches",
+      "amount": "4 large",
+      "notes": "ripe but firm"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a small bowl, whisk together the miso paste and honey until smooth.",
+    "In a large bowl, whisk together the flour and cold unsalted butter until the mixture resembles coarse crumbs.",
+    "Add the eggs, one at a time, whisking until fully incorporated after each addition.",
+    "Gradually add the heavy cream, whisking until the dough comes together in a ball.",
+    "Turn the dough out onto a lightly floured surface and roll out to a thickness of about 1/8 inch.",
+    "Transfer the dough to a 9-inch tart pan with a removable bottom, trimming the edges to fit.",
+    "In a small bowl, whisk together the olive oil and vanilla extract, then brush the mixture evenly over the bottom of the tart crust.",
+    "Arrange the peaches, sliced into wedges, in a circular pattern on top of the tart, leaving a 1-inch border around the edges.",
+    "Drizzle the miso-honey mixture evenly over the peaches.",
+    "Bake the tart for 40-45 minutes, or until the crust is golden brown and the peaches are tender."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 45,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "lacto-vegetarian",
+    "miso-marinate",
+    "peach-tart",
+    "portuguese-cuisine",
+    "summer-dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "exotic-silky-portuguese-peaches-tart",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-silky-portuguese-peaches-tart",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:57:16Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "silky",
+    "mood": "nostalgic",
+    "technique": "miso-marinate",
+    "primaryIngredient": "peaches",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "peaches",
+    "descriptor": "Exotic Silky",
+    "dishForm": "Tart"
+  }
+}
