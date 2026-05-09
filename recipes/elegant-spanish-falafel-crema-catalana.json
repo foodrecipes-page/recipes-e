@@ -1,0 +1,105 @@
+{
+  "title": "Elegant Spanish Falafel Crema Catalana",
+  "description": "A unique twist on traditional Crema Catalana, this dish features crispy falafel and a rich nimono simmer, all in a creamy and fermented package, perfect for a special brunch occasion.",
+  "cuisine": "Spanish",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "falafel mix",
+      "amount": "1 package",
+      "notes": "store bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "nimono broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Prepare the falafel according to the package instructions and set aside.",
+    "Heat the olive oil in a large skillet over medium heat and saute the diced onion until translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the nimono broth to the skillet and bring to a simmer.",
+    "Reduce the heat to low and let the broth simmer for 10 minutes.",
+    "In a large bowl, whisk together the cream, eggs, salt, and paprika.",
+    "Add the cooked falafel to the cream mixture and stir to combine.",
+    "Pour the cream and falafel mixture into 4 ramekins or small baking dishes.",
+    "Place the ramekins in a large baking dish and add hot water to come halfway up the sides of the ramekins.",
+    "Bake for 25 minutes or until the edges are set and the centers are still slightly jiggly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "crema-catalana",
+    "falafel-recipes",
+    "fermented-foods",
+    "kosher-friendly",
+    "spanish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "elegant-spanish-falafel-crema-catalana",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/elegant-spanish-falafel-crema-catalana",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:45:36Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "springy",
+    "mood": "brunch-mood",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "falafel",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "falafel",
+    "descriptor": "Elegant Springy",
+    "dishForm": "Crema Catalana"
+  }
+}
