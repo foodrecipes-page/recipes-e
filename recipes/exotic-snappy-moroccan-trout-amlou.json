@@ -1,0 +1,98 @@
+{
+  "title": "Exotic Snappy Moroccan Trout Amlou",
+  "description": "A yeast-infused Moroccan dish featuring trout, score-fat, and traditional Amlou ingredients, perfect for a midnight craving. This kosher-friendly recipe combines the flavors of Morocco with the richness of score-fat.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "trout fillets",
+      "amount": "4",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "score-fat",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "almond paste",
+      "amount": "1/4 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "pure"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 tsp",
+      "notes": "active dry"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together the almond paste, honey, and yeast.",
+    "Add the melted score-fat, lemon juice, and garlic to the bowl and stir until combined.",
+    "Season the trout fillets with salt and pepper.",
+    "Place the trout fillets on a baking sheet lined with parchment paper.",
+    "Brush the Amlou mixture evenly over the trout fillets.",
+    "Drizzle the olive oil over the trout fillets.",
+    "Bake the trout fillets in the preheated oven for 12 minutes or until cooked through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kosher-friendly",
+    "midnight-craving",
+    "moroccan-cuisine",
+    "seafood",
+    "snappy",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "exotic-snappy-moroccan-trout-amlou",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-snappy-moroccan-trout-amlou",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:39:32Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "snappy",
+    "mood": "midnight-craving",
+    "technique": "score-fat",
+    "primaryIngredient": "trout",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "trout",
+    "descriptor": "exotic snappy",
+    "dishForm": "Amlou"
+  }
+}
