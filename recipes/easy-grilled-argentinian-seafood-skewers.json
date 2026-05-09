@@ -1,0 +1,92 @@
+{
+  "title": "Easy Grilled Argentinian Seafood Skewers",
+  "description": "A low-sodium Argentinian dish featuring a frozen seafood mix, char-grilled to perfection with a mustardy and silky flavor, perfect for meal prep.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "frozen seafood mix",
+      "amount": "1 pound",
+      "notes": "thawed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat, approximately 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, Dijon mustard, garlic powder, paprika, and salt-free seasoning blend.",
+    "Add the thawed seafood mix to the bowl and toss to coat with the marinade.",
+    "Thread the marinated seafood mix onto the soaked wooden skewers, leaving a small space between each piece.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the seafood is cooked through and slightly charred.",
+    "Remove the skewers from the grill and serve immediately.",
+    "Garnish with lemon wedges and chopped fresh parsley, if desired.",
+    "Refrigerate or freeze any leftovers for future meals."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "easy-dinner",
+    "grilled",
+    "low-sodium",
+    "meal-prep",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "easy-grilled-argentinian-seafood-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-grilled-argentinian-seafood-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:52:01Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "silky",
+    "mood": "meal-prep",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "frozen seafood mix",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "seafood",
+    "descriptor": "easy grilled",
+    "dishForm": "Skewers"
+  }
+}
