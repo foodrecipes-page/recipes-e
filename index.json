@@ -2960,6 +2960,22 @@
     "shard": "e"
   },
   {
+    "slug": "elegant-briny-mexican-cornmeal-tagine",
+    "title": "Elegant Briny Mexican Cornmeal Tagine",
+    "tags": [
+      "coconut-cream",
+      "cornmeal",
+      "easy-dinner",
+      "gluten-free",
+      "mexican",
+      "tagine",
+      "vegetarian"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 40,
+    "shard": "e"
+  },
+  {
     "slug": "elegant-canadian-pappardelle-pasta",
     "title": "Elegant Canadian Pappardelle Pasta",
     "tags": [
