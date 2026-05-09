@@ -1,0 +1,101 @@
+{
+  "title": "Exotic Chewy Moroccan Kabanos Khlea",
+  "description": "A festive Moroccan dish featuring Polish kabanos in a resinous and chewy khlea form, made with a mother-sauce-base and Buddhist-temple-friendly ingredients.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kabanos",
+      "amount": "12 oz",
+      "notes": "Polish sausage"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add sliced onion and cook until caramelized.",
+    "Add minced garlic and grated ginger and cook for 1 minute.",
+    "Add kabanos and cook until browned.",
+    "Add tomato paste, honey, smoked paprika, salt, and black pepper, and stir to combine.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Let cool and shape into khlea form.",
+    "Serve at room temperature.",
+    "Garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chewy-texture",
+    "festive-dish",
+    "halal-friendly",
+    "moroccan-cuisine",
+    "polish-influence",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "exotic-chewy-moroccan-kabanos-khlea",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-chewy-moroccan-kabanos-khlea",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:04:39Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "polish kabanos",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "kabanos",
+    "descriptor": "Exotic Chewy",
+    "dishForm": "Khlea"
+  }
+}

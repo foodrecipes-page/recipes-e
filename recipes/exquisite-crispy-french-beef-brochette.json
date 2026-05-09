@@ -1,0 +1,96 @@
+{
+  "title": "Exquisite Crispy French Beef Brochette",
+  "description": "A peppery and crispy French dish featuring lean minced beef, perfect for a light meal, cooked to perfection on a raclette grill",
+  "cuisine": "French",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minced beef",
+      "amount": "1 pound",
+      "notes": "lean"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt-free seasoning",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to 375 degrees Fahrenheit",
+    "Mix the minced beef, black pepper, garlic powder, onion powder, and paprika in a bowl",
+    "Add the eggs to the bowl and mix until just combined",
+    "Gradually add the breadcrumbs to the bowl and mix until the mixture is cohesive",
+    "Divide the mixture into 8 equal parts and shape each part into a ball",
+    "Flatten each ball into a small patty",
+    "Brush the patties with olive oil and season with salt-free seasoning",
+    "Place the patties on the raclette grill and cook for 4 minutes per side",
+    "Serve the brochette hot and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "crispy",
+    "easy-dinner",
+    "french-cuisine",
+    "low-sodium",
+    "raclette-grill"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "exquisite-crispy-french-beef-brochette",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exquisite-crispy-french-beef-brochette",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:04:20Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "lean minced beef",
+    "diet": "low-sodium",
+    "region": "lyon",
+    "cuisineAdjective": "French",
+    "mainIngredient": "beef",
+    "descriptor": "exquisite crispy",
+    "dishForm": "Brochette"
+  }
+}

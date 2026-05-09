@@ -5528,6 +5528,21 @@
     "shard": "e"
   },
   {
+    "slug": "exotic-chewy-moroccan-kabanos-khlea",
+    "title": "Exotic Chewy Moroccan Kabanos Khlea",
+    "tags": [
+      "chewy-texture",
+      "festive-dish",
+      "halal-friendly",
+      "moroccan-cuisine",
+      "polish-influence",
+      "vegetarian-option"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 45,
+    "shard": "e"
+  },
+  {
     "slug": "exotic-chinese-squid-salt-and-pepper-squid",
     "title": "Exotic Chinese Squid Salt And Pepper Squid",
     "tags": [
@@ -6987,6 +7002,21 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 75,
+    "shard": "e"
+  },
+  {
+    "slug": "exquisite-crispy-french-beef-brochette",
+    "title": "Exquisite Crispy French Beef Brochette",
+    "tags": [
+      "beef",
+      "crispy",
+      "easy-dinner",
+      "french-cuisine",
+      "low-sodium",
+      "raclette-grill"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 36,
     "shard": "e"
   },
   {
