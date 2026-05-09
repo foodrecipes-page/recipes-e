@@ -1,0 +1,102 @@
+{
+  "title": "Easy Spring Canadian Basil Stew",
+  "description": "A quick and delicious Canadian dish featuring basil and plant-based ingredients, perfect for a spring evening. This stew is cooked to perfection in a claypot and features spherified basil for a unique twist.",
+  "cuisine": "Canadian",
+  "diet": [
+    "plant-based",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use a high quality oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "basil",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 teaspoon",
+      "notes": "for spherification"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for spherification"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the claypot over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the vegetable broth, canned diced tomatoes, and fresh basil to the claypot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "In a small bowl, mix the sodium alginate with the water to create a spherification bath.",
+    "Using a syringe or spoon, drop small amounts of the basil mixture into the spherification bath.",
+    "Let the basil spheres sit in the bath for about 5 minutes to set.",
+    "Remove the basil spheres from the bath and add them to the stew.",
+    "Season the stew with salt and pepper to taste, then serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian-cuisine",
+    "one-pot",
+    "plant-based",
+    "quick-dinner",
+    "spring-recipes",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "easy-spring-canadian-basil-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-spring-canadian-basil-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:22:13Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "springy",
+    "mood": "quick-fix",
+    "technique": "spherify",
+    "primaryIngredient": "basil",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "basil",
+    "descriptor": "Easy Spring",
+    "dishForm": "Stew"
+  }
+}
