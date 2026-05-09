@@ -1,0 +1,92 @@
+{
+  "title": "Easy Gooey American Cheese Casserole",
+  "description": "A yeasty and gooey American dish perfect for a post-workout meal, featuring apricot jam and a keto-friendly twist, cooked to perfection in a bain-marie.",
+  "cuisine": "American",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "American cheese slices",
+      "amount": "12 slices"
+    },
+    {
+      "name": "apricot jam",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": " almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "In a large bowl, whisk together the almond flour, eggs, salt, and pepper.",
+    "Add the cooked ground beef, American cheese slices, apricot jam, and shredded cheddar cheese to the bowl and mix until well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish and place it in a larger baking dish or roasting pan.",
+    "Add enough hot water to the larger baking dish to come halfway up the sides of the smaller baking dish, creating a bain-marie.",
+    "Bake for 35 minutes, or until the casserole is set and the cheese is melted and gooey.",
+    "Remove the casserole from the bain-marie and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "keto-friendly",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "easy-gooey-american-cheese-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-gooey-american-cheese-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:28:11Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "gooey",
+    "mood": "post-workout",
+    "technique": "bain-marie",
+    "primaryIngredient": "apricot jam",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "cheese",
+    "descriptor": "easy gooey",
+    "dishForm": "Casserole"
+  }
+}
