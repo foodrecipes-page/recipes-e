@@ -1,0 +1,100 @@
+{
+  "title": "Emulsified Dense Vietnamese Rainbow Trout Mi Quang",
+  "description": "A tangy and dense Vietnamese dish featuring rainbow trout, this mi quang recipe is a quick fix for a delicious meal, and is ayurvedic-rajasic-friendly.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rainbow trout fillets",
+      "amount": "4",
+      "notes": "skin removed"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the rice noodles according to the package instructions.",
+    "In a large skillet, heat the vegetable oil over medium-high heat.",
+    "Add the sliced onion to the skillet and cook until it is translucent.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "Add the rainbow trout fillets to the skillet and cook for 3-4 minutes per side, or until they are cooked through.",
+    "In a small bowl, whisk together the fish sauce, lime juice, and grated ginger to make the emulsified sauce.",
+    "To assemble the mi quang, place some cooked noodles on a plate, then add a piece of the cooked trout, and spoon some of the emulsified sauce over the top.",
+    "Garnish with chopped cilantro and serve immediately.",
+    "Repeat the assembly process for the remaining ingredients."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "noodle-dish",
+    "pescatarian",
+    "quick-fix",
+    "seafood",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "emulsified-dense-vietnamese-rainbow-trout-mi-quang",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/emulsified-dense-vietnamese-rainbow-trout-mi-quang",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:50:37Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "dense",
+    "mood": "quick-fix",
+    "technique": "emulsify",
+    "primaryIngredient": "rainbow trout",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "rainbow trout",
+    "descriptor": "emulsified dense",
+    "dishForm": "Mi Quang"
+  }
+}
