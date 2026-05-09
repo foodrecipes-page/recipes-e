@@ -5738,6 +5738,21 @@
     "shard": "e"
   },
   {
+    "slug": "exotic-crispy-indian-eggplant-baingan-bharta",
+    "title": "Exotic Crispy Indian Eggplant Baingan Bharta",
+    "tags": [
+      "crispy",
+      "deep-fried",
+      "exotic",
+      "gluten-free",
+      "indian-food",
+      "vegetarian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 45,
+    "shard": "e"
+  },
+  {
     "slug": "exotic-crispy-mexican-fish-pozole",
     "title": "Exotic Crispy Mexican Fish Pozole",
     "tags": [
