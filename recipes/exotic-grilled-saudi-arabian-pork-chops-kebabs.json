@@ -1,0 +1,101 @@
+{
+  "title": "Exotic Grilled Saudi Arabian Pork Chops Kebabs",
+  "description": "A tangy and creamy Saudi Arabian dish featuring pork chops, perfect for a date night, with a low glycemic index.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400 degrees Fahrenheit.",
+    "In a blender, combine yogurt, lemon juice, olive oil, garlic, ginger, cumin, coriander, salt, and black pepper, and blend until smooth.",
+    "Place the pork chops in a large bowl and brush the yogurt mixture evenly over both sides of the pork chops.",
+    "Thread the pork chops onto skewers, leaving a small space between each chop.",
+    "Grill the kebabs for 5 minutes per side, or until the pork chops reach an internal temperature of 145 degrees Fahrenheit.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve hot and garnish with fresh parsley or cilantro.",
+    "Refrigerate or freeze any leftovers promptly.",
+    "Reheat leftovers to an internal temperature of 165 degrees Fahrenheit before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "grilled",
+    "kebabs",
+    "low-glycemic",
+    "pork-chops",
+    "saudi-arabian",
+    "tangy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "exotic-grilled-saudi-arabian-pork-chops-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-grilled-saudi-arabian-pork-chops-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:45:45Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "grill",
+    "primaryIngredient": "pork chops",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "pork chops",
+    "descriptor": "exotic grilled",
+    "dishForm": "Kebabs"
+  }
+}
