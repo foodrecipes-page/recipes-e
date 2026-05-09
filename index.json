@@ -5901,6 +5901,22 @@
     "shard": "e"
   },
   {
+    "slug": "exotic-dense-egyptian-chicken-kebabs",
+    "title": "Exotic Dense Egyptian Chicken Kebabs",
+    "tags": [
+      "chicken-recipes",
+      "dairy-free",
+      "gluten-free",
+      "grilled",
+      "kid-friendly",
+      "middle-eastern",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 32,
+    "shard": "e"
+  },
+  {
     "slug": "exotic-dense-saudi-arabian-lamb-kebabs",
     "title": "Exotic Dense Saudi Arabian Lamb Kebabs",
     "tags": [
