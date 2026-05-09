@@ -1,0 +1,109 @@
+{
+  "title": "Exquisite Easy Filipino Beef Stew",
+  "description": "A hearty and flavorful Filipino dish featuring beef, tomatoes, and confit-tomato, perfect for a hangover cure or a low-calorie meal.",
+  "cuisine": "Filipino",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1 pound",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 cups",
+      "notes": "diced"
+    },
+    {
+      "name": "confit-tomato",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2 leaves",
+      "notes": "dried"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "or beef broth"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium-high heat and sear the beef until browned on all sides.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the diced tomatoes, confit-tomato, fish sauce, black pepper, and salt, stirring to combine.",
+    "Add the bay leaves and water or beef broth, bringing the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 hours, or until the beef is tender.",
+    "Remove the bay leaves and serve hot, garnished with chopped fresh herbs if desired.",
+    "Serve with steamed rice or crusty bread for a filling meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "beef-recipes",
+    "comfort-food",
+    "filipino-food",
+    "hangover-cure",
+    "low-calorie-meals",
+    "one-pot-meals"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "exquisite-easy-filipino-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exquisite-easy-filipino-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:37:25Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "shaggy",
+    "mood": "hangover-cure",
+    "technique": "confit-tomato",
+    "primaryIngredient": "beef tomatoes",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "beef",
+    "descriptor": "Exquisite Easy",
+    "dishForm": "Stew"
+  }
+}
