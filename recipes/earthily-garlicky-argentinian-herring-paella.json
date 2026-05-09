@@ -3,7 +3,6 @@
   "description": "A savory one-pot dish featuring herring, garlic, and Mediterranean-friendly ingredients, cooked to perfection in a paella pan. This Argentinian-inspired recipe combines the earthy flavors of garlic and herring with a crunchy texture from the fry.",
   "cuisine": "Argentinian",
   "diet": [
-    "pescatarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -60,7 +59,8 @@
     "Reduce the heat to low, cover the pan, and simmer for 20 minutes, until the rice is cooked and the liquid is absorbed.",
     "Remove the pan from the heat and stir in the chopped fresh parsley.",
     "Let the paella rest for 5 minutes before serving.",
-    "Serve hot, garnished with additional parsley if desired."
+    "Serve hot, garnished with additional parsley if desired.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -72,8 +72,7 @@
     "garlic-lovers",
     "gluten-free",
     "mediterranean",
-    "one-pan",
-    "pescatarian"
+    "one-pan"
   ],
   "nutrition": {
     "calories": 420,

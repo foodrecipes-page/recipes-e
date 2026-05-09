@@ -2,9 +2,7 @@
   "title": "Exotic Earthy Malaysian Pork Curry",
   "description": "A jammy and springy Malaysian dish featuring ground pork, served in a copper mug, perfect for a monsoon evening. This vegetarian-friendly curry is made with brine-wet ingredients.",
   "cuisine": "Malaysian",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -57,7 +55,8 @@
     "Pour in coconut milk and bring to a simmer.",
     "Reduce heat to low and cook for 10 minutes.",
     "Season with salt and pepper to taste.",
-    "Serve hot in the copper mug."
+    "Serve hot in the copper mug.",
+    "Cook pork to an internal temperature of 63°C / 145°F, then rest 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,

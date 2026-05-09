@@ -3,8 +3,7 @@
   "description": "A fresh, tender, and comforting Russian beet soup dish featuring fresh basil and a brine-wet twist, served in a slate-tile vessel",
   "cuisine": "Russian",
   "diet": [
-    "whole30",
-    "vegetarian"
+    "whole30"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -82,7 +81,8 @@
     "Serve the soup hot in a slate-tile bowl, garnished with additional fresh basil if desired.",
     "Refrigerate or freeze any leftovers for later use.",
     "Note: This soup will thicken as it cools, so feel free to add more broth or water to achieve the desired consistency.",
-    "Note: For a creamier soup, you can blend a portion of the soup with coconut cream or non-dairy yogurt before serving."
+    "Note: For a creamier soup, you can blend a portion of the soup with coconut cream or non-dairy yogurt before serving.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -94,7 +94,6 @@
     "gluten-free",
     "russian",
     "soup",
-    "vegetarian",
     "whole30"
   ],
   "nutrition": {

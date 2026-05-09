@@ -3,8 +3,7 @@
   "description": "A buttery and crisp Mexican dish featuring egg plants and bonito flakes, inspired by the Chiapan region, this low-calorie-friendly recipe is perfect for a weeknight breakfast or snack. It combines the earthy flavors of egg plants with the smokiness of bonito flakes.",
   "cuisine": "Mexican",
   "diet": [
-    "low-calorie",
-    "vegetarian"
+    "low-calorie"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -67,7 +66,6 @@
     "low-calorie",
     "mexican-breakfast",
     "smoky",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {

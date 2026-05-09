@@ -3,7 +3,6 @@
   "description": "A hearty one-pot Australian dish featuring roasted lamb, stir-fry, and pickle juice, perfect for a Buddhist temple gathering.",
   "cuisine": "Australian",
   "diet": [
-    "halal",
     "kosher"
   ],
   "meal": "dinner",
@@ -61,7 +60,9 @@
     "While the lamb is roasting, heat a large skillet or wok over medium-high heat.",
     "Add the roasted lamb to the skillet and stir in the pickle juice.",
     "Add the sliced snow peas to the skillet and stir-fry for 2-3 minutes.",
-    "Transfer the stir-fry to a lazy-susan-spinner and serve hot."
+    "Transfer the stir-fry to a lazy-susan-spinner and serve hot.",
+    "Refrigerate and consume within 1 week — this preparation is not shelf-stable without an approved acid level and canning process.",
+    "Refrigerator pickle only: store in the fridge and consume within 1 week. For shelf-stable canning, add at least 2 tablespoons of vinegar (5% acidity) per cup of brine and follow a tested water-bath process."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
