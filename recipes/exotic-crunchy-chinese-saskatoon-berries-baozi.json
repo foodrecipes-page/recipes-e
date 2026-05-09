@@ -1,0 +1,101 @@
+{
+  "title": "Exotic Crunchy Chinese Saskatoon Berries Baozi",
+  "description": "A sour and crunchy Chinese dish featuring saskatoon berries in a baozi form, double-fry KFC style, and vegan friendly, served in a terracotta dish.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "saskatoon berries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegan panko breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegan egg replacement",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together the flour, cornstarch, and salt.",
+    "Add the soy milk, rice vinegar, and sesame oil to the bowl and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and place a few saskatoon berries in the center of each disk.",
+    "Fold the dough over the berries and press the edges together to seal the baozi.",
+    "Dip each baozi into the vegan egg replacement and then coat in the panko breadcrumbs.",
+    "Double fry the baozi in hot oil at 350 degrees Fahrenheit for 2-3 minutes on each side until golden brown and crispy.",
+    "Drain the baozi on paper towels and serve in a terracotta dish.",
+    "Drizzle with a little sesame oil and sugar before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "crunchy",
+    "double-fry",
+    "snack",
+    "sour",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "exotic-crunchy-chinese-saskatoon-berries-baozi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-crunchy-chinese-saskatoon-berries-baozi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:05:03Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "quick-fix",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "saskatoon berries",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "saskatoon berries",
+    "descriptor": "exotic crunchy",
+    "dishForm": "Baozi"
+  }
+}
