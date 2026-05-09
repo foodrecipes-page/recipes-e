@@ -1,0 +1,92 @@
+{
+  "title": "Exquisite Gooey Polish Orange Pasta",
+  "description": "A cultured and gooey lacto-vegetarian Polish dish featuring orange, perfect for a date night, with a cure of citrus and herbs.",
+  "cuisine": "Polish",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pappardelle pasta",
+      "amount": "12 oz",
+      "notes": "wide flat noodles"
+    },
+    {
+      "name": "orange marmalade",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated orange zest",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pappardelle pasta according to the package instructions.",
+    "In a large skillet, melt the unsalted butter over medium heat.",
+    "Add the orange marmalade to the skillet and stir until it is well combined with the butter.",
+    "Pour in the heavy cream and stir until the mixture is smooth and creamy.",
+    "Add the grated orange zest, salt, and black pepper to the skillet and stir to combine.",
+    "Drain the cooked pasta and add it to the skillet, tossing to coat with the orange cream sauce.",
+    "Reduce the heat to low and simmer the pasta for a few minutes, until it is well coated with the sauce.",
+    "Stir in the chopped fresh parsley and serve the pasta hot.",
+    "Garnish with additional parsley and orange zest if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "date-night",
+    "lacto-vegetarian",
+    "orange",
+    "pasta",
+    "polish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "exquisite-gooey-polish-orange-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exquisite-gooey-polish-orange-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:02:25Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "gooey",
+    "mood": "date-night",
+    "technique": "cure",
+    "primaryIngredient": "orange",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "oranges",
+    "descriptor": "exquisite gooey",
+    "dishForm": "Pasta"
+  }
+}
