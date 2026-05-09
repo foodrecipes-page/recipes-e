@@ -1,0 +1,92 @@
+{
+  "title": "Earthy Smoky Uruguayan Date Empanadas",
+  "description": "Charred and fluffy empanadas filled with stoned dates and infused with kombu cold extract, wrapped in ti leaves for a cozy Uruguayan dish.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "12",
+      "notes": "stoned"
+    },
+    {
+      "name": "kombu",
+      "amount": "2 sheets",
+      "notes": "for cold extract"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "12 large leaves"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Make the kombu cold extract by soaking the kombu sheets in 2 cups of water for at least 4 hours.",
+    "Strain the kombu extract and discard the solids.",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Cut out 12 circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a stoned date in the center of each dough circle.",
+    "Drizzle a small amount of olive oil and kombu extract over each date.",
+    "Sprinkle smoked paprika and sea salt over the dates.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal.",
+    "Wrap each empanada in a ti leaf, securing with a toothpick if necessary.",
+    "Bake the empanadas for 20 minutes, or until the ti leaves are charred and the dough is golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "date-filled",
+    "empanadas",
+    "macrobiotic",
+    "smoky",
+    "snack",
+    "ti-leaf-wrapped",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 3
+  },
+  "slug": "earthy-smoky-uruguayan-date-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-smoky-uruguayan-date-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:16:09Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "fluffy",
+    "mood": "cozy",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "stoned dates",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "dates",
+    "descriptor": "earthy smoky",
+    "dishForm": "Empanadas"
+  }
+}
