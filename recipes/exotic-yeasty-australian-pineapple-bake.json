@@ -1,0 +1,92 @@
+{
+  "title": "Exotic Yeasty Australian Pineapple Bake",
+  "description": "A sweet and crumbly Australian dessert featuring pineapple juice and shio-cure, wrapped in a ti-leaf for a unique presentation. This dish is perfect for special occasions and is onion and garlic free.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pineapple juice",
+      "amount": "1 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "shio-cure",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "ti-leaves",
+      "amount": "4 large"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the pineapple juice, shio-cure, yeast, and sugar, stirring until the yeast is dissolved.",
+    "Add the flour, eggs, and melted butter to the bowl, mixing until a smooth dough forms.",
+    "Knead the dough for 10 minutes until it becomes elastic and smooth.",
+    "Divide the dough into 4 equal pieces and shape each piece into a ball.",
+    "Wrap each ball in a ti-leaf, securing with a toothpick if necessary.",
+    "Place the wrapped dough balls on a baking sheet lined with parchment paper.",
+    "Bake for 25 minutes, or until the dough is golden brown and cooked through.",
+    "Remove the baked goods from the oven and let them cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-dessert",
+    "pineapple-juice",
+    "special-occasion",
+    "ti-leaf-wrap",
+    "yeasty-treats"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "exotic-yeasty-australian-pineapple-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-yeasty-australian-pineapple-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:39:12Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "shio-cure",
+    "primaryIngredient": "pineapple juice",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "pineapple",
+    "descriptor": "Exotic Yeasty",
+    "dishForm": "Bake"
+  }
+}
