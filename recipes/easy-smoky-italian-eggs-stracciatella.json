@@ -1,0 +1,97 @@
+{
+  "title": "Easy Smoky Italian Eggs Stracciatella",
+  "description": "A smoky and silky Italian dish featuring beef stock concentrate and shio-cure, perfect for a lazy Sunday morning. This kosher-friendly recipe is a twist on the traditional Italian stracciatella.",
+  "cuisine": "Italian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "beef stock concentrate",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shio-cure",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1/2 cup",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them together with a fork until the whites and yolks are fully incorporated.",
+    "In a small saucepan, combine the beef stock concentrate, shio-cure, smoked paprika, black pepper, and kosher salt, and whisk until smooth.",
+    "Add the heavy cream to the saucepan and whisk until fully incorporated.",
+    "Bring the mixture to a simmer over medium heat, then reduce the heat to low and let cook for 2 minutes.",
+    "Stir in the grated grana padano cheese until melted and smooth.",
+    "Add the egg mixture to the saucepan and cook, stirring constantly, until the eggs are just set.",
+    "Remove the saucepan from the heat and stir in the chopped fresh parsley.",
+    "Serve the stracciatella hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "eggs",
+    "italian",
+    "kosher-friendly",
+    "lazy-sunday",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 6,
+    "fat": 14
+  },
+  "slug": "easy-smoky-italian-eggs-stracciatella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-smoky-italian-eggs-stracciatella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:29:21Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "shio-cure",
+    "primaryIngredient": "beef stock concentrate",
+    "diet": "kosher",
+    "region": "tuscan",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "eggs",
+    "descriptor": "Easy Smoky",
+    "dishForm": "Stracciatella"
+  }
+}

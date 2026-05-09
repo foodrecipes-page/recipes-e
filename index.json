@@ -3020,6 +3020,21 @@
     "shard": "e"
   },
   {
+    "slug": "easy-smoky-italian-eggs-stracciatella",
+    "title": "Easy Smoky Italian Eggs Stracciatella",
+    "tags": [
+      "breakfast",
+      "eggs",
+      "italian",
+      "kosher-friendly",
+      "lazy-sunday",
+      "smoky"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 20,
+    "shard": "e"
+  },
+  {
     "slug": "easy-smoky-tunisian-tomato-grill",
     "title": "Easy Smoky Tunisian Tomato Grill",
     "tags": [
