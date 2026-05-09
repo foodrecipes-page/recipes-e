@@ -1,0 +1,97 @@
+{
+  "title": "Easy Silky Malaysian Chicken Noodles",
+  "description": "A kid-friendly Malaysian dish featuring dashi and temper, this recipe is onion and garlic free, making it perfect for those with dietary restrictions, and has a tangy and silky texture.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "kid-friendly",
+    "no onion",
+    "no garlic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "dashi powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "noodle",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish balls",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the noodles according to the package instructions.",
+    "In a large bowl, whisk together the dashi powder and 2 cups of water to make the dashi broth.",
+    "In a large pan, heat the vegetable oil over medium heat and add the chicken breast, cooking until browned and cooked through.",
+    "Add the soy sauce, coconut milk, and fish balls to the pan and stir to combine.",
+    "Add the dashi broth to the pan and bring to a simmer.",
+    "Reduce the heat to low and let cook for 5 minutes.",
+    "Add the cooked noodles to the pan and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-meal",
+    "kid-friendly",
+    "malaysian-cuisine",
+    "noodle-dish",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "easy-silky-malaysian-chicken-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-silky-malaysian-chicken-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:49:11Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "temper",
+    "primaryIngredient": "dashi",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "easy silky",
+    "dishForm": "Noodles"
+  }
+}
