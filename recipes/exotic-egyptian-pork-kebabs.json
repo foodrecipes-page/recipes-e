@@ -1,0 +1,102 @@
+{
+  "title": "Exotic Egyptian Pork Kebabs",
+  "description": "Tangy and silky Egyptian dish featuring pork back ribs, perfect for a brunch mood, with a Whole30 friendly twist using kombu cold extract.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "whole30",
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork back ribs",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together kombu cold extract, lemon juice, olive oil, garlic, ginger, cumin, coriander, salt, and black pepper.",
+    "Add the pork back ribs to the bowl and toss to coat with the marinade.",
+    "Thread the marinated pork onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 20 minutes, turning occasionally, or until the pork reaches an internal temperature of 145 degrees Fahrenheit.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve the kebabs hot, garnished with fresh parsley and lemon wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian-cuisine",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "pork-recipes",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "exotic-egyptian-pork-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-egyptian-pork-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:55:12Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "silky",
+    "mood": "brunch-mood",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "pork back ribs",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "pork back ribs",
+    "descriptor": "exotic silky",
+    "dishForm": "Kebabs"
+  }
+}

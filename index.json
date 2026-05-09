@@ -5899,6 +5899,21 @@
     "shard": "e"
   },
   {
+    "slug": "exotic-egyptian-pork-kebabs",
+    "title": "Exotic Egyptian Pork Kebabs",
+    "tags": [
+      "egyptian-cuisine",
+      "grilled",
+      "high-protein",
+      "one-pan",
+      "pork-recipes",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 40,
+    "shard": "e"
+  },
+  {
     "slug": "exotic-egyptian-tomato-custard",
     "title": "Exotic Egyptian Tomato Custard",
     "tags": [
