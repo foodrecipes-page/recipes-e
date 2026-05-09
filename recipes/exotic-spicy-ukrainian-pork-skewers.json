@@ -1,0 +1,97 @@
+{
+  "title": "Exotic Spicy Ukrainian Pork Skewers",
+  "description": "Tender and spicy Ukrainian pork skewers marinated in a mixture of seasoned rice vinegar and render fat, perfect for a solo dinner",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "render fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together rice vinegar, render fat, garlic, ginger, smoked paprika, salt, black pepper, and cayenne pepper",
+    "Add the pork pieces to the marinade and toss to coat",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight",
+    "Preheat a grill or grill pan to medium-high heat",
+    "Thread the marinated pork pieces onto skewers, leaving a small space between each piece",
+    "Brush the grill or grill pan with oil to prevent sticking",
+    "Grill the skewers for 10-12 minutes, turning occasionally, or until the pork is cooked through",
+    "Let the skewers rest for 5 minutes before serving"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-meat",
+    "one-pan",
+    "quick-dinner",
+    "spicy-food",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "exotic-spicy-ukrainian-pork-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-spicy-ukrainian-pork-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:49:32Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "render-fat",
+    "primaryIngredient": "seasoned rice vinegar",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "pork",
+    "descriptor": "exotic spicy",
+    "dishForm": "Skewers"
+  }
+}
