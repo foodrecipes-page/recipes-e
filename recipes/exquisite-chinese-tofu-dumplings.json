@@ -1,0 +1,96 @@
+{
+  "title": "Exquisite Chinese Tofu Dumplings",
+  "description": "A sweet and pillowy Chinese dish featuring marmite and wrapped in lotus leaves, this recipe is a cozy and shojin-friendly delight. The namul-blanch-season method adds a burst of flavor to the dish.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and crumbled"
+    },
+    {
+      "name": "marmite",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "12 leaves",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "namul",
+      "amount": "1 cup",
+      "notes": "seasoned and blanched"
+    }
+  ],
+  "instructions": [
+    "Rinse the lotus leaves in cold water and blanch them in boiling water for 30 seconds to make them pliable.",
+    "In a large mixing bowl, combine the crumbled tofu, marmite, soy sauce, sesame oil, scallions, and ginger, and mix well.",
+    "Add the namul to the tofu mixture and stir to combine.",
+    "Lay a lotus leaf flat on a work surface and place a tablespoon of the tofu mixture in the center of the leaf.",
+    "Fold the leaf over the filling to form a triangle or a square shape, and press the edges together to seal the dumpling.",
+    "Repeat the process with the remaining lotus leaves and tofu mixture.",
+    "Steam the dumplings over boiling water for 10 minutes, or until they are cooked through and the lotus leaves are tender.",
+    "Serve the dumplings hot, garnished with additional scallions and namul if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "lotus-leaf-wraps",
+    "shojin-friendly",
+    "steamed-dumplings",
+    "tofu-recipes",
+    "vegetarian-dishes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "exquisite-chinese-tofu-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exquisite-chinese-tofu-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:33:17Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "pillowy",
+    "mood": "cozy",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "marmite",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "tofu",
+    "descriptor": "exquisite pillowy",
+    "dishForm": "Dumplings"
+  }
+}
