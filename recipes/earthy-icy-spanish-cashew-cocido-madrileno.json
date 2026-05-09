@@ -1,0 +1,105 @@
+{
+  "title": "Earthy Icy Spanish Cashew Cocido Madrileno",
+  "description": "A comforting Spanish stew originating from Valencia, infused with earthy flavors and gooey cashew goodness, perfect for a kid-friendly meal.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cashews",
+      "amount": "1 cup"
+    },
+    {
+      "name": "veggie broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the chopped carrots, zucchini, and potatoes, and cook for 5 minutes.",
+    "Pour in the veggie broth and add the cashews, tomato paste, smoked paprika, salt, and black pepper.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Remove from heat and let it cool slightly.",
+    "Use an immersion blender to puree the stew until smooth.",
+    "Return the stew to the pot and reheat it over low heat.",
+    "Serve hot, garnished with additional cashews if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "kid-friendly",
+    "one-pot",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "earthy-icy-spanish-cashew-cocido-madrileno",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-icy-spanish-cashew-cocido-madrileno",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:49:56Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "gooey",
+    "mood": "kid-friendly",
+    "technique": "infuse-oil",
+    "primaryIngredient": "cashews",
+    "diet": "high-protein",
+    "region": "valencian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Cashews",
+    "descriptor": "Earthy Icy",
+    "dishForm": "Cocido Madrileno"
+  }
+}
