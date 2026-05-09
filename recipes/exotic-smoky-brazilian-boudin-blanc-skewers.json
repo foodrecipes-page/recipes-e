@@ -1,0 +1,105 @@
+{
+  "title": "Exotic Smoky Brazilian Boudin Blanc Skewers",
+  "description": "A mustardy and festive Brazilian dish featuring boudin blanc, binchotan charcoal, and gluten free friendly ingredients, perfect for outdoor gatherings.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boudin blanc",
+      "amount": "1 pound",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 cup",
+      "notes": "for smoking"
+    },
+    {
+      "name": "mustard",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan charcoal until it is smoldering.",
+    "Thread the boudin blanc onto skewers, leaving a small space between each piece.",
+    "In a bowl, mix together the mustard, olive oil, garlic, salt, and black pepper.",
+    "Brush the mustard mixture onto the boudin blanc skewers.",
+    "Add the chopped onion and bell pepper to the skewers.",
+    "Smoke the skewers over the binchotan charcoal for 10 minutes on each side.",
+    "Serve the skewers hot, garnished with chopped parsley.",
+    "Repeat the smoking process until all the skewers are cooked.",
+    "Let the skewers rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "festive",
+    "gluten-free",
+    "meat-based",
+    "outdoor",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "exotic-smoky-brazilian-boudin-blanc-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-smoky-brazilian-boudin-blanc-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:55:14Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shaggy",
+    "mood": "festive",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "boudin-blanc",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "boudin blanc",
+    "descriptor": "exotic smoky",
+    "dishForm": "Skewers"
+  }
+}
