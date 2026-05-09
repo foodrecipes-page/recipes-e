@@ -3080,6 +3080,20 @@
     "shard": "e"
   },
   {
+    "slug": "elegant-croatian-chicken-pilaf",
+    "title": "Elegant Croatian Chicken Pilaf",
+    "tags": [
+      "chicken-dish",
+      "gluten-free",
+      "low-glycemic",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 40,
+    "shard": "e"
+  },
+  {
     "slug": "elegant-dense-greek-semolina-galaktoboureko",
     "title": "Elegant Dense Greek Semolina Galaktoboureko",
     "tags": [
