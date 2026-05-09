@@ -1,0 +1,98 @@
+{
+  "title": "Exotic Earthy Malaysian Pork Curry",
+  "description": "A jammy and springy Malaysian dish featuring ground pork, served in a copper mug, perfect for a monsoon evening. This vegetarian-friendly curry is made with brine-wet ingredients.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "brine-wet"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a copper mug over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and ginger and cook for 1 minute.",
+    "Add ground pork and cook until browned, breaking it up into small pieces.",
+    "Add curry powder and cook for 1 minute.",
+    "Pour in coconut milk and bring to a simmer.",
+    "Reduce heat to low and cook for 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot in the copper mug."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "copper-cooking",
+    "malaysian-cuisine",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "exotic-earthy-malaysian-pork-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-earthy-malaysian-pork-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:43:46Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "springy",
+    "mood": "monsoon",
+    "technique": "brine-wet",
+    "primaryIngredient": "ground pork",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "pork",
+    "descriptor": "exotic earthy",
+    "dishForm": "Curry"
+  }
+}
