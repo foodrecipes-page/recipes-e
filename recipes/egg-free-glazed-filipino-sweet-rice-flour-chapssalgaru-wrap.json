@@ -1,0 +1,87 @@
+{
+  "title": "Filipino Sweet-rice-flour-chapssalgaru Wrap",
+  "description": "A glassy-jelly brunch dish featuring sweet-rice-flour-chapssalgaru, perfect for a raw-friendly meal wrapped in pandan leaves",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Glazed Sweet Rice Flour Chapssalgaru",
+      "amount": "300g"
+    },
+    {
+      "name": "Pandan Leaf Wrap",
+      "amount": "1"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "250ml"
+    },
+    {
+      "name": "Maple Syrup",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1tsp"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4tsp"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1tsp"
+    }
+  ],
+  "instructions": [
+    "Whisk the coconut milk, maple syrup, vanilla extract, and lime juice in a bowl until well combined.",
+    "Add the glazed sweet rice flour chapssalgaru to the bowl and mix until well coated.",
+    "Heat a non-stick pan over medium heat and add the pandan leaf wrap.",
+    "Cook for 1-2 minutes until the wrap is slightly softened.",
+    "Transfer the sweet rice flour mixture to the pandan leaf wrap and fold the wrap to enclose the mixture.",
+    "Cook for an additional 2-3 minutes until the wrap is crispy and the mixture is heated through.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "filipino",
+    "one-pan",
+    "raw-friendly",
+    "weekend"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "egg-free-glazed-filipino-sweet-rice-flour-chapssalgaru-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/egg-free-glazed-filipino-sweet-rice-flour-chapssalgaru-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:06:55Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "glassy-jelly",
+    "mood": "brunch-mood",
+    "technique": "whisk",
+    "primaryIngredient": "sweet-rice-flour-chapssalgaru",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Sweet-rice-flour-chapssalgaru",
+    "descriptor": "Egg-free glazed",
+    "dishForm": "Wrap"
+  }
+}
