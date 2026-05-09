@@ -1,0 +1,96 @@
+{
+  "title": "Easy Elegant Argentinian Smoked Mackerel Empanadas",
+  "description": "A winey and glassy-jelly weeknight Argentinian dish featuring smoked mackerel, perfect for a ferment and dash friendly meal, this empanada is a twist on traditional recipes.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "pescatarian",
+    "glutenfree"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked mackerel",
+      "amount": "1 cup",
+      "notes": "flaked"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package",
+      "notes": "homemade or storebought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten, for egg wash"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a bowl, mix together the smoked mackerel, onion, and red wine.",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the mackerel mixture onto the center of each dough circle.",
+    "Brush the edges of the dough with the beaten egg for a golden glaze.",
+    "Fold the dough in half over the filling, pressing the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with olive oil and sprinkle with salt and pepper.",
+    "Place the empanadas on a baking sheet lined with parchment paper and bake for 20 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "empanadas",
+    "high-protein",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "easy-elegant-argentinian-smoked-mackerel-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-elegant-argentinian-smoked-mackerel-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:32:34Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "glassy-jelly",
+    "mood": "weeknight",
+    "technique": "ferment",
+    "primaryIngredient": "smoked-mackerel",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "smoked mackerel",
+    "descriptor": "Easy Elegant",
+    "dishForm": "Empanadas"
+  }
+}
