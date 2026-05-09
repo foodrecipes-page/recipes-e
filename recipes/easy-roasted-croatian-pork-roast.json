@@ -1,0 +1,86 @@
+{
+  "title": "Easy Roasted Croatian Pork Roast",
+  "description": "A traditional Croatian dish featuring a juicy pork roast with a crispy crust, perfect for a lazy Sunday dinner. The addition of mustard seeds gives it a unique flavor.",
+  "cuisine": "Croatian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork roast",
+      "amount": "2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together the mustard seeds, olive oil, garlic powder, salt, black pepper, and paprika.",
+    "Rub the mixture all over the pork roast, making sure to coat it evenly.",
+    "Place the pork roast in a large roasting pan and put it in the oven.",
+    "Roast the pork for 20 minutes per pound, or until it reaches an internal temperature of 145 degrees Fahrenheit.",
+    "Let the pork rest for 10 minutes before slicing and serving.",
+    "Slice the pork into thin slices and serve with your choice of sides.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 80,
+  "totalTimeMin": 100,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "croatian-cuisine",
+    "high-protein",
+    "lazy-sunday",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 57,
+    "carbs": 0,
+    "fat": 36
+  },
+  "slug": "easy-roasted-croatian-pork-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-roasted-croatian-pork-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:27:45Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "flaky",
+    "mood": "lazy-sunday",
+    "technique": "roast",
+    "primaryIngredient": "mustard seeds",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "pork",
+    "descriptor": "easy roasted",
+    "dishForm": "Roast"
+  }
+}

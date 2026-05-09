@@ -2768,6 +2768,20 @@
     "shard": "e"
   },
   {
+    "slug": "easy-roasted-croatian-pork-roast",
+    "title": "Easy Roasted Croatian Pork Roast",
+    "tags": [
+      "croatian-cuisine",
+      "high-protein",
+      "lazy-sunday",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 100,
+    "shard": "e"
+  },
+  {
     "slug": "easy-saute-croatian-zucchini-pasta",
     "title": "Easy Saute Croatian Zucchini Pasta",
     "tags": [
