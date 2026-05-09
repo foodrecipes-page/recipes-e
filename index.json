@@ -6990,6 +6990,22 @@
     "shard": "e"
   },
   {
+    "slug": "exotic-turkish-beef-wrap",
+    "title": "Exotic Turkish Beef Wrap",
+    "tags": [
+      "beef-stock",
+      "crunchy",
+      "garlicky",
+      "lotus-leaf-wrap",
+      "quick-fix",
+      "turkish-food",
+      "vegan-friendly"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
     "slug": "exotic-velvety-thai-peas-khao-soi",
     "title": "Exotic Velvety Thai Peas Khao Soi",
     "tags": [

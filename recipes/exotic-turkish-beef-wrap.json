@@ -1,0 +1,116 @@
+{
+  "title": "Exotic Turkish Beef Wrap",
+  "description": "A garlicky and crunchy Turkish dish featuring hot beef stock, served in a lotus leaf wrap, perfect for a quick fix meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegan-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lotus leaf",
+      "amount": "4 large leaves",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Beef stock",
+      "amount": "2 cups",
+      "notes": "hot"
+    },
+    {
+      "name": "Double rise bread",
+      "amount": "1 loaf",
+      "notes": "toasted"
+    },
+    {
+      "name": "Vegan beef strips",
+      "amount": "1 cup",
+      "notes": "marinated in garlic and spices"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Toast the double rise bread until crispy.",
+    "Marinate the vegan beef strips in garlic and spices for at least 30 minutes.",
+    "Heat the hot beef stock in a saucepan until simmering.",
+    "Add the marinated vegan beef strips to the beef stock and cook until heated through.",
+    "Prepare the lotus leaf wraps by rinsing them in cold water and patting them dry.",
+    "Assemble the wraps by placing a slice of toasted bread, some shredded lettuce, diced tomato, thinly sliced red onion, and a few strips of the cooked vegan beef on each lotus leaf.",
+    "Season with smoked paprika, salt, and pepper to taste.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional garlic and spices if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef-stock",
+    "crunchy",
+    "garlicky",
+    "lotus-leaf-wrap",
+    "quick-fix",
+    "turkish-food",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "exotic-turkish-beef-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-turkish-beef-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:38:57Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "quick-fix",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "hot beef stock",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "beef",
+    "descriptor": "exotic crunchy",
+    "dishForm": "Wrap"
+  }
+}
