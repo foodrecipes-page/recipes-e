@@ -1,0 +1,97 @@
+{
+  "title": "Exotic Garlicky Venezuelan Beef Empanadas",
+  "description": "A garlicky and flavorful Venezuelan dish featuring beef and applesauce, perfect for a date night, and can be cooked in a fondue pot for a fun and interactive experience. This recipe is low sodium friendly and uses a boil method for cooking.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "90% lean"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "applesauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the fondue pot with olive oil to 375 degrees Fahrenheit.",
+    "In a large skillet, cook the ground beef over medium high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion, minced garlic, cumin, and paprika to the skillet and cook until the onion is translucent.",
+    "Stir in the applesauce and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the mixture cook while preparing the empanada dough.",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the beef mixture onto the center of each dough circle.",
+    "Fold the dough in half and press the edges together to seal the empanada.",
+    "Carefully place the empanadas into the preheated fondue pot and cook for 5 minutes, or until golden brown.",
+    "Serve the empanadas hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef-empanadas",
+    "date-night",
+    "fondue-pot",
+    "garlicky",
+    "low-sodium",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "exotic-garlicky-venezuelan-beef-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-garlicky-venezuelan-beef-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:05:25Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "shaggy",
+    "mood": "date-night",
+    "technique": "boil",
+    "primaryIngredient": "applesauce",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "beef",
+    "descriptor": "exotic garlicky",
+    "dishForm": "Empanadas"
+  }
+}
