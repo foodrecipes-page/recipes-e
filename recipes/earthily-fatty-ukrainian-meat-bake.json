@@ -1,0 +1,99 @@
+{
+  "title": "Earthily Fatty Ukrainian Meat Bake",
+  "description": "A hearty, fatty Ukrainian dish featuring dried oregano, perfect for satisfying midnight cravings, baked in a tandoor clay pot and gluten-free friendly.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Pork",
+      "amount": "1 pound",
+      "notes": "preferably with a high fat content"
+    },
+    {
+      "name": "Dried Oregano",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Lard or Tallow",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor clay pot or a conventional oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the ground pork, dried oregano, chopped onion, minced garlic, salt, black pepper, and paprika, mixing well with your hands until just combined.",
+    "Add the lard or tallow to the pork mixture and mix until the meat is cohesive and slightly sticky.",
+    "Transfer the meat mixture to the preheated tandoor clay pot or a baking dish.",
+    "Arrange the sliced potatoes on top of the meat in a single layer.",
+    "Cover the pot or dish with a lid or aluminum foil and bake for 45 minutes.",
+    "Remove the lid or foil and continue baking for an additional 20 minutes, or until the potatoes are golden brown and the meat is cooked through.",
+    "Remove the pot or dish from the oven and let it rest for 10 minutes before serving.",
+    "Serve hot, garnished with additional dried oregano if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 65,
+  "totalTimeMin": 85,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "hearty-dish",
+    "meat-based",
+    "one-pot",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 42
+  },
+  "slug": "earthily-fatty-ukrainian-meat-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthily-fatty-ukrainian-meat-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:06:27Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "shattering",
+    "mood": "midnight-craving",
+    "technique": "bake",
+    "primaryIngredient": "dried oregano",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "meat",
+    "descriptor": "Earthily Fatty",
+    "dishForm": "Bake"
+  }
+}
