@@ -1,0 +1,106 @@
+{
+  "title": "Exotic Velvety Brazilian Sevaiiya Noodles",
+  "description": "A resinous and velvety Brazilian dish featuring sevaiiya, this romantic meal is perfect for a night in, and is macrobiotic-friendly and cooked to perfection in a wok.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sevaiiya noodles",
+      "amount": "8 oz",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "brazilian spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large wok over medium heat.",
+    "Add the sliced onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown.",
+    "Add the sevaiiya noodles to the wok and stir to combine with the onion and mushroom mixture.",
+    "In a small bowl, whisk together the soy sauce, brazilian spice blend, salt, and black pepper.",
+    "Pour the soy sauce mixture over the noodles and stir to combine.",
+    "Cook for an additional 2-3 minutes, stirring constantly, until the noodles are well coated with the sauce.",
+    "Remove the wok from the heat and garnish with chopped scallions.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "macrobiotic",
+    "noodle-dish",
+    "one-pan",
+    "romantic",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "exotic-velvety-brazilian-sevaiiya-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-velvety-brazilian-sevaiiya-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:13:40Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "velvety",
+    "mood": "romantic",
+    "technique": "rest",
+    "primaryIngredient": "sevaiiya",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "sevaiiya",
+    "descriptor": "exotic velvety",
+    "dishForm": "Noodles"
+  }
+}
