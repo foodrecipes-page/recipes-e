@@ -1,0 +1,108 @@
+{
+  "title": "Elegant Crumbly Uruguayan Hazelnuts Empanada",
+  "description": "A delicious and comforting Uruguayan dish featuring crumbly pastry, hazelnuts, and tangy pickles. Perfect for a lazy Sunday afternoon.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "cold, straight from the fridge"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "graham flour",
+      "amount": "1/2 cup",
+      "notes": "for the pastry crust"
+    },
+    {
+      "name": "hazelnuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "pickle relish",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "eggs",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the all-purpose flour, graham flour, and salt. Gradually add the softened butter, using a pastry blender or your fingertips to work it into the flour until the mixture resembles coarse crumbs.",
+    "Roll out the pastry crust to a thickness of about 1/8 inch (3 mm).",
+    "Transfer the pastry to a 9-inch (23 cm) tart pan with a removable bottom.",
+    "In a separate bowl, mix together the chopped hazelnuts, pickle relish, onion, garlic, and beaten eggs.",
+    "Spread the hazelnut mixture evenly over the pastry crust, leaving a 1/2-inch (1 cm) border around the edges.",
+    "Fold the edges of the pastry up over the filling, pressing gently to seal.",
+    "Use a sharp knife to cut a decorative border around the edges of the tart.",
+    "Bake the empanada for 35-40 minutes, or until the pastry is golden brown and the filling is set.",
+    "Let the empanada cool for at least 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "empanada",
+    "hazelnut",
+    "lazy-sunday",
+    "pickle",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 24,
+    "fat": 18
+  },
+  "slug": "elegant-crumbly-uruguayan-hazelnuts-empanada",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/elegant-crumbly-uruguayan-hazelnuts-empanada",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T04:01:05Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "pickle",
+    "primaryIngredient": "hazlenuts",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Hazelnuts",
+    "descriptor": "Elegant Crumbly",
+    "dishForm": "Empanada"
+  }
+}

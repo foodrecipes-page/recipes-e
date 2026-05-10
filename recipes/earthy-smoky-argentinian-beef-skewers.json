@@ -1,0 +1,100 @@
+{
+  "title": "Earthy Smoky Argentinian Beef Skewers",
+  "description": "Tender beef skewers with a smoky and creamy flavor, featuring Thai sweet basil and caramelized onions, perfect for a romantic dinner",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "Thai sweet basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit",
+    "In a large bowl, whisk together smoked paprika, garlic, salt, and black pepper",
+    "Add the beef cubes to the bowl and toss to coat with the spice mixture",
+    "Thread the beef cubes onto skewers, leaving a small space between each piece",
+    "Brush the grill with olive oil to prevent sticking",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the beef is cooked to desired doneness",
+    "While the skewers are cooking, caramelize the onions in a pan with a little olive oil over low heat",
+    "Stir in the chopped Thai sweet basil and cook for an additional minute",
+    "Serve the skewers with a dollop of sour cream and a spoonful of the caramelized onion and basil mixture"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "grilled",
+    "romantic",
+    "skewers",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "earthy-smoky-argentinian-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-smoky-argentinian-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:01:38Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "caramelize",
+    "primaryIngredient": "thai-sweet-basil-horapa",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "earthy smoky",
+    "dishForm": "Skewers"
+  }
+}

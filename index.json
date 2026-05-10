@@ -1921,6 +1921,21 @@
     "shard": "e"
   },
   {
+    "slug": "earthy-smoky-argentinian-beef-skewers",
+    "title": "Earthy Smoky Argentinian Beef Skewers",
+    "tags": [
+      "argentinian",
+      "beef",
+      "grilled",
+      "romantic",
+      "skewers",
+      "smoky"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
     "slug": "earthy-smoky-mediterranean-snow-peas-grill",
     "title": "Earthy Smoky Mediterranean Snow Peas Grill",
     "tags": [],
@@ -3812,6 +3827,21 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 40,
+    "shard": "e"
+  },
+  {
+    "slug": "elegant-crumbly-uruguayan-hazelnuts-empanada",
+    "title": "Elegant Crumbly Uruguayan Hazelnuts Empanada",
+    "tags": [
+      "comfort-food",
+      "empanada",
+      "hazelnut",
+      "lazy-sunday",
+      "pickle",
+      "uruguayan"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 55,
     "shard": "e"
   },
   {
