@@ -1,0 +1,102 @@
+{
+  "title": "Earthily Smoky Italian Eggplant Cassata",
+  "description": "A smoky and comforting Italian dish featuring eggplant and parmigiano-reggiano, with a plant-based friendly twist, using sous-vide for tender results.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 large",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "parmigiano-reggiano",
+      "amount": "1 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegan mozzarella",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Season the eggplant slices with salt and let them sit for 30 minutes to draw out excess moisture.",
+    "Rinse the eggplant slices and pat them dry with paper towels.",
+    "Sous-vide the eggplant slices at 180 degrees Fahrenheit for 30 minutes to tenderize them.",
+    "In a large skillet, heat the olive oil over medium heat and add the smoked paprika, cooking for 1 minute.",
+    "Add the tomato sauce to the skillet and stir to combine with the smoked paprika and oil.",
+    "In a large bowl, combine the cooked eggplant slices, tomato sauce mixture, and chopped basil.",
+    "In a 9x13 inch baking dish, create a layer of the eggplant mixture, followed by a layer of shaved parmigiano-reggiano and vegan mozzarella.",
+    "Repeat the layering process until all ingredients are used, finishing with a layer of cheese on top.",
+    "Bake the casserole in the preheated oven for 30 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 60,
+  "totalTimeMin": 105,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casseroles",
+    "comfort-food",
+    "italian-food",
+    "plant-based",
+    "smoky-flavors",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "earthily-smoky-italian-eggplant-cassata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthily-smoky-italian-eggplant-cassata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:50:29Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "shattering",
+    "mood": "comforting",
+    "technique": "sous-vide",
+    "primaryIngredient": "parmigiano-reggiano",
+    "diet": "plant-based",
+    "region": "sicilian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "eggplant",
+    "descriptor": "Earthily Smoky",
+    "dishForm": "Cassata"
+  }
+}
