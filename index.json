@@ -1914,6 +1914,21 @@
     "shard": "e"
   },
   {
+    "slug": "earthy-smoky-mexican-chicken-tacos",
+    "title": "Earthy Smoky Mexican Chicken Tacos",
+    "tags": [
+      "diabetic-friendly",
+      "gluten-free",
+      "high-protein",
+      "mexican-food",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 40,
+    "shard": "e"
+  },
+  {
     "slug": "earthy-smoky-norwegian-fernbrake-stew",
     "title": "Earthy Smoky Norwegian Fernbrake Stew",
     "tags": [

@@ -1,0 +1,99 @@
+{
+  "title": "Earthy Smoky Mexican Chicken Tacos",
+  "description": "A pungent and crisp Oaxacan dish featuring chicken cooked in a smoky lacquer glaze, served in a copper mug with a sprinkle of celery salt.",
+  "cuisine": "Mexican",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "celery salt",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "minced onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8-10",
+      "notes": "warmed"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Mix together the smoked paprika, celery salt, and lacquer glaze in a small bowl.",
+    "Brush the mixture onto the chicken pieces and place them on a baking sheet lined with parchment paper.",
+    "Drizzle the olive oil over the chicken and bake for 20 minutes.",
+    "Remove the chicken from the oven and brush with lime juice.",
+    " Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing the chicken onto a warmed tortilla and topping with minced onion and chopped cilantro.",
+    "Serve the tacos in a copper mug and garnish with additional cilantro if desired.",
+    "Let the tacos cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "high-protein",
+    "mexican-food",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "earthy-smoky-mexican-chicken-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-smoky-mexican-chicken-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:54:28Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "celery salt",
+    "diet": "diabetic-friendly",
+    "region": "oaxacan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "earthy smoky",
+    "dishForm": "Tacos"
+  }
+}
