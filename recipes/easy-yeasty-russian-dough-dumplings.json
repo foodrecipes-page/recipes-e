@@ -1,0 +1,94 @@
+{
+  "title": "Easy Yeasty Russian Dough Dumplings",
+  "description": "A traditional Russian dish featuring tender and light yeasty dumplings with garlic and shio-koji cure, kosher-friendly and delicious. This recipe yields a flavorful and comforting meal.",
+  "cuisine": "Russian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "unbleached"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic clove",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "shio-koji cure",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "1 large"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, yeast, and salt.",
+    "Gradually add the warm water to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat a large pot of salted water to 190 degrees Fahrenheit.",
+    "Once the dough has risen, punch it down and divide it into 8 equal pieces.",
+    "Roll each piece into a ball and then flatten it slightly into a disk shape.",
+    "Add the minced garlic and shio-koji cure to the melted butter and brush the mixture onto each dumpling.",
+    "Carefully add the dumplings to the boiling water and cook for 10 minutes.",
+    "Remove the dumplings from the water with a slotted spoon and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "garlic-lovers",
+    "kosher-friendly",
+    "russian-cuisine",
+    "yeasty-dumplings"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "easy-yeasty-russian-dough-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-yeasty-russian-dough-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:21:54Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "tender",
+    "mood": "light",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "garlic clove",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "dough",
+    "descriptor": "Easy Yeasty",
+    "dishForm": "Dumplings"
+  }
+}
