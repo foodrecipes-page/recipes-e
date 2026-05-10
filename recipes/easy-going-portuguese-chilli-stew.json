@@ -1,0 +1,108 @@
+{
+  "title": "Easy Going Portuguese Chilli Stew",
+  "description": "A sour and shaggy Portuguese dish perfect for a lazy Sunday, featuring chilli and blanched ingredients, and is FODMAP friendly.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free",
+    "low-fodmap"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chilli peppers",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "pork sausage",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic free seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the sliced pork sausage and cook until browned, about 5 minutes.",
+    "Add the chopped onions and cook until they start to soften, about 3 minutes.",
+    "Add the diced chilli peppers and cook for an additional 2 minutes.",
+    "Add the cubed potatoes, sliced carrots, garlic free seasoning, salt, and black pepper, and stir to combine.",
+    "Pour in the chicken broth and canned tomatoes, and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes, or until the vegetables are tender.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "low-fodmap",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "easy-going-portuguese-chilli-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-going-portuguese-chilli-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:47:59Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shaggy",
+    "mood": "lazy-sunday",
+    "technique": "blanch",
+    "primaryIngredient": "chilli",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "chillies",
+    "descriptor": "Easy Going",
+    "dishForm": "Stew"
+  }
+}
