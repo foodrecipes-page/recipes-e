@@ -1,0 +1,96 @@
+{
+  "title": "Exquisite Juicy British Lamb Spotted Dick",
+  "description": "A traditional British dish featuring charred, juicy lamb, served with couscous and spices, made in an ayurvedic-sattvic friendly way.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free",
+    "ayurvedic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless, cut into 1 inch cubes"
+    },
+    {
+      "name": "couscous",
+      "amount": "1 cup"
+    },
+    {
+      "name": "char-grill-yang spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the lamb, char-grill-yang spice mix, salt, and black pepper.",
+    "Thread the lamb mixture onto skewers, leaving a little space between each piece.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the lamb for 10-12 minutes, turning occasionally, until it is charred and cooked to an internal temperature of 145 degrees Fahrenheit.",
+    "While the lamb is cooking, prepare the couscous according to package instructions.",
+    "In a large pan, heat a couple of tablespoons of olive oil over medium heat, then add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic to the pan and cook for an additional minute.",
+    "To serve, place the grilled lamb on top of the couscous, then spoon the onion and garlic mixture over the top.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "british-cuisine",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "exquisite-juicy-british-lamb-spotted-dick",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exquisite-juicy-british-lamb-spotted-dick",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:48:04Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "couscous",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "lamb",
+    "descriptor": "exquisite juicy",
+    "dishForm": "Spotted Dick"
+  }
+}
