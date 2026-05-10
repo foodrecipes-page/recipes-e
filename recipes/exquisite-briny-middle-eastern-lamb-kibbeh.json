@@ -1,0 +1,100 @@
+{
+  "title": "Exquisite Briny Middle Eastern Lamb Kibbeh",
+  "description": "A traditional Middle Eastern dish featuring lamb leg, served in a briny and molten kibbeh form, perfect for a comforting meal. This halal-friendly recipe is sure to become a favorite.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb leg",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "bulgur",
+      "amount": "1 cup",
+      "notes": "fine"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "spices",
+      "amount": "2 teaspoons",
+      "notes": "including cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the ground lamb, bulgur, onion, spices, salt, and black pepper, mixing well.",
+    "Gradually add the olive oil and lemon juice to the lamb mixture, stirring until just combined.",
+    "Add the water to the mixture and stir until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 8 equal pieces and shape each into a ball.",
+    "Flatten each ball into a disk shape and place on a baking sheet lined with parchment paper.",
+    "Bake the kibbeh for 25 minutes or until cooked through.",
+    "While the kibbeh is baking, prepare the deglaze fond by heating 2 tablespoons of olive oil in a skillet over medium heat.",
+    "Add 2 cloves of minced garlic to the skillet and cook for 1 minute, stirring constantly.",
+    "Add 1 cup of chicken broth to the skillet and bring to a boil, scraping up any browned bits from the bottom of the pan."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "briny",
+    "comfort-food",
+    "lamb-based",
+    "middle-eastern",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "exquisite-briny-middle-eastern-lamb-kibbeh",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exquisite-briny-middle-eastern-lamb-kibbeh",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:07:40Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "molten",
+    "mood": "sick-day",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "lamb leg",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lamb",
+    "descriptor": "Exquisite Briny",
+    "dishForm": "Kibbeh"
+  }
+}
