@@ -1,0 +1,95 @@
+{
+  "title": "Exquisite Steamed Turkish Milk Kazandibi",
+  "description": "A traditional Turkish dessert featuring a creamy milk pudding topped with a caramelized sugar crust, known for its umami flavor and springy texture, often consumed as a hangover cure.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "milk",
+      "amount": "2 cups",
+      "notes": "whole milk preferred"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": "granulated sugar"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine the milk, sugar, and cornstarch, whisking until the cornstarch is dissolved.",
+    "Cook over medium heat, stirring constantly, until the mixture comes to a boil.",
+    "Reduce the heat to low and simmer for 5 minutes, or until the mixture has thickened.",
+    "Remove the saucepan from the heat and stir in the vanilla extract.",
+    "Strain the mixture into a 9x13 inch baking dish.",
+    "Let the mixture cool to room temperature, then cover and refrigerate for at least 2 hours.",
+    "Just before serving, sprinkle a thin layer of granulated sugar over the top of the pudding.",
+    "Caramelize the sugar by using a kitchen torch to carefully burn the sugar in a circular motion.",
+    "Alternatively, place the dish under the broiler for 1-2 minutes, or until the sugar is golden brown.",
+    "Serve the kazandibi chilled, garnished with a sprinkle of cinnamon if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "caramelized-sugar",
+    "comfort-food",
+    "easy-to-make",
+    "hangover-cure",
+    "milk-pudding",
+    "turkish-delicacy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "exquisite-steamed-turkish-milk-kazandibi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exquisite-steamed-turkish-milk-kazandibi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:36:55Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "springy",
+    "mood": "hangover-cure",
+    "technique": "steam",
+    "primaryIngredient": "sugar",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "milk",
+    "descriptor": "Exquisite Steamed",
+    "dishForm": "Kazandibi"
+  }
+}
