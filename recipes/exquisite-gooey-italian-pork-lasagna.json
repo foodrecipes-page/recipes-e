@@ -1,0 +1,99 @@
+{
+  "title": "Exquisite Gooey Italian Pork Lasagna",
+  "description": "A funky and gooey Italian dish from Emilia-Romagna, featuring double cream and ferment-jang, perfect for a midnight craving. This kosher-friendly recipe is sure to satisfy your taste buds.",
+  "cuisine": "Italian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground pork",
+      "amount": "1 lb",
+      "notes": "preferably lean"
+    },
+    {
+      "name": "Lasagna noodles",
+      "amount": "8-10 sheets"
+    },
+    {
+      "name": "Double cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ferment-jang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the lasagna noodles according to the package instructions and set aside.",
+    "In a large skillet, cook the ground pork over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the ferment-jang to the skillet and stir to combine, cooking for an additional 1-2 minutes.",
+    "In a large bowl, combine the double cream, Parmesan cheese, and a pinch of salt and pepper, stirring until smooth.",
+    "Spread a layer of the cream mixture in the bottom of a 9x13 inch baking dish, followed by a layer of lasagna noodles.",
+    "Top the noodles with a layer of the ground pork mixture, followed by a layer of shredded Mozzarella cheese.",
+    "Repeat the layers two more times, ending with a layer of Mozzarella cheese on top.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy-goodness",
+    "comfort-food",
+    "italian-food",
+    "pork-recipes",
+    "weeknight-meals"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 35
+  },
+  "slug": "exquisite-gooey-italian-pork-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exquisite-gooey-italian-pork-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:47:23Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "ferment-jang",
+    "primaryIngredient": "double cream",
+    "diet": "kosher",
+    "region": "emilia-romagna",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pork",
+    "descriptor": "exquisite gooey",
+    "dishForm": "Lasagna"
+  }
+}

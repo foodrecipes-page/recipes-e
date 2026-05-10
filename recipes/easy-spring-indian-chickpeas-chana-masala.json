@@ -1,0 +1,110 @@
+{
+  "title": "Easy Spring Indian Chickpeas Chana Masala",
+  "description": "A peppery and springy Indian dish featuring braeburn apples and a wood-fired bake, perfect for a lazy Sunday, with anti-inflammatory friendly ingredients.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "braeburn apples",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 can",
+      "notes": "low sodium"
+    },
+    {
+      "name": "garam masala",
+      "amount": "2 teaspoons",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit for wood-fired baking.",
+    "In a large pan, heat the olive oil over medium heat and saute the onion until translucent.",
+    "Add the grated ginger and minced garlic and cook for 1 minute until fragrant.",
+    "Add the diced braeburn apples and cook for 2 minutes until they start to soften.",
+    "Stir in the garam masala, cumin, and turmeric and cook for 1 minute until the spices are fragrant.",
+    "Add the chickpeas, tomato puree, and salt to taste, and stir well to combine.",
+    "Transfer the mixture to a baking dish and bake in the preheated oven for 20 minutes until the flavors have melded together.",
+    "Remove from the oven and let cool for a few minutes before serving.",
+    "Serve hot over basmati rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "anti-inflammatory",
+    "gluten-free",
+    "indian",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "easy-spring-indian-chickpeas-chana-masala",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-spring-indian-chickpeas-chana-masala",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:46:55Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "springy",
+    "mood": "lazy-sunday",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "braeburn apples",
+    "diet": "anti-inflammatory",
+    "region": "bengali",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Easy Spring",
+    "dishForm": "Chana Masala"
+  }
+}
