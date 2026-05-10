@@ -1,0 +1,113 @@
+{
+  "title": "Exotic Steamed Filipino Doraji Tagine",
+  "description": "A refreshing take on traditional Filipino cuisine, featuring bellflower root and an aromatic blend of herbs. This dish is perfect for a light lunch or dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bellflower root (doraji)",
+      "amount": "2 medium roots",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Galangal",
+      "amount": "1 inch",
+      "notes": ""
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Peel and chop the bellflower roots into 1-inch pieces.",
+    "Mince the ginger, galangal, and lemongrass.",
+    "In a large pot, combine the coconut milk, rice vinegar, water, salt, and black pepper.",
+    "Add the chopped bellflower roots and the minced ginger, galangal, and lemongrass to the pot.",
+    "Cover the pot and steam over medium heat until the bellflower roots are tender.",
+    "Stir in the chopped cilantro.",
+    "Serve the steamed bellflower roots hot, garnished with additional cilantro if desired.",
+    "Refrigerate any leftovers for up to 3 days.",
+    "To reheat, steam the leftovers over medium heat until warmed through.",
+    "Serve with steamed rice or as a side dish.",
+    "Adjust the seasoning as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aerated",
+    "herbal",
+    "low-fat",
+    "one-pan",
+    "plant-based",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "exotic-steamed-filipino-doraji-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-steamed-filipino-doraji-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T05:59:58Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "aerated",
+    "mood": "light",
+    "technique": "tagine-cook",
+    "primaryIngredient": "bellflower-root-doraji",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Doraji",
+    "descriptor": "Exotic Steamed",
+    "dishForm": "Tagine"
+  }
+}
