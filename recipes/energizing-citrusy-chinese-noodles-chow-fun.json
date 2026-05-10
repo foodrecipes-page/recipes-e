@@ -1,0 +1,103 @@
+{
+  "title": "Energizing Citrusy Chinese Noodles Chow Fun",
+  "description": "A citrusy and springy Chinese dish from Xinjiang, featuring yellow food coloring and crispy fried noodles, egg-free and perfect for a quick lunch.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice noodles",
+      "amount": "200g",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Yellow food coloring",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Citrus zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the chopped scallions and cook for another minute until they start to soften.",
+    "Add the rice noodles to the skillet or wok and stir to combine with the garlic and scallions.",
+    "Add the soy sauce, rice vinegar, sugar, and salt, and stir everything together for about 2 minutes.",
+    "Add the yellow food coloring and citrus zest, and stir to combine.",
+    "Increase the heat to high and stir-fry the noodles for about 5 minutes until they are crispy and golden brown.",
+    "Remove the skillet or wok from the heat and let the noodles cool for a few minutes.",
+    "Serve the energizing citrusy Chinese noodles chow fun hot, garnished with additional chopped scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "citrus-recipes",
+    "noodle-recipes",
+    "quick-lunch",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "energizing-citrusy-chinese-noodles-chow-fun",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-citrusy-chinese-noodles-chow-fun",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:03:12Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "springy",
+    "mood": "energizing",
+    "technique": "fry",
+    "primaryIngredient": "yellow food colouring",
+    "diet": "egg-free",
+    "region": "xinjiang",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "noodles",
+    "descriptor": "Energizing Citrusy",
+    "dishForm": "Chow Fun"
+  }
+}
