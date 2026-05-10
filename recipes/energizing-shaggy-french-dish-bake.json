@@ -1,0 +1,118 @@
+{
+  "title": "Energizing Shaggy French Dish Bake",
+  "description": "A fermented and energizing French dish featuring green salsa, bonito-shave, and a fodmap-friendly ingredient list.",
+  "cuisine": "french",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Rye sourdough starter",
+      "amount": "1/2 cup",
+      "notes": "Fermented for 24 hours"
+    },
+    {
+      "name": "Green salsa",
+      "amount": "1/4 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Butternut squash puree",
+      "amount": "1 cup",
+      "notes": "Cooked and cooled"
+    },
+    {
+      "name": "Celeriac root",
+      "amount": "1 medium",
+      "notes": "Peel and dice"
+    },
+    {
+      "name": "Fodmap-friendly sausage",
+      "amount": "4 links",
+      "notes": "Look for a sausage with minimal ingredients"
+    },
+    {
+      "name": "Bonito flakes",
+      "amount": "1 tablespoon",
+      "notes": "Shave using a grater or sharp knife"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Freshly chopped"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "Melted for brushing"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "Use a high-quality, unrefined salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/8 teaspoon",
+      "notes": "Use a high-quality, unrefined pepper"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "Freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the rye sourdough starter, green salsa, butternut squash puree, celeriac root, and sausage. Mix well to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish and smooth the top.",
+    "Sprinkle the bonito flakes and parsley over the top of the mixture.",
+    "Drizzle the coconut oil over the top of the mixture and sprinkle with salt and black pepper.",
+    "Bake for 40 minutes or until the top is golden brown and the mixture is hot and bubbly.",
+    "Remove from the oven and brush with lemon juice.",
+    "Serve hot and enjoy.",
+    "Refrigerate leftovers for up to 5 days or freeze for up to 2 months.",
+    "To reheat, bake in the oven at 350°F (180°C) for 15-20 minutes or until hot and bubbly.",
+    "Serve with additional green salsa on the side, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "fodmap-friendly",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "energizing-shaggy-french-dish-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-shaggy-french-dish-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T01:12:25Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "shaggy",
+    "mood": "energizing",
+    "technique": "bonito-shave",
+    "primaryIngredient": "green salsa",
+    "diet": "fodmap",
+    "region": "burgundy",
+    "cuisineAdjective": "french",
+    "mainIngredient": "dish",
+    "descriptor": "energizing shaggy",
+    "dishForm": "bake"
+  }
+}
