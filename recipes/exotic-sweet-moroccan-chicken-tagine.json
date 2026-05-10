@@ -1,0 +1,106 @@
+{
+  "title": "Exotic Sweet Moroccan Chicken Tagine",
+  "description": "A sweet and savory Moroccan dish featuring chicken, cheese, and corn flour, perfect for a keto-friendly dinner",
+  "cuisine": "Moroccan",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "corn flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "In a large bowl, whisk together corn flour, cumin, paprika, and a pinch of salt",
+    "Add the chicken to the bowl and toss to coat evenly with the corn flour mixture",
+    "Heat the olive oil in a large Dutch oven over medium-high heat",
+    "Add the chopped onion to the pot and cook until it is translucent and starting to caramelize",
+    "Add the minced garlic and grated ginger to the pot and cook for 1 minute",
+    "Add the coated chicken to the pot and cook until it is browned on all sides",
+    "Add the chicken broth to the pot and bring to a boil",
+    "Cover the pot and transfer it to the preheated oven",
+    "Bake for 25 minutes or until the chicken is cooked through and the sauce has thickened",
+    "Remove the pot from the oven and stir in the crumbled feta cheese"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "low-carb",
+    "moroccan-cuisine",
+    "one-pot",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 32
+  },
+  "slug": "exotic-sweet-moroccan-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-sweet-moroccan-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:18:53Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "cheese-pull",
+    "mood": "light",
+    "technique": "marinate",
+    "primaryIngredient": "corn flour",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "chicken",
+    "descriptor": "Exotic Sweet",
+    "dishForm": "Tagine"
+  }
+}
