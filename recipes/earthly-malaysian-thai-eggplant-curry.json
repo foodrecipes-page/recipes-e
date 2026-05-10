@@ -1,0 +1,91 @@
+{
+  "title": "Earthly Malaysian Thai Eggplant Curry",
+  "description": "A yeasty and springy Malaysian dish featuring Thai eggplant, this curry is a cozy and delicious meal option, free from onions and garlic.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Thai eggplant",
+      "amount": "2 medium",
+      "notes": "brine dried"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a copper mug over medium heat.",
+    "Add the curry powder and cook for 1 minute, stirring constantly.",
+    "Add the coconut milk, lemon juice, salt, and black pepper, and stir to combine.",
+    "Add the brine dried Thai eggplant and cook for 10 minutes, stirring occasionally.",
+    "Add the yeast and stir to combine.",
+    "Reduce heat to low and simmer for 10 minutes, stirring occasionally.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "malaysian-cuisine",
+    "one-pot",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "earthly-malaysian-thai-eggplant-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/earthly-malaysian-thai-eggplant-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:34:23Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "springy",
+    "mood": "cozy",
+    "technique": "brine-dry",
+    "primaryIngredient": "thai-eggplant-makhua",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Thai eggplant",
+    "descriptor": "Earthy Springy",
+    "dishForm": "Curry"
+  }
+}
