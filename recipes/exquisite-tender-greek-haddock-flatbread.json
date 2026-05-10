@@ -1,0 +1,112 @@
+{
+  "title": "Exquisite Tender Greek Haddock Flatbread",
+  "description": "A sweet and shattering Mediterranean dish featuring haddock, long-fermentation-dough, and Mediterranean-friendly ingredients, perfect for a cozy dinner",
+  "cuisine": "Greek",
+  "diet": [
+    "pescatarian",
+    "mediterranean"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haddock fillets",
+      "amount": "4",
+      "notes": "fresh and skinless"
+    },
+    {
+      "name": "long fermentation dough",
+      "amount": "1 pound",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "sun dried tomatoes",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit",
+    "Roll out the long fermentation dough to a thickness of about 1/4 inch",
+    "Place the dough on a baking sheet lined with parchment paper",
+    "Arrange the haddock fillets on one half of the dough, leaving a 1/2 inch border around the edges",
+    "Top the haddock with kalamata olives, artichoke hearts, feta cheese, and sun dried tomatoes",
+    "Fold the other half of the dough over the filling, pressing the edges to seal",
+    "Brush the top of the flatbread with olive oil and sprinkle with salt and pepper",
+    "Bake the flatbread in the preheated oven for 20 minutes, or until the crust is golden brown",
+    "Remove the flatbread from the oven and sprinkle with chopped fresh parsley and lemon juice",
+    "Let the flatbread rest for 5 minutes before slicing and serving"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-ideas",
+    "flatbread",
+    "greek-cuisine",
+    "mediterranean-diet",
+    "pescatarian",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "exquisite-tender-greek-haddock-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exquisite-tender-greek-haddock-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:59:29Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "shattering",
+    "mood": "cozy",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "haddock",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "haddock",
+    "descriptor": "exquisite tender",
+    "dishForm": "Flatbread"
+  }
+}
