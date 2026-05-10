@@ -2723,6 +2723,22 @@
     "shard": "e"
   },
   {
+    "slug": "easy-going-canadian-pork-bake",
+    "title": "Easy Going Canadian Pork Bake",
+    "tags": [
+      "canadian",
+      "comfort-food",
+      "high-protein",
+      "lazy-sunday",
+      "one-pan",
+      "weeknight",
+      "wood-fired"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 420,
+    "shard": "e"
+  },
+  {
     "slug": "easy-going-japanese-chicken-drumsticks-dorayaki",
     "title": "Easy Going Japanese Chicken Drumsticks Dorayaki",
     "tags": [

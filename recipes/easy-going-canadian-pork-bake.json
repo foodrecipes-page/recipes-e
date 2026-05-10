@@ -1,0 +1,98 @@
+{
+  "title": "Easy Going Canadian Pork Bake",
+  "description": "A hearty, comforting Canadian dish featuring pork, rice paper sheets, and a wood-fired bake, perfect for a lazy Sunday, this high-protein-friendly recipe is sure to satisfy your cravings. It is a fatty and pillowy dish that combines the richness of pork with the crunch of rice paper.",
+  "cuisine": "Canadian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "rice paper sheets",
+      "amount": "12 sheets"
+    },
+    {
+      "name": "wood chips",
+      "amount": "1 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "beer",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 300 degrees Fahrenheit.",
+    "In a small bowl, mix together the brown sugar, smoked paprika, garlic powder, salt, and black pepper.",
+    "Rub the spice mixture all over the pork shoulder, making sure to coat it evenly.",
+    "Wrap the pork shoulder in the rice paper sheets, overlapping the sheets to ensure complete coverage.",
+    "Place the wrapped pork shoulder in the wood-fired oven and bake for 6 hours.",
+    "After 6 hours, remove the pork from the oven and let it rest for 10 minutes.",
+    "While the pork is resting, heat the beer in a small saucepan over medium heat until it is warm and syrupy.",
+    "Brush the warm beer over the pork shoulder, making sure to coat it evenly.",
+    "Return the pork to the oven and bake for an additional 30 minutes.",
+    "Remove the pork from the oven and let it cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 390,
+  "totalTimeMin": 420,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "comfort-food",
+    "high-protein",
+    "lazy-sunday",
+    "one-pan",
+    "weeknight",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 80,
+    "carbs": 40,
+    "fat": 90
+  },
+  "slug": "easy-going-canadian-pork-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-going-canadian-pork-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:18:47Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "pillowy",
+    "mood": "lazy-sunday",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "rice paper sheets",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "pork",
+    "descriptor": "Easy Going",
+    "dishForm": "Bake"
+  }
+}
