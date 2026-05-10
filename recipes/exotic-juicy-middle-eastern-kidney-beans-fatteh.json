@@ -1,0 +1,104 @@
+{
+  "title": "Exotic Juicy Middle Eastern Kidney Beans Fatteh",
+  "description": "A nutty and juicy Middle Eastern dish featuring kidney beans, this fatteh is a crowd-pleaser and ovo-vegetarian friendly. It combines the flavors of ferment-jang with crunchy bread and fresh vegetables.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kidney beans",
+      "amount": "1 cup",
+      "notes": "cooked and drained"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 pieces",
+      "notes": "toasted and cubed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Toast the pita bread cubes until crispy and golden brown.",
+    "In a large bowl, combine the cooked kidney beans, ferment-jang, garlic, lemon juice, salt, and black pepper.",
+    "In a separate bowl, whisk together the olive oil and a pinch of salt.",
+    "Add the toasted pita bread cubes to the bowl with the olive oil mixture and toss until the bread is evenly coated.",
+    "Add the bread mixture to the bowl with the kidney bean mixture and stir until well combined.",
+    "Top the fatteh with crumbled feta cheese and chopped parsley.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional parsley and lemon wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-fiber",
+    "middle-eastern",
+    "nutritious",
+    "one-pot",
+    "ovo-vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "exotic-juicy-middle-eastern-kidney-beans-fatteh",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-juicy-middle-eastern-kidney-beans-fatteh",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:56:05Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "juicy",
+    "mood": "crowd-pleaser",
+    "technique": "ferment-jang",
+    "primaryIngredient": "kidney beans",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "kidney beans",
+    "descriptor": "exotic juicy",
+    "dishForm": "Fatteh"
+  }
+}
