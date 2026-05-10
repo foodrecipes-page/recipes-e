@@ -1,0 +1,92 @@
+{
+  "title": "Exotic Sweet Egyptian Milk Pudding",
+  "description": "A tender and sweet Egyptian dessert made with sweetened condensed milk, perfect for a date night, served in a stone bowl dolsot.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sweetened condensed milk",
+      "amount": "1 can",
+      "notes": "chilled"
+    },
+    {
+      "name": "whole milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "stone bowl dolsot",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Combine the sweetened condensed milk, whole milk, and cornstarch in a medium saucepan and whisk until smooth.",
+    "Cook over medium heat, stirring constantly, until the mixture thickens and comes to a boil.",
+    "Remove the saucepan from the heat and stir in the rose water and vanilla extract.",
+    "Pour the pudding mixture into the stone bowl dolsot.",
+    "Refrigerate the pudding for at least 2 hours, or until chilled and set.",
+    "Sprinkle the chopped pistachios over the top of the pudding.",
+    "Drizzle the honey over the pistachios.",
+    "Serve the pudding chilled, garnished with additional pistachios if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "date-night",
+    "egyptian-dessert",
+    "kosher-friendly",
+    "milk-pudding",
+    "stone-bowl",
+    "sweetened-condensed-milk"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 12
+  },
+  "slug": "exotic-sweet-egyptian-milk-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-sweet-egyptian-milk-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:43:05Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "date-night",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "sweetened condensed milk",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "milk",
+    "descriptor": "exotic sweet",
+    "dishForm": "Pudding"
+  }
+}
