@@ -1,0 +1,121 @@
+{
+  "title": "Egyptian Citrusy Chicken Tagine",
+  "description": "A comforting and juicy Egyptian dish featuring onion salt and miso-marinated chicken breast.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "whole30-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "onion salt",
+      "amount": "2 teaspoons",
+      "notes": "or regular salt"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons",
+      "notes": "white or yellow"
+    },
+    {
+      "name": "freshly squeezed lemon juice",
+      "amount": "1/4 cup",
+      "notes": "about 2 lemons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": "crushed or diced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, whisk together miso paste, lemon juice, 1 tablespoon olive oil, garlic, cumin, smoked paprika, and black pepper.",
+    "Add the chicken breast to the bowl and marinate for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "Heat the remaining 1 tablespoon olive oil in a large Dutch oven or clay tagine over medium-high heat.",
+    "Remove the chicken from the marinade, letting any excess liquid drip off.",
+    "Add the chicken to the pot and sear until browned on all sides, about 5-7 minutes.",
+    "Add the onion salt, diced tomatoes, and chicken broth to the pot.",
+    "Reduce heat to medium-low and simmer, covered, until the chicken is cooked through and the sauce has thickened, about 25-30 minutes.",
+    "Season the tagine with salt and pepper to taste.",
+    "Garnish with chopped parsley, if desired.",
+    "Serve hot over couscous or rice, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "comfort-food",
+    "egyptian",
+    "lemon",
+    "one-pot",
+    "tagine",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 432,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 22
+  },
+  "slug": "egyptian-citrusy-egyptian-chicken-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/egyptian-citrusy-egyptian-chicken-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:16:40Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "juicy",
+    "mood": "comforting",
+    "technique": "miso-marinate",
+    "primaryIngredient": "onion salt",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "chicken",
+    "descriptor": "Egyptian citrusy",
+    "dishForm": "Tagine"
+  }
+}
