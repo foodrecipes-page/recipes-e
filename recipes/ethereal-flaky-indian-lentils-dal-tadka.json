@@ -1,0 +1,123 @@
+{
+  "title": "Ethereal Flaky Indian Lentils Dal-Tadka",
+  "description": "A light and umami-rich Indian dish featuring seafood stock and tandoor, perfect for a Buddhist-temple-friendly dinner option.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red lentils",
+      "amount": "1 cup",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Or to taste"
+    },
+    {
+      "name": "Seafood stock",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add cumin seeds and cook until fragrant, about 1 minute.",
+    "Add onion, garlic, and ginger; cook until the onion is translucent, about 5 minutes.",
+    "Add coriander powder, turmeric powder, and red chili powder. Cook for 1 minute.",
+    "Add red lentils and salt. Cook for 1 minute, stirring constantly.",
+    "Add seafood stock and bring to a boil.",
+    "Reduce heat to low and simmer, covered, until the lentils are tender, about 20 minutes.",
+    "Stir in water to achieve a desired consistency.",
+    "Heat a small amount of oil in a tandoor or a non-stick skillet over medium heat.",
+    "Add a small amount of the cooked lentil mixture and cook until it forms a flaky, crispy layer, about 2 minutes.",
+    "Repeat with the remaining lentil mixture and oil.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dal-tadka",
+    "flaky",
+    "indian",
+    "lentils",
+    "seafood-stock",
+    "tandoor",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "ethereal-flaky-indian-lentils-dal-tadka",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/ethereal-flaky-indian-lentils-dal-tadka",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:05:12Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "tandoor",
+    "primaryIngredient": "seafood stock",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lentils",
+    "descriptor": "Ethereal Flaky",
+    "dishForm": "Dal-Tadka"
+  }
+}
