@@ -1,0 +1,100 @@
+{
+  "title": "Exuberant German Cucumber Salad",
+  "description": "A resinous, fluffy, and show-off German dish featuring Persian cucumber and coconut cream.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Persian cucumber",
+      "amount": "2",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1/2 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Himalayan salt",
+      "amount": "1 tsp",
+      "notes": "fine grained"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": "unpasteurized"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Combine sliced cucumber, chopped parsley, thinly sliced red onion, and minced garlic in a large bowl.",
+    "In a separate bowl, whisk together coconut cream, Himalayan salt, black pepper, apple cider vinegar, and olive oil until smooth.",
+    "Pour the coconut cream mixture over the cucumber mixture and toss to combine.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, stir the salad gently to redistribute the coconut cream.",
+    "Transfer the salad to a hot stone plate and serve immediately.",
+    "Garnish with additional chopped parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "low-carb",
+    "salad",
+    "side-dish",
+    "summer",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "exuberant-german-cucumber-salad",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/exuberant-german-cucumber-salad",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:26:40Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "persian cucumber",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "german",
+    "mainIngredient": "cucumber",
+    "descriptor": "exuberant",
+    "dishForm": "salad"
+  }
+}
