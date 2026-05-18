@@ -1,0 +1,105 @@
+{
+  "title": "Elegant Silky Polish Buttermilk Macaroni",
+  "description": "A creamy, dreamy take on traditional Polish macaroni with a tangy kick from buttermilk and a silky pasta water emulsion.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Macaroni",
+      "amount": "8 oz",
+      "notes": "Dried"
+    },
+    {
+      "name": "Buttermilk",
+      "amount": "1 cup",
+      "notes": "Chilled"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tbsp",
+      "notes": "Softened"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tbsp",
+      "notes": "Sifted"
+    },
+    {
+      "name": "Whole Mustard Seeds",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Fine"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Fresh Chives",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Grated Parmesan Cheese",
+      "amount": "1/2 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil for the macaroni.",
+    "Cook the macaroni according to package instructions until al dente, then reserve 1 cup of pasta water and drain.",
+    "In a medium saucepan, whisk together the flour and a pinch of salt. Cook over medium heat, stirring constantly, for 1 minute.",
+    "Slowly whisk in the buttermilk and cook, stirring constantly, until the mixture thickens and coats the back of a spoon, about 5 minutes.",
+    "Remove the saucepan from the heat and stir in the butter, mustard, and a pinch of salt until the butter has melted and the mixture is smooth.",
+    "Stir in the reserved pasta water until well combined.",
+    "Add the cooked macaroni to the saucepan and stir to coat with the buttermilk sauce.",
+    "Season with salt and sugar to taste (if using).",
+    "Transfer the macaroni to a serving dish and top with chopped chives and grated Parmesan cheese (if using).",
+    "Serve immediately, garnished with additional chives if desired.",
+    "Refrigerate any leftovers for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "elegant",
+    "high-protein",
+    "one-pan",
+    "silky-sauce",
+    "tangy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "elegant-silky-polish-buttermilk-macaroni",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/elegant-silky-polish-buttermilk-macaroni",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:32:52Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "silky",
+    "mood": "romantic",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "buttermilk",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Buttermilk",
+    "descriptor": "Elegant Silky",
+    "dishForm": "Macaroni"
+  }
+}
