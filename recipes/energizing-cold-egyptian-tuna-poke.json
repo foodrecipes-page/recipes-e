@@ -1,0 +1,121 @@
+{
+  "title": "Energizing Cold Egyptian Tuna Poke",
+  "description": "A refreshing, pungent, and energizing dish from Egypt, featuring seared tuna, kombu-cold-extract, and satvik-friendly ingredients.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tuna steaks (sushi-grade)",
+      "amount": "500g",
+      "notes": "Fresh and sashimi-grade"
+    },
+    {
+      "name": "Kombu seaweed",
+      "amount": "20g",
+      "notes": "Dried and cold-extracted"
+    },
+    {
+      "name": "Coconut water",
+      "amount": "200ml",
+      "notes": "Fresh and cold"
+    },
+    {
+      "name": "Ginger",
+      "amount": "20g",
+      "notes": "Fresh and peeled"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Fresh and minced"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "60ml",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "2g",
+      "notes": "Unrefined sea salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1g",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "20g",
+      "notes": "Fresh and chopped"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1g",
+      "notes": "Smoked and mild"
+    },
+    {
+      "name": "Vegan mayonnaise",
+      "amount": "20g",
+      "notes": "Low-fat and vegan-friendly"
+    },
+    {
+      "name": "Red onion",
+      "amount": "50g",
+      "notes": "Thinly sliced and chilled"
+    }
+  ],
+  "instructions": [
+    "Grill the tuna steaks over a robata-style grill at medium-high heat (180°C) for 3-4 minutes per side, or until seared and cooked to your desired level of doneness.",
+    "Transfer the seared tuna to a plate and let it rest for a few minutes before slicing it into thin strips.",
+    "In a blender or food processor, combine the kombu seaweed, coconut water, ginger, garlic, lime juice, salt, and black pepper, and blend until smooth.",
+    "Strain the mixture through a fine-mesh sieve into a bowl, pressing on the solids to extract as much liquid as possible.",
+    "Add the sliced tuna, chopped cilantro, smoked paprika, and vegan mayonnaise to the bowl and stir gently to combine.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, stir in the thinly sliced red onion and adjust the seasoning as needed.",
+    "Serve the Energizing Cold Egyptian Tuna Poke chilled, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "healthy",
+    "high-protein",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "energizing-cold-egyptian-tuna-poke",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-cold-egyptian-tuna-poke",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:15:48Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "light",
+    "mood": "energizing",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "tuna",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "tuna",
+    "descriptor": "Energizing Cold",
+    "dishForm": "Poke"
+  }
+}
