@@ -1,0 +1,109 @@
+{
+  "title": "Extra Crispy Spiced Kenyan Chicken Tagine",
+  "description": "A rich, crispy, one-pot Kenyan dish featuring unwaxed lime, brine-wet chicken, and halal-friendly spices.",
+  "cuisine": "kenyan",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "2.5 pounds"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "unwaxed lime",
+      "amount": "1"
+    },
+    {
+      "name": "habanero pepper",
+      "amount": "2"
+    },
+    {
+      "name": "garam masala",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1.5 cups"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large Talavera plate over medium heat.",
+    "Add diced red onion and cook until softened, about 5 minutes.",
+    "Add habanero pepper and cook for another minute.",
+    "Add chicken thighs and cook until browned on all sides, about 5 minutes.",
+    "Add garam masala, ground cumin, ground coriander, salt, and black pepper. Cook for 1 minute.",
+    "Add chicken broth and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "In a separate bowl, mix flour and water to make a slurry.",
+    "Add the slurry to the tagine and stir to combine.",
+    "Increase heat to medium-high and cook, uncovered, until the sauce thickens and the chicken is crispy, about 10 minutes.",
+    "Serve hot, garnished with unwaxed lime wedges and chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "paleo",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 26,
+    "fat": 32
+  },
+  "slug": "extra-crispy-spiced-kenyan-chicken-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/extra-crispy-spiced-kenyan-chicken-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T09:01:36Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "brine-wet",
+    "primaryIngredient": "unwaxed lime",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "chicken",
+    "descriptor": "Extra Crispy Spiced",
+    "dishForm": "Tagine"
+  }
+}
