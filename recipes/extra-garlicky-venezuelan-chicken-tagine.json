@@ -1,0 +1,96 @@
+{
+  "title": "Extra Garlicky Venezuelan Chicken Tagine",
+  "description": "A flavorful and aromatic dish from Venezuela, featuring the deep flavors of garlic and the warm spices of the Tajine. This Tagine recipe is a fusion of Thai and Latin American flavors, perfect for a weeknight dinner.",
+  "cuisine": "Venezuelan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thai sweet basil",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Horapa sauce",
+      "amount": "2 tablespoons",
+      "notes": "Thai chili sauce"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing the Tajine"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "char-grill yang",
+      "amount": "1/2 teaspoon",
+      "notes": "dried chili flakes"
+    },
+    {
+      "name": "raw garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "In a large bowl, mix together the chicken, garlic, Thai sweet basil, Horapa sauce, salt, and pepper.",
+    "Brush the inside of the Tajine with olive oil and add the chicken mixture.",
+    "Place the Tajine over medium heat on your stovetop and sear the chicken for 5 minutes on each side.",
+    "Transfer the Tajine to the preheated oven and bake for 25-30 minutes or until the chicken is cooked through.",
+    "While the chicken is cooking, prepare the char-grill yang by mixing together the dried chili flakes and garlic powder.",
+    "Once the chicken is done, remove it from the oven and sprinkle the char-grill yang mixture over the top.",
+    "Let the chicken rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-fiber",
+    "low-fat",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "extra-garlicky-venezuelan-chicken-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/extra-garlicky-venezuelan-chicken-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T08:28:22Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "thai-sweet-basil-horapa",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chicken",
+    "descriptor": "extra garlicky",
+    "dishForm": "Tagine"
+  }
+}
