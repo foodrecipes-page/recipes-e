@@ -1,0 +1,104 @@
+{
+  "title": "Extra Creamy Veracruzan Cheese Quesadilla",
+  "description": "A delicious Mexican-inspired dish featuring a perfectly melted cheese blend, fresh fennel, and a hint of reduction for an indulgent midnight craving.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Queso fresco",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Monterey Jack cheese",
+      "amount": "4 oz"
+    },
+    {
+      "name": "Fennel bulb",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "4"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tsp of olive oil in a large skillet over medium heat.",
+    "Sauté the sliced fennel until tender, about 5 minutes.",
+    "Add minced garlic and cook for 1 minute.",
+    "In a separate bowl, mix together queso fresco, Monterey Jack cheese, lime juice, and chopped cilantro.",
+    "Place a tortilla in the skillet and sprinkle with the cheese mixture.",
+    "Fold the tortilla in half and cook for 2-3 minutes, until the tortilla starts to brown.",
+    "Flip the quesadilla and cook for another 2-3 minutes, until the cheese is melted and the tortilla is crispy.",
+    "Repeat with the remaining tortillas and cheese mixture.",
+    "Cut the quesadillas into wedges and serve with a dollop of sour cream and additional fennel slices, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-snack",
+    "high-protein",
+    "mexican-inspired",
+    "midnight-craving",
+    "one-pan",
+    "quesadilla",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 24,
+    "fat": 16
+  },
+  "slug": "extra-creamy-veracruzan-cheese-quesadilla",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/extra-creamy-veracruzan-cheese-quesadilla",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T08:40:50Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "cheese-pull",
+    "mood": "midnight-craving",
+    "technique": "reduce",
+    "primaryIngredient": "fennel bulb",
+    "diet": "low-calorie",
+    "region": "veracruzan",
+    "cuisineAdjective": "Veracruzan",
+    "mainIngredient": "Cheese",
+    "descriptor": "Extra Creamy",
+    "dishForm": "Quesadilla"
+  }
+}
