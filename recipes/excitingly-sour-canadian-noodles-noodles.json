@@ -1,0 +1,94 @@
+{
+  "title": "Sour Canadian Noodle Soup",
+  "description": "A hearty, sour, and energizing vegan noodle dish that combines the best of Canadian flavors with a bold twist.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gluten-free noodles",
+      "amount": "250g"
+    },
+    {
+      "name": "Vegan broth",
+      "amount": "1L"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "60ml"
+    },
+    {
+      "name": "Vegan dumplings",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "Ginger",
+      "amount": "20g",
+      "notes": "grated"
+    },
+    {
+      "name": "Green onions",
+      "amount": "20g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2tsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1tsp"
+    }
+  ],
+  "instructions": [
+    "Bring the vegan broth to a boil in a large pot.",
+    "Add the gluten-free noodles and cook for 8 minutes, or until al dente.",
+    "Meanwhile, heat the sesame oil in a pan and sauté the grated ginger for 1 minute.",
+    "Add the vegan dumplings to the pan and cook for an additional 2 minutes.",
+    "Stir in the lemon juice and soy sauce, then add the chopped green onions.",
+    "Once the noodles are cooked, add them to the pan with the ginger and dumplings.",
+    "Stir in the lemon juice and soy sauce mixture, then season with salt and pepper to taste.",
+    "Serve the Sour Canadian Noodle Soup hot, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "gluten-free",
+    "noodles",
+    "one-pan",
+    "soup",
+    "sour",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "excitingly-sour-canadian-noodles-noodles",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/excitingly-sour-canadian-noodles-noodles",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T19:01:58Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "energizing",
+    "technique": "dum",
+    "primaryIngredient": "noodles",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "noodles",
+    "descriptor": "excitingly sour",
+    "dishForm": "Noodles"
+  }
+}

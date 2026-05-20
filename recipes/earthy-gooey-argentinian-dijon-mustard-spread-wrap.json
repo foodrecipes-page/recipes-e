@@ -1,0 +1,130 @@
+{
+  "title": "Earthy Gooey Argentinian Dijon Mustard Spread Wrap",
+  "description": "A festive and earthy twist on traditional wraps, featuring a gooey dijon mustard spread and an Ayurvedic Rajasic-friendly take on traditional Argentinian cuisine.",
+  "cuisine": "argentinian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Whole wheat wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons",
+      "notes": "Stone ground for maximum flavor and nutrition."
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Freshly picked for optimal flavor."
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Added for a subtle earthy note."
+    },
+    {
+      "name": "Mashed avocado",
+      "amount": "1/2 cup",
+      "notes": "For creamy texture and healthy fats."
+    },
+    {
+      "name": "Sliced red onion",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced for a sweet crunch."
+    },
+    {
+      "name": "Crumbled feta cheese",
+      "amount": "1/4 cup",
+      "notes": "Added for a tangy, salty flavor."
+    },
+    {
+      "name": "Sliced prosciutto",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced for a salty, meaty flavor."
+    },
+    {
+      "name": "Chopped fresh mint",
+      "amount": "1 tablespoon",
+      "notes": "Added for a refreshing twist."
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tablespoon",
+      "notes": "Freshly squeezed for optimal flavor."
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "Added for a spicy kick."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a dry griddle or grill to medium-high heat.",
+    "Warm the whole wheat wrap on the griddle or grill for about 1 minute, until slightly puffed and fragrant.",
+    "In a small bowl, mix together the Dijon mustard, chopped fresh parsley, chopped fresh cilantro, mashed avocado, sliced red onion, crumbled feta cheese, sliced prosciutto, chopped fresh mint, and chili flakes until well combined.",
+    "Spread the mustard mixture evenly onto the warmed whole wheat wrap, leaving a small border around the edges.",
+    "Sprinkle the salt and black pepper over the top of the mustard mixture.",
+    "Sprinkle the garlic powder over the top of the mustard mixture.",
+    "Top with a sprinkle of lime juice.",
+    "Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll the wrap into a neat cylinder.",
+    "Serve immediately and enjoy!",
+    "Repeat with the remaining ingredients and wraps, if desired.",
+    "Reheat the wraps in the oven or microwave before serving, if needed.",
+    "Store leftover wraps in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "festive",
+    "one-pan",
+    "spicy",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 18,
+    "carbs": 72,
+    "fat": 22
+  },
+  "slug": "earthy-gooey-argentinian-dijon-mustard-spread-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-gooey-argentinian-dijon-mustard-spread-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:02:31Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "dijon mustard",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "dijon mustard spread",
+    "descriptor": "earthy gooey",
+    "dishForm": "Wrap"
+  }
+}

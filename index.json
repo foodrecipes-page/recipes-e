@@ -1479,6 +1479,21 @@
     "shard": "e"
   },
   {
+    "slug": "earthy-gooey-argentinian-dijon-mustard-spread-wrap",
+    "title": "Earthy Gooey Argentinian Dijon Mustard Spread Wrap",
+    "tags": [
+      "argentinian",
+      "festive",
+      "one-pan",
+      "spicy",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 30,
+    "shard": "e"
+  },
+  {
     "slug": "earthy-gooey-ethiopian-ethiopian-dish-fondue",
     "title": "Ethiopian Fondue with Thai Basil and Coconut Cream",
     "tags": [
@@ -6670,6 +6685,22 @@
     ],
     "cuisine": "German",
     "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
+    "slug": "excitingly-sour-canadian-noodles-noodles",
+    "title": "Sour Canadian Noodle Soup",
+    "tags": [
+      "canadian",
+      "gluten-free",
+      "noodles",
+      "one-pan",
+      "soup",
+      "sour",
+      "vegan"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 22,
     "shard": "e"
   },
   {
