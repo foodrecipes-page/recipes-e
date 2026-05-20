@@ -1,0 +1,112 @@
+{
+  "title": "Energizing Australian Yellow Split Peas Risotto",
+  "description": "A briny, bouncy-qq energizing dish featuring yellow split peas, wok-hei, and mediterranean-friendly flavors.",
+  "cuisine": "australian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yellow split peas",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for wok-hei"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "1 can",
+      "notes": "crushed"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a wok over medium-high heat.",
+    "Add onion and cook until translucent, about 5 minutes.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Add tomato and cook for 2 minutes, until heated through.",
+    "Add yellow split peas, chicken broth, lemon juice, salt, and black pepper.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 15 minutes.",
+    "Stir in parmesan cheese and cook for 1-2 minutes, until melted and bubbly.",
+    "Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-option",
+    "dinner-option",
+    "high-protein",
+    "lunch-option",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 14,
+    "carbs": 60,
+    "fat": 14
+  },
+  "slug": "energizing-australian-yellow-split-peas-risotto",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-australian-yellow-split-peas-risotto",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:22:10Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "bouncy-qq",
+    "mood": "energizing",
+    "technique": "wok-hei",
+    "primaryIngredient": "yellow split peas",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "yellow split peas",
+    "descriptor": "energizing",
+    "dishForm": "risotto"
+  }
+}
