@@ -1,0 +1,113 @@
+{
+  "title": "Epic Scored Jamaican Plum Tomatoes Gratin",
+  "description": "A rich, snappy Jamaican dish featuring plum tomatoes, served solo for dinner. Perfect as a dairy-free-friendly option.",
+  "cuisine": "jamaican",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "plum tomatoes",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "score-fat (such as coconut oil or avocado oil)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "use gluten-free flour for a dairy-free option"
+    },
+    {
+      "name": "jamaican curry powder",
+      "amount": "2 teaspoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegan mozzarella shreds",
+      "amount": "1 cup",
+      "notes": "or dairy-free alternative"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "steamer basket",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Score the plum tomatoes and set them aside.",
+    "In a blender or food processor, combine the flour, curry powder, onion, garlic, and cilantro. Blend until smooth.",
+    "Transfer the mixture to a bowl and stir in the coconut oil, salt, and black pepper.",
+    "Add the plum tomatoes to the bowl and toss to coat with the spice mixture.",
+    "Transfer the mixture to the steamer basket and steam for 10 minutes.",
+    "Transfer the steamer basket to the oven and bake for 20 minutes, or until the tomatoes are tender and the top is golden brown.",
+    "Sprinkle the vegan mozzarella shreds over the top of the tomatoes and return to the oven for an additional 5 minutes, or until melted and bubbly.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving.",
+    "Serve the Epic Scored Jamaican Plum Tomatoes Gratin hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "jamaican",
+    "one-pan",
+    "plant-based",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "epic-scored-jamaican-plum-tomatoes-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/epic-scored-jamaican-plum-tomatoes-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:46:52Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "snappy",
+    "mood": "solo-dinner",
+    "technique": "score-fat",
+    "primaryIngredient": "plum tomatoes",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "plum tomatoes",
+    "descriptor": "Epic Scored",
+    "dishForm": "Gratin"
+  }
+}
