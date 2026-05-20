@@ -1,0 +1,112 @@
+{
+  "title": "Ethereal Springy Slovakian Celeriac Braised",
+  "description": "A garlicky, spring-inspired brunch-mood Slovakian dish featuring celeriac and a variety of herbs and spices. This plant-based-friendly recipe is perfect for a delicious and satisfying meal.",
+  "cuisine": "Slovakian",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Celery root",
+      "amount": "1 large head",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup chopped",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Peel and chop the celery root into 1-inch pieces.",
+    "Mince the garlic and onion, and set aside.",
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the chopped celery root, caraway seeds, paprika, salt, and black pepper to the saucepan.",
+    "Pour in enough water to cover the celery root and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes, or until the celery root is tender.",
+    "Stir in chopped parsley and dill, if using.",
+    "Serve hot, garnished with additional parsley if desired.",
+    "Taste and adjust seasoning as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "celeriac",
+    "garlicky",
+    "one-pan",
+    "plant-based",
+    "slovakian",
+    "spring"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "ethereal-springy-slovakian-celeriac-braised",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/ethereal-springy-slovakian-celeriac-braised",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:18:02Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "springy",
+    "mood": "brunch-mood",
+    "technique": "blanch",
+    "primaryIngredient": "celeriac",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Celeriac",
+    "descriptor": "Ethereal Springy",
+    "dishForm": "Braised"
+  }
+}
