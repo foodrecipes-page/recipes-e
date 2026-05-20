@@ -198,6 +198,21 @@
     "shard": "e"
   },
   {
+    "slug": "earthily-pungent-dutch-meat-stew",
+    "title": "Earthily Pungent Dutch Meat Stew",
+    "tags": [
+      "banana-leaf-cooking",
+      "comfort-food",
+      "dutch-cuisine",
+      "hearty-stew",
+      "meal-prep",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 150,
+    "shard": "e"
+  },
+  {
     "slug": "earthily-roasted-australian-lamb-stew",
     "title": "Earthily Roasted Australian Lamb Stew",
     "tags": [
