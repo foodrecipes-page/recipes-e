@@ -1,0 +1,66 @@
+{
+  "title": "Earthy Aerated Australian Ground Nut Fried Rice",
+  "description": "A lacto-vegetarian-friendly, aerated midnight-craving Australian dish made with ground nut oil and fry-grind-rice-khao-khua.",
+  "cuisine": "Australian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fry-grind-rice-khao-khua",
+      "amount": "400g",
+      "notes": "preferably day-old rice"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of ground nut oil in a large frying pan over medium-high heat.",
+    "Add 1 small onion, diced, and cook until translucent, about 3 minutes.",
+    "Add 2 cloves of garlic, minced, and cook for 1 minute.",
+    "Add 1 cup of mixed mushrooms, sliced, and cook until they release their moisture and start to brown.",
+    "Add 2 cups of diced bell peppers and cook until they start to soften.",
+    "Push the vegetables to one side of the pan.",
+    "Add 2 tablespoons of ground nut oil to the empty side of the pan and pour in 2 eggs, beaten.",
+    "Scramble the eggs until cooked through, then mix with the vegetables.",
+    "Add 400g of fry-grind-rice-khao-khua to the pan and stir-fry for about 5 minutes, breaking up any clumps with a spatula.",
+    "Add 1 tablespoon of soy sauce and 1 tablespoon of rice vinegar and stir-fry for another minute.",
+    "Transfer the fried rice to a serving platter and garnish with chopped fresh herbs, such as parsley or cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "lacto-vegetarian",
+    "midnight-craving",
+    "one-pan",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "earthy-aerated-australian-ground-nut-fried-rice",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-aerated-australian-ground-nut-fried-rice",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:08:15Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "aerated",
+    "mood": "midnight-craving",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "ground nut oil",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "ground nut",
+    "descriptor": "earthy aerated",
+    "dishForm": "fried-rice"
+  }
+}
