@@ -1,0 +1,114 @@
+{
+  "title": "Enticingly Caramelized Korean Garlic Jjigae",
+  "description": "A vegan-friendly Korean stew featuring garlic cloves, perfectly caramelized and simmered in a copper-mug.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Mince garlic",
+      "amount": "12 cloves",
+      "notes": "peeled and separated"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a copper-mug, heat 2 tablespoons of vegetable oil over medium heat.",
+    "Add 12 cloves of minced garlic and cook, stirring occasionally, until caramelized and fragrant.",
+    "Add 2 tablespoons of gochujang, 1 teaspoon of Korean chili flakes, 2 tablespoons of soy sauce, and 1 tablespoon of sugar.",
+    "Cook for 1 minute, stirring constantly, until the sauce is smooth and fragrant.",
+    "Add 1 cup of sliced mushrooms, 2 medium sliced carrots, and 1 medium sliced zucchini.",
+    "Cook for 5 minutes, stirring occasionally, until the vegetables are tender.",
+    "Add 1 cup of water, then bring to a simmer.",
+    "Cook for 10 minutes, or until the stew has thickened slightly.",
+    "Stir in 1 tablespoon of sesame oil and 1/4 cup of chopped cilantro.",
+    "Serve immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-to-make",
+    "korean-cuisine",
+    "stew",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "enticingly-caramelized-korean-garlic-jjigae",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/enticingly-caramelized-korean-garlic-jjigae",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:19:38Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "caramelize",
+    "primaryIngredient": "garlic clove",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "garlic",
+    "descriptor": "Enticingly caramelized",
+    "dishForm": "Jjigae"
+  }
+}
