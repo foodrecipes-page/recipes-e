@@ -1,0 +1,101 @@
+{
+  "title": "earthy brazillian broccoli fried-rice",
+  "description": "a keto-friendly,brazilian dish featuring earthy, juicy, and midnight-craving flavors",
+  "cuisine": "brazilian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "purple sprouting broccoli",
+      "amount": "1 head",
+      "notes": "cut into small florets"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "serrano pepper",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "pork crackling",
+      "amount": "2 ounces",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "heat the coconut oil in a large skillet over medium-high heat.",
+    "add the chopped onion and cook until translucent.",
+    "add the minced garlic and cook for 1 minute.",
+    "add the tofu cubes and cook until browned.",
+    "add the chopped serrano pepper and cook for 1 minute.",
+    "add the purple sprouting broccoli and cook until tender.",
+    "add the pork crackling and soy sauce, and stir to combine.",
+    "stir in the grated ginger and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "earthy-brazilian-broccoli-fried-rice",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-brazilian-broccoli-fried-rice",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:48:45Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "midnight-craving",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "purple sprouting broccoli",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "broccoli",
+    "descriptor": "earthy",
+    "dishForm": "Fried-Rice"
+  }
+}

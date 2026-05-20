@@ -609,6 +609,19 @@
     "shard": "e"
   },
   {
+    "slug": "earthy-brazilian-broccoli-fried-rice",
+    "title": "earthy brazillian broccoli fried-rice",
+    "tags": [
+      "brazilian",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "brazilian",
+    "totalTimeMin": 40,
+    "shard": "e"
+  },
+  {
     "slug": "earthy-canadian-cheese-bowl",
     "title": "Earthy Canadian Cheese Bowl",
     "tags": [
@@ -1217,6 +1230,24 @@
     ],
     "cuisine": "filipino",
     "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
+    "slug": "earthy-flaky-basque-french-turnips-pate",
+    "title": "Earthy Flaky Basque-French Turnips P\u0015t\u0000\u0000\u0000e",
+    "tags": [
+      "basque",
+      "easter",
+      "french",
+      "glaze",
+      "lacquer",
+      "rillettes",
+      "solo-dinner",
+      "turnips",
+      "weeknight"
+    ],
+    "cuisine": "Basque-French",
+    "totalTimeMin": 150,
     "shard": "e"
   },
   {
