@@ -1,0 +1,105 @@
+{
+  "title": "Energizing Nutty Smoked Canadian Trout Grill",
+  "description": "A shojin-friendly dish featuring smoky Canadian trout, crunchy nuts, and melted cheese, perfect for a high-energy meal on a slate-tile vessel.",
+  "cuisine": "Canadian",
+  "diet": [
+    null,
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Canadian trout fillets (4)",
+      "amount": "6 oz",
+      "notes": "fresh and wild-caught, skin removed"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "enough for 4 servings",
+      "notes": "available at Asian markets or online"
+    },
+    {
+      "name": "walnuts (1 cup, chopped)",
+      "amount": "1 cup",
+      "notes": "unsalted and unsweetened"
+    },
+    {
+      "name": "unsalted butter (2 tbsp)",
+      "amount": "2 tbsp",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "Dijon mustard (2 tsp)",
+      "amount": "2 tsp",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "lemon juice (2 tbsp)",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garlic powder (1 tsp)",
+      "amount": "1 tsp",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "salt and pepper (to taste)",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "brie cheese (1 cup, shredded)",
+      "amount": "1 cup",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "fresh dill (chopped, 1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": "at room temperature"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400°F (200°C).",
+    "Season the trout fillets with salt, pepper, and garlic powder.",
+    "Oil the slate-tile vessel with unsalted butter.",
+    "Arrange the trout fillets on the vessel, leaving a 1-inch border between each fillet."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grill",
+    "high-protein",
+    "nutty",
+    "one-pan",
+    "shojin-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 54,
+    "carbs": 12,
+    "fat": 22
+  },
+  "slug": "energizing-nutty-smoked-canadian-trout-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-nutty-smoked-canadian-trout-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:10:34Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "cheese-pull",
+    "mood": "energizing",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "trout",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "trout",
+    "descriptor": "Energizing Nutty Smoked",
+    "dishForm": "Grill"
+  }
+}
