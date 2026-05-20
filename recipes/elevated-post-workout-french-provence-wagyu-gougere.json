@@ -1,0 +1,91 @@
+{
+  "title": "Elevated Post-Workout French Provence Wagyu Gougere",
+  "description": "A pillowy, umami French dish featuring Wagyu, ideal for post-workout recovery in a low-carb diet.",
+  "cuisine": "French",
+  "diet": [
+    null,
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Wagyu beef",
+      "amount": "4 ounces"
+    },
+    {
+      "name": "Khao Khua (Thai-style fried rice flour)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Gruyère cheese",
+      "amount": "2 tablespoons shredded"
+    },
+    {
+      "name": "Mascarpone cheese",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Champagne vinegar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fleur de sel",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Mason jar",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Combine Wagyu, Khao Khua, and a pinch of Fleur de sel in a bowl.",
+    "In a separate bowl, mix Gruyère, Mascarpone, Champagne vinegar, and a pinch of black pepper.",
+    "Add the wet mixture to the dry mixture and mix until just combined.",
+    "Transfer the mixture to a greased Mason jar.",
+    "Tighten the Mason jar lid and bake for 10 minutes.",
+    "Let cool for 2 minutes before serving.",
+    "Serve warm, garnished with Fleur de sel if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "choux",
+    "low-carb",
+    "post-workout",
+    "proven-al",
+    "snack",
+    "wagyu"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 29,
+    "carbs": 12,
+    "fat": 34
+  },
+  "slug": "elevated-post-workout-french-provence-wagyu-gougere",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/elevated-post-workout-french-provence-wagyu-gougere",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:38:55Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "pillowy",
+    "mood": "post-workout",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "wagyu",
+    "diet": "low-carb",
+    "region": "provence",
+    "cuisineAdjective": "French Provence",
+    "mainIngredient": "Wagyu",
+    "descriptor": "Elevated Post-Workout",
+    "dishForm": "Gougere"
+  }
+}
