@@ -5365,6 +5365,21 @@
     "shard": "e"
   },
   {
+    "slug": "energizing-crumbly-jamaican-chicken-stew",
+    "title": "Energizing Crumbly Jamaican Chicken Stew",
+    "tags": [
+      "comfort-food",
+      "dairy-free",
+      "gluten-free",
+      "healthy",
+      "high-protein",
+      "one-pan"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
     "slug": "energizing-dense-australian-sausage-pie",
     "title": "Energizing Dense Australian Sausage Pie",
     "tags": [
@@ -5627,6 +5642,22 @@
     ],
     "cuisine": "jamaican",
     "totalTimeMin": 30,
+    "shard": "e"
+  },
+  {
+    "slug": "energizing-jamaican-leek-rice-bowl",
+    "title": "energizing jamaican leek rice bowl",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "plant-based",
+      "raw-friendly",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {

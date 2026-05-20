@@ -1,0 +1,122 @@
+{
+  "title": "Energizing Crumbly Jamaican Chicken Stew",
+  "description": "This resinous, crumbly Jamaican dish is energizing and ayurvedic-rajasic-friendly, featuring chicken thighs, spices, and herbs. A delicious and satisfying meal for any occasion.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken Thighs",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Allspice",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican Curry Powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a wok over medium-high heat.",
+    "Add the chicken thighs and cook until browned, about 5 minutes.",
+    "Remove the chicken from the wok and set aside.",
+    "Add the remaining 1 tablespoon of coconut oil to the wok and saut\u00142e the onion until softened, about 3 minutes.",
+    "Add the garlic, allspice, thyme, cayenne pepper, salt, and black pepper to the wok and cook for 1 minute.",
+    "Add the Jamaican curry powder to the wok and cook for 1 minute, stirring constantly.",
+    "Add the coconut milk to the wok and stir to combine.",
+    "Return the chicken to the wok and cook until the stew has thickened and the chicken is cooked through, about 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped fresh cilantro and serve hot.",
+    "Serve over rice or with naan bread, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "gluten-free",
+    "healthy",
+    "high-protein",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "energizing-crumbly-jamaican-chicken-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-crumbly-jamaican-chicken-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:31:35Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crumbly",
+    "mood": "energizing",
+    "technique": "brine-dry",
+    "primaryIngredient": "chicken thighs",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "Energizing Crumbly",
+    "dishForm": "Stew"
+  }
+}
