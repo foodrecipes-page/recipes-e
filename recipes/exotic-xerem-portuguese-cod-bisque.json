@@ -1,0 +1,113 @@
+{
+  "title": "exotic xerem portuguese cod bisque",
+  "description": "a light, comforting bisque featuring cod, red chilli, and the subtle flavors of mushi-mono steam.",
+  "cuisine": "portuguese",
+  "diet": [
+    "low-glycemic",
+    "pescatarian",
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "shallots",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "red chilli",
+      "amount": "2-3",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "fish stock",
+      "amount": "750ml",
+      "notes": ""
+    },
+    {
+      "name": "white wine",
+      "amount": "250ml",
+      "notes": ""
+    },
+    {
+      "name": "mushi-mono",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "20ml",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "20ml",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large saucepan over medium heat.",
+    "add the sliced onion and cook until softened, about 5 minutes.",
+    "add the minced garlic and cook for a further 1-2 minutes.",
+    "add the sliced shallots and red chilli, and cook until they begin to soften.",
+    "add the cod fillets and cook for 2-3 minutes on each side, until they begin to flake.",
+    "add the white wine and fish stock, and bring to a simmer.",
+    "reduce the heat to low and let the mixture steam for 10-15 minutes, using the mushi-mono to trap the heat.",
+    "remove the cod from the saucepan and set aside.",
+    "use an immersion blender to puree the remaining mixture until smooth.",
+    "return the cod to the saucepan and stir to combine.",
+    "season the bisque with lemon juice to taste, then serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fish-based",
+    "low-carb",
+    "one-pan",
+    "weeknight",
+    "winter-warmer"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 10
+  },
+  "slug": "exotic-xerem-portuguese-cod-bisque",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-xerem-portuguese-cod-bisque",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:37:16Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "light",
+    "mood": "sick-day",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "red chilli",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "cod",
+    "descriptor": "Exotic Xerem",
+    "dishForm": "Bisque"
+  }
+}
