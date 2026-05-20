@@ -1,0 +1,101 @@
+{
+  "title": "Extra Light Fresh Italian Pistachio Gnocchi",
+  "description": "A silky, light Italian dish featuring pistachio paste, made with a dairy-free twist. Perfect for a weeknight dinner.",
+  "cuisine": "italian",
+  "diet": [
+    null,
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potato flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "pistachio paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "xanthan gum",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "grated lemon zest",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the potato flour and pistachio paste.",
+    "Make a well in the center of the flour mixture and add the eggs.",
+    "Using a fork, gradually incorporate the flour mixture into the eggs, until a dough forms.",
+    "Turn the dough out onto a lightly floured surface and knead for 5-7 minutes, until smooth.",
+    "Wrap the dough in plastic wrap and let rest for 30 minutes.",
+    "Divide the dough into 4 equal pieces and roll each into a long rope.",
+    "Cut the rope into 1-inch pieces to form the gnocchi.",
+    "Bring a large pot of salted water to a boil and cook the gnocchi for 2-3 minutes, or until they float to the surface.",
+    "Using a slotted spoon, transfer the gnocchi to a plate.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the gnocchi to the skillet and toss with the garlic and oil.",
+    "Season with salt and serve hot, garnished with parsley and lemon zest.",
+    "Optional: top with your favorite sauce, such as pesto or marinara."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gnocchi",
+    "italian",
+    "one-pan",
+    "pistachio",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "extra-light-fresh-italian-pistachio-gnocchi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/extra-light-fresh-italian-pistachio-gnocchi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:54:15Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "blanch",
+    "primaryIngredient": "pistachio paste",
+    "diet": "dairy-free",
+    "region": "lombard",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pistachio",
+    "descriptor": "Extra Light Fresh",
+    "dishForm": "Gnocchi"
+  }
+}
