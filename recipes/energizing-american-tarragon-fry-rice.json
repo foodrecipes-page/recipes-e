@@ -1,0 +1,56 @@
+{
+  "title": "Energizing American Tarragon Fry-Rice",
+  "description": "A dense and energizing American dish featuring tarragon leaves and fry-grind-rice-khao-khua, perfect for an anti-inflammatory diet.",
+  "cuisine": "American",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Tarragon leaves",
+      "amount": "2 tablespoons",
+      "notes": "Fresh from the garden"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of olive oil in a large skillet over medium-high heat."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "healthy",
+    "high-protein",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "energizing-american-tarragon-fry-rice",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-american-tarragon-fry-rice",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:04:09Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "dense",
+    "mood": "energizing",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "tarragon leaves",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Tarragon",
+    "descriptor": "Energizing",
+    "dishForm": "Fry-Rice"
+  }
+}
