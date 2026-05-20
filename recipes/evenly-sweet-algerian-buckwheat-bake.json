@@ -1,0 +1,98 @@
+{
+  "title": "algerian buckwheat bake",
+  "description": "sweet, crumbly, one-pot algerian dish made with buckwheat, perfect for a wood-fired bake or a quick weeknight meal.",
+  "cuisine": "algerian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "buckwheat groats",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "dried dates",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your wood-fired oven to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the buckwheat groats, honey, dried dates, and almonds.",
+    "In a separate bowl, whisk together the coconut oil, vanilla extract, eggs, and all-purpose flour.",
+    "Add the wet ingredients to the dry ingredients and stir until well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish and bake for 35-40 minutes, or until the top is golden brown.",
+    "Remove the bake from the oven and let it cool for 10-15 minutes before serving.",
+    "Serve warm, garnished with a drizzle of honey and a sprinkle of almonds, if desired.",
+    "Optional: top with a dollop of whipped cream or a sprinkle of cinnamon for added flavor and texture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "buckwheat",
+    "crumbly",
+    "dessert",
+    "one-pot",
+    "sweet",
+    "weeknight",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "evenly-sweet-algerian-buckwheat-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/evenly-sweet-algerian-buckwheat-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:30:09Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "one-pot",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "buckwheat",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Buckwheat",
+    "descriptor": "Evenly sweet",
+    "dishForm": "Bake"
+  }
+}

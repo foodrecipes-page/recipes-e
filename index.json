@@ -1450,6 +1450,21 @@
     "shard": "e"
   },
   {
+    "slug": "earthy-gooey-venezuelan-cabbage-quesadilla",
+    "title": "Earthy Gooey Venezuelan Cabbage Quesadilla",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "plant-based",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 70,
+    "shard": "e"
+  },
+  {
     "slug": "earthy-grassy-peruvian-beef-anticuchos",
     "title": "Earthy Grassy Peruvian Beef Anticuchos",
     "tags": [
@@ -6313,6 +6328,23 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 30,
+    "shard": "e"
+  },
+  {
+    "slug": "evenly-sweet-algerian-buckwheat-bake",
+    "title": "algerian buckwheat bake",
+    "tags": [
+      "algerian",
+      "buckwheat",
+      "crumbly",
+      "dessert",
+      "one-pot",
+      "sweet",
+      "weeknight",
+      "wood-fired"
+    ],
+    "cuisine": "algerian",
+    "totalTimeMin": 55,
     "shard": "e"
   },
   {

@@ -1,0 +1,117 @@
+{
+  "title": "Earthy Gooey Venezuelan Cabbage Quesadilla",
+  "description": "A comforting, vegan-friendly dish featuring cabbage leaves, served with a side of earthy, spicy plant-based sauce.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "plant-based",
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cabbage leaves",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Mung beans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Plant-based cheese (such as soy cheese)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tortilla",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Earthly plant-based sauce (see below for recipe) ",
+      "amount": "1/4 cup",
+      "notes": "see below"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat.",
+    "Add the onion and garlic and saut\u000520until softened.",
+    "Add the mung beans and cook for 2-3 minutes.",
+    "Add the chopped cabbage leaves and cook until wilted.",
+    "In a separate pot, sous vide the tortillas for 30 minutes.",
+    "Warm the plant-based cheese in the microwave until melted.",
+    "Assemble the quesadilla by placing the mung bean and cabbage mixture onto one tortilla, topping with cheese and the second tortilla, and cooking in the skillet until crispy and melted.",
+    "Serve immediately with a side of earthly plant-based sauce.",
+    "To make the sauce, combine 1/4 cup of soy sauce, 1/4 cup of apple cider vinegar, 1 tablespoon of smoked paprika, and 1 teaspoon of garlic powder in a small bowl. Stir to combine."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 45,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "plant-based",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 25,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "earthy-gooey-venezuelan-cabbage-quesadilla",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-gooey-venezuelan-cabbage-quesadilla",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:30:29Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "sous-vide",
+    "primaryIngredient": "cabbage leaves",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "cabbage",
+    "descriptor": "earthy gooey",
+    "dishForm": "Quesadilla"
+  }
+}
