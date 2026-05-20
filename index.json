@@ -3573,6 +3573,21 @@
     "shard": "e"
   },
   {
+    "slug": "egg-drop-irish-bacon-toast",
+    "title": "Egg Drop Irish Bacon Toast",
+    "tags": [
+      "bacon",
+      "breakfast",
+      "egg",
+      "gluten-free",
+      "irish",
+      "whole30"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 25,
+    "shard": "e"
+  },
+  {
     "slug": "egg-free-ethiopian-herbes-de-provence-shiro",
     "title": "Ethiopian Herbes-de-Provence Shiro",
     "tags": [

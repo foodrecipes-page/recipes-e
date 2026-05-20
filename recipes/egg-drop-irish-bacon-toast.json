@@ -1,0 +1,89 @@
+{
+  "title": "Egg Drop Irish Bacon Toast",
+  "description": "A Whole30-friendly breakfast dish featuring crusty bread, crispy bacon, and a resinous glaze.",
+  "cuisine": "Irish",
+  "diet": [
+    "Whole30",
+    "Gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "4 slices of crusty bread",
+      "amount": "1 loaf",
+      "notes": ""
+    },
+    {
+      "name": "6 slices of Irish bacon",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "4 large eggs",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup of honey",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons of apple cider vinegar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon of black pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit (200 degrees Celsius).",
+    "Cook the Irish bacon in a skillet over medium heat until crispy. Set aside.",
+    "In the same skillet, combine the honey, apple cider vinegar, and black pepper. Bring to a boil over medium heat, then reduce to a simmer and cook for 5 minutes.",
+    "Reduce the heat to low and carefully crack in the eggs. Cook for 2-3 minutes, stirring constantly, until the eggs are cooked through.",
+    "Meanwhile, toast the bread in the oven until crispy.",
+    "To assemble the dish, place a toasted bread slice on a plate, then top with a slice of crispy bacon, a spoonful of the egg mixture, and another slice of toasted bread.",
+    "Repeat the layers two more times, ending with a slice of toasted bread on top.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bacon",
+    "breakfast",
+    "egg",
+    "gluten-free",
+    "irish",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "egg-drop-irish-bacon-toast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/egg-drop-irish-bacon-toast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T06:55:48Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crispy",
+    "mood": "sick-day",
+    "technique": "glaze",
+    "primaryIngredient": "crusty bread",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Bacon",
+    "descriptor": "Egg Drop",
+    "dishForm": "Toast"
+  }
+}
