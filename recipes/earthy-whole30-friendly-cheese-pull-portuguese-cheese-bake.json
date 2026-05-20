@@ -1,0 +1,113 @@
+{
+  "title": "Earthy Whole30-Friendly Cheese-Pull Portuguese Cheese Bake",
+  "description": "A nostalgic Portuguese dish featuring caramelized onions, garlic powder, and a rich cheese pull, all made with Whole30-friendly ingredients in a traditional kazán cauldron.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "Whole30",
+    "Paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "sweet potatoes",
+      "amount": "2",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": "Whole30-friendly, such as sheep\u00079 milk or aged grass-fed beef"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "Whole30-friendly, such as sheep\u00079 milk or aged grass-fed beef"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tsp",
+      "notes": "chopped",
+      "},{": "#3 fresh thyme"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in the kazán cauldron over medium-high heat.",
+    "Sear the ground beef until browned, breaking it up with a spoon as it cooks.",
+    "Remove the beef from the cauldron and set aside.",
+    "Add the sliced onions to the cauldron and cook, stirring occasionally, until caramelized, about 20 minutes.",
+    "Add the garlic powder, salt, and black pepper to the cauldron and stir to combine.",
+    "Add the cubed sweet potatoes to the cauldron and stir to combine.",
+    "Return the beef to the cauldron and stir to combine.",
+    "Transfer the cauldron to the oven and bake at 375°F (190°C) for 25 minutes.",
+    "Remove the cauldron from the oven and stir in the grated cheddar and parmesan cheese until melted and gooey.",
+    "Transfer the cheesy bake to a serving dish and garnish with chopped parsley and thyme.",
+    "Serve hot, straight from the cauldron."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 55,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "one-pan",
+    "paleo",
+    "portuguese",
+    "weeknight",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 24,
+    "fat": 42
+  },
+  "slug": "earthy-whole30-friendly-cheese-pull-portuguese-cheese-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-whole30-friendly-cheese-pull-portuguese-cheese-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:57:13Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "cheese-pull",
+    "mood": "nostalgic",
+    "technique": "caramelize",
+    "primaryIngredient": "garlic powder",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "cheese",
+    "descriptor": "earthy whole30-friendly cheese-pull",
+    "dishForm": "Bake"
+  }
+}

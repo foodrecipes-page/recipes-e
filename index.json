@@ -2422,6 +2422,21 @@
     "shard": "e"
   },
   {
+    "slug": "earthy-whole30-friendly-cheese-pull-portuguese-cheese-bake",
+    "title": "Earthy Whole30-Friendly Cheese-Pull Portuguese Cheese Bake",
+    "tags": [
+      "cheese-pull",
+      "one-pan",
+      "paleo",
+      "portuguese",
+      "weeknight",
+      "whole30"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 75,
+    "shard": "e"
+  },
+  {
     "slug": "earthy-winey-greek-chickpeas-revithia",
     "title": "Earthy Winey Greek Chickpeas Revithia",
     "tags": [
@@ -9152,6 +9167,22 @@
     ],
     "cuisine": "Scottish American",
     "totalTimeMin": 180,
+    "shard": "e"
+  },
+  {
+    "slug": "extremely-sour-malaysian-vegetables-satay",
+    "title": "Extremely Sour Malaysian Vegetables Satay",
+    "tags": [
+      "crunchy",
+      "gluten-free",
+      "malaysian",
+      "one-pan",
+      "sour",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 32,
     "shard": "e"
   },
   {

@@ -1,0 +1,121 @@
+{
+  "title": "Extremely Sour Malaysian Vegetables Satay",
+  "description": "A unique blend of sour and crumbly Malaysian flavors in a vegan-friendly satay dish.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "12 oz",
+      "notes": "marinated in Malaysian chili sauce and lime juice"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "2 tbsp",
+      "notes": "adds depth to the dish"
+    },
+    {
+      "name": "Nam pla",
+      "amount": "1 tsp",
+      "notes": "fish-free alternative to fish sauce"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "adds a bright, sour flavor"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/4 cup",
+      "notes": "used for grilling"
+    },
+    {
+      "name": "Chopped peanuts",
+      "amount": "1/4 cup",
+      "notes": "adds crunch to the dish"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "used as garnish"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "adds a warm, spicy flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "adds a pungent flavor"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": "adds depth to the dish"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": "balances out the sour flavors"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "adds flavor"
+    }
+  ],
+  "instructions": [
+    "Marinate tofu in a mixture of Malaysian chili sauce, lime juice, and soy sauce for at least 30 minutes.",
+    "Heat a grill or grill pan over medium-high heat.",
+    "Thread marinated tofu and vegetables onto skewers.",
+    "Brush coconut oil onto the tofu and vegetables.",
+    "Grill for 8-10 minutes, or until tofu and vegetables are cooked through.",
+    "Meanwhile, mix together chopped peanuts, cilantro, and sugar in a small bowl.",
+    "Once tofu and vegetables are cooked, brush with Worcestershire sauce and Nam pla.",
+    "Serve skewers with peanut-cilantro mixture on top and a side of lime wedges.",
+    "Garnish with additional cilantro and peanuts if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "gluten-free",
+    "malaysian",
+    "one-pan",
+    "sour",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "extremely-sour-malaysian-vegetables-satay",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/extremely-sour-malaysian-vegetables-satay",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:56:39Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "worcestershire sauce",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Extremely Sour",
+    "dishForm": "Satay"
+  }
+}
