@@ -1,0 +1,120 @@
+{
+  "title": "Earthy Delightful Portuguese Ground Clove Paella",
+  "description": "A hearty, fluffy Portuguese dish featuring ground clove, perfect for a hangover cure. This low-glycemic-friendly paella is a satisfying meal for any occasion.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-glycemic",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ground clove",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Rice",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped bell pepper",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced chorizo",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Sauté the chopped onion and bell pepper until tender, about 5 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the smoked paprika and black pepper, and cook for 1 minute, stirring constantly.",
+    "Add the ground clove and cook, breaking it up with a spoon, until it is no longer pink, about 5 minutes.",
+    "Add the chicken broth, rice, chorizo, and salt, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, until the rice is cooked and the liquid has been absorbed, about 25 minutes.",
+    "Fluff the paella with a fork and garnish with parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "low-glycemic",
+    "one-pan",
+    "portuguese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 25,
+    "carbs": 80,
+    "fat": 28
+  },
+  "slug": "earthy-delightful-portuguese-ground-clove-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-delightful-portuguese-ground-clove-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:51:04Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "ground clove",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Ground clove",
+    "descriptor": "Earthy Delightful",
+    "dishForm": "Paella"
+  }
+}
