@@ -1,0 +1,104 @@
+{
+  "title": "Energizing Ukrainian Citrusy Dish Soup",
+  "description": "A zesty and invigorating soup that combines the brightness of citrus with the warmth of Ukrainian spices and the depth of miso. Perfect for a quick and easy breakfast or lunch.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free",
+    "sugar-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "sichuan peppercorns",
+      "amount": "1 tsp",
+      "notes": "toasted"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp",
+      "notes": "whisked with water"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for saut\u00181ng"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped lemongrass, sliced ginger, and toasted sichuan peppercorns. Saut\u00181 for 5 minutes, until fragrant.",
+    "Add the chopped carrots and cook for an additional 5 minutes, until slightly tender.",
+    "Whisk the miso paste with water and add to the saucepan. Stir to combine.",
+    "Pour in the vegetable broth and orange juice, and bring the soup to a simmer.",
+    "Reduce heat to low and cook for 20 minutes, or until the carrots are tender.",
+    "Taste and adjust the seasoning with salt.",
+    "Ladle the soup into bowls and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "energizing-ukrainian-citrusy-dish-soup",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-ukrainian-citrusy-dish-soup",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:37:21Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "gooey",
+    "mood": "energizing",
+    "technique": "miso-marinate",
+    "primaryIngredient": "sichuan pepper",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "ukrainian",
+    "mainIngredient": "citrusy dish",
+    "descriptor": "energizing",
+    "dishForm": "soup"
+  }
+}
