@@ -1,0 +1,117 @@
+{
+  "title": "Earthy Velvety Portuguese Chocolate Pudding",
+  "description": "A rich, earthy chocolate pudding made with high-quality cocoa and a hint of coffee. Perfect for a special dessert or as a meal prep treat.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegan",
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "plain cocoa powder",
+      "amount": "1 1/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "2 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "cocoa nibs",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "instant coffee powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "marjoram",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Combine the cocoa powder, almond milk, and coconut sugar in a blender. ",
+    "Blend until smooth. ",
+    "Add the cocoa nibs, coconut oil, vanilla extract, coffee powder, and salt. ",
+    "Blend until well combined. ",
+    "Taste and adjust the sweetness or flavor as needed. ",
+    "Pour the mixture into a bowl or individual ramekins. ",
+    "Cover and refrigerate for at least 4 hours or overnight. ",
+    "When ready to serve, top with a dollop of coconut cream and chopped walnuts if desired. ",
+    "Garnish with marjoram for an earthy touch. ",
+    "Serve chilled and enjoy. ",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days. ",
+    "Freeze for up to 2 months. ",
+    "Thaw overnight in the refrigerator before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 16,
+    "carbs": 80,
+    "fat": 64
+  },
+  "slug": "earthy-velvety-portuguese-chocolate-pudding",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-velvety-portuguese-chocolate-pudding",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:57:21Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "meal-prep",
+    "technique": "marinate",
+    "primaryIngredient": "plain chocolate",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Chocolate",
+    "descriptor": "Earthy Velvety",
+    "dishForm": "Pudding"
+  }
+}
