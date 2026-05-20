@@ -5334,6 +5334,22 @@
     "shard": "e"
   },
   {
+    "slug": "energizing-ethiopian-dish-azifa",
+    "title": "Ethiopian Azifa",
+    "tags": [
+      "breakfast",
+      "ethiopian",
+      "high-protein",
+      "lunch",
+      "one-pan",
+      "snack",
+      "weeknight"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 55,
+    "shard": "e"
+  },
+  {
     "slug": "energizing-ethiopian-vermicelli-jjigae",
     "title": "Energizing Ethiopian Vermicelli Jjigae",
     "tags": [

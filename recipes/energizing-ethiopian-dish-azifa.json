@@ -1,0 +1,111 @@
+{
+  "title": "Ethiopian Azifa",
+  "description": "A traditional Ethiopian jammy dish made with mustard seeds and a lacquer-like glaze. Rich in flavor and nutrients, Azifa is a perfect breakfast or snack option.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Mustard Seeds",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Yellow Lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Red Lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lacquer Glaze",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine mustard seeds, yellow lentils, red lentils, red onion, and garlic in a large bowl.",
+    "Mix well to combine.",
+    "Heat water in a saucepan and bring to a boil.",
+    "Add the mixture and cook for 20 minutes, or until the lentils are tender.",
+    "Transfer to a blender or food processor and blend until smooth.",
+    "Transfer the mixture back to the saucepan and add lacquer glaze, salt, and black pepper.",
+    "Stir well to combine.",
+    "Bring the mixture to a simmer and cook for an additional 5 minutes, or until the glaze has thickened.",
+    "Garnish with fresh cilantro and serve warm.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "ethiopian",
+    "high-protein",
+    "lunch",
+    "one-pan",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 22,
+    "carbs": 80,
+    "fat": 10
+  },
+  "slug": "energizing-ethiopian-dish-azifa",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-ethiopian-dish-azifa",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:36:07Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "glassy-jelly",
+    "mood": "energizing",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "mustard seeds",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "dish",
+    "descriptor": "energizing",
+    "dishForm": "Azifa"
+  }
+}
