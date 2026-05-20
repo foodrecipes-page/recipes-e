@@ -1,0 +1,129 @@
+{
+  "title": "energizing catalan kombu paella",
+  "description": "savory and energizing spanish catalan dish featuring red chili powder and kombu. serves as a delicious flexitarian breakfast option",
+  "cuisine": "spanish",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "calamari",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "saffron-infused oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1 1/2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "kombu-cold-extract",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the saffron-infused oil in a large paella pan over medium-high heat.",
+    "add the calamari and cook until browned, about 3-4 minutes.",
+    "add the garlic and onion and cook until the onion is translucent, about 5 minutes.",
+    "add the kombu-cold-extract, red chili powder, thyme, and smoked paprika. stir to combine.",
+    "add the chicken broth, water, rice, salt, and black pepper. bring to a boil, then reduce heat to low.",
+    "simmer, uncovered, for 20-25 minutes or until the rice is cooked and the liquid has been absorbed.",
+    "stir in the lemon juice and cook for an additional 1-2 minutes.",
+    "remove from heat and let rest for 5 minutes before serving.",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "catalan",
+    "flexitarian",
+    "high-protein",
+    "one-pan",
+    "spanish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "energizing-catalan-kombu-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-catalan-kombu-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:30:21Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "red chilli powder",
+    "diet": "flexitarian",
+    "region": "catalan",
+    "cuisineAdjective": "catalan",
+    "mainIngredient": "kombu",
+    "descriptor": "energizing",
+    "dishForm": "paella"
+  }
+}
