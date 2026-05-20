@@ -4404,6 +4404,21 @@
     "shard": "e"
   },
   {
+    "slug": "elevated-irish-beef-stew",
+    "title": "Elevated Irish Beef Stew",
+    "tags": [
+      "beef",
+      "comfort-food",
+      "easy-weeknight",
+      "irish",
+      "spicy",
+      "stew"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 150,
+    "shard": "e"
+  },
+  {
     "slug": "elevated-italian-cannellini-beans-orecchiette",
     "title": "elevated italian cannellini beans orecchiette",
     "tags": [
