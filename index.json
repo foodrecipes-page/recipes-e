@@ -5455,6 +5455,23 @@
     "shard": "e"
   },
   {
+    "slug": "energizing-filipino-sugar-adobo",
+    "title": "Energizing Filipino Sugar Adobo",
+    "tags": [
+      "adobo",
+      "breakfast",
+      "brunch",
+      "fermentation",
+      "filipino",
+      "lacto-vegetarian",
+      "sous-vide",
+      "sugar"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 90,
+    "shard": "e"
+  },
+  {
     "slug": "energizing-flaky-algerian-cheese-calzone",
     "title": "Energizing Flaky Algerian Cheese Calzone",
     "tags": [

@@ -1,0 +1,106 @@
+{
+  "title": "Energizing Filipino Sugar Adobo",
+  "description": "A lacto-vegetarian-friendly Filipino dish that combines the energy of fermented sugar with the richness of a classic Adobo recipe.",
+  "cuisine": "Filipino",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Sugar",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "for sous-vide"
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lactic acid (optional)",
+      "amount": "1 tsp",
+      "notes": "for fermentation enhancement"
+    }
+  ],
+  "instructions": [
+    "Combine sugar, rice vinegar, and water in a sous-vide cooker at 150°F (65°C) for 4 hours.",
+    "Heat sesame oil in a pan over medium heat and sauté garlic and black pepper until fragrant.",
+    "Add rice to the pan and stir-fry for 2 minutes.",
+    "Add the sous-vide mixture to the pan and stir-fry for 1 minute.",
+    "Season with salt to taste.",
+    "Optional: add lactic acid to enhance fermentation.",
+    "Let the mixture rest for 30 minutes before serving.",
+    "Serve warm or at room temperature.",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adobo",
+    "breakfast",
+    "brunch",
+    "fermentation",
+    "filipino",
+    "lacto-vegetarian",
+    "sous-vide",
+    "sugar"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 80,
+    "fat": 10
+  },
+  "slug": "energizing-filipino-sugar-adobo",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-filipino-sugar-adobo",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:22:44Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "bouncy-qq",
+    "mood": "energizing",
+    "technique": "sous-vide",
+    "primaryIngredient": "sugar",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "sugar",
+    "descriptor": "energizing",
+    "dishForm": "Adobo"
+  }
+}
