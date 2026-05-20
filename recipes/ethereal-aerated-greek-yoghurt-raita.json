@@ -1,0 +1,99 @@
+{
+  "title": "Ethereal Aerated Greek yoghurt Raita",
+  "description": "A refreshing Greek yoghurt side dish, infused with the flavors of the Mediterranean. The briny taste of olives and capers pairs perfectly with the creamy yoghurt.",
+  "cuisine": "Greek",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Greek yoghurt",
+      "amount": "400g"
+    },
+    {
+      "name": "Extra Virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh dill fronds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "10 pitted"
+    },
+    {
+      "name": "Capers",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a mortar and pestle, pound the fresh mint leaves and dill fronds until well bruised.",
+    "Add the Kalamata olives to the mortar and pestle and pound until the mixture is well combined.",
+    "In a large bowl, whisk together the Greek yoghurt, extra virgin olive oil, lemon juice, honey, salt, and black pepper.",
+    "Add the pounded mint and dill mixture to the yoghurt mixture and stir to combine.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, stir in the capers and spoon the raita into individual serving cups or a large serving dish.",
+    "Garnish with additional fresh mint leaves and dill fronds, if desired.",
+    "Serve chilled, garnished with a drizzle of extra virgin olive oil and a sprinkle of freshly ground black pepper.",
+    "Serve immediately and enjoy!",
+    "Note: This raita can be made ahead of time and refrigerated for up to 24 hours.",
+    "Before serving, give the raita a good stir and adjust the seasoning as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cold",
+    "dessert",
+    "easy-to-make",
+    "greek",
+    "healthy",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 8
+  },
+  "slug": "ethereal-aerated-greek-yoghurt-raita",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/ethereal-aerated-greek-yoghurt-raita",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T08:33:02Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "aerated",
+    "mood": "indulgent",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "natural yoghurt",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "yoghurt",
+    "descriptor": "Ethereal Aerated",
+    "dishForm": "Raita"
+  }
+}
