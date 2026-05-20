@@ -5038,6 +5038,21 @@
     "shard": "e"
   },
   {
+    "slug": "energizing-ethiopian-vermicelli-jjigae",
+    "title": "Energizing Ethiopian Vermicelli Jjigae",
+    "tags": [
+      "easy-dinner",
+      "ethiopian",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 40,
+    "shard": "e"
+  },
+  {
     "slug": "energizing-filipino-fish-skewers",
     "title": "Energizing Filipino Fish Skewers",
     "tags": [
@@ -7911,6 +7926,22 @@
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 170,
+    "shard": "e"
+  },
+  {
+    "slug": "exotic-tunisian-butter-tagine",
+    "title": "exotic tunisian butter tagine",
+    "tags": [
+      "breakfast-lunch-dinner",
+      "lazy-sunday",
+      "one-pan",
+      "ovovegetarian",
+      "snack-dinner",
+      "tunisian",
+      "vegan"
+    ],
+    "cuisine": "tunisian",
+    "totalTimeMin": 40,
     "shard": "e"
   },
   {

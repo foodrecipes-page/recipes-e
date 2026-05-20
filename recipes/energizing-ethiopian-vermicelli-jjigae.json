@@ -1,0 +1,120 @@
+{
+  "title": "Energizing Ethiopian Vermicelli Jjigae",
+  "description": "A resinous, cheese-pull, energizing Ethiopian dish featuring vermicelli rice noodles, beurre-monte, gluten-free-friendly, served in injera form.",
+  "cuisine": "Ethiopian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Vermicelli rice noodles",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Beurre-monte",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Injera flour",
+      "amount": "150g",
+      "notes": "gluten-free injera flour"
+    },
+    {
+      "name": "Water",
+      "amount": "400ml",
+      "notes": "filtered water"
+    },
+    {
+      "name": "Ghee",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Cured beef",
+      "amount": "100g",
+      "notes": "such as yirache or mitmita"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ethiopian mitmita spice blend",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Salsa Oromo",
+      "amount": "100g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the vermicelli rice noodles according to package instructions.",
+    "Prepare the homemade beurre-monte by whisking together 1 egg yolk, 1 tablespoon lemon juice, and 1.5 tablespoons melted butter until thick and emulsified.",
+    "In a large bowl, mix together injera flour, water, and a pinch of salt until a smooth batter forms.",
+    "Let the injera batter rest for 30 minutes before cooking on a hot skillet or injera pan, until the edges start to curl and the center is dry.",
+    "Warm the ghee in a small saucepan over medium heat.",
+    "Add the cured beef to the ghee and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the onion and garlic to the pan and cook until the onion is translucent.",
+    "Add the mitmita spice blend to the pan and stir to combine.",
+    "Add the cooked vermicelli noodles to the pan and stir to combine with the beef and spice mixture.",
+    "Butter the inside of a piece of injera bread and place a portion of the noodle mixture in the center.",
+    "Top with feta cheese and a spoonful of Salsa Oromo, and then fold the injera bread to enclose.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "ethiopian",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 45,
+    "carbs": 80,
+    "fat": 25
+  },
+  "slug": "energizing-ethiopian-vermicelli-jjigae",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-ethiopian-vermicelli-jjigae",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:13:43Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "cheese-pull",
+    "mood": "energizing",
+    "technique": "beurre-monte",
+    "primaryIngredient": "vermicelli rice noodles",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "vermicelli rice noodles",
+    "descriptor": "energizing",
+    "dishForm": "Jjigae"
+  }
+}
