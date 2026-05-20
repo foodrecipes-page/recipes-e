@@ -1,0 +1,115 @@
+{
+  "title": "Energizing Kenyan Porridge",
+  "description": "A rich, crispy, and energizing Kenyan dish featuring ginger, nimono-simmer, and a dash of friendly spices.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Nimono-simmer",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Dash-friendly spices",
+      "amount": "0.25 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Banana",
+      "amount": "2 ripe",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "0.25 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.25 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "0.125 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "0.125 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine ginger, nimono-simmer, and dash-friendly spices in a small bowl. Add rice and coconut milk to a medium saucepan, and cook over medium heat until the rice is lightly toasted. Add banana, honey, coconut oil, salt, black pepper, cinnamon, and turmeric to the rice, and stir to combine. Cook for an additional 2 minutes, or until the mixture is heated through. ",
+    "Transfer the mixture to a serving bowl, and serve hot. ",
+    "Garnish with additional coconut flakes, if desired. ",
+    "Serve immediately, and enjoy! "
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "easy-meals",
+    "high-calorie",
+    "kenyan",
+    "porridge",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 544,
+    "protein": 6,
+    "carbs": 86,
+    "fat": 26
+  },
+  "slug": "energizing-kenyan-porridge-porridge",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-kenyan-porridge-porridge",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:35:56Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "ginger",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "porridge",
+    "descriptor": "energizing",
+    "dishForm": "porridge"
+  }
+}
