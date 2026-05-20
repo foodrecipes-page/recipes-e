@@ -1,0 +1,126 @@
+{
+  "title": "Energizing Brazilian Rice-Syrup-Jocheong Agemono-Deep-Fry",
+  "description": "A refreshing and energizing dish that combines the sweetness of rice syrup with the savory flavor of jocheong, all wrapped up in a crispy agemono batter. This Buddhist temple-friendly recipe is perfect for a quick and easy snack or light meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rice Syrup",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Jocheong",
+      "amount": "1/4 cup",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Rice Flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil for deep-frying",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Green Onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Grated Ginger",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine rice syrup, jocheong, all-purpose flour, rice flour, and water in a large bowl to make the batter.",
+    "Whisk the batter until it's smooth and free of lumps.",
+    "Heat the vegetable oil in a deep frying pan or a deep fryer to 350°F (175°C).",
+    "Carefully drop the batter into the hot oil using a spoon, making sure not to overcrowd the pan.",
+    "Deep-fry the agemono for 2-3 minutes on each side, or until it's golden brown and crispy.",
+    "Drain the agemono on paper towels and sprinkle with chopped green onions, grated ginger, sesame oil, soy sauce, salt, and black pepper.",
+    "Serve the energizing Brazilian rice-syrup-jocheong agemono-deep-fry warm and enjoy!",
+    "Repeat the process with the remaining batter to make more agemono.",
+    "Serve the agemono hot with a side of steamed vegetables or a simple salad for a light and satisfying meal.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days or freeze for up to 2 months.",
+    "When reheating, make sure the agemono is crispy by baking it in the oven at 375°F (190°C) for 5-7 minutes, or until heated through.",
+    "If desired, serve with a side of steamed rice or noodles for a more filling meal.",
+    "For a spicy kick, add some diced jalapeños or serrano peppers to the batter for an extra kick of heat.",
+    "To make the agemono more substantial, add some chopped cooked vegetables, such as zucchini or carrots, to the batter for added nutrition and flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "deep-fried",
+    "gluten-free",
+    "one-pan",
+    "quick-and-easy",
+    "snack",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "energizing-brazillian-rice-syrup-jocheong-agemono-deep-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-brazillian-rice-syrup-jocheong-agemono-deep-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:43:41Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "chewy",
+    "mood": "energizing",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "rice-syrup-jocheong",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Brazillian",
+    "mainIngredient": "rice-syrup-jocheong",
+    "descriptor": "energizing",
+    "dishForm": "agemono-deep-fry"
+  }
+}
