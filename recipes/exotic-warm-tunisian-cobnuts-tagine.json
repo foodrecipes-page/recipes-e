@@ -1,0 +1,91 @@
+{
+  "title": "exotic warm tunisian cobnuts tagine",
+  "description": "a hearty, buttery, and chewy tunisian dish made with cobnuts, perfect for a lazy sunday",
+  "cuisine": "tunisian",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cobnuts",
+      "amount": "1 cup, toasted, chopped",
+      "notes": "you can also use hazelnuts or almonds"
+    },
+    {
+      "name": "double-rise bread",
+      "amount": "4 slices, torn into pieces",
+      "notes": "use a day-old bread for best results"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use a high-quality extra-virgin olive oil"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tablespoon",
+      "notes": "optional, for a cheesy flavor"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "use sweet or hot smoked paprika, depending on your preference"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "use a flaky sea salt or kosher salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground pepper is best"
+    }
+  ],
+  "instructions": [
+    "preheat your tandoor clay pot or a regular oven to 375f (190c).",
+    "in a large bowl, mix together the toasted and chopped cobnuts, torn bread, olive oil, nutritional yeast, smoked paprika, salt, and black pepper.",
+    "transfer the mixture to the preheated tandoor clay pot or oven-safe dish.",
+    "cover the pot or dish with a lid or foil and bake for 20-25 minutes, or until the bread is toasted and crispy.",
+    "remove the lid or foil and continue baking for another 5-10 minutes, or until the cobnuts are fragrant and lightly toasted.",
+    "serve warm, garnished with fresh herbs or a sprinkle of sumac, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lazy",
+    "snack",
+    "sunday",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "exotic-warm-tunisian-cobnuts-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-warm-tunisian-cobnuts-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T09:18:48Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "chewy",
+    "mood": "lazy-sunday",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "cobnuts",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "cobnuts",
+    "descriptor": "exotic warm",
+    "dishForm": "Tagine"
+  }
+}
