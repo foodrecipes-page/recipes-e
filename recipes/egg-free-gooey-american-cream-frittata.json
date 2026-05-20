@@ -1,0 +1,97 @@
+{
+  "title": "Egg-Free Gooey American Cream Frittata",
+  "description": "A creamy, herbal, and gooey American solo-dinner dish featuring creme fraiche, suitable for macrobiotic-friendly diets, cooked in an iron teppan.",
+  "cuisine": "American",
+  "diet": [
+    "macrobiotic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chopped chives",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "creme fraiche",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "mushrooms",
+      "amount": "8 oz",
+      "notes": "assorted wild mushrooms of your choice"
+    }
+  ],
+  "instructions": [
+    "Combine chopped chives, creme fraiche, parsley, smoked paprika, garlic powder, and thyme in a bowl and mix well.",
+    "Heat the iron teppan over medium-high heat.",
+    "Add the mushrooms to the teppan and cook until they release their moisture and start to brown, about 4 minutes.",
+    "Pour the creme fraiche mixture over the mushrooms and stir to combine.",
+    "Reduce heat to medium-low and simmer, covered, for 8-10 minutes or until the mixture has thickened and the mushrooms are fully cooked.",
+    "Season with salt to taste.",
+    "Transfer the frittata to a serving plate and serve hot, garnished with additional chives if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "creamy",
+    "eggs-free",
+    "herbal",
+    "one-pan",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 24
+  },
+  "slug": "egg-free-gooey-american-cream-frittata",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/egg-free-gooey-american-cream-frittata",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:05:25Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "simmer",
+    "primaryIngredient": "creme fraiche",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Cream",
+    "descriptor": "Egg-Free Gooey",
+    "dishForm": "Frittata"
+  }
+}
