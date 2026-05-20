@@ -1,0 +1,112 @@
+{
+  "title": "Egg-Free Polish Pierogi Fried",
+  "description": "A malty, springy twist on the traditional Polish dish, made with English mustard and air-fried for a healthier take.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "use a high-protein flour for best results"
+    },
+    {
+      "name": "warm water",
+      "amount": "3/4 cup",
+      "notes": "not too hot, not too cold"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "kosher or sea salt works best"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing pierogi dough"
+    },
+    {
+      "name": "unbleached all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dusting pierogi"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "boiled and mashed for filling"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 large",
+      "notes": "grated and sautéed for filling"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "grated and sautéed for filling"
+    },
+    {
+      "name": "English mustard",
+      "amount": "2 tablespoons",
+      "notes": "spicy and tangy"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "2 tablespoons",
+      "notes": "fresh from the garden"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine warm water, salt, and 1 cup of all-purpose flour to make the dough.",
+    "Knead the dough for 5 minutes until smooth and elastic.",
+    "Cover the dough with plastic wrap and let it rest for 30 minutes.",
+    "Divide the dough into 4 equal parts and roll out each part into a thin sheet.",
+    "Use a round cookie cutter or the rim of a glass to cut out pierogi circles.",
+    "Place a tablespoon of potato-carrot-onion filling in the center of each pierogi circle.",
+    "Brush the edges of the pierogi with vegetable oil and fold the dough over to form a half-circle.",
+    "Press the edges together to seal the pierogi.",
+    "Dust the pierogi with unbleached all-purpose flour to prevent sticking.",
+    "Heat 2 tablespoons of vegetable oil in an air fryer at 375°F (190°C) for 5 minutes.",
+    "Add the pierogi to the air fryer in batches, not overcrowding the basket.",
+    "Cook the pierogi for 5-7 minutes on each side, until golden brown and crispy.",
+    "Serve the pierogi hot with a dollop of English mustard and a sprinkle of chopped fresh dill."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "air-fried",
+    "comfort-food",
+    "egg-free",
+    "festive",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "egg-free-polish-pierogi-fried",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/egg-free-polish-pierogi-fried",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T11:57:24Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "springy",
+    "mood": "festive",
+    "technique": "air-fry",
+    "primaryIngredient": "english mustard",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Pierogi",
+    "descriptor": "Egg-free",
+    "dishForm": "Fried"
+  }
+}
