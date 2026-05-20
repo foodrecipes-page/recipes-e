@@ -1,0 +1,122 @@
+{
+  "title": "Energizing Middle-Eastern Fresh Basil Shakshuka",
+  "description": "A flavorful and energizing breakfast dish featuring fresh basil, perfect for a weekend morning.",
+  "cuisine": "middle-eastern",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh basil leaves",
+      "amount": "1/4 cup, sashimi-cut",
+      "notes": "Ayurvedic-tamasic-friendly, adds energy and flavor."
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "Adds moisture and flavor."
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": "Adds crunch and sweetness."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "Adds flavor and texture."
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Adds depth and flavor."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/4 cup, crumbled",
+      "notes": "Adds creaminess and flavor."
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1/4 tsp",
+      "notes": "Adds heat and flavor."
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Adds brightness and flavor."
+    },
+    {
+      "name": "Bread",
+      "amount": "",
+      "notes": "Optional, for serving."
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large cast-iron skillet over medium-high heat.",
+    "Add the zucchini, bell pepper, and onion to the skillet and cook until tender, about 5 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Create 4 wells in the vegetable mixture and crack an egg into each well.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the eggs are cooked through.",
+    "Sprinkle the feta cheese, chili flakes, and fresh basil leaves over the top of the eggs.",
+    "Drizzle the lemon juice over the eggs and serve with bread, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "high-energy",
+    "middle-eastern",
+    "one-pan",
+    "shakshuka",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 24,
+    "carbs": 24,
+    "fat": 18
+  },
+  "slug": "energizing-middle-eastern-fresh-basil-shakshuka",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-middle-eastern-fresh-basil-shakshuka",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:31:25Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "energizing",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "fresh basil",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "middle-eastern",
+    "mainIngredient": "fresh basil",
+    "descriptor": "energizing",
+    "dishForm": "Shakshuka"
+  }
+}
