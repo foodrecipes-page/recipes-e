@@ -1,0 +1,105 @@
+{
+  "title": "Ethereal Flaky Moroccan Sweet Potatoes Msemen",
+  "description": "Cultured, flaky, and comforting, this Moroccan msemen is the perfect dish for a sick day, featuring sweet potatoes and a unique pandan-leaf wrap.",
+  "cuisine": "moroccan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ghee",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "date syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Peel the sweet potatoes and boil them in water until tender.",
+    "In a mortar, pound the garlic cloves until smooth.",
+    "Mix the flour, salt, and olive oil in a bowl to form a dough.",
+    "Knead the dough for 10 minutes, then let it rest for 30 minutes.",
+    "Divide the dough into 4 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a thin circle using a rolling pin.",
+    "Brush the circles with ghee and sprinkle with date syrup.",
+    "Add a few pieces of boiled sweet potato to the center of each circle.",
+    "Fold the dough in a half-moon shape and seal the edges with a little water.",
+    "Heat a non-stick pan over medium heat and cook the msemen for 2-3 minutes on each side.",
+    "Serve the msemen hot, wrapped in a pandan leaf.",
+    "To make the pandan leaf wrap, simply cut the top of the pandan leaf and place it on a plate.",
+    "Place a piece of msemen in the center of the leaf and wrap it up.",
+    "Serve with a drizzle of date syrup and a sprinkle of rose water.",
+    "Optional: Garnish with additional rose petals and serve with a side of steamed vegetables."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "flaky",
+    "moroccan",
+    "msemen",
+    "pandan-leaf",
+    "sweet-potatoes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "ethereal-flaky-moroccan-sweet-potatoes-msemen",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/ethereal-flaky-moroccan-sweet-potatoes-msemen",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:16:29Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "sweet potatoes",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "Ethereal Flaky",
+    "dishForm": "Msemen"
+  }
+}
