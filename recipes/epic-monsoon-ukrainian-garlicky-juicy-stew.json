@@ -1,0 +1,116 @@
+{
+  "title": "Epic Monsoon Ukrainian Garlicky, Juicy Stew",
+  "description": "A hearty, garlicky Ukrainian dish featuring mirin-hon, perfect for a refreshing monsoon evening. Serve with some warm rye bread to mop up the juices.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "12 cloves",
+      "notes": ""
+    },
+    {
+      "name": "mirin-hon",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok over medium-high heat. Add the beef brisket and sear until browned, about 5 minutes, breaking it up into small pieces as it cooks.",
+    "Add garlic and cook for another minute, until fragrant.",
+    "Add the mirin-hon, black pepper, and kosher salt. Stir to combine.",
+    "Add the flour and cook for 1 minute, stirring constantly.",
+    "Gradually add the water, stirring constantly to prevent lumps.",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 2 hours, stirring occasionally.",
+    "Add the chopped carrots and potatoes and continue to simmer for another 30 minutes.",
+    "Season with salt to taste.",
+    "Stir in the chopped parsley.",
+    "Serve the stew hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "garlicky",
+    "hearty",
+    "juicy",
+    "keto-friendly",
+    "monsoon",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "epic-monsoon-ukrainian-garlicky-juicy-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/epic-monsoon-ukrainian-garlicky-juicy-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:37:23Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "juicy",
+    "mood": "monsoon",
+    "technique": "marinate",
+    "primaryIngredient": "mirin-hon",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Garlicky, Juicy ",
+    "descriptor": "Epic Monsoon",
+    "dishForm": "Stew"
+  }
+}
