@@ -522,6 +522,20 @@
     "shard": "e"
   },
   {
+    "slug": "earthy-aerated-british-narutomaki-cottage-pie",
+    "title": "Earthy Aerated British Narutomaki Cottage Pie",
+    "tags": [
+      "british-cuisine",
+      "cottage-pie",
+      "keto-friendly",
+      "narutomaki",
+      "weeknight-meal"
+    ],
+    "cuisine": "british",
+    "totalTimeMin": 75,
+    "shard": "e"
+  },
+  {
     "slug": "earthy-algerian-lamb-tagine",
     "title": "Earthy Algerian Lamb Tagine",
     "tags": [
