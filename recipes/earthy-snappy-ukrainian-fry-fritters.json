@@ -1,0 +1,89 @@
+{
+  "title": "Earthy Snappy Ukrainian Fry Fritters",
+  "description": "A hearty, gluten-free Ukrainian dish featuring crispy fritters with a rich red pepper paste.",
+  "cuisine": "ukrainian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "gluten-free all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fry",
+      "amount": "2 cups"
+    },
+    {
+      "name": "red pepper paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Combine gluten-free flour, fry, red pepper paste, salt, and black pepper in a large bowl.",
+    "Add onion and mix until just combined.",
+    "Beat in egg and sour cream until the mixture forms a sticky dough.",
+    "Knead the dough for 5 minutes until it becomes smooth.",
+    "Divide the dough into 8 equal pieces.",
+    "Roll each piece into a ball and flatten slightly into a disk shape.",
+    "Heat oil in a large skillet over medium-high heat.",
+    "Fry the fritters for 3 minutes on each side, until they are golden brown and crispy.",
+    "Drain the fritters on paper towels and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "fritters",
+    "gluten-free",
+    "one-pan",
+    "snappy-fry",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "earthy-snappy-ukrainian-fry-fritters",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-snappy-ukrainian-fry-fritters",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:49:37Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "snappy",
+    "mood": "cozy",
+    "technique": "fry",
+    "primaryIngredient": "red pepper paste",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "fry",
+    "descriptor": "earthy snappy",
+    "dishForm": "Fritters"
+  }
+}
