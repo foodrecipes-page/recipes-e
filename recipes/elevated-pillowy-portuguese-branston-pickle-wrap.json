@@ -1,0 +1,114 @@
+{
+  "title": "Elevated Pillowy Portuguese Branston-Pickle Wrap",
+  "description": "This Portuguese-inspired wrap features a nutty and pillowy texture, perfect for a post-workout snack. It's a diabetic-friendly twist on the classic branston-pickle flavor combination.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ti leaf wraps",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Almond butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Branston pickle",
+      "amount": "2 tbsp",
+      "notes": "Choose a sugar-free version or make your own."
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded cheddar cheese",
+      "amount": "1/4 cup",
+      "notes": "Low-fat or reduced-sodium option recommended."
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Spinach leaves",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Sliced red onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Sliced bell pepper",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "Heat the olive oil and cook the sliced red onion and bell pepper until slightly tender.",
+    "Add the shredded cheddar cheese and cook until melted and bubbly.",
+    "Meanwhile, spread 1 tablespoon of almond butter onto each Ti leaf wrap."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "healthy-fat",
+    "low-carb",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "elevated-pillowy-portuguese-branston-pickle-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/elevated-pillowy-portuguese-branston-pickle-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:27:43Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "pillowy",
+    "mood": "post-workout",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "branston-pickle",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "branston-pickle",
+    "descriptor": "elevated pillowy",
+    "dishForm": "wrap"
+  }
+}
