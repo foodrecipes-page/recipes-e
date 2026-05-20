@@ -1,0 +1,134 @@
+{
+  "title": "Earthy Flaky Malaysian Medjool Dates Satay",
+  "description": "A post-workout Malaysian dish that brings together the earthy sweetness of Medjool dates with the flaky crunch of KFC-style fried tofu. Perfect for a satisfying afternoon snack or light lunch.",
+  "cuisine": "malaysian",
+  "diet": [
+    "plant-based",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Medjool dates",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "firm, extra-firm recommended"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic paste",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1",
+      "notes": "optional, for serving"
+    }
+  ],
+  "instructions": [
+    "Mix the soy sauce, rice vinegar, ginger paste, garlic paste, coriander powder, cumin powder, turmeric powder, and black pepper in a bowl to create the marinade.",
+    "Add the tofu to the marinade and let it sit for at least 30 minutes, flipping occasionally.",
+    "Cut the Medjool dates in half and remove the pits.",
+    "Heat 2 tablespoons of coconut oil in a pan over medium heat.",
+    "Add the tofu to the pan and fry until golden brown on both sides, about 5-7 minutes per side.",
+    "Remove the tofu from the pan and set it aside to rest.",
+    "Add the remaining 2 tablespoons of coconut oil to the pan and fry the Medjool dates until caramelized and slightly charred, about 3-5 minutes per side.",
+    "Serve the fried tofu and Medjool dates together, garnished with sliced cucumber if desired, and a sprinkle of palm sugar on top.",
+    "Serve immediately and enjoy!",
+    "Double fry the tofu for an extra crispy exterior: after the first fry, let the tofu rest for 10 minutes before re-frying at 350F (175C) for 5-7 minutes or until golden brown and crispy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 24,
+  "totalTimeMin": 39,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "double-fry",
+    "gluten-free",
+    "kfc-style",
+    "malaysian",
+    "one-pan",
+    "plant-based",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "earthy-flaky-malaysian-medjool-dates-satay",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-flaky-malaysian-medjool-dates-satay",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:36:28Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "medjool dates",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Medjool Dates",
+    "descriptor": "Earthy Flaky",
+    "dishForm": "Satay"
+  }
+}
