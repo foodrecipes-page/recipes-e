@@ -1,0 +1,116 @@
+{
+  "title": "elegant norwegian parmesan yakimono",
+  "description": "nutty, flaky norwegian dish featuring parmesan cheese, grilled to perfection",
+  "cuisine": "norwegian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "grass-fed new york strip loin",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup grated",
+      "notes": "dairy-free alternative parmesan cheese if needed"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "chives",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "yakimono grill",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "kadhai",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat yakimono grill to medium-high heat",
+    "season new york strip loin with kosher salt and black pepper",
+    "add olive oil to yakimono grill and sear new york strip loin for 2-3 minutes per side",
+    "transfer new york strip loin to kadhai and top with parmesan cheese",
+    "drizzle with butter and sprinkle with thyme and chives",
+    "grill for an additional 1-2 minutes or until cheese is melted and bubbly",
+    "remove from heat and serve immediately",
+    "garnish with lemon and garlic"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dinner",
+    "entree",
+    "grilled",
+    "high-protein",
+    "norwegian",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 50,
+    "carbs": 5,
+    "fat": 25
+  },
+  "slug": "elegant-norwegian-parmigiano-reggiano-yakimono",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/elegant-norwegian-parmigiano-reggiano-yakimono",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:06:20Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "flaky",
+    "mood": "show-off",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "parmigiano-reggiano",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Parmigiano-Reggiano",
+    "descriptor": "Smoked and Flaky",
+    "dishForm": "Grill"
+  }
+}
