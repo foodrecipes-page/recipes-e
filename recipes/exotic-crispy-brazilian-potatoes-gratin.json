@@ -1,0 +1,117 @@
+{
+  "title": "exotic crispy brazilian potatoes gratin",
+  "description": "a flavorful and textured gratin dish from brazil, featuring crispy potatoes, steam, and aromatic spices.",
+  "cuisine": "brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large potatoes",
+      "amount": "3-4",
+      "notes": "any high-starch variety, like russet or idaho"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "any sweet onion variety, like vidalia or yellow granex"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "sweet or smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "kosher or sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for greasing the baking dish"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 425f (220c).",
+    "grease a 9x13-inch baking dish with the olive oil.",
+    "slice the potatoes into 1/8-inch thick rounds.",
+    "in a large bowl, combine the sliced potatoes, minced onion, grated ginger, cumin, coriander, paprika, salt, and black pepper.",
+    "mix well to combine.",
+    "transfer the potato mixture to the prepared baking dish.",
+    "cover the dish with aluminum foil and bake for 30 minutes.",
+    "remove the foil and continue baking for an additional 20-25 minutes, or until the potatoes are golden brown and crispy.",
+    "remove the dish from the oven and sprinkle the grated parmesan cheese on top.",
+    "return the dish to the oven and bake for an additional 2-3 minutes, or until the cheese is melted and bubbly.",
+    "remove the dish from the oven and let it cool for 5-10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "gratin",
+    "one-pan",
+    "potatoes",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "exotic-crispy-brazilian-potatoes-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-crispy-brazilian-potatoes-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T17:12:29Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "steam",
+    "primaryIngredient": "potatoes",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Potatoes",
+    "descriptor": "Exotic Crispy",
+    "dishForm": "Gratin"
+  }
+}
