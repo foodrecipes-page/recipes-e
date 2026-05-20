@@ -1,0 +1,69 @@
+{
+  "title": "Earthy Croatian Ghee Dumplings",
+  "description": "Light, earthy Croatian dish featuring ghee and dumplings that are low-calorie-friendly and perfect for hangover recovery.",
+  "cuisine": "croatian",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "1/2 cup",
+      "notes": "for added earthiness"
+    }
+  ],
+  "instructions": [
+    "Mix warm water, salt, and sugar in a bowl until dissolved, then let sit for 10 minutes.",
+    "In a separate bowl, combine all-purpose flour, whole wheat flour, and yeast, stirring to combine.",
+    "Gradually add the dry mixture to the wet mixture and mix until a dough forms.",
+    "Knead the dough for 10 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover with a damp cloth, and let rise in a warm place for 1 hour.",
+    "Preheat a non-stick skillet over medium heat.",
+    "Divide the dough into 12 equal pieces and roll into balls.",
+    "Flatten each ball into a disk shape and add a small amount of melted ghee to the center of each disk.",
+    "Fold the dough over the ghee to form a dumpling and press edges together to seal.",
+    "Cook the dumplings for 4 minutes on each side, or until golden brown.",
+    "Serve hot with a side of steamed vegetables or soup."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "ghee-based",
+    "hangover-cure",
+    "high-fiber",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 384,
+    "protein": 14,
+    "carbs": 44,
+    "fat": 16
+  },
+  "slug": "earthy-croatian-ghee-dumplings",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-croatian-ghee-dumplings",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:46:55Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "light",
+    "mood": "hangover-cure",
+    "technique": "dum",
+    "primaryIngredient": "ghee",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "ghee",
+    "descriptor": "Earthy",
+    "dishForm": "Dumplings"
+  }
+}
