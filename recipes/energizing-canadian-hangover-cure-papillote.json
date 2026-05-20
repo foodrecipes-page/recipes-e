@@ -1,0 +1,161 @@
+{
+  "title": "Energizing Canadian Hangover Cure Papillote",
+  "description": "This dish is inspired by the flavors of Canada and is designed to help alleviate hangover symptoms with its soothing and energizing properties. The combination of creamy goat cheese, tangy chimichurri sauce, and warm spices will have you feeling brand new in no time.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "goat cheese",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Canadian bacon",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "egg whites",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "flaky pastry dough",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375\u000567 (190\u0000a0\u00061\u0006c).",
+    "In a small bowl, whisk together the chimichurri sauce and lemon juice.",
+    "Place the Canadian bacon slices on a baking sheet lined with parchment paper and brush with the chimichurri sauce mixture.",
+    "Roll out the flaky pastry dough to a thickness of about 1/8 inch and cut into a rectangle slightly larger than the baking sheet.",
+    "Place the pastry dough over the Canadian bacon and brush the edges with a little water.",
+    "In a small bowl, whisk together the egg whites and a pinch of salt until frothy.",
+    "Brush the egg whites mixture over the pastry dough and sprinkle with a pinch of black pepper.",
+    "Fold the pastry dough over the Canadian bacon and press the edges to seal.",
+    "Place the papillote on a baking sheet and brush with a little olive oil.",
+    "Bake the papillote for 20-25 minutes, or until the pastry is golden brown and the Canadian bacon is cooked through.",
+    "While the papillote is baking, prepare the goat cheese mixture by crumbling the goat cheese into a bowl and stirring in the chopped fresh parsley and a pinch of paprika.",
+    "Once the papillote is ready, remove it from the oven and let it cool for a few minutes.",
+    "To serve, slice the papillote in half lengthwise and place on a plate.",
+    "Top with a spoonful of the goat cheese mixture and serve immediately.",
+    "Garnish with a sprinkle of chopped fresh parsley and a few slices of Canadian bacon, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "canadian",
+    "hangover-cure",
+    "low-fat",
+    "papillote",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "energizing-canadian-hangover-cure-papillote",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-canadian-hangover-cure-papillote",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:19:30Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "hangover-cure",
+    "technique": "papillote",
+    "primaryIngredient": "chimichurri sauce",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Hangover Cure",
+    "descriptor": "Energizing",
+    "dishForm": "Papillote"
+  }
+}
