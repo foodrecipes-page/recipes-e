@@ -1,0 +1,117 @@
+{
+  "title": "elevated ukrainian pumpkin borscht bowl",
+  "description": "rich, velvety, meal-prep ukrainian dish featuring pumpkin, double-fry-kfc, mediterranean-friendly, vessel=dolsot-stone-bowl",
+  "cuisine": "ukrainian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pumpkin",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "beets",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "kfc double-fry seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "dried dill",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "mix pumpkin, beets, carrots, cabbage, onion, garlic in a large pot",
+    "add tomato paste and stir to combine",
+    "add olive oil and stir to combine",
+    "add water and bring to a boil",
+    "reduce heat and simmer for 20 minutes",
+    "stir in kfc double-fry seasoning",
+    "season with salt and pepper to taste",
+    "serve in dolsot stone bowls topped with sour cream and dried dill",
+    "garnish with chopped fresh herbs if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "high-fiber",
+    "meal-prep",
+    "one-pot",
+    "ukrainian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "elevated-ukrainian-pumpkin-borscht-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/elevated-ukrainian-pumpkin-borscht-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:03:26Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "velvety",
+    "mood": "meal-prep",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "pumpkin",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "pumpkin",
+    "descriptor": "Elevated, Soft, Creamy",
+    "dishForm": "Borscht"
+  }
+}
