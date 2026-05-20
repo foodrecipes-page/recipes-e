@@ -1,0 +1,97 @@
+{
+  "title": "Fresh American Sardines Stew",
+  "description": "Sour and pillowy American dish that's light on the palate, featuring sardines in a flavorful cataplana stew. This low-sodium recipe is perfect for a quick weeknight dinner.",
+  "cuisine": "American",
+  "diet": [
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sardines",
+      "amount": "12 oz (340g)"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup (15g)"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp (30ml)"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "1 tbsp (15ml)"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp (30ml)"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp (30g)"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups (475ml)"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "In a mortar and pestle, pound the garlic and parsley until well combined.",
+    "In a large cataplana vessel, heat the olive oil over medium heat.",
+    "Add the onion to the vessel and cook until translucent, about 5 minutes.",
+    "Add the garlic and parsley mixture to the vessel and cook for 1 minute.",
+    "Add the sardines, tomato paste, lemon juice, white wine vinegar, bay leaves, and chicken broth to the vessel.",
+    "Bring the mixture to a boil, then reduce heat to low and simmer for 10 minutes.",
+    "Season the stew with salt to taste.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-stew",
+    "low-sodium",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "elegant-fresh-american-sardines-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/elegant-fresh-american-sardines-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T08:17:08Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "pillowy",
+    "mood": "light",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "sardines",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Sardines",
+    "descriptor": "Elegant Fresh",
+    "dishForm": "Stew"
+  }
+}
