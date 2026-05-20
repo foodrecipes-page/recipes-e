@@ -1,0 +1,105 @@
+{
+  "title": "emulsified rich portuguese bread gratin",
+  "description": "a silky and comforting portuguese dish featuring a rich sauce and crunchy bread topping.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "butter",
+      "amount": "6 tablespoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "english mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beaten egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "portuguese bread",
+      "amount": "1 loaf, cubed"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375°f (190°c).",
+    "in a large saucepan, melt 2 tablespoons of butter over medium heat.",
+    "whisk in the flour to make a roux, cooking for 1 minute.",
+    "slowly whisk in the dijon and english mustard.",
+    "bring the mixture to a simmer and cook for 2-3 minutes, or until thickened.",
+    "remove from heat and stir in the beaten egg, cheddar cheese, parmesan cheese, salt, and black pepper.",
+    "in a greased 9x13 inch baking dish, arrange half of the cubed bread in the bottom.",
+    "pour the cheese sauce over the bread, then top with the remaining bread.",
+    "dot the top of the bread with the remaining 4 tablespoons of butter.",
+    "cover the dish with aluminum foil and bake for 20 minutes.",
+    "remove the foil and continue baking for an additional 10-15 minutes, or until the bread is golden brown.",
+    "remove from the oven and sprinkle with chopped parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "one-pan",
+    "portuguese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 528,
+    "protein": 24,
+    "carbs": 43,
+    "fat": 35
+  },
+  "slug": "emulsified-rich-portuguese-bread-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/emulsified-rich-portuguese-bread-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T02:35:44Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "silky",
+    "mood": "comforting",
+    "technique": "emulsify",
+    "primaryIngredient": "english mustard",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Bread",
+    "descriptor": "Emulsified Rich",
+    "dishForm": "Gratin"
+  }
+}
