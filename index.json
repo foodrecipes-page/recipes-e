@@ -4534,6 +4534,20 @@
     "shard": "e"
   },
   {
+    "slug": "elegant-smokey-vietnamese-rice-pho",
+    "title": "Elegant Smokey Vietnamese Rice Pho",
+    "tags": [
+      "comfort-food",
+      "noodle-soup",
+      "one-pan",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "Asian",
+    "totalTimeMin": 260,
+    "shard": "e"
+  },
+  {
     "slug": "elegant-smoky-french-cheese-quiche",
     "title": "Elegant Smoky French Cheese Quiche",
     "tags": [
@@ -6992,6 +7006,19 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 70,
+    "shard": "e"
+  },
+  {
+    "slug": "exotic-aerated-portuguese-peanuts-wrap",
+    "title": "exotic aerated portuguese peanuts wrap",
+    "tags": [
+      "high-calorie",
+      "portuguese",
+      "snack",
+      "wrap"
+    ],
+    "cuisine": "portuguese",
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {

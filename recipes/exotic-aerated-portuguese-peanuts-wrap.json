@@ -1,0 +1,110 @@
+{
+  "title": "exotic aerated portuguese peanuts wrap",
+  "description": "a tangy, aerated portuguese dish featuring peanut oil, pickle, and a dash of spices wrapped in a ti-leaf-wrapped vessel. this exotic wrap makes a great snack or light meal",
+  "cuisine": "portuguese",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ti-leaf wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "dill pickle relish",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "hot sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat peanut oil in a small pan over medium heat.",
+    "add garlic and cook for 1 minute until fragrant.",
+    "add dill pickle relish and cook for another minute until heated through.",
+    "add hot sauce and stir to combine.",
+    "add peanuts and stir-fry for 2 minutes until toasted.",
+    "add chopped cilantro, mayonnaise, and grated ginger. stir to combine.",
+    "warm ti-leaf wrap in the microwave for 10 seconds.",
+    "assemble the wrap by spreading the peanut mixture onto the center of the wrap and folding the sides in towards the center.",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-calorie",
+    "portuguese",
+    "snack",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 48
+  },
+  "slug": "exotic-aerated-portuguese-peanuts-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/exotic-aerated-portuguese-peanuts-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:12:41Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "aerated",
+    "mood": "show-off",
+    "technique": "pickle",
+    "primaryIngredient": "peanut oil",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "peanuts",
+    "descriptor": "Exotic Aerated",
+    "dishForm": "Wrap"
+  }
+}

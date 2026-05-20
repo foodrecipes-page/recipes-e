@@ -1,0 +1,106 @@
+{
+  "title": "Elegant Smokey Vietnamese Rice Pho",
+  "description": "A comforting Vietnamese noodle soup made with smoked flavors and pillowy rice noodles. This version is satvik-friendly and perfect for a cold day.",
+  "cuisine": "Asian",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice Noodles",
+      "amount": "12 oz"
+    },
+    {
+      "name": "Smoked Pork Bones",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Furikake",
+      "amount": "2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sliced Radish",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Bean Sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Combine pork bones and vegetable broth in a large pot and bring to a boil.",
+    "Reduce heat to 180°F and simmer for 2 hours.",
+    "In a separate pan, heat olive oil over medium heat and sauté sliced ginger and minced garlic until fragrant.",
+    "Add rice noodles to the pan and cook for 2-3 minutes, or until slightly softened.",
+    "Strain the broth through a fine-mesh sieve and discard the solids.",
+    "Add furikake to the broth and stir to combine.",
+    "To assemble the pho, place cooked noodles in a bowl, then add sliced radish, bean sprouts, and chopped cilantro.",
+    "Pour hot broth over the top and serve with a squeeze of lime juice.",
+    "Serve immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 240,
+  "totalTimeMin": 260,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "noodle-soup",
+    "one-pan",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "elegant-smokey-vietnamese-rice-pho",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/elegant-smokey-vietnamese-rice-pho",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:13:16Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "pillowy",
+    "mood": "nostalgic",
+    "technique": "smoke",
+    "primaryIngredient": "olive oil",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "rice",
+    "descriptor": "elegant-smokey",
+    "dishForm": "pho"
+  }
+}
