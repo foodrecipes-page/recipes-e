@@ -1,0 +1,138 @@
+{
+  "title": "Elevated Italian Sundried Tomatoes Flatbread",
+  "description": "A flaky, indulgent flatbread featuring sun-dried tomatoes, perfect for a satisfying dinner. This Italian dish is inspired by the traditional flavors of Lombardy.",
+  "cuisine": "italian",
+  "diet": [
+    "ayurvedic",
+    "tamasic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Type \"00\" flour",
+      "amount": "300g",
+      "notes": "Use a high-protein flour for flaky crust."
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "20ml",
+      "notes": ""
+    },
+    {
+      "name": "Dry yeast",
+      "amount": "7g",
+      "notes": "Active dry yeast is fine, but instant yeast will speed up rising."
+    },
+    {
+      "name": "Salt",
+      "amount": "10g",
+      "notes": "Use sea salt or flaky salt for added flavor."
+    },
+    {
+      "name": "Sugar",
+      "amount": "5g",
+      "notes": "A small amount of sugar helps yeast fermentation."
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "7g",
+      "notes": "Optional, but highly recommended for authentic flavor."
+    },
+    {
+      "name": "Sun-dried tomatoes",
+      "amount": "100g",
+      "notes": "Mix of cherry and larger tomatoes for depth of flavor."
+    },
+    {
+      "name": "Grana Padano cheese",
+      "amount": "50g",
+      "notes": "Replace with Parmesan or Pecorino for a different flavor profile."
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "10g",
+      "notes": "Chopped fresh basil adds a bright, herbaceous note."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "30g",
+      "notes": "Pitted for convenience, but leave some pits for added texture."
+    },
+    {
+      "name": "Capers",
+      "amount": "15g",
+      "notes": "Rinsed and drained to remove excess salt."
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1g",
+      "notes": "Italian oregano has a more complex flavor profile than Greek oregano."
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "0.5g",
+      "notes": "Optional, for added heat."
+    }
+  ],
+  "instructions": [
+    "Combine flour, salt, sugar, and dry yeast in a large mixing bowl.",
+    "Gradually add olive oil, mixing until dough forms.",
+    "Knead dough for 10 minutes, until smooth and elastic.",
+    "Place dough in a lightly oiled bowl, cover with plastic wrap, and let rise at room temperature for 1 hour.",
+    "Preheat oven to 450°F (230°C) with a baking stone or baking sheet inside.",
+    "Divide dough into 2-3 equal pieces, depending on desired flatbread size.",
+    "Roll out each piece into a thin circle, about 1/8 inch thick.",
+    "Transfer dough to preheated stone or baking sheet, leaving space between each flatbread.",
+    "Bake for 12-15 minutes, or until crust is golden brown and crispy.",
+    "Meanwhile, mix sun-dried tomatoes, Grana Padano cheese, and chopped fresh basil in a small bowl.",
+    "Once flatbreads are done, top each with a spoonful of the sun-dried tomato mixture.",
+    "Drizzle with extra virgin olive oil and sprinkle with red pepper flakes, if using.",
+    "Serve immediately, garnished with additional basil leaves if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flatbread",
+    "italian",
+    "lombardy",
+    "sundried-tomatoes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "elevated-flaky-italian-sundried-tomatoes-flatbread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/elevated-flaky-italian-sundried-tomatoes-flatbread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:58:17Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "cure",
+    "primaryIngredient": "sun-dried tomatoes",
+    "diet": "ayurvedic-tamasic",
+    "region": "lombard",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "sundried tomatoes",
+    "descriptor": "elevated, flaky",
+    "dishForm": "flatbread"
+  }
+}
