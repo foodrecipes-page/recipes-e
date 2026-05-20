@@ -1,0 +1,117 @@
+{
+  "title": "Earthy Gooey Portuguese Meat Clay-Pot",
+  "description": "A hearty, comforting ovo-vegetarian Portuguese clay-pot dish featuring a rich, gooey sauce made with pineapple juice and served with tender meat and potatoes.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless pork shoulder",
+      "amount": "1.5 pounds",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "Cut into 1-inch wedges"
+    },
+    {
+      "name": "Pineapple juice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay pot over medium-high heat.",
+    "Add the pork and cook until browned on all sides, about 5 minutes.",
+    "Add the onion, garlic, and red bell pepper and cook until the vegetables are tender, about 5 minutes.",
+    "Add the potatoes, pineapple juice, beef broth, tomato paste, salt, and black pepper. Stir to combine.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Bake at 300°F for 2 hours, or until the meat is tender and the sauce is thick and gooey.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "clay-pot",
+    "comfort-food",
+    "high-protein",
+    "portuguese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 60,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "earthy-gooey-portuguese-meat-clay-pot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-gooey-portuguese-meat-clay-pot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:53:10Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "gooey",
+    "mood": "meal-prep",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "pineapple juice",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "meat",
+    "descriptor": "earthy gooey",
+    "dishForm": "clay-pot"
+  }
+}
