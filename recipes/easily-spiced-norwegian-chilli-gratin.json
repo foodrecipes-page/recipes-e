@@ -1,0 +1,124 @@
+{
+  "title": "easily-spiced Norwegian chilli gratin",
+  "description": "a classic norwegian dish featuring chilli, ground beef, and pillowy mashed potatoes. great for a lazy sunday with friends or family.",
+  "cuisine": "norwegian",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chilli peppers",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "canned tomato",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "mashed potatoes",
+      "amount": "3 cups",
+      "notes": ""
+    },
+    {
+      "name": "candy (such as caramel sauce)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the butter in a large pan over medium heat.",
+    "add the onion and garlic and cook until softened.",
+    "add the ground beef and cook until browned, breaking it up with a spoon.",
+    "add the chilli peppers, canned tomato, flour, and a pinch of salt and pepper. stir to combine.",
+    "bring the mixture to a simmer and cook for 10 minutes, stirring occasionally.",
+    "stir in the milk and grated cheddar cheese until melted and smooth.",
+    "add the mashed potatoes to the pan and stir to combine.",
+    "stir in the candy (such as caramel sauce).",
+    "transfer the mixture to a baking dish and top with additional grated cheese.",
+    "bake at 375 degrees Fahrenheit for 25 minutes, or until golden brown and bubbly.",
+    "serve hot, garnished with chopped fresh herbs (such as parsley or chives)."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-calorie",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 4200,
+    "protein": 240,
+    "carbs": 240,
+    "fat": 180
+  },
+  "slug": "easily-spiced-norwegian-chilli-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/easily-spiced-norwegian-chilli-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:43:36Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "pillowy",
+    "mood": "lazy-sunday",
+    "technique": "candy",
+    "primaryIngredient": "chilli",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "chilli",
+    "descriptor": "easily-spiced",
+    "dishForm": "gratin"
+  }
+}
