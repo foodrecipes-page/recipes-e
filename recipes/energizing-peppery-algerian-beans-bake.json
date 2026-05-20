@@ -1,0 +1,69 @@
+{
+  "title": "energizing peppery algerian beans bake",
+  "description": "a flavorful and energizing dish featuring baked beans, spherified with a peppery kick.",
+  "cuisine": "algerian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "great northern beans",
+      "amount": "1 cup dried",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    }
+  ],
+  "name": "garlic",
+  "amount": "3 cloves",
+  "notes": "minced",
+  "instructions": [
+    "preheat oven to 375°f.",
+    "rinse the dried great northern beans and soak them in water for at least 8 hours or overnight.",
+    "drain and rinse the soaked beans, then place them in a 9x13 inch baking dish.",
+    "mix together the olive oil, chopped onion, minced garlic, and dried thyme, then pour the mixture over the beans."
+  ],
+  "prepTimeMin": 8,
+  "cookTimeMin": 45,
+  "totalTimeMin": 53,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "gluten-free",
+    "low-carb",
+    "peppery",
+    "spherified"
+  ],
+  "nutrition": {
+    "calories": 364,
+    "protein": 18,
+    "carbs": 54,
+    "fat": 9
+  },
+  "slug": "energizing-peppery-algerian-beans-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-peppery-algerian-beans-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:56:41Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "bouncy-qq",
+    "mood": "energizing",
+    "technique": "spherify",
+    "primaryIngredient": "baked beans",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "beans",
+    "descriptor": "energizing peppery",
+    "dishForm": "Bake"
+  }
+}
