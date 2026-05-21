@@ -1,0 +1,113 @@
+{
+  "title": "Energizing Floral Ethiopian Tagine",
+  "description": "This Ethiopian-inspired dish combines the energizing properties of green chili and lacquer glaze with the comforting flavors of traditional tamasic ingredients. Serve with injera bread for a satisfying meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Green chili peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "Lacquer glaze",
+      "amount": "2 tbsp",
+      "notes": "available at Asian markets or online"
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "sweet"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Injera bread",
+      "amount": "4 slices",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add chopped onion and cook until softened, about 5 minutes.",
+    "Add minced garlic and grated ginger and cook for 1 minute.",
+    "Add shredded cabbage and cook until wilted, about 5 minutes.",
+    "Add green chili peppers, turmeric, cumin, paprika, and salt (if using). Stir to combine.",
+    "Add lacquer glaze and stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 20 minutes.",
+    "Serve over injera bread, garnished with chopped fresh cilantro (optional)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "gluten-free",
+    "one-pan",
+    "tamasic",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "energizing-floral-ethiopian-dish-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-floral-ethiopian-dish-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:24:26Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "shaggy",
+    "mood": "energizing",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "green chilli",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "ethiopian",
+    "mainIngredient": "dish",
+    "descriptor": "energizing floral",
+    "dishForm": "tagine"
+  }
+}
