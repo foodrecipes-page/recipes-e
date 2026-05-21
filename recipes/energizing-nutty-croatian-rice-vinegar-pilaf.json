@@ -1,0 +1,95 @@
+{
+  "title": "energizing nutty croatian rice vinegar pilaf",
+  "description": "nutty, shattering, and energizing croatian dish made with seasoned rice vinegar, featuring a low-calorie-friendly recipe",
+  "cuisine": "croatian",
+  "diet": [
+    "vegetarian",
+    "low-calorie"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "arborio rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "grain vinegar",
+      "amount": "6 tablespoons",
+      "notes": "preferably day-old rice for better texture.",
+      "},{": false,
+      "notes ": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "shallots",
+      "amount": "1/2 cup",
+      "notes": "minced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/4 cup",
+      "notes": "chopped,"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "season with salt to taste"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "croatian",
+    "easy-to-make",
+    "low-calorie",
+    "one-pan",
+    "veggie-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 55,
+    "fat": 12
+  },
+  "slug": "energizing-nutty-croatian-rice-vinegar-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/energizing-nutty-croatian-rice-vinegar-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:23:31Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "shattering",
+    "mood": "energizing",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "seasoned rice vinegar",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "rice vinegar",
+    "descriptor": "energizing nutty",
+    "dishForm": "Pilaf"
+  }
+}
