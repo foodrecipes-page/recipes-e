@@ -1,0 +1,96 @@
+{
+  "title": "earthy dutch biscuit",
+  "description": "crumbly biscuit dish featuring grapefruit juice and bonito flakes, suitable for satvik diet",
+  "cuisine": "dutch",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "grapefruit juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together flour, salt, and black pepper.",
+    "In a separate bowl, mix together ricotta cheese, grapefruit juice, and bonito flakes.",
+    "Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "Roll out the dough on a floured surface to about 1 inch thickness.",
+    "Cut into desired shapes using a cookie cutter or a glass.",
+    "Place biscuits on a baking sheet lined with parchment paper.",
+    "Dot the top of each biscuit with unsalted butter.",
+    "Bake for 15 minutes, or until lightly golden brown.",
+    "Allow biscuits to cool on a wire rack for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "european",
+    "one-pan",
+    "quick-fix",
+    "satvik",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "earthy-dutch-biscuit-biscuit",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/earthy-dutch-biscuit-biscuit",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:21:20Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "bonito-shave",
+    "primaryIngredient": "grapefruit juice",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "dutch",
+    "mainIngredient": "biscuit",
+    "descriptor": "earthy",
+    "dishForm": "biscuit"
+  }
+}

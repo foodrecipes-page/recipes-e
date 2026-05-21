@@ -1,0 +1,105 @@
+{
+  "title": "Exquisite French Pork Confit de Porc",
+  "description": "Pungent, crisp, and rich, this Lyon-inspired dish is perfect for a midnight craving.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salt",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Pork shoulder",
+      "amount": "2 pounds",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": "For dusting"
+    },
+    {
+      "name": "Namul-blanch-season",
+      "amount": "2 tablespoons",
+      "notes": "Or substitute with paprika and dried thyme"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 cup",
+      "notes": "For confit"
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "1 cup",
+      "notes": "For glaze"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Bay leaf",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the pork pieces with salt and black pepper.",
+    "In a large bowl, combine the flour and namul-blanch-season. Toss the pork pieces to coat evenly.",
+    "Heat the olive oil in a large Dutch oven over medium heat. Sear the pork pieces until browned on all sides, about 5 minutes per side.",
+    "Transfer the pork to a plate and set aside. Add more oil if necessary. ",
+    "Add the minced garlic to the pot and cook until fragrant, about 1 minute.",
+    "Add the water, bay leaves, and browned pork to the pot. Bring to a boil, then cover and transfer to the oven. Braise at 300°F for 2.5 hours.",
+    "Strain the juices and discard the bay leaves. Add the red wine vinegar to the pot and simmer until thickened, about 10 minutes.",
+    "Let the confit cool slightly before serving.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "french-cuisine",
+    "lyon",
+    "midnight-craving",
+    "pork-confit"
+  ],
+  "nutrition": {
+    "calories": 1080,
+    "protein": 80,
+    "carbs": 30,
+    "fat": 60
+  },
+  "slug": "exquisite-french-pork-confit-de-porc",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/exquisite-french-pork-confit-de-porc",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:21:41Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "all purpose flour",
+    "diet": "raw",
+    "region": "lyon",
+    "cuisineAdjective": "French",
+    "mainIngredient": "Pork",
+    "descriptor": "Exquisite",
+    "dishForm": "Confit de Porc"
+  }
+}

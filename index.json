@@ -1145,6 +1145,22 @@
     "shard": "e"
   },
   {
+    "slug": "earthy-dutch-biscuit-biscuit",
+    "title": "earthy dutch biscuit",
+    "tags": [
+      "crunchy",
+      "european",
+      "one-pan",
+      "quick-fix",
+      "satvik",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "dutch",
+    "totalTimeMin": 25,
+    "shard": "e"
+  },
+  {
     "slug": "earthy-dutch-coconut-stew",
     "title": "Earthy Dutch Coconut Stew",
     "tags": [
@@ -9092,6 +9108,19 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
+    "slug": "exquisite-french-pork-confit-de-porc",
+    "title": "Exquisite French Pork Confit de Porc",
+    "tags": [
+      "french-cuisine",
+      "lyon",
+      "midnight-craving",
+      "pork-confit"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 180,
     "shard": "e"
   },
   {
