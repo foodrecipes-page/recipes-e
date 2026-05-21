@@ -1,0 +1,95 @@
+{
+  "title": "easy weekend australian fregola wrap",
+  "description": "A relaxed and refreshing Australian-inspired dish featuring fregola, ssam-wrap, and lotus-leaf-wrap, perfect for a lazy Sunday.",
+  "cuisine": "australian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fregola",
+      "amount": "170g"
+    },
+    {
+      "name": "lotus leaf wraps",
+      "amount": "4",
+      "notes": "large"
+    },
+    {
+      "name": "mushroom",
+      "amount": "150g"
+    },
+    {
+      "name": "red cabbage",
+      "amount": "100g"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "25ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "20g"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "coriander",
+      "amount": "1/2 bunch",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cook the fregola according to the package instructions.",
+    "In a large pan, sauté the mushroom and red cabbage in olive oil until tender.",
+    "Add the apple cider vinegar and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Warm the lotus leaf wraps according to the package instructions.",
+    "Fill each wrap with the fregola mixture, mushroom and red cabbage mixture, and chopped coriander.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "lazy-sunday",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 65,
+    "fat": 20
+  },
+  "slug": "easy-weekend-australian-fregola-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/easy-weekend-australian-fregola-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T15:23:37Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "light",
+    "mood": "lazy-sunday",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "fregola",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "fregola",
+    "descriptor": "Easy Weekend",
+    "dishForm": "Wrap"
+  }
+}
