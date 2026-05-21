@@ -1,0 +1,107 @@
+{
+  "title": "Eggplantlicious Indian Paneer Curry",
+  "description": "An earthy and light monsoon-inspired Brazilian dish featuring panang curry paste, eggplant, paneer, and a touch of dairy-free lamination-puff. Perfect for meal prepping or quick weeknight dinners.",
+  "cuisine": "Indian-Brasillian Fusion",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Paneer",
+      "amount": 200
+    },
+    {
+      "name": "Eggplant",
+      "amount": "4 medium"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": 1
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": 20
+    },
+    {
+      "name": "Panang Curry Paste",
+      "amount": 50
+    },
+    {
+      "name": "Tamarind Paste",
+      "amount": 15
+    },
+    {
+      "name": "Water",
+      "amount": "as needed"
+    },
+    {
+      "name": "Lamination-Puff",
+      "amount": 20
+    },
+    {
+      "name": "Copper Pot",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "In a copper pot, heat the lamination-puff.",
+    "Add the onion and sauté until translucent.",
+    "Include the garlic, ginger, cumin seeds, and cook for a minute.",
+    "Mix in the Panang curry paste and stir well.",
+    "Add water as needed to reach desired consistency.",
+    "Add tamarind paste to adjust sweetness.",
+    "Fold in paneer and eggplant slices. Let simmer for 10 minutes.",
+    "Season with salt if necessary, and garnish with fresh herbs."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "copper-pot-cooking",
+    "dish-prep",
+    "healthier-paneer",
+    "light-dairy-free",
+    "monsoon-recipe",
+    "quick-fix",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "eggplantlicious-indian-paneer-curry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/eggplantlicious-indian-paneer-curry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-21T06:18:28Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "light",
+    "mood": "monsoon",
+    "technique": "lamination-puff",
+    "primaryIngredient": "panang curry paste",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Paneer",
+    "descriptor": "Eggplantlicious",
+    "dishForm": "Curry"
+  }
+}
