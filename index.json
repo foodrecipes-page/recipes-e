@@ -1646,6 +1646,20 @@
     "shard": "e"
   },
   {
+    "slug": "earthy-hearty-dutch-carrots-tagine",
+    "title": "Earthy Hearty Dutch Carrots Tagine",
+    "tags": [
+      "dutch",
+      "gluten-free",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "dutch",
+    "totalTimeMin": 60,
+    "shard": "e"
+  },
+  {
     "slug": "earthy-hearty-malaysian-wild-garlic-curry",
     "title": "Earthy Hearty Malaysian Wild Garlic Curry",
     "tags": [],
