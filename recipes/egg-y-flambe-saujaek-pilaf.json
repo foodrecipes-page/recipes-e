@@ -1,0 +1,84 @@
+{
+  "title": "Egg-y Flambe Saujaek Pilaf",
+  "description": "This egg-y flambe saeujeot-shrimp-paste pilaf combines a fermented, fluffy Argentinian dish with render-fat for a delicious and diabetic-friendly one-pot meal.",
+  "cuisine": "Argentinean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 cups long grain rice",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "1 tbsp saeujeot-shrimp-paste",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "6 eggs, beaten",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons render-fat",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup water",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Soak the rice in water for at least an hour.",
+    "Heat the render-fat in a saucepan, add saeujeot-shrimp-paste and cook until fragrant.",
+    "Add rice and stir to coat, then pour in the soaked rice. Mix well.",
+    "Bring to a boil, then reduce heat and simmer for about 15 minutes or until all liquid is absorbed.",
+    "Gently crack eggs into the pilaf mixture, stirring continuously to prevent curdling.",
+    "Cook for another minute before serving hot with a side of lemon wedges.",
+    "Sprinkle with salt and pepper according to taste."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinean-dish",
+    "diabetic-friendly",
+    "fermented-foods",
+    "flambe-cooking",
+    "one-pot-meal"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 30,
+    "carbs": 75,
+    "fat": 20
+  },
+  "slug": "egg-y-flambe-saujaek-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/egg-y-flambe-saujaek-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-21T07:09:45Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "one-pot",
+    "technique": "render-fat",
+    "primaryIngredient": "saeujeot-shrimp-paste",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Flambe",
+    "mainIngredient": "Saujaek",
+    "descriptor": "Egg-y",
+    "dishForm": "Pilaf"
+  }
+}

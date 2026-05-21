@@ -3926,6 +3926,20 @@
     "shard": "e"
   },
   {
+    "slug": "egg-y-flambe-saujaek-pilaf",
+    "title": "Egg-y Flambe Saujaek Pilaf",
+    "tags": [
+      "argentinean-dish",
+      "diabetic-friendly",
+      "fermented-foods",
+      "flambe-cooking",
+      "one-pot-meal"
+    ],
+    "cuisine": "Argentinean",
+    "totalTimeMin": 50,
+    "shard": "e"
+  },
+  {
     "slug": "egg-y-zanzibari-taro-pilaf",
     "title": "Egg-y Zanzibari Taro Pilaf",
     "tags": [
