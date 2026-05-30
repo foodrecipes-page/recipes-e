@@ -1,0 +1,81 @@
+{
+  "slug": "exquisite-melted-canadian-cheese-lasagna",
+  "title": "Canadian Cheese Lasagna",
+  "description": "A classic layered pasta dish with a Canadian twist, featuring melted cheese and exquisite flavors.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "8-10 sheets",
+      "notes": null
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup, shredded",
+      "notes": null
+    },
+    {
+      "name": "exquisite cheese",
+      "amount": "1/2 cup, shredded",
+      "notes": null
+    },
+    {
+      "name": "melted cheese",
+      "amount": "1 cup, shredded",
+      "notes": "for top layer"
+    },
+    {
+      "name": "canadian cheese",
+      "amount": "1/4 cup, shredded",
+      "notes": null
+    },
+    {
+      "name": "marinara sauce",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the lasagna noodles according to the package instructions.",
+    "In a large skillet, combine the marinara sauce and ricotta cheese (if using).",
+    "In a separate bowl, combine the shredded cheese, exquisite cheese, and canadian cheese.",
+    "Spread a layer of marinara sauce on the bottom of a 9x13 inch baking dish.",
+    "Arrange 4 lasagna noodles on top of the sauce.",
+    "Spread half of the cheese mixture on top of the noodles.",
+    "Repeat the layers, starting with the noodles, then the marinara sauce, and finally the remaining cheese mixture.",
+    "Top with melted cheese.",
+    "Cover with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Let it rest for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pasta",
+    "lasagna"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exquisite-melted-canadian-cheese-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:33:31.199Z"
+}
