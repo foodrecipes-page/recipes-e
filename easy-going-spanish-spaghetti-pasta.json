@@ -1,0 +1,77 @@
+{
+  "slug": "easy-going-spanish-spaghetti-pasta",
+  "title": "Spanish Spaghetti Pasta",
+  "description": "A simple Spanish-inspired spaghetti dish with the flavors of the Mediterranean.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Spaghetti",
+      "amount": "12 oz"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "Use a high-quality extra virgin olive oil"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 tsp",
+      "notes": "Optional for some heat"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil. Cook spaghetti according to package instructions.",
+    "In a large skillet, heat olive oil over medium heat. Add minced garlic and cook for 1-2 minutes.",
+    "Add diced tomato to the skillet and cook for 3-4 minutes, or until it starts to break down.",
+    "Add red pepper flakes (if using) to the skillet and stir to combine.",
+    "When the spaghetti is done cooking, drain it and add it to the skillet with the tomato mixture.",
+    "Toss the spaghetti in the skillet to combine, seasoning with salt and black pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "spaghetti",
+    "pasta",
+    "easy",
+    "quick",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/easy-going-spanish-spaghetti-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:48:30.162Z"
+}
