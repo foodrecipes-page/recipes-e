@@ -350,15 +350,12 @@
     "slug": "earthly-bean-delight",
     "title": "Earthly Bean Delight",
     "tags": [
-      "earthly",
-      "goosey",
-      "one-pot",
-      "italian",
-      "bean",
-      "egg-free-friendly"
+      "vegetarian",
+      "comfort-food",
+      "easy-dinner"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 40,
+    "cuisine": "vegetarian",
+    "totalTimeMin": 30,
     "shard": "e"
   },
   {
@@ -9555,17 +9552,15 @@
   },
   {
     "slug": "extra-crispy-spiced-kenyan-chicken-tagine",
-    "title": "Extra Crispy Spiced Kenyan Chicken Tagine",
+    "title": "Kenyan Chicken Tagine",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "paleo",
-      "spicy",
-      "weeknight"
+      "tagine",
+      "kenyan",
+      "chicken",
+      "stew"
     ],
     "cuisine": "kenyan",
-    "totalTimeMin": 55,
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {
