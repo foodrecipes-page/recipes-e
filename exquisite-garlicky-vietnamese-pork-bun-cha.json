@@ -1,0 +1,81 @@
+{
+  "slug": "exquisite-garlicky-vietnamese-pork-bun-cha",
+  "title": "Vietnamese-Style Grilled Pork Buns",
+  "description": "A fusion of traditional Vietnamese flavors with a modern twist, these grilled pork buns are perfect for a delicious snack or light meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Bun",
+      "amount": "8-10 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Exquisite bun sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlicky fish sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Cha (Vietnamese sausage)",
+      "amount": "4-6 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Vietnamese cilantro",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Hoagie buns",
+      "amount": "4-6",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Slice pork shoulder into thin strips and season with salt, pepper, and a drizzle of oil.",
+    "3. Grill pork for 5-7 minutes per side, or until cooked through.",
+    "4. Meanwhile, toast bun pieces on the grill or in a toaster.",
+    "5. Spread bun sauce on each toasted bun.",
+    "6. Add a few slices of grilled pork, a piece of cha, and a sprinkle of cilantro to each bun.",
+    "7. Serve immediately and garnish with a lime wedge and a few fresh mint leaves."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "grilled-pork",
+    "buns",
+    "snack"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exquisite-garlicky-vietnamese-pork-bun-cha",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:30:15.734Z"
+}
