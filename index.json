@@ -5705,16 +5705,14 @@
   },
   {
     "slug": "energizing-german-oats-pudding",
-    "title": "Energizing German Oats Pudding",
+    "title": "German Oat Pudding",
     "tags": [
-      "breakfast-ideas",
-      "german-cuisine",
-      "healthy-snacks",
-      "high-fiber",
-      "lacto-vegetarian"
+      "german",
+      "oat-pudding",
+      "breakfast"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 30,
+    "cuisine": "german",
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
