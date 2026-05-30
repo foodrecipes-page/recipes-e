@@ -3074,17 +3074,17 @@
   },
   {
     "slug": "easy-going-spanish-spaghetti-pasta",
-    "title": "Easy Going Spanish Spaghetti Pasta",
+    "title": "Spanish Spaghetti Pasta",
     "tags": [
-      "gluten-free",
-      "lazy-sunday",
-      "one-pot",
-      "pasta",
       "spanish",
-      "weeknight"
+      "spaghetti",
+      "pasta",
+      "easy",
+      "quick",
+      "veggie"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
