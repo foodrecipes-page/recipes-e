@@ -9211,13 +9211,12 @@
   },
   {
     "slug": "exquisite-garlicky-vietnamese-pork-bun-cha",
-    "title": "Exquisite Garlicky Vietnamese Pork Bun Cha",
+    "title": "Vietnamese-Style Grilled Pork Buns",
     "tags": [
-      "garlic-lovers",
-      "quick-meals",
-      "refreshing-dishes",
-      "vietnamese-cuisine",
-      "weeknight-dinners"
+      "vietnamese",
+      "grilled-pork",
+      "buns",
+      "snack"
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 35,
@@ -9343,17 +9342,14 @@
   },
   {
     "slug": "exquisite-melted-canadian-cheese-lasagna",
-    "title": "Exquisite Melted Canadian Cheese Lasagna",
+    "title": "Canadian Cheese Lasagna",
     "tags": [
-      "ayurvedic",
-      "canadian",
-      "cheesy",
-      "comfort-food",
-      "romantic",
-      "weeknight"
+      "italian",
+      "pasta",
+      "lasagna"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 70,
+    "cuisine": "Italian",
+    "totalTimeMin": 60,
     "shard": "e"
   },
   {
