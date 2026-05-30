@@ -1,0 +1,76 @@
+{
+  "slug": "energizing-german-oats-pudding",
+  "title": "German Oat Pudding",
+  "description": "A hearty German-inspired oat pudding recipe, perfect for a cold winter morning.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "1/2 cup",
+      "notes": "old-fashioned or quick oats work well"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "dairy or non-dairy milk, such as almond milk"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium saucepan, combine oats, milk, beaten eggs, honey, vanilla extract, cinnamon, and salt. Cook over medium heat, whisking constantly, until mixture comes to a boil.",
+    "Reduce heat to low and simmer for 5-7 minutes, or until oats have absorbed most of the liquid and the mixture has a creamy consistency.",
+    "Remove from heat and let cool slightly.",
+    "Transfer mixture to 2-3 individual baking dishes or ramekins.",
+    "Bake for 15-20 minutes, or until the pudding is set and the top is lightly golden.",
+    "Serve warm or chilled, garnished with additional cinnamon or a drizzle of honey, if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "oat-pudding",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-german-oats-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:40:19.335Z"
+}
