@@ -1,0 +1,88 @@
+{
+  "slug": "earthly-bean-delight",
+  "title": "Earthly Bean Delight",
+  "description": "A simple, comforting dish made with earthy beans and delightful spices.",
+  "cuisine": "vegetarian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Earthly Mushrooms",
+      "amount": "1 cup, sliced",
+      "notes": null
+    },
+    {
+      "name": "Red Kidney Beans",
+      "amount": "1 can, drained",
+      "notes": null
+    },
+    {
+      "name": "Delightful Tomato Paste",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove, minced",
+      "notes": null
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 tsp, dried",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Add mushrooms and cook for 3-4 minutes, until tender.",
+    "Add tomato paste, thyme, salt, and pepper. Cook for 1 minute.",
+    "Add red kidney beans and stir to combine.",
+    "Reduce heat to low and simmer for 10-15 minutes.",
+    "Stir in balsamic vinegar and serve hot.",
+    "Serve over rice, noodles, or enjoy on its own."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "comfort-food",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthly-bean-delight",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:24:23.202Z"
+}
