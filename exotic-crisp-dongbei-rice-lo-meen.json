@@ -1,0 +1,69 @@
+{
+  "slug": "exotic-crisp-dongbei-rice-lo-meen",
+  "title": "Dongbei-Style Crispy Rice Cakes",
+  "description": "A classic Dongbei dish with a twist, crispy rice cakes are pan-fried to perfection, served with a side of tangy meen sauce.",
+  "cuisine": "Dongbei",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "lo",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "exotic",
+      "amount": "1 cup"
+    },
+    {
+      "name": "crisp",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dongbei",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "meen",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Rinse the lo and rice together in a fine mesh strainer.",
+    "In a large mixing bowl, combine the rinsed lo and rice with the exotic and dongbei.",
+    "Mix well until everything is fully incorporated.",
+    "Knead the mixture for about 10 minutes until it becomes pliable and easy to shape.",
+    "Divide the mixture into 4 equal pieces and shape each piece into a cake.",
+    "Heat a non-stick pan or a wok over medium heat.",
+    "Add a small amount of oil to the pan and swirl it around to coat the bottom.",
+    "Pan-fry the cakes until they are golden brown on both sides.",
+    "Repeat with the remaining cakes.",
+    "While the cakes are cooking, prepare the meen sauce by mixing the meen with a little water in a small bowl.",
+    "Once the cakes are done, serve them hot with the meen sauce on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dongbei",
+    "rice-cakes",
+    "meen-sauce"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-crisp-dongbei-rice-lo-meen",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T01:37:46.962Z"
+}
