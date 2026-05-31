@@ -9948,5 +9948,18 @@
     "cuisine": "french",
     "totalTimeMin": 45,
     "shard": "e"
+  },
+  {
+    "slug": "earthly-bean-delight--italian",
+    "title": "Earthy Bean Delight",
+    "tags": [
+      "italian",
+      "vegetarian",
+      "lentil-free",
+      "bean-based"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
+    "shard": "e"
   }
 ]
