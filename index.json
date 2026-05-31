@@ -5880,18 +5880,15 @@
   },
   {
     "slug": "energizing-mexican-noodles-enchiladas",
-    "title": "Energizing Mexican Noodles Enchiladas",
+    "title": "Mexican Enchilada Noodles",
     "tags": [
-      "dolsot",
-      "enchiladas",
-      "energizing",
-      "mediterranean-friendly",
       "mexican",
+      "lunch",
       "noodles",
-      "quick"
+      "easy"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 40,
+    "cuisine": "mexican",
+    "totalTimeMin": 20,
     "shard": "e"
   },
   {
