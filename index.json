@@ -7184,17 +7184,14 @@
   },
   {
     "slug": "exotic-crisp-dongbei-rice-lo-meen",
-    "title": "Exotic Crisp Dongbei Rice Lo Meen",
+    "title": "Dongbei-Style Crispy Rice Cakes",
     "tags": [
-      "chinese-food",
-      "copper-pot",
-      "date-night",
-      "one-pot",
-      "shojin-friendly",
-      "vegetarian"
+      "dongbei",
+      "rice-cakes",
+      "meen-sauce"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 27,
+    "cuisine": "Dongbei",
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {
