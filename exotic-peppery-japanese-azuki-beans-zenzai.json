@@ -1,0 +1,71 @@
+{
+  "slug": "exotic-peppery-japanese-azuki-beans-zenzai",
+  "title": "Azuki Bean Zenzai",
+  "description": "A Japanese-inspired dessert made with azuki beans, perfect for a sweet treat.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "azuki beans",
+      "amount": "1 cup",
+      "notes": "cooked and mashed"
+    },
+    {
+      "name": "zenzai",
+      "amount": "2 tablespoons",
+      "notes": "sweet red bean paste"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for cooking the azuki beans"
+    },
+    {
+      "name": "matcha powder",
+      "amount": "1 teaspoon",
+      "notes": "optional, for added flavor"
+    },
+    {
+      "name": "exotic spices",
+      "amount": "a pinch",
+      "notes": "such as cardamom or star anise"
+    }
+  ],
+  "instructions": [
+    "Combine the azuki beans and water in a saucepan and bring to a boil.",
+    "Reduce heat and simmer for 20 minutes, or until the azuki beans are tender.",
+    "Mash the cooked azuki beans with a fork.",
+    "Combine the mashed azuki beans, zenzai, and sugar in a bowl.",
+    "Stir in the matcha powder, if using.",
+    "Add a pinch of exotic spices to taste.",
+    "Serve warm or chilled, garnished with additional zenzai and exotic spices, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "dessert",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-peppery-japanese-azuki-beans-zenzai",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:56:37.418Z"
+}
