@@ -9961,5 +9961,19 @@
     "cuisine": "italian",
     "totalTimeMin": 40,
     "shard": "e"
+  },
+  {
+    "slug": "earthy-crisp-turkish-tomato-salad--gluten-free",
+    "title": "Turkish Salad with Earthy Flair",
+    "tags": [
+      "turkish",
+      "salad",
+      "gluten-free",
+      "vegetarian",
+      "lunch"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 10,
+    "shard": "e"
   }
 ]
