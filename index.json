@@ -881,16 +881,14 @@
   },
   {
     "slug": "earthy-crisp-turkish-tomato-salad",
-    "title": "Earthy Crisp Turkish Tomato Salad",
+    "title": "Turkish Salad",
     "tags": [
       "turkish",
-      "tomato",
-      "low-fat",
-      "quick",
-      "vegetable",
+      "vegetarian",
+      "vegan",
       "salad"
     ],
-    "cuisine": "Turkish",
+    "cuisine": "turkish",
     "totalTimeMin": 10,
     "shard": "e"
   },
@@ -4080,15 +4078,15 @@
   },
   {
     "slug": "elastic-eggy-malty-pilaf",
-    "title": "Elastic Eggy Malty Pilaf",
+    "title": "Eggy Elastic Pilaf",
     "tags": [
-      "bouncy-qq",
-      "elastic-eggy-malty-pilaf",
-      "hangover-cure",
-      "one-pan"
+      "egg",
+      "elastic",
+      "malty",
+      "pilaf"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 50,
+    "cuisine": "middle-eastern",
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {
@@ -9832,15 +9830,13 @@
   },
   {
     "slug": "exuberant-filipino-coconut-tagine",
-    "title": "Exuberant Filipino Coconut Tagine",
+    "title": "Filipino Coconut Chicken Tagine",
     "tags": [
-      "ceramic-tagine",
+      "chicken",
+      "coconut",
       "filipino",
-      "high-fat",
-      "high-protein",
-      "jain-friendly",
-      "shaggy",
-      "show-off"
+      "tagine",
+      "gluten-free"
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 40,
