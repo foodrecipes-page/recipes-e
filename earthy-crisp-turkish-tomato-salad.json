@@ -1,0 +1,62 @@
+{
+  "slug": "earthy-crisp-turkish-tomato-salad",
+  "title": "Turkish Salad",
+  "description": "A simple and refreshing salad recipe inspired by Turkish cuisine.",
+  "cuisine": "turkish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Crumbs of crisp bread",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Chopped earthy lettuce",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salad dressing",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Turkish spices",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Cut the crisp bread into small pieces and set aside.",
+    "Wash the earthy lettuce and cut into small pieces.",
+    "Cut the tomatoes into small pieces.",
+    "Combine the lettuce, tomatoes, and crisp bread pieces in a large bowl.",
+    "Drizzle the salad dressing over the salad and toss to coat.",
+    "Sprinkle the Turkish spices over the salad and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "vegetarian",
+    "vegan",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 1
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-crisp-turkish-tomato-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T22:02:54.115Z"
+}
