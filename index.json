@@ -1128,17 +1128,14 @@
   },
   {
     "slug": "earthy-dense-venezuelan-tuna-chowder",
-    "title": "Earthy Dense Venezuelan Tuna Chowder",
+    "title": "Hearty Venezuelan Chowder",
     "tags": [
-      "pescatarian",
-      "southern",
       "venezuelan",
-      "dense",
-      "earthy",
-      "sick-day"
+      "chowder",
+      "fish"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 60,
+    "cuisine": "venezuelan",
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {
