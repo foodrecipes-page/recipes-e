@@ -8027,18 +8027,14 @@
   },
   {
     "slug": "exotic-peppery-japanese-azuki-beans-zenzai",
-    "title": "Exotic Peppery Japanese Azuki Beans Zenzai",
+    "title": "Azuki Bean Zenzai",
     "tags": [
-      "azuki-beans",
-      "japanese-dessert",
-      "kid-friendly",
-      "mantecare-emulsify",
-      "peppery",
-      "tohoku-specialty",
+      "japanese",
+      "dessert",
       "vegan-friendly"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 120,
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {
