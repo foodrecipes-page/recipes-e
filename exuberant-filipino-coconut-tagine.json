@@ -1,0 +1,91 @@
+{
+  "slug": "exuberant-filipino-coconut-tagine",
+  "title": "Filipino Coconut Chicken Tagine",
+  "description": "A twist on the traditional Moroccan tagine, this Filipino-inspired dish combines the rich flavors of coconut milk and spices with the bold flavors of chicken and fresh vegetables.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the onion, garlic, and ginger to the skillet and cook until the onion is translucent.",
+    "Add the chili flakes and fish sauce (if using) to the skillet and cook for 1 minute.",
+    "Add the coconut milk to the skillet and bring the mixture to a simmer.",
+    "Return the chicken to the skillet and cook until the chicken is cooked through and the sauce has thickened.",
+    "Season the sauce with salt and pepper to taste.",
+    "Serve the chicken and sauce over steamed rice, garnished with chopped cilantro.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "coconut",
+    "filipino",
+    "tagine",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 25,
+    "fat": 38
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exuberant-filipino-coconut-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T21:38:32.974Z"
+}
