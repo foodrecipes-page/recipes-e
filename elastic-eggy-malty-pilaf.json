@@ -1,0 +1,70 @@
+{
+  "slug": "elastic-eggy-malty-pilaf",
+  "title": "Eggy Elastic Pilaf",
+  "description": "A unique and tasty side dish made with eggy flavor and elastic texture, served with a malty pilaf.",
+  "cuisine": "middle-eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "3",
+      "notes": "beaten"
+    },
+    {
+      "name": "elastic",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "malty pilaf",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a bowl, mix together eggs and salt.",
+    "3. Add elastic to the bowl and mix until combined.",
+    "4. Pour the mixture into a greased baking dish.",
+    "5. Cook in the oven for 20-25 minutes or until set.",
+    "6. While the elastic mixture is cooking, heat the malty pilaf according to package instructions.",
+    "7. Once the elastic mixture is done, slice into desired portions.",
+    "8. Serve the sliced elastic mixture on top of the heated malty pilaf.",
+    "9. Garnish with black pepper to taste.",
+    "10. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egg",
+    "elastic",
+    "malty",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/elastic-eggy-malty-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T22:21:59.937Z"
+}
