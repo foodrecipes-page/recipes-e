@@ -1,0 +1,79 @@
+{
+  "slug": "exotic-tender-algerian-chicken-tagine",
+  "title": "Classic Algerian Chicken Tagine",
+  "description": "A traditional North African dish made with tender chicken, exotic spices, and a flavorful tagine sauce. This recipe is perfect for a hearty dinner.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "Algerian tagine spice blend",
+      "amount": "2 teaspoons",
+      "notes": "available at most Middle Eastern markets"
+    },
+    {
+      "name": "Exotic spices",
+      "amount": "1 teaspoon",
+      "notes": "a mix of cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use a high-quality, cold-pressed oil"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the bottom of a clay or ceramic tagine over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chicken to the tagine and cook until browned on all sides, about 5-7 minutes.",
+    "Add the Algerian tagine spice blend and exotic spices to the tagine and stir to combine.",
+    "Pour in 1 cup of water and bring the mixture to a simmer.",
+    "Add the chopped dried apricots to the tagine and continue to simmer, covered, until the chicken is cooked through and the sauce has thickened, about 20-25 minutes.",
+    "Season the tagine with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley and lemon wedges, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "chicken",
+    "tagine",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-tender-algerian-chicken-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T12:01:00.923Z"
+}
