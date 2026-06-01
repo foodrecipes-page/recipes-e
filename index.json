@@ -2120,17 +2120,15 @@
   },
   {
     "slug": "earthy-smoke-roasted-argentinian-pak-choi-gratin",
-    "title": "Earthy Smoke Roasted Argentinian Pak Choi Gratin",
+    "title": "Smoked Argentinian Pork Chop with Roasted Pak Choi",
     "tags": [
+      "grilled",
       "argentinian",
-      "gratin",
-      "pak-choi",
-      "side-dish",
-      "smoked",
-      "weeknight"
+      "pork-chops",
+      "pak-choi"
     ],
-    "cuisine": "argentinian",
-    "totalTimeMin": 45,
+    "cuisine": "Argentinian",
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
