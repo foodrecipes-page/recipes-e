@@ -1,0 +1,91 @@
+{
+  "slug": "earthly-fermented-portuguese-apple-dumplings",
+  "title": "Portuguese Fermented Dumplings",
+  "description": "A unique fusion of traditional Portuguese flavors with the earthy taste of fermented ingredients, all wrapped up in a delicious dumpling package.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Portuguese Dumpling Wrappers",
+      "amount": "1 package",
+      "notes": "available at most Asian grocery stores"
+    },
+    {
+      "name": "Fermented Earthy Mushrooms",
+      "amount": "1 cup",
+      "notes": "such as shiitake or oyster mushrooms"
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "2 tablespoons",
+      "notes": "adds a tangy flavor"
+    },
+    {
+      "name": "Earthly Sweet Potato",
+      "amount": "1 medium",
+      "notes": "boiled and diced"
+    },
+    {
+      "name": "Fermented Portuguese Cheese",
+      "amount": "1/2 cup",
+      "notes": "such as Queijo de Cabra"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "used to bring out flavors"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "used to bring out flavors"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": "used for pan-frying"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a large skillet or wok over medium-high heat.",
+    "2. Add the olive oil and swirl to coat the pan.",
+    "3. Add the fermented earthy mushrooms and cook until they're tender and lightly browned.",
+    "4. Add the boiled and diced sweet potato and cook for an additional 2-3 minutes.",
+    "5. In a large bowl, combine the cooked mushroom and sweet potato mixture with the fermented Portuguese cheese.",
+    "6. Season with salt and black pepper to taste.",
+    "7. Lay out a dumpling wrapper on a clean surface and place a tablespoon of the filling in the center.",
+    "8. Fold the wrapper into a triangle by bringing the two opposite corners together to form a point.",
+    "9. Press the edges together to seal the dumpling and repeat with the remaining wrappers and filling.",
+    "10. Pan-fry the dumplings until they're golden brown on the bottom, then serve hot garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "fermented",
+    "dumplings",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthly-fermented-portuguese-apple-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T06:51:38.355Z"
+}
