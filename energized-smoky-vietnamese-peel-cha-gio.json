@@ -1,0 +1,90 @@
+{
+  "slug": "energized-smoky-vietnamese-peel-cha-gio",
+  "title": "Vietnamese Smoked Pork Noodle Soup (Gio Cuon)",
+  "description": "A flavorful Vietnamese soup made with smoked pork, noodles, and fresh herbs. This dish is perfect for a warm and comforting meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked pork",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Vietnamese rice noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Peel of 1 lime",
+      "amount": "sliced",
+      "notes": "optional"
+    },
+    {
+      "name": "Fresh herbs (basil, mint, cilantro)",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add ginger and onion and sauté until fragrant.",
+    "Add garlic and cook for 1 minute.",
+    "Add smoked pork and cook until browned.",
+    "Add fish sauce, soy sauce, and 4 cups of water.",
+    "Bring to a boil and then simmer for 10 minutes.",
+    "Cook noodles according to package instructions.",
+    "Assemble bowls with noodles, pork, and herbs.",
+    "Serve hot and garnish with lime peel (if using)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "soup",
+    "pork",
+    "noodle"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 55,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energized-smoky-vietnamese-peel-cha-gio",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T06:52:34.912Z"
+}
