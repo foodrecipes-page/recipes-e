@@ -101,14 +101,16 @@
   },
   {
     "slug": "earth-baked-quinoa-feast",
-    "title": "Earth Baked Quinoa Feast",
+    "title": "Baked Earth Feast",
     "tags": [
-      "earth_baked_quinoa",
-      "indian_snack",
-      "low_fat"
+      "earth",
+      "quinoa",
+      "baked",
+      "vegan",
+      "gluten-free"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 60,
     "shard": "e"
   },
   {
@@ -7150,17 +7152,14 @@
   },
   {
     "slug": "exotic-chinese-squid-salt-and-pepper-squid",
-    "title": "Exotic Chinese Squid Salt And Pepper Squid",
+    "title": "Pan-Seared Squid with Asian Flair",
     "tags": [
-      "chinese-food",
-      "flexitarian",
-      "one-pan",
-      "quick-fix",
-      "seafood",
-      "spicy"
+      "squid",
+      "chinese",
+      "seafood"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 25,
+    "cuisine": "chinese",
+    "totalTimeMin": 18,
     "shard": "e"
   },
   {
@@ -9981,6 +9980,19 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
+    "slug": "exuberant-filipino-coconut-tagine--japanese",
+    "title": "Coconut Tagine Chicken Teriyaki",
+    "tags": [
+      "chicken",
+      "coconut",
+      "teriyaki",
+      "japanese"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
     "shard": "e"
   }
 ]
