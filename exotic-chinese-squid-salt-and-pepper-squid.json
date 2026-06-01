@@ -1,0 +1,79 @@
+{
+  "slug": "exotic-chinese-squid-salt-and-pepper-squid",
+  "title": "Pan-Seared Squid with Asian Flair",
+  "description": "A delicious and easy-to-make squid dish with a Chinese twist, featuring a flavorful marinade and a crispy sear.",
+  "cuisine": "chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Squid",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Exotic oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Chinese soy sauce",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Rinse the squid and pat it dry with paper towels.",
+    "2. In a small bowl, whisk together the exotic oil, soy sauce, ginger, and garlic to make the marinade.",
+    "3. Add the squid to the marinade and coat it evenly.",
+    "4. Let the squid marinate for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "5. Preheat a skillet or wok over medium-high heat.",
+    "6. Remove the squid from the marinade, letting any excess liquid drip off.",
+    "7. Add the squid to the skillet and sear for 2-3 minutes on each side, or until it's golden brown and cooked through.",
+    "8. Season with salt and pepper to taste.",
+    "9. Serve the squid hot and enjoy!",
+    "10. Garnish with chopped scallions or sesame seeds, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "squid",
+    "chinese",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-chinese-squid-salt-and-pepper-squid",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T10:30:04.953Z"
+}
