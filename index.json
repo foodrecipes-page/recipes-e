@@ -2108,16 +2108,15 @@
   },
   {
     "slug": "earthy-slovakian-squid-skewers",
-    "title": "Earthy Slovakian Squid Skewers",
+    "title": "Slovakian Grilled Squid Skewers",
     "tags": [
-      "flexitarian",
-      "high-protein",
-      "one-pan",
-      "seafood",
-      "weeknight"
+      "grilled",
+      "skewers",
+      "squid",
+      "slovakian"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 28,
+    "totalTimeMin": 20,
     "shard": "e"
   },
   {
@@ -8650,18 +8649,15 @@
   },
   {
     "slug": "exotic-tender-algerian-chicken-tagine",
-    "title": "Exotic Tender Algerian Chicken Tagine",
+    "title": "Classic Algerian Chicken Tagine",
     "tags": [
-      "algerian-cuisine",
-      "chicken-recipes",
-      "comfort-food",
-      "gluten-free",
-      "one-pot",
-      "sick-day",
-      "tandoor-recipes"
+      "algerian",
+      "chicken",
+      "tagine",
+      "north-african"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 60,
+    "cuisine": "North African",
+    "totalTimeMin": 45,
     "shard": "e"
   },
   {
