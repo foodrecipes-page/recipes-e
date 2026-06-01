@@ -1,0 +1,90 @@
+{
+  "slug": "exotic-crisp-dongbei-rice-lo-meen--german",
+  "title": "Dongbei-Style German Sausage with Crisp Rice Cakes",
+  "description": "A fusion dish that combines the flavors of Dongbei cuisine with traditional German sausage, served with crispy rice cakes.",
+  "cuisine": "german",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "German sausage",
+      "amount": "1 pound",
+      "notes": "such as bratwurst or knockwurst"
+    },
+    {
+      "name": "Dongbei-style fermented soybean paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "crisp rice cakes",
+      "amount": "1 package",
+      "notes": "available in most Asian grocery stores"
+    },
+    {
+      "name": "lo mein noodles",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "meen chow mein sauce",
+      "amount": "1/4 cup",
+      "notes": "available in most Asian grocery stores"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "exotic spices",
+      "amount": "1 teaspoon",
+      "notes": "such as Szechuan peppercorns or star anise"
+    },
+    {
+      "name": "oil for frying",
+      "amount": null
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for cooking sausage"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add the German sausage and cook until browned, about 5 minutes.",
+    "Remove the sausage from the skillet and set aside.",
+    "Add the Dongbei-style fermented soybean paste to the skillet and stir to combine with the oil.",
+    "Add the cooked lo mein noodles to the skillet and stir to combine with the soybean paste.",
+    "Add the meen chow mein sauce to the skillet and stir to combine.",
+    "Return the sausage to the skillet and stir to combine.",
+    "Reduce heat to low and simmer for 5 minutes.",
+    "Serve the sausage and noodle mixture over crispy rice cakes.",
+    "Garnish with exotic spices and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-cuisine",
+    "dongbei-cuisine",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-crisp-dongbei-rice-lo-meen--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T09:37:33.305Z"
+}
