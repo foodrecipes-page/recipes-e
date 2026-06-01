@@ -418,17 +418,16 @@
   },
   {
     "slug": "earthly-fermented-portuguese-apple-dumplings",
-    "title": "Earthly Fermented Portuguese Apple Dumplings",
+    "title": "Portuguese Fermented Dumplings",
     "tags": [
-      "desserts",
-      "fermented-foods",
-      "gluten-free",
-      "lotus-leaf",
-      "portuguese-cuisine",
-      "traditional-recipes"
+      "portuguese",
+      "fermented",
+      "dumplings",
+      "snack",
+      "vegetarian"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {
@@ -5007,13 +5006,12 @@
   },
   {
     "slug": "energized-smoky-vietnamese-peel-cha-gio",
-    "title": "Energized Smoky Vietnamese Peel Cha Gio",
+    "title": "Vietnamese Smoked Pork Noodle Soup (Gio Cuon)",
     "tags": [
-      "cazuela",
-      "crispy",
-      "herbal",
-      "kosher-friendly",
-      "monsoon"
+      "vietnamese",
+      "soup",
+      "pork",
+      "noodle"
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 35,
