@@ -1,0 +1,66 @@
+{
+  "slug": "ezzy-springy-ethipian-daikon-pilaf",
+  "title": "Pan-Seared Daikon with Ezzy Pilaf",
+  "description": "A simple and flavorful dish that pairs the sweetness of daikon with the nuttiness of ezzy. Serve as a side or add to your favorite meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Daikon",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Ezzy",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Springy",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ethipian",
+      "amount": "2 tsp",
+      "notes": "ground spices"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium-high heat.",
+    "Add daikon and cook for 5 minutes.",
+    "Add springy and cook for an additional 2 minutes.",
+    "Add ezzy and ethipian spices, stir to combine.",
+    "Cook for 2 more minutes.",
+    "Serve with pilaf."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "daikon",
+    "ezzy",
+    "pilaf",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ezzy-springy-ethipian-daikon-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T08:43:01.463Z"
+}
