@@ -1,0 +1,55 @@
+{
+  "slug": "earth-apple-fold",
+  "title": "Earthy Apple Delight",
+  "description": "A simple and healthy dessert made with apples and earthy flavor.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "apple",
+      "amount": "2 large"
+    },
+    {
+      "name": "earth",
+      "amount": "1 tablespoon activated charcoal powder (as earth substitute)"
+    },
+    {
+      "name": "fold",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Wash and peel the apples, then cut them into small pieces.",
+    "3. In a bowl, mix the apple pieces with earth (activated charcoal powder).",
+    "4. Fold the mixture gently to combine.",
+    "5. Transfer the mixture to a baking dish and bake for 20 minutes.",
+    "6. Remove from the oven and let cool.",
+    "7. Serve warm and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "apple",
+    "easy",
+    "healthy",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 0.5,
+    "carbs": 22,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earth-apple-fold",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T09:10:19.655Z"
+}
