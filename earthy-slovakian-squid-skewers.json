@@ -1,0 +1,85 @@
+{
+  "slug": "earthy-slovakian-squid-skewers",
+  "title": "Slovakian Grilled Squid Skewers",
+  "description": "A traditional Slovakian dish featuring marinated squid grilled to perfection on skewers. This recipe is perfect for a summer evening.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Squid tubes",
+      "amount": "1 pound",
+      "notes": "about 12-15 tubes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Earthy mushrooms",
+      "amount": "1 cup",
+      "notes": "such as chanterelle or oyster"
+    },
+    {
+      "name": "Skewers",
+      "amount": "12",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, combine squid tubes, olive oil, garlic, paprika, salt, and black pepper. Toss to coat.",
+    "3. Thread squid tubes, mushrooms, and butter onto skewers.",
+    "4. Grill skewers for 8-10 minutes, turning occasionally, or until squid is cooked through and mushrooms are tender.",
+    "5. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "skewers",
+    "squid",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-slovakian-squid-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T12:31:23.855Z"
+}
