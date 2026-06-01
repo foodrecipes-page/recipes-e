@@ -1,0 +1,91 @@
+{
+  "slug": "exuberant-filipino-coconut-tagine--japanese",
+  "title": "Coconut Tagine Chicken Teriyaki",
+  "description": "A unique fusion of Japanese and Moroccan flavors in a delicious chicken teriyaki dish.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "teriyaki sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "1 teaspoon",
+      "notes": "for added depth"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, whisk together teriyaki sauce, soy sauce, brown sugar, ginger, garlic, and tagine spice blend. Add chicken and marinate for at least 30 minutes.",
+    "Remove chicken from marinade and cook in a hot skillet with coconut oil until browned on both sides.",
+    "Transfer chicken to a baking dish and pour in coconut milk. Cover with foil and bake for 20-25 minutes or until cooked through.",
+    "While chicken is cooking, prepare a side of steamed vegetables or stir-fried noodles.",
+    "Garnish with green onions and serve hot over the prepared side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "coconut",
+    "teriyaki",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exuberant-filipino-coconut-tagine--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T10:05:18.736Z"
+}
