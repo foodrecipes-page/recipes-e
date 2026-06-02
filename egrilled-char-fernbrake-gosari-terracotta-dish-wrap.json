@@ -1,0 +1,69 @@
+{
+  "slug": "egrilled-char-fernbrake-gosari-terracotta-dish-wrap",
+  "title": "Grilled Gosari Wrap",
+  "description": "A flavorful Korean-style dish featuring crispy grilled fernbrake gosari, wrapped in a warm terracotta wrap with a side of charred egrilled.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gosari",
+      "amount": "1 bunch",
+      "notes": "Korean-style fernbrake"
+    },
+    {
+      "name": "Egrilled",
+      "amount": "1 cup",
+      "notes": "marinated and grilled"
+    },
+    {
+      "name": "Char",
+      "amount": "2 tablespoons",
+      "notes": "charred and flaked"
+    },
+    {
+      "name": "Terracotta Wrap",
+      "amount": "1 wrap",
+      "notes": "large, warm wrap"
+    },
+    {
+      "name": "Dish",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Marinate egrilled in your favorite Korean-inspired sauce for at least 30 minutes.",
+    "3. Grill egrilled for 2-3 minutes per side, or until crispy and slightly charred.",
+    "4. Meanwhile, wrap the terracotta wrap in foil and warm it in the oven at 350°F (180°C) for 5 minutes.",
+    "5. Slice the grilled egrilled into thin strips.",
+    "6. Add a handful of gosari to each wrap, followed by a few slices of grilled egrilled.",
+    "7. Drizzle with char, and serve immediately.",
+    "8. Enjoy with a side of charred egrilled, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "grilled",
+    "wrap",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/egrilled-char-fernbrake-gosari-terracotta-dish-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T21:09:25.130Z"
+}
