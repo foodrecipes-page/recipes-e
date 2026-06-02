@@ -9990,5 +9990,19 @@
     "cuisine": "japanese",
     "totalTimeMin": 40,
     "shard": "e"
+  },
+  {
+    "slug": "earthy-dense-venezuelan-tuna-chowder--mexican",
+    "title": "Tuna Tostada",
+    "tags": [
+      "mexican",
+      "seafood",
+      "tuna",
+      "chorizo",
+      "salsa"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 16,
+    "shard": "e"
   }
 ]
