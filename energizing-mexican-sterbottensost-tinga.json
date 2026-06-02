@@ -1,0 +1,89 @@
+{
+  "slug": "energizing-mexican-sterbottensost-tinga",
+  "title": "Tinga Tacos with Sterbottensost",
+  "description": "A spicy and savory twist on traditional Mexican tacos, topped with a tangy Swedish cheese.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "corn tortillas",
+      "amount": "8-10",
+      "notes": "look for gluten-free option"
+    },
+    {
+      "name": "tinga",
+      "amount": "1 lb",
+      "notes": "shredded chicken in chipotle tomato sauce"
+    },
+    {
+      "name": "sterbottensost",
+      "amount": "1/2 cup, crumbled",
+      "notes": "Swedish Västerbottensost cheese"
+    },
+    {
+      "name": "energizing salsa",
+      "amount": "1/2 cup",
+      "notes": "mild, store-bought or homemade"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "4",
+      "notes": "for serving"
+    },
+    {
+      "name": "avocado, sliced",
+      "amount": "2",
+      "notes": "for serving"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for brushing tortillas"
+    }
+  ],
+  "instructions": [
+    "Preheat a dry griddle or skillet over medium heat.",
+    "Brush tortillas with olive oil and warm on griddle for 30 seconds on each side.",
+    "Spoon tinga onto warmed tortillas and top with crumbled sterbottensost.",
+    "Drizzle with energizing salsa and sprinkle with chopped cilantro.",
+    "Serve with sliced avocado and lime wedges on the side.",
+    "Fold tortillas in half to enclose filling.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "tacos",
+    "tinga",
+    "sterbottensost",
+    "swedish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-mexican-sterbottensost-tinga",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T19:33:03.139Z"
+}
