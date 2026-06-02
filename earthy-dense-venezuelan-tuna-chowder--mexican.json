@@ -1,0 +1,90 @@
+{
+  "slug": "earthy-dense-venezuelan-tuna-chowder--mexican",
+  "title": "Tuna Tostada",
+  "description": "A flavorful Mexican-inspired dish featuring seared tuna, served on a crispy corn tortilla with a side of earthy, dense salsa.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tuna Steaks",
+      "amount": "4 ounces",
+      "notes": "Fresh, sushi-grade tuna"
+    },
+    {
+      "name": "Corn Tortillas",
+      "amount": "4",
+      "notes": "Look for corn tortillas that are free from additives"
+    },
+    {
+      "name": "Earthy, Dense Salsa",
+      "amount": "1/2 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Venezuelan Chorizo",
+      "amount": "1/4 cup",
+      "notes": "Cooked, crumbled"
+    },
+    {
+      "name": "Chopped Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Fresh, chopped"
+    },
+    {
+      "name": "Lime Wedges",
+      "amount": "2",
+      "notes": "Fresh, for serving"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Grilled Onion",
+      "amount": "1/4 cup",
+      "notes": "Cooked, diced"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Season the tuna steaks with salt and pepper.",
+    "3. Grill the tuna steaks for 2-3 minutes per side, or until cooked to your desired level of doneness.",
+    "4. Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "5. Toast the tortillas on the grill or in a dry skillet for 1-2 minutes per side.",
+    "6. Assemble the tostadas by spreading a layer of earthy, dense salsa on each tortilla.",
+    "7. Top the salsa with a piece of grilled tuna, some crumbled Venezuelan chorizo, and a sprinkle of chopped cilantro.",
+    "8. Serve immediately with a lime wedge on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "seafood",
+    "tuna",
+    "chorizo",
+    "salsa"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-dense-venezuelan-tuna-chowder--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T15:40:49.187Z"
+}
