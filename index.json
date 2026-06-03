@@ -333,17 +333,16 @@
   },
   {
     "slug": "earthly-algerian-lentil-stew",
-    "title": "Earthly Algerian Lentil Stew",
+    "title": "Algerian Stew",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "high-fiber",
-      "one-pot",
+      "algerian",
+      "lentil",
+      "stew",
       "vegetarian",
-      "weeknight"
+      "vegan"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 50,
     "shard": "e"
   },
   {
@@ -10010,6 +10009,20 @@
     ],
     "cuisine": null,
     "totalTimeMin": 50,
+    "shard": "e"
+  },
+  {
+    "slug": "earthy-slovakian-squid-skewers--italian",
+    "title": "Grilled Squid with Earthy Slovakian Skewers",
+    "tags": [
+      "italian",
+      "grilled",
+      "squid",
+      "skewers",
+      "summer"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "e"
   }
 ]
