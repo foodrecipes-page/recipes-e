@@ -1847,18 +1847,16 @@
   },
   {
     "slug": "earthy-light-mediterranean-chives-borek",
-    "title": "Earthy Light Mediterranean Chives Borek",
+    "title": "Chives and Earthy Borek",
     "tags": [
-      "breakfast-option",
-      "gluten-free",
       "mediterranean",
-      "one-pan",
+      "vegetarian",
       "snack",
-      "vegan-option",
-      "weeknight"
+      "flaky",
+      "mushroom"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "cuisine": "mediterranean",
+    "totalTimeMin": 40,
     "shard": "e"
   },
   {
@@ -5541,17 +5539,14 @@
   },
   {
     "slug": "energizing-filipino-fish-skewers",
-    "title": "Energizing Filipino Fish Skewers",
+    "title": "Filipino Grilled Fish Skewers",
     "tags": [
-      "filipino-food",
-      "grilled",
-      "healthy",
-      "pescatarian",
-      "seafood",
+      "filipino",
+      "fish",
       "skewers"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 50,
+    "cuisine": "filipino",
+    "totalTimeMin": 32,
     "shard": "e"
   },
   {
