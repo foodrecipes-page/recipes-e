@@ -10019,5 +10019,18 @@
     "cuisine": "italian",
     "totalTimeMin": 25,
     "shard": "e"
+  },
+  {
+    "slug": "earthy-light-mediterranean-chives-borek--keto",
+    "title": "Keto Mediterranean Borek",
+    "tags": [
+      "keto",
+      "mediterranean",
+      "breakfast",
+      "snack"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
+    "shard": "e"
   }
 ]
