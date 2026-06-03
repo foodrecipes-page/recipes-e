@@ -1,0 +1,83 @@
+{
+  "slug": "energizing-filipino-fish-skewers",
+  "title": "Filipino Grilled Fish Skewers",
+  "description": "A flavorful and easy-to-make dish from the Philippines, perfect for a quick lunch or dinner. This recipe features fish marinated in a mixture of Filipino spices and grilled to perfection.",
+  "cuisine": "filipino",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish fillets (about 500g)",
+      "amount": "4-6 pieces",
+      "notes": "such as tilapia or catfish"
+    },
+    {
+      "name": "Pineapple juice",
+      "amount": "1/2 cup",
+      "notes": "or a mixture of pineapple and orange juice"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing the grill"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "2 teaspoons",
+      "notes": "or 3 cloves of minced garlic"
+    },
+    {
+      "name": "Onion powder",
+      "amount": "1 teaspoon",
+      "notes": "or 1/2 cup of sliced onions"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "or 1 lime, cut into wedges"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together pineapple juice, garlic powder, onion powder, black pepper, and salt.",
+    "2. Add the fish fillets to the marinade and mix to coat.",
+    "3. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes or up to 2 hours.",
+    "4. Preheat the grill to medium-high heat.",
+    "5. Remove the fish from the marinade, letting any excess liquid drip off.",
+    "6. Thread the fish onto skewers, leaving a small space between each piece.",
+    "7. Brush the grill with vegetable oil to prevent sticking.",
+    "8. Grill the fish for 4-6 minutes per side, or until cooked through.",
+    "9. Serve the fish hot, garnished with lime wedges and a sprinkle of salt."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "fish",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 8,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-filipino-fish-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T04:26:59.525Z"
+}
