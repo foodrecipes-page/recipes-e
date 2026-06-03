@@ -7678,17 +7678,14 @@
   },
   {
     "slug": "exotic-egyptian-lentil-flatbread",
-    "title": "Exotic Egyptian Lentil Flatbread",
+    "title": "Egyptian Lentil Stew",
     "tags": [
-      "comal-cooked",
-      "jain-friendly",
-      "lentil-based",
-      "middle-eastern",
-      "quick-fix",
+      "lentil",
+      "egyptian",
       "vegetarian"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {
