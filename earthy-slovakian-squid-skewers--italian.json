@@ -1,0 +1,91 @@
+{
+  "slug": "earthy-slovakian-squid-skewers--italian",
+  "title": "Grilled Squid with Earthy Slovakian Skewers",
+  "description": "A unique Italian-inspired dish featuring succulent squid and earthy Slovakian vegetables, perfect for a summer evening. Skewers are easy to make and can be customized with your favorite ingredients.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "slovakian sausage",
+      "amount": "1 pound",
+      "notes": "you can substitute with any vegetarian sausage for a vegan option"
+    },
+    {
+      "name": "squid",
+      "amount": "1 pound",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": "any color, sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2",
+      "notes": "cherry or grape, halved"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "basil",
+      "amount": "1/4 cup",
+      "notes": "fresh, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, garlic, and basil.",
+    "Add sliced onions and mushrooms to the bowl, toss to coat.",
+    "Thread onion and mushroom mixture onto skewers, leaving a little space between each piece.",
+    "Season with salt and pepper to taste.",
+    "Brush squid with olive oil and season with salt and pepper.",
+    "Grill squid for 2-3 minutes per side, or until cooked through.",
+    "Grill skewers for 5-7 minutes per side, or until vegetables are tender.",
+    "Serve squid with skewers and a side of your favorite pasta or salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "grilled",
+    "squid",
+    "skewers",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 34,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-slovakian-squid-skewers--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T00:57:16.680Z"
+}
