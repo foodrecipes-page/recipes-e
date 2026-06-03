@@ -1,0 +1,101 @@
+{
+  "slug": "earthly-algerian-lentil-stew",
+  "title": "Algerian Stew",
+  "description": "A hearty and flavorful stew originating from Algeria, made with lentils and a rich blend of spices.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup dried",
+      "notes": ""
+    },
+    {
+      "name": "earthly",
+      "amount": "2 medium carrots",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "algerian",
+      "amount": "2 medium potatoes",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic, cook until softened.",
+    "Add carrots and potatoes, cook for 5 minutes.",
+    "Add lentils, cumin, coriander, paprika, salt, and black pepper. Stir to combine.",
+    "Add tomato paste, stir to combine.",
+    "Add 4 cups of water, bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 30 minutes.",
+    "Check that lentils are tender, adjust seasoning as needed.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "lentil",
+    "stew",
+    "vegetarian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthly-algerian-lentil-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T01:34:01.738Z"
+}
