@@ -1,0 +1,70 @@
+{
+  "slug": "exotic-egyptian-lentil-flatbread",
+  "title": "Egyptian Lentil Stew",
+  "description": "A hearty and flavorful stew made with lentils, exotic spices, and served with crispy flatbread.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "exotic spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "flatbread",
+      "amount": "4-6 slices",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add lentils, spice blend, cumin, coriander, and salt. Stir to combine.",
+    "Add 4 cups of water and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20-25 minutes or until lentils are tender.",
+    "Serve with flatbread on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil",
+    "egyptian",
+    "vegetarian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-egyptian-lentil-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T23:50:12.852Z"
+}
