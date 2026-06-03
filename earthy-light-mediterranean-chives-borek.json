@@ -1,0 +1,86 @@
+{
+  "slug": "earthy-light-mediterranean-chives-borek",
+  "title": "Chives and Earthy Borek",
+  "description": "A flavorful twist on traditional borek, featuring earthy mushrooms and chives.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Phyllo dough",
+      "amount": "1 package (usually 20-24 sheets)",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms (earthy)",
+      "amount": "1 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Chives",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Feta cheese (optional)",
+      "amount": "1/2 cup, crumbled",
+      "notes": "omit for vegetarian version"
+    },
+    {
+      "name": "Spinach",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Thaw the phyllo dough according to package instructions.",
+    "In a pan, heat olive oil over medium heat. Add the mushrooms and cook until they release their moisture and start browning.",
+    "Add the chopped chives, spinach, salt, and pepper to the pan and cook for another minute.",
+    "Unroll the phyllo dough and cut it into 4 equal pieces.",
+    "Place a piece of phyllo on a flat surface and brush it with some oil. Repeat with the remaining pieces.",
+    "Place a spoonful of the mushroom mixture onto the center of one piece of phyllo, and fold the dough over the filling to form a triangle.",
+    "Brush the top of the borek with some oil and repeat with the remaining pieces.",
+    "Place the borek on a baking sheet lined with parchment paper and bake for 20-25 minutes, or until golden brown.",
+    "Serve warm, garnished with additional chives if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "vegetarian",
+    "snack",
+    "flaky",
+    "mushroom"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-light-mediterranean-chives-borek",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T04:23:38.614Z"
+}
