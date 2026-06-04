@@ -1,0 +1,98 @@
+{
+  "slug": "earthy-juicy-norwegian-lamb-stew",
+  "title": "Norwegian Lamb Stew",
+  "description": "A hearty, comforting stew from Norway, featuring tender lamb and a rich broth. Perfect for a cold winter's day.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": null
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3 large",
+      "notes": null
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Thyme",
+      "amount": "2 sprigs",
+      "notes": null
+    },
+    {
+      "name": "Earthy salt",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the lamb with earthy salt and black pepper.",
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb on all sides, about 5 minutes.",
+    "Remove the lamb and set aside.",
+    "Add more oil if necessary, then sauté the onions and garlic until softened.",
+    "Add the carrots and potatoes, cooking for 5 minutes.",
+    "Add the flour and cook for 1 minute.",
+    "Add the broth, wine, and thyme, stirring to combine.",
+    "Return the lamb to the pot, cover, and transfer to the preheated oven.",
+    "Braise for 2 1/2 hours, or until the lamb is tender.",
+    "Serve hot, garnished with fresh thyme."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "lamb",
+    "stew",
+    "comforting",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-juicy-norwegian-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T19:28:27.595Z"
+}
