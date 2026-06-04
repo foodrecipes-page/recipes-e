@@ -689,16 +689,16 @@
   },
   {
     "slug": "earthy-cinnamon-chinese-beef-stir-fry",
-    "title": "Earthy Cinnamon Chinese Beef Stir-fry",
+    "title": "Cinnamon Beef Stir Fry",
     "tags": [
-      "earthy",
-      "crisp",
-      "nostalgic",
-      "chinese-beef-stir-fry",
-      "mediterranean-friendly"
+      "beef",
+      "chinese",
+      "cinnamon",
+      "stir-fry",
+      "easy"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 22,
     "shard": "e"
   },
   {
