@@ -1,0 +1,85 @@
+{
+  "slug": "exquisite-briny-middle-eastern-lamb-kibbeh",
+  "title": "Eastern-Style Lamb Kibbeh",
+  "description": "A flavorful and exotic Middle Eastern dish made with lamb and kibbeh, perfect for a special occasion. This recipe features a delicate balance of spices and a crispy exterior.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground lamb",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Kibbeh",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Middle eastern spices",
+      "amount": "2 teaspoons",
+      "notes": "A blend of cumin, coriander, and paprika"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the ground lamb and cook until browned, breaking it up with a spoon as it cooks.",
+    "Stir in the kibbeh, Middle Eastern spices, and salt. Cook for 1-2 minutes.",
+    "Transfer the mixture to a baking dish and shape into a flat layer.",
+    "Bake for 20-25 minutes, or until the top is crispy and golden brown.",
+    "Garnish with chopped parsley, if desired.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kibbeh",
+    "middle-eastern",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exquisite-briny-middle-eastern-lamb-kibbeh",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T19:19:04.626Z"
+}
