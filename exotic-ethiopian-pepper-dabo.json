@@ -1,0 +1,93 @@
+{
+  "slug": "exotic-ethiopian-pepper-dabo",
+  "title": "Dabo Pepper Stew",
+  "description": "A flavorful and spicy stew made with dabo, exotic spices, and peppers. This dish is inspired by traditional Ethiopian cuisine.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dabo",
+      "amount": "2 cups",
+      "notes": "use fresh or frozen dabo"
+    },
+    {
+      "name": "Exotic spices",
+      "amount": "2 tsp",
+      "notes": "use a mix of berbere, cumin, and coriander"
+    },
+    {
+      "name": "Red pepper",
+      "amount": "1 large",
+      "notes": "use a sweet or hot pepper of your choice"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "for stewing"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion, ginger, and garlic; cook until onion is translucent.",
+    "Add red pepper; cook for 2-3 minutes.",
+    "Add dabo, exotic spices, salt, and black pepper; stir to combine.",
+    "Add water; bring to a boil.",
+    "Reduce heat to low; simmer for 20-25 minutes.",
+    "Serve hot, garnished with chopped peppers or herbs."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "stew",
+    "dabo",
+    "pepper"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-ethiopian-pepper-dabo",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T20:42:23.940Z"
+}
