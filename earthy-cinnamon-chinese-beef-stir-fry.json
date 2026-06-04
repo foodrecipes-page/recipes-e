@@ -1,0 +1,63 @@
+{
+  "slug": "earthy-cinnamon-chinese-beef-stir-fry",
+  "title": "Cinnamon Beef Stir Fry",
+  "description": "A quick and flavorful stir fry made with beef, earthy mushrooms, and warm cinnamon. Serve over rice or noodles for a satisfying meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (sirloin or ribeye)",
+      "amount": "1 pound",
+      "notes": "Cut into thin strips"
+    },
+    {
+      "name": "Earthy mushrooms (button or cremini)",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the beef and cook until browned, about 3-4 minutes. Remove from the wok and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the wok and stir-fry the mushrooms until they release their liquid and start to brown.",
+    "Add the garlic and stir-fry for 1 minute, until fragrant.",
+    "Return the beef to the wok and stir in the cinnamon.",
+    "Cook for an additional 2-3 minutes, until the beef is cooked to your desired level of doneness.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "chinese",
+    "cinnamon",
+    "stir-fry",
+    "easy"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-cinnamon-chinese-beef-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T08:18:15.488Z"
+}
