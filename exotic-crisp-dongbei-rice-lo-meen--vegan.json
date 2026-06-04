@@ -1,0 +1,80 @@
+{
+  "slug": "exotic-crisp-dongbei-rice-lo-meen--vegan",
+  "title": "Dongbei Vegan Lo Rice Bowl",
+  "description": "A hearty, flavorful bowl filled with Dongbei-style lo, served over rice and topped with crisp vegetables.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lo",
+      "amount": "1 cup",
+      "notes": "preferably Dongbei-style"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "preferably short-grain"
+    },
+    {
+      "name": "dongbei",
+      "amount": "1 tablespoon",
+      "notes": "Dongbei-style stir-fry sauce"
+    },
+    {
+      "name": "exotic spice blend",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "crisp bell pepper",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "crisp carrot",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "meen chives",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 2 cups of water in a medium saucepan over high heat.",
+    "Bring to a boil, then add 1 cup of uncooked rice.",
+    "Reduce heat to low, cover, and simmer for 15 minutes.",
+    "While the rice cooks, heat 1 tablespoon of Dongbei-style stir-fry sauce in a large skillet over medium-high heat.",
+    "Add 1 cup of sliced bell pepper and 1 cup of sliced carrot to the skillet.",
+    "Stir-fry for 3-4 minutes, or until the vegetables are tender-crisp.",
+    "Add 1 cup of lo to the skillet, breaking it up with a spoon as it cooks.",
+    "Stir-fry for 2-3 minutes, or until the lo is heated through.",
+    "Fluff the cooked rice with a fork and divide it among bowls.",
+    "Top the rice with the lo and vegetable mixture, and garnish with chopped meen chives.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "chinese",
+    "rice-bowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-crisp-dongbei-rice-lo-meen--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T11:38:53.376Z"
+}
