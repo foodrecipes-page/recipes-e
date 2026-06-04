@@ -1,0 +1,79 @@
+{
+  "slug": "earthy-smoky-mediterranean-snow-peas-grill",
+  "title": "Grilled Mediterranean Snow Peas",
+  "description": "A flavorful and easy-to-make side dish featuring snow peas, smoked paprika, and a hint of earthy parsley.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "snow peas",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "high-quality"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "pinch",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Trim snow peas and place in a bowl.",
+    "In a small bowl, whisk together olive oil, garlic, smoked paprika, salt, and pepper.",
+    "Pour the mixture over the snow peas and toss to coat.",
+    "Grill the snow peas for 2-3 minutes per side, or until tender.",
+    "Remove from heat and sprinkle with parsley.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "gluten-free",
+    "side-dish",
+    "mediterranean",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 3,
+    "carbs": 12,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-smoky-mediterranean-snow-peas-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T19:35:30.302Z"
+}
