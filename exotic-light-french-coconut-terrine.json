@@ -1,0 +1,75 @@
+{
+  "slug": "exotic-light-french-coconut-terrine",
+  "title": "French Terrine with Coconut and Exotic Fruits",
+  "description": "A refreshing twist on the classic French terrine, featuring exotic fruits and the subtle flavor of coconut.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "French baguette",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1 can"
+    },
+    {
+      "name": "Exotic fruits (such as mango, pineapple, and kiwi)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Terrine mold",
+      "amount": "1"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Cut the French baguette into 1-inch cubes and toast until lightly browned.",
+    "In a blender, combine coconut cream, honey, and lime juice. Blend until smooth.",
+    "In a large bowl, combine toasted baguette cubes, exotic fruits, and coconut cream mixture. Mix well.",
+    "Pour the mixture into a terrine mold and refrigerate for at least 2 hours.",
+    "Garnish with fresh mint leaves and granulated sugar before serving.",
+    "Serve chilled, garnished with additional exotic fruits and mint leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "coconut",
+    "exotic",
+    "fruit",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-light-french-coconut-terrine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T15:44:11.571Z"
+}
