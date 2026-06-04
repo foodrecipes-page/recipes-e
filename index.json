@@ -1757,15 +1757,14 @@
     "slug": "earthy-juicy-norwegian-lamb-stew",
     "title": "Norwegian Lamb Stew",
     "tags": [
-      "norwegian-cuisine",
-      "lamb-stew",
-      "pressure-cooker-recipe",
-      "weeknight-dinner",
-      "nut-free",
-      "gluten-free"
+      "norwegian",
+      "lamb",
+      "stew",
+      "comforting",
+      "winter"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 170,
     "shard": "e"
   },
   {
@@ -2157,10 +2156,16 @@
   },
   {
     "slug": "earthy-smoky-mediterranean-snow-peas-grill",
-    "title": "Earthy Smoky Mediterranean Snow Peas Grill",
-    "tags": [],
+    "title": "Grilled Mediterranean Snow Peas",
+    "tags": [
+      "vegetarian",
+      "gluten-free",
+      "side-dish",
+      "mediterranean",
+      "grilled"
+    ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": null,
+    "totalTimeMin": 9,
     "shard": "e"
   },
   {
@@ -7740,17 +7745,15 @@
   },
   {
     "slug": "exotic-ethiopian-pepper-dabo",
-    "title": "Exotic Ethiopian Pepper Dabo",
+    "title": "Dabo Pepper Stew",
     "tags": [
-      "dairy-free",
-      "ethiopian-cuisine",
-      "festive",
-      "gluten-free",
-      "special-occasion",
-      "vegan-friendly"
+      "ethiopian",
+      "stew",
+      "dabo",
+      "pepper"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {
