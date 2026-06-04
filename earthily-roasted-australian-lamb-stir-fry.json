@@ -1,0 +1,72 @@
+{
+  "slug": "earthily-roasted-australian-lamb-stir-fry",
+  "title": "Pan-Seared Australian Lamb Chops",
+  "description": "Tender and flavorful Australian lamb chops, pan-seared to perfection and served with a side of roasted vegetables. This dish is perfect for a quick and delicious dinner.",
+  "cuisine": "australian",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian lamb chops",
+      "amount": "4 chops",
+      "notes": "preferably 1-1.5 inches thick"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for pan-searing"
+    },
+    {
+      "name": "roasted earthy vegetables",
+      "amount": "1 cup",
+      "notes": "such as carrots, potatoes, and parsnips"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": "optional, for added flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat a skillet or cast-iron pan over medium-high heat.",
+    "Season the lamb chops with salt, black pepper, and garlic powder (if using).",
+    "Add olive oil to the pan and swirl to coat.",
+    "Sear the lamb chops for 2-3 minutes per side, or until browned.",
+    "Transfer the lamb chops to a plate and cover with foil to keep warm.",
+    "Add the roasted earthy vegetables to the pan and cook for an additional 2-3 minutes, or until heated through.",
+    "Serve the lamb chops with the roasted vegetables on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lamb",
+    "australian",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthily-roasted-australian-lamb-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T11:24:22.250Z"
+}
