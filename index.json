@@ -8900,16 +8900,15 @@
   },
   {
     "slug": "exquisite-briny-middle-eastern-lamb-kibbeh",
-    "title": "Exquisite Briny Middle Eastern Lamb Kibbeh",
+    "title": "Eastern-Style Lamb Kibbeh",
     "tags": [
-      "briny",
-      "comfort-food",
-      "lamb-based",
+      "lamb",
+      "kibbeh",
       "middle-eastern",
-      "one-pan"
+      "dinner"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 55,
+    "totalTimeMin": 45,
     "shard": "e"
   },
   {
