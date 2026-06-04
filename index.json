@@ -229,17 +229,14 @@
   },
   {
     "slug": "earthily-roasted-australian-lamb-stir-fry",
-    "title": "Earthily Roasted Australian Lamb Stir fry",
+    "title": "Pan-Seared Australian Lamb Chops",
     "tags": [
-      "australian-cuisine",
-      "buddhist-friendly",
-      "lamb-recipes",
-      "lazy-susan",
-      "one-pot",
-      "stir-fry"
+      "lamb",
+      "australian",
+      "grilled"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 45,
+    "cuisine": "australian",
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
@@ -8931,17 +8928,15 @@
   },
   {
     "slug": "exquisite-buttery-polish-basmati-rice-pilaf",
-    "title": "Exquisite Buttery Polish Basmati Rice Pilaf",
+    "title": "Polish Basmati Pilaf",
     "tags": [
-      "basmati-rice",
-      "comfort-food",
-      "easy-dinner",
-      "lacto-vegetarian",
-      "one-pot",
-      "polish-cuisine"
+      "polish",
+      "rice",
+      "sausage",
+      "side-dish"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
@@ -10031,6 +10026,18 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
+    "slug": "exotic-crisp-dongbei-rice-lo-meen--vegan",
+    "title": "Dongbei Vegan Lo Rice Bowl",
+    "tags": [
+      "vegan",
+      "chinese",
+      "rice-bowl"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 45,
     "shard": "e"
   }
 ]
