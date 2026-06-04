@@ -1,0 +1,76 @@
+{
+  "slug": "exquisite-buttery-polish-basmati-rice-pilaf",
+  "title": "Polish Basmati Pilaf",
+  "description": "A flavorful and aromatic side dish, combining the nutty taste of basmati rice with the savory essence of polish sausage.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "exquisite basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "polish sausage, sliced",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "buttery pilaf mix",
+      "amount": "1 package"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion, chopped",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add sausage and cook until browned, about 3-4 minutes.",
+    "Remove sausage from skillet and set aside.",
+    "Add onion and garlic to skillet and cook until softened, about 3-4 minutes.",
+    "Add pilaf mix and stir to combine with onion and garlic.",
+    "Add rice to skillet and stir to combine with pilaf mix.",
+    "Add sausage back into skillet and stir to combine with rice mixture.",
+    "Cook for an additional 2-3 minutes, stirring constantly.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "rice",
+    "sausage",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exquisite-buttery-polish-basmati-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T11:56:52.492Z"
+}
