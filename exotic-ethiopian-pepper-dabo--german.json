@@ -1,0 +1,93 @@
+{
+  "slug": "exotic-ethiopian-pepper-dabo--german",
+  "title": "Dabo and Pepper Schnitzel",
+  "description": "A German-inspired schnitzel recipe combining the flavors of exotic spices with dabo and pepper.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dabo",
+      "amount": "4 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Exotic spices (berbere, etc.)",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 eggs",
+      "notes": ""
+    },
+    {
+      "name": "Flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the dabo into thin cutlets.",
+    "In a shallow dish, mix together flour, salt, and black pepper.",
+    "In another shallow dish, beat the eggs.",
+    "In a third dish, mix together breadcrumbs and exotic spices.",
+    "Dip each dabo cutlet in the flour mixture, coating both sides, then in the eggs, and finally in the breadcrumb mixture, pressing the crumbs onto the meat to adhere.",
+    "Heat about 1/2 inch of vegetable oil in a large skillet over medium-high heat.",
+    "When the oil is hot, add 2-3 dabo cutlets to the skillet and fry until golden brown and cooked through, about 3-4 minutes per side.",
+    "Transfer the cooked schnitzel to a paper towel-lined plate to drain any excess oil.",
+    "Repeat with the remaining dabo cutlets.",
+    "Serve the schnitzel hot with your favorite sides, such as lemon wedges, coleslaw, or braised red cabbage."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "schnitzel",
+    "dabo",
+    "pepper"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-ethiopian-pepper-dabo--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T05:29:23.733Z"
+}
