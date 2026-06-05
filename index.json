@@ -3968,17 +3968,15 @@
   },
   {
     "slug": "eggless-light-korean-rice-stick-noodles-chilled-buckwheat-naengmyeon",
-    "title": "Eggless Light Korean Rice Stick Noodles Chilled Buckwheat Naengmyeon",
+    "title": "Naengmyeon with Buckwheat Noodles",
     "tags": [
-      "easy-to-make",
-      "gluten-free",
-      "korean-cuisine",
-      "naengmyeon",
-      "summer-recipe",
-      "vegan"
+      "korean",
+      "eggless",
+      "light",
+      "summer"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 25,
+    "totalTimeMin": 20,
     "shard": "e"
   },
   {
@@ -10059,6 +10057,32 @@
       "cheese",
       "tiropita",
       "snack"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
+    "shard": "e"
+  },
+  {
+    "slug": "energizing-mexican-noodles-enchiladas--thai",
+    "title": "Spicy Thai Enchilada Noodles",
+    "tags": [
+      "thai",
+      "mexican",
+      "noodle",
+      "enchilada"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "e"
+  },
+  {
+    "slug": "earthily-roasted-australian-lamb-stir-fry--french",
+    "title": "Pan-Seared Australian Lamb Chops with Roasted Vegetables",
+    "tags": [
+      "french",
+      "lamb",
+      "roasted",
+      "stir-fry"
     ],
     "cuisine": "french",
     "totalTimeMin": 40,
