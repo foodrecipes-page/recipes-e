@@ -3866,16 +3866,16 @@
   },
   {
     "slug": "egg-free-ethiopian-herbes-de-provence-shiro",
-    "title": "Ethiopian Herbes-de-Provence Shiro",
+    "title": "Ethiopian Shiro Scramble",
     "tags": [
-      "high-protein",
-      "kid-friendly",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "egg",
+      "shiro",
+      "ethiopian",
+      "breakfast",
+      "morning"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
@@ -10086,6 +10086,19 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 40,
+    "shard": "e"
+  },
+  {
+    "slug": "exotic-ethiopian-pepper-dabo--keto",
+    "title": "Keto Ethiopian Pepper Stir Fry",
+    "tags": [
+      "keto",
+      "ethiopian",
+      "stir-fry",
+      "pepper"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 22,
     "shard": "e"
   }
 ]
