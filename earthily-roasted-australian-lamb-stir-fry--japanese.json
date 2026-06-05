@@ -1,0 +1,97 @@
+{
+  "slug": "earthily-roasted-australian-lamb-stir-fry--japanese",
+  "title": "Pan-Seared Lamb with Japanese Stir Fry",
+  "description": "A flavorful and savory dish combining the richness of lamb with the bold flavors of Japanese stir fry.",
+  "cuisine": "japanese",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb chops",
+      "amount": "4-6 oz each",
+      "notes": "Australian lamb for optimal tenderness"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "For pan-searing lamb"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Mince for added flavor"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grate for stir-fry"
+    },
+    {
+      "name": "Bamboo shoots",
+      "amount": "1 can",
+      "notes": "Drained and sliced for stir-fry"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "1",
+      "notes": "Sliced for stir-fry"
+    },
+    {
+      "name": "Snow peas",
+      "amount": "1 cup",
+      "notes": "Trimmed for stir-fry"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "For marinade and stir-fry"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a skillet over medium-high heat.",
+    "Season lamb chops with salt and pepper.",
+    "Add 1 tbsp of vegetable oil to the skillet and sear lamb chops for 3-4 minutes per side.",
+    "Remove lamb from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tbsp of vegetable oil.",
+    "Add minced garlic and grated ginger and sauté for 1 minute.",
+    "Add sliced bamboo shoots, bell peppers, and snow peas to the skillet.",
+    "Pour in soy sauce and stir-fry for 2-3 minutes.",
+    "Return lamb chops to the skillet and stir-fry for another minute.",
+    "Garnish with sesame seeds and serve hot.",
+    "Let lamb rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "lamb",
+    "stir-fry",
+    "pan-seared"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthily-roasted-australian-lamb-stir-fry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T22:07:27.271Z"
+}
