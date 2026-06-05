@@ -1,0 +1,71 @@
+{
+  "slug": "easy-yeasty-russian-dough-dumplings",
+  "title": "Pirozhki",
+  "description": "Classic Russian savory dumplings filled with meat and onions. Perfect as a snack or light meal.",
+  "cuisine": "russian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dough",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Divide dough into 8 equal pieces. Roll each piece into a ball.",
+    "On a lightly floured surface, roll out each ball of dough into a thin circle.",
+    "In a pan over medium heat, cook the ground beef until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion to the pan and cook until softened. Season with salt and black pepper.",
+    "Place a tablespoon of the beef mixture onto the center of each dough circle. Brush the edges with the beaten egg.",
+    "Fold the dough over the filling, forming a half-circle shape, and press the edges together to seal.",
+    "Place the pirozhki on a baking sheet lined with parchment paper, leaving about 1 inch of space between each dumpling.",
+    "Brush the tops of the pirozhki with the remaining egg and bake for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "russian",
+    "dumplings",
+    "savory",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 26,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/easy-yeasty-russian-dough-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T04:26:18.306Z"
+}
