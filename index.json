@@ -3667,16 +3667,15 @@
   },
   {
     "slug": "easy-yeasty-russian-dough-dumplings",
-    "title": "Easy Yeasty Russian Dough Dumplings",
+    "title": "Pirozhki",
     "tags": [
-      "comfort-food",
-      "garlic-lovers",
-      "kosher-friendly",
-      "russian-cuisine",
-      "yeasty-dumplings"
+      "russian",
+      "dumplings",
+      "savory",
+      "snack"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 50,
+    "cuisine": "russian",
+    "totalTimeMin": 55,
     "shard": "e"
   },
   {
@@ -4080,17 +4079,15 @@
   },
   {
     "slug": "electric-arabian-shrimp-um-ali",
-    "title": "Electric Arabian Shrimp Um Ali",
+    "title": "Shrimp Kebabs with Arabian Spice",
     "tags": [
-      "comfort-food",
-      "mid-east",
-      "pasta",
-      "pescatarian",
-      "quick-meal",
-      "spicy"
+      "arabian",
+      "shrimp",
+      "kebabs",
+      "grilled"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 22,
+    "cuisine": "arabian",
+    "totalTimeMin": 16,
     "shard": "e"
   },
   {
@@ -10099,6 +10096,19 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 22,
+    "shard": "e"
+  },
+  {
+    "slug": "exotic-ethiopian-pepper-dabo--german",
+    "title": "Dabo and Pepper Schnitzel",
+    "tags": [
+      "german",
+      "schnitzel",
+      "dabo",
+      "pepper"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 23,
     "shard": "e"
   }
 ]
