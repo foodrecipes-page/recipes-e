@@ -10049,5 +10049,19 @@
     "cuisine": "japanese",
     "totalTimeMin": 45,
     "shard": "e"
+  },
+  {
+    "slug": "exotic-whole30-friendly-greek-cheese-tiropita--french",
+    "title": "French Tiropita",
+    "tags": [
+      "french",
+      "greek",
+      "cheese",
+      "tiropita",
+      "snack"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
+    "shard": "e"
   }
 ]
