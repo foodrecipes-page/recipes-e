@@ -1,0 +1,79 @@
+{
+  "slug": "eggless-light-korean-rice-stick-noodles-chilled-buckwheat-naengmyeon",
+  "title": "Naengmyeon with Buckwheat Noodles",
+  "description": "A refreshing Korean summer dish made with buckwheat naengmyeon noodles, chilled buckwheat noodles, and a sweet and spicy sauce.",
+  "cuisine": "Korean",
+  "diet": [
+    "korean",
+    "eggless",
+    "light"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Buckwheat Naengmyeon Noodles",
+      "amount": "4 oz",
+      "notes": ""
+    },
+    {
+      "name": "Chilled Buckwheat Noodles",
+      "amount": "4 oz",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sliced Green Onions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Roasted Sesame Seeds",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Cook the buckwheat naengmyeon noodles according to package instructions.",
+    "In a separate pot, cook the chilled buckwheat noodles according to package instructions.",
+    "In a large bowl, whisk together the gochujang sauce, sesame oil, and soy sauce.",
+    "Add the cooked buckwheat naengmyeon noodles to the bowl and toss to coat with the sauce.",
+    "Add the cooked chilled buckwheat noodles to the bowl and toss to combine.",
+    "Garnish with sliced green onions and roasted sesame seeds.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "eggless",
+    "light",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/eggless-light-korean-rice-stick-noodles-chilled-buckwheat-naengmyeon",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T02:02:12.984Z"
+}
