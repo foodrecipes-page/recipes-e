@@ -1,0 +1,96 @@
+{
+  "slug": "extra-earthy-canadian-beef-tagine",
+  "title": "Tagine Beef Stew",
+  "description": "A hearty and flavorful Moroccan-inspired stew made with tender beef and a rich, earthy tagine spice blend.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tablespoons",
+      "notes": "see notes"
+    },
+    {
+      "name": "canadian extra virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef cubes in batches until browned on all sides, about 5 minutes per batch.",
+    "Remove the browned beef from the pot and set aside.",
+    "Reduce the heat to medium and add the chopped onion to the pot.",
+    "Cook the onion until it's softened and lightly browned, about 8 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the chopped carrots and potatoes to the pot and cook for 5 minutes, until they start to soften.",
+    "Add the browned beef back into the pot, along with the tagine spice blend, chicken broth, and water.",
+    "Bring the stew to a boil, then cover the pot and transfer it to the oven.",
+    "Bake the stew at 300°F (150°C) for 2 1/2 hours, or until the beef is tender and the vegetables are cooked through.",
+    "Season the stew with salt and pepper to taste, then garnish with chopped parsley before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "moroccan",
+    "stew",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/extra-earthy-canadian-beef-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T09:10:29.764Z"
+}
