@@ -1,0 +1,81 @@
+{
+  "slug": "exquisite-indulgent-german-manchego-pudding",
+  "title": "Manchego Pudding Cake",
+  "description": "A rich, creamy dessert with a crunchy Manchego crust. Perfect for indulging.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Manchego cheese",
+      "amount": "1 1/2 cups",
+      "notes": "grated"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": "plus 2 tbsp"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "plus 2 tbsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "confectioners' sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Butter a 9-inch (23cm) springform pan and dust with flour.",
+    "In a medium bowl, whisk together flour, granulated sugar, and confectioners' sugar.",
+    "In a large bowl, whisk together eggs, heavy cream, and vanilla extract.",
+    "Add the dry ingredients to the wet ingredients and whisk until just combined.",
+    "Stir in the grated Manchego cheese and melted butter.",
+    "Pour the batter into the prepared pan and smooth the top.",
+    "Bake for 40-45 minutes or until a toothpick inserted in the center comes out clean.",
+    "Let the cake cool in the pan for 10 minutes before transferring it to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "manchego",
+    "pudding",
+    "cake"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exquisite-indulgent-german-manchego-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T22:44:38.807Z"
+}
