@@ -1,0 +1,82 @@
+{
+  "slug": "earthily-roasted-australian-lamb-stir-fry--french",
+  "title": "Pan-Seared Australian Lamb Chops with Roasted Vegetables",
+  "description": "A classic French-inspired dish featuring Australian lamb chops, roasted earthy vegetables, and a hint of stir-fry spices.",
+  "cuisine": "french",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian lamb chops",
+      "amount": "4-6 chops",
+      "notes": "1-1.5 pounds total"
+    },
+    {
+      "name": "Earthy vegetables (such as carrots, Brussels sprouts, and red bell peppers)",
+      "amount": "2 cups mixed",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for roasting"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Roasted red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Season the lamb chops with salt, pepper, garlic powder, and paprika.",
+    "Heat 1 tablespoon of olive oil in an oven-safe skillet over medium-high heat.",
+    "Sear the lamb chops for 1-2 minutes per side, then transfer the skillet to the preheated oven.",
+    "Roast the lamb chops in the oven for 8-12 minutes, or until they reach your desired level of doneness.",
+    "While the lamb is cooking, toss the earthy vegetables with the remaining 1 tablespoon of olive oil, salt, and pepper on a baking sheet.",
+    "Roast the vegetables in the oven for 15-20 minutes, or until they are tender and lightly browned.",
+    "Remove the lamb chops from the oven and let them rest for 5 minutes before slicing.",
+    "Stir-fry the roasted red pepper flakes into the vegetables if using.",
+    "Serve the sliced lamb chops with the roasted vegetables and enjoy!",
+    "Let the dish cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "lamb",
+    "roasted",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "43g",
+    "carbs": "20g",
+    "fat": "36g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthily-roasted-australian-lamb-stir-fry--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T02:21:47.884Z"
+}
