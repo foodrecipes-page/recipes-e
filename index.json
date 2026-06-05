@@ -814,20 +814,14 @@
   },
   {
     "slug": "earthy-crisp-slovakian-broccoli-curry",
-    "title": "Earthy Crisp Slovakian Broccoli Curry",
+    "title": "Slovakian Broccoli Curry",
     "tags": [
-      "one-pot",
-      "vegetarian",
-      "diabetic-friendly",
       "slovakian",
       "curry",
-      "broccoli",
-      "gluten-free",
-      "low-carb",
-      "crisp"
+      "vegetarian"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 30,
+    "cuisine": "slovakian",
+    "totalTimeMin": 40,
     "shard": "e"
   },
   {
@@ -5778,15 +5772,15 @@
   },
   {
     "slug": "energizing-kenyan-buttermilk-porridge",
-    "title": "Energizing Kenyan Buttermilk Porridge",
+    "title": "Kenyan Energizing Porridge",
     "tags": [
-      "kenyan-dish",
-      "buttery-porridge",
-      "energizing-recipe",
-      "low-carb-friendly"
+      "breakfast",
+      "kenyan",
+      "energizing",
+      "porridge"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 25,
+    "totalTimeMin": 15,
     "shard": "e"
   },
   {
@@ -8674,17 +8668,14 @@
   },
   {
     "slug": "exotic-tender-egyptian-lamb-tagine",
-    "title": "Exotic Tender Egyptian Lamb Tagine",
+    "title": "Egyptian Lamb Tagine",
     "tags": [
-      "ayurvedic-cooking",
-      "dairy-free",
-      "egyptian-cuisine",
-      "gluten-free",
-      "lamb-recipes",
-      "one-pot"
+      "lamb",
+      "egyptian",
+      "tagine"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 170,
+    "totalTimeMin": 180,
     "shard": "e"
   },
   {
@@ -9500,17 +9491,15 @@
   },
   {
     "slug": "extra-earthy-canadian-beef-tagine",
-    "title": "Extra-Earthy Canadian Beef Tagine",
+    "title": "Tagine Beef Stew",
     "tags": [
       "beef",
-      "canadian",
-      "one-pot",
-      "peppery",
-      "sugar-free-friendly",
-      "weeknight"
+      "moroccan",
+      "stew",
+      "hearty"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 190,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 170,
     "shard": "e"
   },
   {
