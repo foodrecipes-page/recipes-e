@@ -1,0 +1,79 @@
+{
+  "slug": "earthy-crisp-slovakian-broccoli-curry",
+  "title": "Slovakian Broccoli Curry",
+  "description": "A hearty and flavorful Slovakian-inspired curry featuring earthy broccoli and a rich, slightly sweet curry sauce. Perfect for a cozy dinner.",
+  "cuisine": "slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "broccoli",
+      "amount": "2 bunches"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "slovakian sausage",
+      "amount": "1 lb (optional)",
+      "notes": "can be omitted for vegetarian version"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium heat.",
+    "Add onion and garlic, cook until softened.",
+    "Add broccoli, cook until tender.",
+    "Add curry powder, cook for 1 minute.",
+    "Add sausage (if using), cook until browned.",
+    "Stir in vinegar and honey.",
+    "Season with salt to taste.",
+    "Serve hot over rice or with crusty bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "curry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-crisp-slovakian-broccoli-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T09:41:53.473Z"
+}
