@@ -1,0 +1,82 @@
+{
+  "slug": "exotic-ethiopian-pepper-dabo--keto",
+  "title": "Keto Ethiopian Pepper Stir Fry",
+  "description": "A spicy and flavorful keto stir fry made with Ethiopian spices and a variety of peppers.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dabo",
+      "amount": "1 cup",
+      "notes": "Rice substitute, made from cassava flour"
+    },
+    {
+      "name": "exotic pepper",
+      "amount": "2",
+      "notes": "Hot and spicy, use gloves when handling"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1",
+      "notes": "Any color"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Ethiopian berbere spice",
+      "amount": "1 teaspoon",
+      "notes": "Spicy and aromatic"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the onion and cook until translucent, about 3-4 minutes.",
+    "Add the garlic and ginger and cook for another minute, until fragrant.",
+    "Add the bell pepper and exotic pepper and cook until they start to soften, about 3-4 minutes.",
+    "Add the dabo, berbere spice, and a pinch of salt. Stir to combine.",
+    "Cook for an additional 2-3 minutes, until the dabo is well coated with the spice mixture.",
+    "Serve hot, garnished with additional exotic pepper slices if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "ethiopian",
+    "stir-fry",
+    "pepper"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 52
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-ethiopian-pepper-dabo--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T03:14:05.795Z"
+}
