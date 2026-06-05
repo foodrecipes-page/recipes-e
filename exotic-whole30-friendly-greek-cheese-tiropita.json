@@ -1,0 +1,91 @@
+{
+  "slug": "exotic-whole30-friendly-greek-cheese-tiropita",
+  "title": "Traditional Greek Tiropita",
+  "description": "A classic Greek savory pie made with feta cheese and a flaky phyllo crust.",
+  "cuisine": "Greek",
+  "diet": [
+    "Whole30 friendly",
+    "Greek"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Feta cheese",
+      "amount": "1 block (about 1 pound)",
+      "notes": "Make sure to choose a Whole30 compliant feta cheese option."
+    },
+    {
+      "name": "Phyllo dough",
+      "amount": "1 package (usually found in the freezer section)",
+      "notes": "Thaw the phyllo dough according to package instructions."
+    },
+    {
+      "name": "Egg",
+      "amount": "2 large",
+      "notes": "Beaten eggs are used to help hold the phyllo dough together."
+    },
+    {
+      "name": "Melted butter",
+      "amount": "1/4 cup",
+      "notes": "Used to brush the phyllo dough for a golden brown crust."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped onion adds flavor to the filling."
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced garlic adds a punch of flavor to the filling."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Used to season the filling."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Used to season the filling."
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped parsley adds a pop of color and freshness to the dish."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Thaw the phyllo dough according to package instructions.",
+    "Cut the phyllo dough into 4 equal pieces.",
+    "In a bowl, crumble the feta cheese and mix in the chopped onion, minced garlic, salt, and black pepper.",
+    "Place one piece of phyllo dough on a flat surface and brush with melted butter.",
+    "Place a quarter of the feta cheese mixture in the center of the phyllo dough.",
+    "Fold the phyllo dough over the filling to form a triangle and press the edges together to seal.",
+    "Repeat with the remaining phyllo dough and feta cheese mixture.",
+    "Brush the tops of the tiropitas with melted butter and sprinkle with chopped parsley.",
+    "Bake the tiropitas in the preheated oven for 25-30 minutes, or until they are golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "dessert",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-whole30-friendly-greek-cheese-tiropita",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T21:35:43.453Z"
+}
