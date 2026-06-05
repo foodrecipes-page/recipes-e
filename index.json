@@ -9232,17 +9232,14 @@
   },
   {
     "slug": "exquisite-indulgent-german-manchego-pudding",
-    "title": "Exquisite Indulgent German Manchego Pudding",
+    "title": "Manchego Pudding Cake",
     "tags": [
-      "coconut-cream",
-      "german-desserts",
-      "glassy-jelly",
-      "jain-friendly",
-      "manchego-cheese",
-      "yeast-based"
+      "manchego",
+      "pudding",
+      "cake"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 30,
+    "cuisine": "german",
+    "totalTimeMin": 65,
     "shard": "e"
   },
   {
@@ -10037,6 +10034,19 @@
       "rice-bowl"
     ],
     "cuisine": "Chinese",
+    "totalTimeMin": 45,
+    "shard": "e"
+  },
+  {
+    "slug": "earthily-roasted-australian-lamb-stir-fry--japanese",
+    "title": "Pan-Seared Lamb with Japanese Stir Fry",
+    "tags": [
+      "japanese",
+      "lamb",
+      "stir-fry",
+      "pan-seared"
+    ],
+    "cuisine": "japanese",
     "totalTimeMin": 45,
     "shard": "e"
   }
