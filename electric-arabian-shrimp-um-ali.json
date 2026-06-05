@@ -1,0 +1,82 @@
+{
+  "slug": "electric-arabian-shrimp-um-ali",
+  "title": "Shrimp Kebabs with Arabian Spice",
+  "description": "A flavorful and spicy shrimp kebab dish inspired by the cuisine of Arabia. Quickly marinated and grilled to perfection.",
+  "cuisine": "arabian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "12",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "electric grill mat",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "arabian spice mix",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the electric grill to 400°F (200°C).",
+    "In a large bowl, whisk together olive oil, arabian spice mix, lemon juice, garlic, salt, and pepper.",
+    "Add the shrimp to the bowl and toss to coat with the marinade.",
+    "Thread the marinated shrimp onto skewers.",
+    "Place the skewers on the grill mat and cook for 2-3 minutes per side, or until the shrimp are pink and cooked through.",
+    "Remove the skewers from the grill and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "arabian",
+    "shrimp",
+    "kebabs",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 15,
+    "carbs": 0,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/electric-arabian-shrimp-um-ali",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T05:35:33.756Z"
+}
