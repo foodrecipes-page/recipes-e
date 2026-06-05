@@ -1,0 +1,107 @@
+{
+  "slug": "exotic-tender-egyptian-lamb-tagine",
+  "title": "Egyptian Lamb Tagine",
+  "description": "A traditional Moroccan dish from Egypt, made with tender lamb and exotic spices, slow-cooked in a flavorful tagine.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the bottom of a large tagine over medium-high heat.",
+    "Brown the lamb in batches until browned, about 5 minutes. Transfer the lamb to a plate.",
+    "Add the onion to the tagine and cook until softened, about 5 minutes.",
+    "Add the garlic, ginger, cumin, coriander, cinnamon, turmeric, salt, and pepper. Cook, stirring constantly, for 1 minute.",
+    "Add the browned lamb, chicken broth, and apricots to the tagine.",
+    "Cover the tagine and bring to a boil. Transfer the tagine to the preheated oven.",
+    "Bake the tagine at 300°F (150°C) for 2 1/2 hours, or until the lamb is tender.",
+    "Serve the tagine hot, garnished with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "egyptian",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 52,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-tender-egyptian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T09:08:49.121Z"
+}
