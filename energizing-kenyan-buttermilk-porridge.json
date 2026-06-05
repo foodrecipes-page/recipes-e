@@ -1,0 +1,61 @@
+{
+  "slug": "energizing-kenyan-buttermilk-porridge",
+  "title": "Kenyan Energizing Porridge",
+  "description": "A traditional Kenyan breakfast dish made with energizing ingredients to start your day. This porridge is a perfect way to get a boost of energy and nutrients.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "energizing oats",
+      "amount": "1 cup",
+      "notes": "Rolled oats infused with energizing herbs"
+    },
+    {
+      "name": "kenyan honey",
+      "amount": "2 tbsp",
+      "notes": "Raw honey harvested from Kenyan bees"
+    },
+    {
+      "name": "buttermilk",
+      "amount": "1 cup",
+      "notes": "Low-fat buttermilk adds creaminess and tanginess"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tsp",
+      "notes": "Unrefined coconut oil adds a hint of flavor"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine the energizing oats and buttermilk.",
+    "Add the kenyan honey and coconut oil, and whisk until well combined.",
+    "Cook over medium heat, stirring constantly, until the oats have absorbed most of the liquid and the mixture has a creamy consistency.",
+    "Bring the mixture to a simmer and cook for an additional 2-3 minutes, stirring frequently.",
+    "Remove from heat and let cool for a few minutes.",
+    "Serve warm, garnished with a sprinkle of energizing herbs if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "kenyan",
+    "energizing",
+    "porridge"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-kenyan-buttermilk-porridge",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T09:58:30.454Z"
+}
