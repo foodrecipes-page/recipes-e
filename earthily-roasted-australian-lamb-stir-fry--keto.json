@@ -1,0 +1,89 @@
+{
+  "slug": "earthily-roasted-australian-lamb-stir-fry--keto",
+  "title": "Pan-Seared Australian Lamb Chops with Roasted Vegetables",
+  "description": "A keto-friendly recipe featuring pan-seared Australian lamb chops served with a side of earthily roasted vegetables.",
+  "cuisine": "Australian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian lamb chops",
+      "amount": "4",
+      "notes": "1-1.5 inches thick"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for lamb chops"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for roasting vegetables"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2",
+      "notes": "any color, sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Season the lamb chops with garlic powder, salt, and black pepper.",
+    "Heat 1 tablespoon of coconut oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the lamb chops for 2-3 minutes on each side, or until browned.",
+    "Transfer the skillet to the preheated oven and cook for 8-12 minutes, or until the lamb reaches your desired level of doneness.",
+    "While the lamb is cooking, toss the sliced zucchini, bell peppers, and onion with the remaining 1 tablespoon of coconut oil, salt, and black pepper.",
+    "Spread the vegetables out in a single layer on a baking sheet and roast in the oven for 15-20 minutes, or until tender.",
+    "Remove the lamb chops from the oven and let rest for 5 minutes before serving.",
+    "Serve the lamb chops with the roasted vegetables."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-lamb",
+    "keto-recipes",
+    "lamb-chops",
+    "roasted-vegetables"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthily-roasted-australian-lamb-stir-fry--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T18:27:40.357Z"
+}
