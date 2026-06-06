@@ -1,0 +1,52 @@
+{
+  "slug": "eggs-spicy--italian-indian fusion",
+  "title": "Spicy Italian-Indian Energy Balls",
+  "description": "A fusion of Italian and Indian flavors in a convenient snack for a boost of energy.",
+  "cuisine": "italian-indian fusion",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Spicy Cheddar Cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 350°F (175°C).",
+    "2. In a large mixing bowl, combine shredded cheese and eggs.",
+    "3. Mix until a dough forms.",
+    "4. Roll the dough into small balls, about 1 inch in diameter.",
+    "5. Place the energy balls on a baking sheet lined with parchment paper.",
+    "6. Bake for 15-20 minutes, or until the edges are lightly browned.",
+    "7. Allow the energy balls to cool completely on the baking sheet.",
+    "8. Store in an airtight container in the refrigerator for up to 5 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "italian-indian fusion",
+    "snack",
+    "energy ball",
+    "cheese",
+    "eggs"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 6,
+    "carbs": 8,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/eggs-spicy--italian-indian fusion",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-05T16:40:49.334Z"
+}
