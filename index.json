@@ -10210,5 +10210,45 @@
     "cuisine": "mexican",
     "totalTimeMin": 40,
     "shard": "e"
+  },
+  {
+    "slug": "eggs-spicy--italian",
+    "title": "Italian Spicy Energy Balls",
+    "tags": [
+      "italian",
+      "energy-balls",
+      "snack",
+      "easy-to-make"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 10,
+    "shard": "e"
+  },
+  {
+    "slug": "eggs-spicy--italian-indian fusion",
+    "title": "Spicy Italian-Indian Energy Balls",
+    "tags": [
+      "italian-indian fusion",
+      "snack",
+      "energy ball",
+      "cheese",
+      "eggs"
+    ],
+    "cuisine": "italian-indian fusion",
+    "totalTimeMin": 25,
+    "shard": "e"
+  },
+  {
+    "slug": "eggs-spicy--indian",
+    "title": "Spicy Energy Balls",
+    "tags": [
+      "indian",
+      "snack",
+      "energy-balls",
+      "spicy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "e"
   }
 ]
