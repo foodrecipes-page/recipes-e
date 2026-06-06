@@ -4669,18 +4669,15 @@
   },
   {
     "slug": "elegant-thai-melon-roast",
-    "title": "Elegant Thai Melon Roast",
+    "title": "Thai Melon Salad",
     "tags": [
-      "brine-dry",
-      "festive",
-      "low-carb",
-      "one-pan",
-      "quick",
-      "roasted",
-      "thai"
+      "thai",
+      "salad",
+      "summer",
+      "snack"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 30,
+    "totalTimeMin": 15,
     "shard": "e"
   },
   {
@@ -10098,6 +10095,19 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 23,
+    "shard": "e"
+  },
+  {
+    "slug": "exotic-tender-egyptian-lamb-tagine--french",
+    "title": "Lamb Tagine with Exotic Spices",
+    "tags": [
+      "lamb",
+      "tagine",
+      "exotic-spices",
+      "north-african"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 170,
     "shard": "e"
   }
 ]
