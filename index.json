@@ -10133,5 +10133,18 @@
     "cuisine": "thai",
     "totalTimeMin": 13,
     "shard": "e"
+  },
+  {
+    "slug": "earthy-juicy-norwegian-lamb-stew--keto",
+    "title": "Norwegian Lamb Stew",
+    "tags": [
+      "lamb",
+      "stew",
+      "keto",
+      "norwegian"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 140,
+    "shard": "e"
   }
 ]
