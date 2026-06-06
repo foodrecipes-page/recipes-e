@@ -1,0 +1,107 @@
+{
+  "slug": "eggplantlicious-indian-paneer-curry--mexican",
+  "title": "Mexican Eggplant Curry",
+  "description": "A fusion of Indian and Mexican flavors, this eggplant curry is a game-changer for vegetarians. It's a flavorful and nutritious dish that's perfect for any occasion.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "eggplantlicious",
+      "amount": "2 large",
+      "notes": "Slice the eggplant into bite-sized pieces"
+    },
+    {
+      "name": "paneer",
+      "amount": "1 block",
+      "notes": "Cubed paneer works best in this recipe"
+    },
+    {
+      "name": "curry",
+      "amount": "2 tbsp",
+      "notes": "Use store-bought or homemade curry powder"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chop the onion and sauté it before adding the eggplant"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Mince the garlic and add it with the onion"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "Chop the tomatoes and add them with the curry powder"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "Add cumin powder for extra flavor"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "Add coriander powder for extra flavor"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 tsp",
+      "notes": "Add chili powder for a spicy kick"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "Add salt to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "Add pepper to taste"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": "Use any oil of your choice for frying"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add cumin seeds and let them sizzle for a few seconds.",
+    "Add the chopped onion and sauté until it's translucent.",
+    "Add minced garlic and sauté for another minute.",
+    "Add the sliced eggplant and cook until it's tender.",
+    "Add the cubed paneer and cook until it's lightly browned.",
+    "Add the curry powder, cumin powder, coriander powder, and chili powder.",
+    "Mix well and add the chopped tomatoes.",
+    "Let the mixture simmer for 10-15 minutes or until the sauce thickens.",
+    "Season with salt and pepper to taste.",
+    "Garnish with fresh cilantro and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "indian",
+    "vegetarian",
+    "curry",
+    "eggplant"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/eggplantlicious-indian-paneer-curry--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T21:09:04.932Z"
+}
