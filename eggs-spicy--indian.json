@@ -1,0 +1,77 @@
+{
+  "slug": "eggs-spicy--indian",
+  "title": "Spicy Energy Balls",
+  "description": "A tasty Indian-inspired snack made with eggs and spices, perfect for a quick pick-me-up.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Spicy Eggs",
+      "amount": "2 large eggs",
+      "notes": null
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch",
+      "notes": null
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Coconut Flakes",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, whisk together the eggs, chili powder, garam masala, and salt.",
+    "Add the olive oil and mix until well combined.",
+    "Gradually add the flour and coconut flakes, mixing until a dough forms.",
+    "Use your hands to shape the dough into small energy balls, about 1 inch in diameter.",
+    "Place the energy balls onto a baking sheet lined with parchment paper.",
+    "Bake for 12-15 minutes, or until the energy balls are lightly golden brown.",
+    "Remove from the oven and let cool completely on a wire rack.",
+    "Store in an airtight container for up to 5 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "snack",
+    "energy-balls",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 6,
+    "carbs": 15,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/eggs-spicy--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-05T16:40:50.954Z"
+}
