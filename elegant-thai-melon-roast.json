@@ -1,0 +1,65 @@
+{
+  "slug": "elegant-thai-melon-roast",
+  "title": "Thai Melon Salad",
+  "description": "A refreshing and light salad that combines the sweetness of melon with the spices of Thai cuisine.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Melon",
+      "amount": "2 cups",
+      "notes": "Diced"
+    },
+    {
+      "name": "Thai elegant rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Roast peanuts",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Thai chilies",
+      "amount": "1-2",
+      "notes": "Sliced"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine diced melon, rice vinegar, peanuts, cilantro, and Thai chilies.",
+    "2. Toss gently to combine.",
+    "3. Chill in the refrigerator for at least 30 minutes to allow flavors to meld.",
+    "4. Serve chilled, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "salad",
+    "summer",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/elegant-thai-melon-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T11:44:05.135Z"
+}
