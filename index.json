@@ -4002,18 +4002,15 @@
   },
   {
     "slug": "eggplantlicious-indian-paneer-curry",
-    "title": "Eggplantlicious Indian Paneer Curry",
+    "title": "Indian-Style Stuffed Paneer",
     "tags": [
-      "copper-pot-cooking",
-      "dish-prep",
-      "healthier-paneer",
-      "light-dairy-free",
-      "monsoon-recipe",
-      "quick-fix",
-      "vegan"
+      "indian",
+      "paneer",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Indian-Brasillian Fusion",
-    "totalTimeMin": 50,
+    "cuisine": "indian",
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {
@@ -10145,6 +10142,32 @@
     ],
     "cuisine": null,
     "totalTimeMin": 140,
+    "shard": "e"
+  },
+  {
+    "slug": "earthy-crisp-slovakian-broccoli-curry--chinese",
+    "title": "Crisp Slovakian Broccoli Stir Fry",
+    "tags": [
+      "stir-fry",
+      "vegetarian",
+      "chinese-cuisine",
+      "easy-recipe"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 18,
+    "shard": "e"
+  },
+  {
+    "slug": "earthily-roasted-australian-lamb-stir-fry--keto",
+    "title": "Pan-Seared Australian Lamb Chops with Roasted Vegetables",
+    "tags": [
+      "australian-lamb",
+      "keto-recipes",
+      "lamb-chops",
+      "roasted-vegetables"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 35,
     "shard": "e"
   }
 ]
