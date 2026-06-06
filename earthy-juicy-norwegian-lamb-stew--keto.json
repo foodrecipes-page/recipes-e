@@ -1,0 +1,86 @@
+{
+  "slug": "earthy-juicy-norwegian-lamb-stew--keto",
+  "title": "Norwegian Lamb Stew",
+  "description": "A hearty, keto-friendly stew made with lamb and a variety of vegetables.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian lamb shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Earthy mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Juicy carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the lamb with salt and black pepper.",
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent, about 5 minutes.",
+    "Add the mushrooms and carrots to the pot and cook for 5 minutes.",
+    "Return the lamb to the pot and add enough beef broth to cover the meat.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Bake for 2 hours, or until the lamb is tender and falls apart easily.",
+    "Serve the lamb and vegetables hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "keto",
+    "norwegian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-juicy-norwegian-lamb-stew--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T16:01:57.343Z"
+}
