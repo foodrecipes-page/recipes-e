@@ -10109,5 +10109,29 @@
     "cuisine": "french",
     "totalTimeMin": 170,
     "shard": "e"
+  },
+  {
+    "slug": "earthly-bean-delight--japanese",
+    "title": "Teriyaki Earthly Delight Stir Fry",
+    "tags": [
+      "japanese",
+      "stir-fry",
+      "vegetarian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "e"
+  },
+  {
+    "slug": "elegant-thai-melon-roast--vegan",
+    "title": "Thai Melon Salad",
+    "tags": [
+      "vegan",
+      "salad",
+      "thai"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 13,
+    "shard": "e"
   }
 ]
