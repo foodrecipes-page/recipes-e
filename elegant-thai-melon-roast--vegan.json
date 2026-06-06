@@ -1,0 +1,53 @@
+{
+  "slug": "elegant-thai-melon-roast--vegan",
+  "title": "Thai Melon Salad",
+  "description": "A refreshing and light vegan salad perfect for warm days",
+  "cuisine": "thai",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "melon",
+      "amount": "2 cups diced"
+    },
+    {
+      "name": "elegant",
+      "amount": "1/4 cup chopped",
+      "notes": "such as red onion"
+    },
+    {
+      "name": "roast",
+      "amount": "1/4 cup chopped",
+      "notes": "such as pumpkin seeds"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the diced melon and chopped elegant",
+    "In a small pan, heat a tablespoon of oil over medium heat",
+    "Add the chopped roast and cook for 2-3 minutes until fragrant",
+    "Add the cooked roast to the bowl with the melon and elegant",
+    "Toss everything together and serve immediately"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 3,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "salad",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/elegant-thai-melon-roast--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T14:44:22.735Z"
+}
