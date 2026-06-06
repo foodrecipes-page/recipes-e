@@ -1,0 +1,97 @@
+{
+  "slug": "earthily-roasted-australian-lamb-stir-fry--gluten-free",
+  "title": "Roasted Australian Lamb with Earthy Stir Fry",
+  "description": "Experience the flavors of the Australian outback with this hearty roasted lamb recipe, paired with an earthy stir fry.",
+  "cuisine": "australian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian lamb leg",
+      "amount": "1 (1.5-2 kg)",
+      "notes": "bone-in"
+    },
+    {
+      "name": "Roasted garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Earthly mushrooms",
+      "amount": "200g",
+      "notes": "sliced"
+    },
+    {
+      "name": "Grapeseed oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 220°C (425°F).",
+    "Season the lamb leg with salt and pepper.",
+    "Heat 1 tbsp of grapeseed oil in a large oven-safe pan over medium-high heat.",
+    "Sear the lamb leg for 2-3 minutes on each side, then transfer to the oven.",
+    "Roast the lamb for 20 minutes per kilogram, or until it reaches an internal temperature of 65°C (150°F).",
+    "While the lamb is cooking, heat the remaining 1 tbsp of grapeseed oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook for 3-4 minutes, or until softened.",
+    "Add the sliced mushrooms and cook for an additional 2-3 minutes.",
+    "Add the chopped thyme and cook for 1 minute, stirring constantly.",
+    "To serve, slice the roasted lamb and serve with the earthy stir fry.",
+    "Serve with roasted carrots and potatoes on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "australian",
+    "lamb",
+    "gluten-free",
+    "roasted",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 1240,
+    "protein": 90,
+    "carbs": 20,
+    "fat": 70
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthily-roasted-australian-lamb-stir-fry--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T19:48:34.169Z"
+}
