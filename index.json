@@ -10169,5 +10169,32 @@
     "cuisine": "Australian",
     "totalTimeMin": 35,
     "shard": "e"
+  },
+  {
+    "slug": "earthily-roasted-australian-lamb-stir-fry--gluten-free",
+    "title": "Roasted Australian Lamb with Earthy Stir Fry",
+    "tags": [
+      "australian",
+      "lamb",
+      "gluten-free",
+      "roasted",
+      "stir-fry"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 140,
+    "shard": "e"
+  },
+  {
+    "slug": "earthy-cinnamon-chinese-beef-stir-fry--vegan",
+    "title": "Vegan Stir Fry",
+    "tags": [
+      "vegan",
+      "stir-fry",
+      "mushroom",
+      "easy-dinner"
+    ],
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
+    "shard": "e"
   }
 ]
