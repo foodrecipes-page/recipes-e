@@ -1,0 +1,75 @@
+{
+  "slug": "earthly-bean-delight--japanese",
+  "title": "Teriyaki Earthly Delight Stir Fry",
+  "description": "A simple and flavorful Japanese-inspired stir-fry dish made with earthly delights and savory bean sauce.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "earthly",
+      "amount": "2 cups, sliced"
+    },
+    {
+      "name": "bean sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large skillet or wok over medium-high heat.",
+    "Add garlic and sauté for 1 minute until fragrant.",
+    "Add sliced earthly and cook for 3-4 minutes until tender.",
+    "In a small bowl, whisk together bean sauce, soy sauce, and rice vinegar.",
+    "Pour the sauce over the earthly and stir-fry for an additional 2 minutes.",
+    "Stir in chopped green onions and sesame seeds.",
+    "Cook for 1 minute until the onions are wilted.",
+    "Serve hot over rice or noodles.",
+    "Garnish with additional green onions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthly-bean-delight--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T14:09:30.883Z"
+}
