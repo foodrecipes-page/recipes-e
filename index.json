@@ -10196,5 +10196,19 @@
     "cuisine": "Asian",
     "totalTimeMin": 25,
     "shard": "e"
+  },
+  {
+    "slug": "eggplantlicious-indian-paneer-curry--mexican",
+    "title": "Mexican Eggplant Curry",
+    "tags": [
+      "mexican",
+      "indian",
+      "vegetarian",
+      "curry",
+      "eggplant"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "e"
   }
 ]
