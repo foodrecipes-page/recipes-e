@@ -1,0 +1,68 @@
+{
+  "slug": "eggs-spicy--italian",
+  "title": "Italian Spicy Energy Balls",
+  "description": "These bite-sized energy balls are perfect for a quick Italian-inspired snack. With a kick of heat from the spicy peppers, they're a great way to refuel on-the-go.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "spicy peppers",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the chopped spicy peppers, eggs, almond flour, honey, vanilla extract, and salt.",
+    "Mix well until a dough forms.",
+    "Roll the dough into small balls, about 1 inch in diameter.",
+    "Roll each ball in coconut flakes to coat.",
+    "Place the energy balls on a baking sheet lined with parchment paper.",
+    "Refrigerate for at least 30 minutes to set.",
+    "Store in an airtight container in the refrigerator for up to 5 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "energy-balls",
+    "snack",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/eggs-spicy--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-05T16:40:44.155Z"
+}
