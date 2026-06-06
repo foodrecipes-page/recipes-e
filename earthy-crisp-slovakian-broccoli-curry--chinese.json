@@ -1,0 +1,72 @@
+{
+  "slug": "earthy-crisp-slovakian-broccoli-curry--chinese",
+  "title": "Crisp Slovakian Broccoli Stir Fry",
+  "description": "A quick and easy Chinese-inspired stir fry that combines the fresh flavors of broccoli and curry with the earthy sweetness of Slovakian ingredients.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Broccoli",
+      "amount": "2 cups",
+      "notes": "Fresh and crisp"
+    },
+    {
+      "name": "Slovakian Earthy Mushrooms",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Curry Powder",
+      "amount": "2 teaspoons",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Cooking Oil",
+      "amount": "2 tablespoons",
+      "notes": "Vegetable or peanut oil"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Sliced"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a wok or large skillet over medium-high heat.",
+    "Add the sliced mushrooms and cook until they release their moisture and start to brown, about 3-4 minutes.",
+    "Add the minced garlic and sliced ginger and cook for another minute, until fragrant.",
+    "Add the broccoli and curry powder, and stir to combine.",
+    "Cook for 2-3 minutes, until the broccoli starts to soften.",
+    "Increase heat to high and stir-fry for another 2-3 minutes, until the broccoli is crisp-tender.",
+    "Season with salt and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "vegetarian",
+    "chinese-cuisine",
+    "easy-recipe"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-crisp-slovakian-broccoli-curry--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T18:07:40.567Z"
+}
