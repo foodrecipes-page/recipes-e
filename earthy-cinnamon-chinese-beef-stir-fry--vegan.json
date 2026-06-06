@@ -1,0 +1,72 @@
+{
+  "slug": "earthy-cinnamon-chinese-beef-stir-fry--vegan",
+  "title": "Vegan Stir Fry",
+  "description": "A delicious and easy-to-make vegan stir fry recipe with earthy flavors.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef-free strips (such as portobello mushrooms or seitan)",
+      "amount": "1 cup",
+      "notes": "Slice into thin strips"
+    },
+    {
+      "name": "Earthy oil (such as sesame or grapeseed oil)",
+      "amount": "2 tablespoons",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": "Add for depth of flavor"
+    },
+    {
+      "name": "Soy sauce (make sure it's vegan)",
+      "amount": "2 tablespoons",
+      "notes": "For umami flavor"
+    },
+    {
+      "name": "Chopped vegetables (such as bell peppers, carrots, and broccoli)",
+      "amount": "2 cups",
+      "notes": "Choose your favorite stir-fry vegetables"
+    },
+    {
+      "name": "Cooked rice or noodles",
+      "amount": "1 cup",
+      "notes": "Serve with your stir-fry"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of earthy oil in a large skillet or wok over medium-high heat.",
+    "Add the cinnamon and stir-fry for 1 minute, until fragrant.",
+    "Add the beef-free strips and cook until browned, about 3-4 minutes.",
+    "Add the chopped vegetables and cook until they're tender-crisp, about 4-5 minutes.",
+    "Pour in the soy sauce and stir-fry for another minute, until the vegetables are coated.",
+    "Serve the stir-fry over cooked rice or noodles and enjoy!",
+    "Garnish with sesame seeds or chopped scallions, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "stir-fry",
+    "mushroom",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-cinnamon-chinese-beef-stir-fry--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T20:06:04.449Z"
+}
