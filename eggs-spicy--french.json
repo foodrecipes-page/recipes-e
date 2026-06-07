@@ -1,0 +1,53 @@
+{
+  "slug": "eggs-spicy--french",
+  "title": "French Omelette with Spicy Kick",
+  "description": "A classic French omelette with a spicy twist, perfect for a quick and delicious meal.",
+  "cuisine": "french",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "spicy",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them together with a pinch of salt.",
+    "Heat a small non-stick pan over medium heat.",
+    "Add a small amount of butter to the pan and let it melt.",
+    "Pour the eggs into the pan and let them cook for about 30 seconds.",
+    "Use a spatula to gently lift the edges of the omelette and tilt the pan so the uncooked egg can flow underneath.",
+    "Continue cooking for another 2-3 minutes, until the eggs are almost set.",
+    "Add the spicy to one half of the omelette and fold the other half over it.",
+    "Cook for another 30 seconds and then slide the omelette onto a plate.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "omelette",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 12,
+    "carbs": 1,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/eggs-spicy--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:57:16.660Z"
+}
