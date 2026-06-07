@@ -1,0 +1,84 @@
+{
+  "slug": "eggs-spicy--vegetarian",
+  "title": "Spicy Egg Frittata",
+  "description": "A delicious vegetarian breakfast dish filled with spicy flavors.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6"
+    },
+    {
+      "name": "spicy",
+      "amount": "1/2 cup (diced jalapeno)",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup (diced)",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1/2 cup (shredded)",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1/2 cup (diced)",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Whisk eggs, salt, and pepper in a bowl. Set aside.",
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add diced onion and cook until translucent.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add chopped bell pepper and cook for 2 minutes.",
+    "Pour whisked eggs over the vegetables and cook until the edges start to set.",
+    "Add diced jalapeno and shredded cheese, then stir to combine.",
+    "Transfer the skillet to the oven and bake for 15-20 minutes, or until the eggs are set.",
+    "Remove from the oven and let cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "vegetarian",
+    "spicy",
+    "eggs"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/eggs-spicy--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:58:41.745Z"
+}
