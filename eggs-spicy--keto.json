@@ -1,0 +1,58 @@
+{
+  "slug": "eggs-spicy--keto",
+  "title": "Spicy Keto Omelette",
+  "description": "A quick and easy keto omelette packed with spicy flavor. Perfect for a low-carb breakfast or snack.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "spicy",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them together with a pinch of salt and black pepper.",
+    "Heat a small non-stick pan over medium heat and add the spicy.",
+    "Once the pan is hot, add the eggs and cook until the edges start to set.",
+    "Use a spatula to gently lift and fold the edges of the omelette towards the center.",
+    "Continue cooking and folding until the eggs are almost set.",
+    "Use the spatula to carefully fold the omelette in half and cook for another 30 seconds.",
+    "Slide the omelette out of the pan onto a plate and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "breakfast",
+    "omelette",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 12,
+    "carbs": 1,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/eggs-spicy--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:55:53.829Z"
+}
