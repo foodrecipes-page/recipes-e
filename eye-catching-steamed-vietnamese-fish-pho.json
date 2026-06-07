@@ -1,0 +1,89 @@
+{
+  "slug": "eye-catching-steamed-vietnamese-fish-pho",
+  "title": "Vietnamese-Style Steamed Fish",
+  "description": "Delicate and flavorful fish steamed to perfection with aromatic Vietnamese spices. Serve with steamed vegetables and a side of rice or noodles.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillets",
+      "amount": "4 (6 oz each)",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Steamed vegetables",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "White rice or noodles",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Cut the fish fillets into 4 equal pieces and pat dry with paper towels.",
+    "2. In a small bowl, mix together ginger, lemongrass, fish sauce, soy sauce, sugar, and chili flakes.",
+    "3. Place a piece of fish in a steamer basket and brush with the ginger-lemon mixture.",
+    "4. Repeat with the remaining fish pieces.",
+    "5. Steam the fish for 8-10 minutes or until cooked through.",
+    "6. Serve the fish with steamed vegetables and a side of white rice or noodles.",
+    "7. Garnish with chopped lemongrass and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "steamed",
+    "fish",
+    "seafood",
+    "asian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 0,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/eye-catching-steamed-vietnamese-fish-pho",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:31:04.904Z"
+}
