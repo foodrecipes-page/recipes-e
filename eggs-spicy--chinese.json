@@ -1,0 +1,67 @@
+{
+  "slug": "eggs-spicy--chinese",
+  "title": "Spicy Chinese Omelette",
+  "description": "A fast and easy Chinese-inspired breakfast dish made with eggs and spicy ingredients.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "spicy",
+      "amount": "1/4 teaspoon",
+      "notes": "optional, to taste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them together.",
+    "Heat 1 tablespoon of sesame oil in a small non-stick pan.",
+    "Add the scrambled eggs to the pan and cook until almost set.",
+    "Transfer the eggs to a plate.",
+    "Heat the remaining sesame oil in the pan, then add the soy sauce and scallions.",
+    "Stir-fry for 30 seconds.",
+    "Return the eggs to the pan and stir-fry for another minute.",
+    "Add the spicy to taste, if using.",
+    "Serve the omelette hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "chinese",
+    "easy",
+    "meatless"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 4,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/eggs-spicy--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:58:38.835Z"
+}
