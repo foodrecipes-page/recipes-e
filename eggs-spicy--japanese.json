@@ -1,0 +1,70 @@
+{
+  "slug": "eggs-spicy--japanese",
+  "title": "Japanese Spicy Omelette",
+  "description": "A Japanese twist on the classic omelette, filled with spicy kick.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "spicy",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Diced Green Onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sliced Shiso",
+      "amount": "2 leaves"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, beat the eggs well.",
+    "Heat the sesame oil in a medium non-stick skillet over medium heat.",
+    "Add the diced green onions and cook until softened.",
+    "Add the soy sauce and stir to combine.",
+    "Pour in the beaten eggs and cook until the edges start to set.",
+    "Use a spatula to gently lift and fold the edges towards the center.",
+    "Add the sliced shiso leaves on one half of the omelette.",
+    "Sprinkle the spicy on top of the shiso.",
+    "Use the spatula to fold the other half of the omelette over the filling.",
+    "Cook for another minute, until the eggs are just set.",
+    "Slide the omelette onto a plate and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "breakfast",
+    "omelette",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 4,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/eggs-spicy--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:00:05.001Z"
+}
