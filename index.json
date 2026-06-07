@@ -602,16 +602,14 @@
   },
   {
     "slug": "earthy-brazilian-almond-milk-tart",
-    "title": "Earthy Brazilian Almond Milk Tart",
+    "title": "Brazilian Panna Cotta Tart",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "high-fiber",
-      "one-pan",
-      "weeknight"
+      "dessert",
+      "brazilian",
+      "almond"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 75,
     "shard": "e"
   },
   {
@@ -657,17 +655,15 @@
   },
   {
     "slug": "earthy-charred-filipino-savoy-cabbage-ginataang-bilo-bilo",
-    "title": "Earthy Charred Filipino Savoy Cabbage Ginataang Bilo Bilo",
+    "title": "Filipino Ginataang Bilo-Bilo with Savoy Cabbage",
     "tags": [
-      "coconut-milk",
-      "filipino-food",
-      "nuka-pickle",
-      "one-pot",
-      "savoy-cabbage",
-      "weeknight"
+      "filipino",
+      "dessert",
+      "vegan",
+      "vegetarian"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 45,
+    "cuisine": "filipino",
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
