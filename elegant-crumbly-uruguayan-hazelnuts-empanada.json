@@ -1,0 +1,71 @@
+{
+  "slug": "elegant-crumbly-uruguayan-hazelnuts-empanada",
+  "title": "Uruguayan Empanada Pastry",
+  "description": "A classic Uruguayan empanada pastry recipe with a crumbly and elegant texture. Perfect for wrapping your favorite fillings.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "For the pastry dough"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1 cup",
+      "notes": "For the pastry dough"
+    },
+    {
+      "name": "hazelnuts",
+      "amount": "1/4 cup",
+      "notes": "Chopped for added texture"
+    },
+    {
+      "name": "empanada",
+      "amount": "1 package",
+      "notes": "For wrapping"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup",
+      "notes": "For the pastry dough"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine flour and butter. Use a pastry blender or your fingers to work the butter into the flour until it resembles coarse crumbs.",
+    "Add chopped hazelnuts and mix until combined.",
+    "Gradually add water, stirring with a fork until the dough comes together.",
+    "Turn the dough out onto a lightly floured surface and knead a few times until smooth.",
+    "Wrap the dough in plastic wrap and refrigerate for at least 30 minutes.",
+    "Preheat oven to 375°F (190°C).",
+    "On a lightly floured surface, roll out the dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a spoonful of your favorite filling in the center of each dough circle.",
+    "Brush the edges of the dough with a little water and fold the dough over the filling to form a half-circle.",
+    "Press the edges together to seal the empanada and use a fork to crimp the edges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "pastry",
+    "empanada",
+    "uruguayan",
+    "dough"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/elegant-crumbly-uruguayan-hazelnuts-empanada",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:31:10.081Z"
+}
