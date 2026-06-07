@@ -1,0 +1,93 @@
+{
+  "slug": "earthy-tender-polish-beef-stew",
+  "title": "Traditional Polish Beef Stew",
+  "description": "A hearty beef stew with earthy flavors, tender beef, and a rich broth. Serve with some crusty bread or over mashed potatoes.",
+  "cuisine": "Polish",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for thickening"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned on all sides, about 5 minutes.",
+    "Remove beef and set aside.",
+    "Reduce heat to medium and add chopped onion, carrots, and celery. Cook until vegetables are tender, about 10 minutes.",
+    "Add beef broth, red wine (if using), flour, thyme, salt, and pepper. Stir to combine.",
+    "Return beef to pot and bring to a boil.",
+    "Cover and transfer to the oven. Braise for 2 1/2 hours or until beef is tender.",
+    "Remove from heat and let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "polish",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-tender-polish-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:58:03.858Z"
+}
