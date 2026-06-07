@@ -1,0 +1,74 @@
+{
+  "slug": "exotic-crunchy-moroccan-brussels-sprouts-seffa",
+  "title": "Seffa and Brussels Sprouts Tagine",
+  "description": "A flavorful Moroccan-inspired stew featuring seffa, Brussels sprouts, and crunchy elements.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "seffa",
+      "amount": "1 cup",
+      "notes": "short grain rice"
+    },
+    {
+      "name": "Brussels sprouts",
+      "amount": "1 pound",
+      "notes": "trimmed and halved"
+    },
+    {
+      "name": "Moroccan spice blend",
+      "amount": "2 teaspoons",
+      "notes": "containing cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "crunchy almonds",
+      "amount": "1/4 cup",
+      "notes": "chopped and toasted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the Brussels sprouts and cook until they start to brown, about 10 minutes.",
+    "Stir in the Moroccan spice blend and cook for 1 minute.",
+    "Add the seffa and 2 cups of water to the pan.",
+    "Bring to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Stir in the chopped almonds and cook for an additional 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional almonds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "stew",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-crunchy-moroccan-brussels-sprouts-seffa",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:48:29.955Z"
+}
