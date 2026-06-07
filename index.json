@@ -2219,17 +2219,15 @@
   },
   {
     "slug": "earthy-snappy-croatian-mushroom-pilaf",
-    "title": "Earthy Snappy Croatian Mushroom Pilaf",
+    "title": "Croatian-Style Mushroom Pilaf",
     "tags": [
-      "donabe",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "mushroom",
+      "pilaf",
+      "croatian",
+      "vegetarian"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
@@ -2315,15 +2313,15 @@
   },
   {
     "slug": "earthy-tender-polish-beef-stew",
-    "title": "Earthy Tender Polish Beef Stew",
+    "title": "Traditional Polish Beef Stew",
     "tags": [
-      "polish-cuisine",
-      "beef-stew",
-      "comfort-food",
-      "halal-friendly"
+      "beef",
+      "stew",
+      "polish",
+      "comfort-food"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 180,
+    "totalTimeMin": 170,
     "shard": "e"
   },
   {
@@ -3825,15 +3823,14 @@
     "slug": "effortlessly-snappy-jamaican-beef-tagine",
     "title": "Jamaican Beef Tagine",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "jamaican-spice",
-      "one-pot",
-      "paleo-friendly",
-      "slow-cooker"
+      "beef",
+      "tagine",
+      "moroccan",
+      "jamaican",
+      "curry"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 45,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 165,
     "shard": "e"
   },
   {
@@ -7308,17 +7305,15 @@
   },
   {
     "slug": "exotic-crunchy-moroccan-brussels-sprouts-seffa",
-    "title": "Exotic Crunchy Moroccan Brussels Sprouts Seffa",
+    "title": "Seffa and Brussels Sprouts Tagine",
     "tags": [
-      "corn-husk-wrap",
-      "fermented-food",
-      "gluten-free",
-      "moroccan-cuisine",
+      "moroccan",
+      "stew",
       "one-pot",
-      "vegan-friendly"
+      "vegetarian"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 74,
+    "totalTimeMin": 45,
     "shard": "e"
   },
   {
