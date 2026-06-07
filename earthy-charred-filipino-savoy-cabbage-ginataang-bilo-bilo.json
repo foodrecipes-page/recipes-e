@@ -1,0 +1,65 @@
+{
+  "slug": "earthy-charred-filipino-savoy-cabbage-ginataang-bilo-bilo",
+  "title": "Filipino Ginataang Bilo-Bilo with Savoy Cabbage",
+  "description": "A popular Filipino dessert made with small rice cakes, coconut milk, and sweetened savoy cabbage, served with a side of charred bilo.",
+  "cuisine": "filipino",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "bilo-bilo",
+      "amount": "1 cup",
+      "notes": "small rice cakes"
+    },
+    {
+      "name": "savoy cabbage",
+      "amount": "1 medium",
+      "notes": "shredded"
+    },
+    {
+      "name": "ginataang",
+      "amount": "2 cups",
+      "notes": "coconut milk"
+    },
+    {
+      "name": "earthly sugar",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "charred bilo",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Combine ginataang and sugar in a saucepan and bring to a boil.",
+    "Reduce heat and simmer for 5 minutes.",
+    "Add shredded savoy cabbage and cook until tender.",
+    "Serve warm with bilo-bilo and garnish with charred bilo."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "dessert",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-charred-filipino-savoy-cabbage-ginataang-bilo-bilo",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:15:20.550Z"
+}
