@@ -1,0 +1,73 @@
+{
+  "slug": "energizing-nutty-croatian-rice-vinegar-pilaf",
+  "title": "Croatian Pilaf with a Twist",
+  "description": "A variation of traditional Croatian pilaf, this recipe adds a nutty and energizing twist with the inclusion of rice and vinegar.",
+  "cuisine": "croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "white or brown"
+    },
+    {
+      "name": "Energizing",
+      "amount": "2 tablespoons",
+      "notes": "nutritional yeast"
+    },
+    {
+      "name": "Nutty",
+      "amount": "2 tablespoons",
+      "notes": "chopped almonds"
+    },
+    {
+      "name": "Croatian Pilaf",
+      "amount": "1 cup",
+      "notes": "dried mix"
+    },
+    {
+      "name": "Vinegar",
+      "amount": "1 tablespoon",
+      "notes": "apple cider"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "filtered"
+    }
+  ],
+  "instructions": [
+    "Heat the water in a medium saucepan over high heat.",
+    "Add the Croatian pilaf and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 10 minutes.",
+    "Stir in the rice, energizing, and nutty. Cook for an additional 5 minutes.",
+    "Remove from heat and stir in the vinegar.",
+    "Fluff the pilaf with a fork and serve hot.",
+    "Optional: add chopped almonds or nutritional yeast on top for garnish."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "pilaf",
+    "rice",
+    "energizing",
+    "nutty"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-nutty-croatian-rice-vinegar-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:53:30.053Z"
+}
