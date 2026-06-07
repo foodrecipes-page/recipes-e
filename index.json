@@ -1650,16 +1650,15 @@
   },
   {
     "slug": "earthy-icy-spanish-cashew-cocido-madrileno",
-    "title": "Earthy Icy Spanish Cashew Cocido Madrileno",
+    "title": "Spanish-Style Cocido",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "kid-friendly",
-      "one-pot",
-      "weeknight-meal"
+      "spanish",
+      "stew",
+      "winter",
+      "hearty"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 80,
     "shard": "e"
   },
   {
@@ -5184,16 +5183,16 @@
   },
   {
     "slug": "energizing-brazilian-tofu-curry",
-    "title": "Energizing Brazilian Tofu Curry",
+    "title": "Brazilian Tofu Curry",
     "tags": [
-      "curry",
-      "meal-prep",
-      "quick",
       "tofu",
-      "vegan"
+      "curry",
+      "brazilian",
+      "vegetarian",
+      "lunch"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {
