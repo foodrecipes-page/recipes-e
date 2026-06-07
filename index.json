@@ -2474,17 +2474,16 @@
   },
   {
     "slug": "earthy-velvety-italian-cure-wrap",
-    "title": "Earthy Velvety Italian Cure Wrap",
+    "title": "Earthy Italian Wrap",
     "tags": [
       "italian",
-      "keto",
-      "low-carb",
-      "cured-meat",
-      "cream-cheese",
-      "mushroom-duxelles"
+      "wrap",
+      "lunch",
+      "easy",
+      "vegetarian"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 12,
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
@@ -5895,18 +5894,16 @@
   },
   {
     "slug": "energizing-nutty-croatian-rice-vinegar-pilaf",
-    "title": "energizing nutty croatian rice vinegar pilaf",
+    "title": "Croatian Pilaf with a Twist",
     "tags": [
-      "breakfast",
       "croatian",
-      "easy-to-make",
-      "low-calorie",
-      "one-pan",
-      "veggie-friendly",
-      "weeknight"
+      "pilaf",
+      "rice",
+      "energizing",
+      "nutty"
     ],
     "cuisine": "croatian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 20,
     "shard": "e"
   },
   {
