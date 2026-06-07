@@ -1,0 +1,79 @@
+{
+  "slug": "eggs-spicy--thai",
+  "title": "Thai Spicy Omelette",
+  "description": "A spicy and savory Thai-inspired omelette with a kick of heat.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "spicy",
+      "amount": "1 tsp",
+      "notes": "Thai red chili flakes or sriracha"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "1. Crack the eggs into a bowl and whisk them together.",
+    "2. Add the spicy chili flakes, chopped cilantro, garlic, fish sauce, coconut milk, salt, and pepper to the bowl and mix well.",
+    "3. Heat a non-stick pan over medium heat and add the vegetable oil.",
+    "4. Pour the egg mixture into the pan and cook until the edges start to set.",
+    "5. Use a spatula to gently lift and fold the edges of the omelette towards the center.",
+    "6. Continue cooking and folding until the eggs are almost set.",
+    "7. Use the spatula to carefully slide the omelette onto a plate.",
+    "8. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "spicy",
+    "omelette",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 4,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/eggs-spicy--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:55:55.209Z"
+}
