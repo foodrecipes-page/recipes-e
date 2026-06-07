@@ -10235,5 +10235,136 @@
     "cuisine": "indian",
     "totalTimeMin": 25,
     "shard": "e"
+  },
+  {
+    "slug": "eggs-spicy--keto",
+    "title": "Spicy Keto Omelette",
+    "tags": [
+      "keto",
+      "breakfast",
+      "omelette",
+      "spicy"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 13,
+    "shard": "e"
+  },
+  {
+    "slug": "eggs-spicy--thai",
+    "title": "Thai Spicy Omelette",
+    "tags": [
+      "thai",
+      "spicy",
+      "omelette",
+      "breakfast"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 13,
+    "shard": "e"
+  },
+  {
+    "slug": "eggs-spicy--german",
+    "title": "German Breakfast Strata",
+    "tags": [
+      "german",
+      "breakfast",
+      "strata",
+      "eggs",
+      "sausage",
+      "cheese"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 50,
+    "shard": "e"
+  },
+  {
+    "slug": "eggs-spicy--gluten-free",
+    "title": "Spicy Gluten-Free Omelette",
+    "tags": [
+      "breakfast",
+      "gluten-free",
+      "omelette"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 9,
+    "shard": "e"
+  },
+  {
+    "slug": "eggs-spicy--french",
+    "title": "French Omelette with Spicy Kick",
+    "tags": [
+      "french",
+      "omelette",
+      "breakfast"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 9,
+    "shard": "e"
+  },
+  {
+    "slug": "eggs-spicy--mexican",
+    "title": "Mexican Spicy Breakfast Burritos",
+    "tags": [
+      "breakfast",
+      "mexican",
+      "spicy",
+      "eggs"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
+    "slug": "eggs-spicy--chinese",
+    "title": "Spicy Chinese Omelette",
+    "tags": [
+      "breakfast",
+      "chinese",
+      "easy",
+      "meatless"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 9,
+    "shard": "e"
+  },
+  {
+    "slug": "eggs-spicy--vegetarian",
+    "title": "Spicy Egg Frittata",
+    "tags": [
+      "breakfast",
+      "vegetarian",
+      "spicy",
+      "eggs"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 30,
+    "shard": "e"
+  },
+  {
+    "slug": "eggs-spicy--vegan",
+    "title": "Spicy Vegan Quinoa Bowl",
+    "tags": [
+      "vegan",
+      "quinoa",
+      "blackbeans",
+      "sweetpotato",
+      "roastedvegetables"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 45,
+    "shard": "e"
+  },
+  {
+    "slug": "eggs-spicy--japanese",
+    "title": "Japanese Spicy Omelette",
+    "tags": [
+      "japanese",
+      "breakfast",
+      "omelette",
+      "spicy"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 13,
+    "shard": "e"
   }
 ]
