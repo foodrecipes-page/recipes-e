@@ -1,0 +1,75 @@
+{
+  "slug": "earthy-velvety-italian-cure-wrap",
+  "title": "Earthy Italian Wrap",
+  "description": "A delicious and healthy wrap filled with earthy mushrooms and Italian flavors.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "Earthier mushrooms like cremini or shiitake work well"
+    },
+    {
+      "name": "Italian Sausage",
+      "amount": "1/2 cup, sliced",
+      "notes": "Use a vegetarian sausage alternative for a vegan version"
+    },
+    {
+      "name": "Wrap",
+      "amount": "1 large",
+      "notes": "Italian flatbread or a similar wrap works best"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium, sliced",
+      "notes": "Fresh or canned, whichever is available"
+    },
+    {
+      "name": "Cure Pepperoni",
+      "amount": "1/4 cup, sliced",
+      "notes": "For added flavor, use a small amount of cured pepperoni"
+    },
+    {
+      "name": "Pesto",
+      "amount": "2 tbsp",
+      "notes": "Classic Italian sauce made from basil and olive oil"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan to medium heat.",
+    "Add the sliced Italian sausage and cook until browned.",
+    "Add the sliced mushrooms and cook until tender.",
+    "Add the sliced tomato and cook for an additional 2 minutes.",
+    "Warm the wrap in the pan for about 30 seconds.",
+    "Assemble the wrap by spreading pesto on the wrap, then adding the cooked sausage, mushroom, and tomato mixture.",
+    "Add sliced cure pepperoni on top for added flavor.",
+    "Fold the wrap to enclose the filling and serve.",
+    "Optional: Add shredded cheese or additional toppings as desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "wrap",
+    "lunch",
+    "easy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-velvety-italian-cure-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:04:57.546Z"
+}
