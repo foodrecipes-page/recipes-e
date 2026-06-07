@@ -1,0 +1,85 @@
+{
+  "slug": "earthy-icy-spanish-cashew-cocido-madrileno",
+  "title": "Spanish-Style Cocido",
+  "description": "A hearty Spanish stew originating from Madrid, perfect for a cold winter's day. Traditional cocido is made with meats, vegetables, and chickpeas.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Spanish chorizo",
+      "amount": "1/2 pound",
+      "notes": "Slice chorizo into rounds"
+    },
+    {
+      "name": "Cocido beans",
+      "amount": "1 cup dried",
+      "notes": "Rinse and soak overnight"
+    },
+    {
+      "name": "Earthly root vegetables",
+      "amount": "2 medium",
+      "notes": "Peel and chop"
+    },
+    {
+      "name": "Madrid onions",
+      "amount": "1 large",
+      "notes": "Chop into large pieces"
+    },
+    {
+      "name": "Icy cold water",
+      "amount": "4 cups",
+      "notes": "For stewing"
+    },
+    {
+      "name": "Spanish olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Cashew butter",
+      "amount": "2 tablespoons",
+      "notes": "For thickening"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Sauté sliced chorizo until browned, about 5 minutes.",
+    "Add chopped onions and cook until softened, about 5 minutes.",
+    "Add chopped vegetables and cook for 5 minutes.",
+    "Add soaked cocido beans, cold water, and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1 hour.",
+    "Stir in cashew butter to thicken.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "stew",
+    "winter",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-icy-spanish-cashew-cocido-madrileno",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T09:58:53.584Z"
+}
