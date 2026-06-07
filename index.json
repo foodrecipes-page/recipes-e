@@ -4237,17 +4237,15 @@
   },
   {
     "slug": "elegant-crumbly-uruguayan-hazelnuts-empanada",
-    "title": "Elegant Crumbly Uruguayan Hazelnuts Empanada",
+    "title": "Uruguayan Empanada Pastry",
     "tags": [
-      "comfort-food",
+      "pastry",
       "empanada",
-      "hazelnut",
-      "lazy-sunday",
-      "pickle",
-      "uruguayan"
+      "uruguayan",
+      "dough"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "e"
   },
   {
