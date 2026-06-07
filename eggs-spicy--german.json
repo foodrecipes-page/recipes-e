@@ -1,0 +1,84 @@
+{
+  "slug": "eggs-spicy--german",
+  "title": "German Breakfast Strata",
+  "description": "A layered German breakfast dish made with eggs, bread, and spicy ingredients. Perfect for a weekend brunch.",
+  "cuisine": "german",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "amount": "4 large",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "Bread",
+      "amount": "1 loaf of German bread, cut into 1-inch cubes",
+      "notes": ""
+    },
+    {
+      "name": "Spicy sausage",
+      "amount": "6 slices",
+      "notes": "such as bratwurst or knockwurst"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced",
+      "notes": ""
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium, diced",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "In a large skillet, cook the spicy sausage over medium-high heat, breaking it up with a spoon as it cooks.",
+    "Add the diced onion and bell pepper to the skillet and cook until the vegetables are tender.",
+    "In a large bowl, whisk together the eggs, salt, and black pepper.",
+    "Add the bread cubes to the bowl and toss to coat with the egg mixture.",
+    "Add the cooked sausage and vegetable mixture to the bowl and stir to combine.",
+    "Pour the mixture into a 9x13-inch baking dish and top with grated cheddar cheese.",
+    "Bake for 35-40 minutes, or until the eggs are set and the cheese is melted and golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "breakfast",
+    "strata",
+    "eggs",
+    "sausage",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/eggs-spicy--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:56:14.647Z"
+}
