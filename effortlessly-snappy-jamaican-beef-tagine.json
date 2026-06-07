@@ -1,0 +1,85 @@
+{
+  "slug": "effortlessly-snappy-jamaican-beef-tagine",
+  "title": "Jamaican Beef Tagine",
+  "description": "A hearty, slow-cooked beef stew originating from Morocco, infused with the bold flavors of Jamaica. Perfect for a cold winter night.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "meat",
+    "pork-free",
+    "shellfish-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Snappy",
+      "amount": "1 tablespoon",
+      "notes": "Jamaican curry powder"
+    },
+    {
+      "name": "Jamaican",
+      "amount": "2 tablespoons",
+      "notes": "allspice"
+    },
+    {
+      "name": "Tagine",
+      "amount": "1 cup",
+      "notes": "Moroccan tomato paste"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and ginger; cook until softened, about 5 minutes.",
+    "Add beef; cook until browned, about 5 minutes.",
+    "Add curry powder and allspice; cook for 1 minute.",
+    "Stir in tomato paste; cook for 1 minute.",
+    "Add beef broth; bring to a boil.",
+    "Transfer to a preheated oven; braise until tender, about 2 1/2 hours.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "tagine",
+    "moroccan",
+    "jamaican",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/effortlessly-snappy-jamaican-beef-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:42:04.908Z"
+}
