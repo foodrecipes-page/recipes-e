@@ -1,0 +1,64 @@
+{
+  "slug": "earthy-brazilian-almond-milk-tart",
+  "title": "Brazilian Panna Cotta Tart",
+  "description": "A creamy, dreamy Brazilian-inspired dessert featuring a crunchy almond crust and topped with a rich tart sauce.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond",
+      "amount": "1 1/2 cups, sliced"
+    },
+    {
+      "name": "tart",
+      "amount": "1 (14 oz) can, crushed"
+    },
+    {
+      "name": "milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "earth",
+      "amount": "1 tsp, ground"
+    },
+    {
+      "name": "brazilian",
+      "amount": "1 tsp, ground"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 350°F (180°C).",
+    "2. In a medium bowl, mix together almond and tart.",
+    "3. Press mixture into the bottom and up the sides of a 9-inch springform pan.",
+    "4. Bake for 20-25 minutes, or until lightly golden.",
+    "5. In a large bowl, combine milk, earth, and brazilian.",
+    "6. Pour mixture into the baked tart crust.",
+    "7. Bake for an additional 25-30 minutes, or until set.",
+    "8. Remove from oven and let cool to room temperature.",
+    "9. Cover and refrigerate for at least 4 hours, or overnight.",
+    "10. Serve chilled, garnished with additional sliced almonds if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "brazilian",
+    "almond"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-brazilian-almond-milk-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:13:58.452Z"
+}
