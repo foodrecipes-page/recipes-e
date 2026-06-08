@@ -1,0 +1,85 @@
+{
+  "slug": "easy-sharp-slovakian-bryndza-cheese-dumplings",
+  "title": "Slovakian Baked Dumplings with Bryndza Cheese",
+  "description": "A traditional Slovakian dish featuring baked dumplings topped with a creamy bryndza cheese sauce. Perfect for a hearty dinner.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bryndza Cheese",
+      "amount": "250g"
+    },
+    {
+      "name": "Dumplings (Slovakian-style)",
+      "amount": "12-15",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Butter",
+      "amount": "50g"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a pan, melt the butter and sauté the onion and garlic until softened.",
+    "Add the flour and cook for 1-2 minutes, stirring constantly.",
+    "Gradually add the milk, whisking continuously to avoid lumps.",
+    "Bring the mixture to a simmer and cook until thickened.",
+    "Stir in the bryndza cheese until melted and smooth.",
+    "Add the parsley and season with salt and pepper to taste.",
+    "Bake the dumplings in the oven for 15-20 minutes, or until golden brown.",
+    "Serve the baked dumplings topped with the bryndza cheese sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "cheese",
+    "dumplings",
+    "baked"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 50,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/easy-sharp-slovakian-bryndza-cheese-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:25:13.880Z"
+}
