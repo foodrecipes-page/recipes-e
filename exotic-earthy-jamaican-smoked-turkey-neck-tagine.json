@@ -1,0 +1,95 @@
+{
+  "slug": "exotic-earthy-jamaican-smoked-turkey-neck-tagine",
+  "title": "Smoked Jamaican Tagine",
+  "description": "A slow-cooked, flavorful stew originating from North Africa, infused with the bold flavors of Jamaica and the richness of smoked notes.",
+  "cuisine": "African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked neck of lamb",
+      "amount": "1 pound, cut into 2-inch pieces",
+      "notes": "Look for smoked lamb neck at a specialty butcher or online"
+    },
+    {
+      "name": "Jamaican allspice",
+      "amount": "2 teaspoons",
+      "notes": "Ground allspice adds a warm, aromatic flavor"
+    },
+    {
+      "name": "Earthy tagine spice blend",
+      "amount": "2 tablespoons",
+      "notes": "You can make your own or use store-bought"
+    },
+    {
+      "name": "Exotic kalamata olives",
+      "amount": "1/4 cup, pitted",
+      "notes": "Add a salty, fruity flavor"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large, chopped",
+      "notes": "Caramelizes beautifully in the tagine"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": "Mince for maximum flavor"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium, peeled and chopped",
+      "notes": "Add natural sweetness to the dish"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": "Choose a full-bodied red for depth"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "Concentrated tomato flavor"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": "Balances the acidity"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in the bottom of a large, heavy pot or Dutch oven over medium heat.",
+    "Sear the lamb neck until browned on all sides, about 5 minutes. Remove and set aside.",
+    "Add the onion, garlic, and carrots to the pot. Cook until the vegetables are tender, about 10 minutes.",
+    "Add the smoked allspice, tagine spice blend, olives, red wine, tomato paste, and honey to the pot.",
+    "Return the lamb neck to the pot and cover with a tight-fitting lid.",
+    "Transfer the pot to the oven and cook for 2 1/2 hours, or until the meat is tender and falls apart easily.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Shred the lamb with two forks and serve over couscous or rice, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "tagine",
+    "smoked",
+    "jamaican",
+    "lamb",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 34,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-earthy-jamaican-smoked-turkey-neck-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:05:05.118Z"
+}
