@@ -543,17 +543,15 @@
   },
   {
     "slug": "earthy-algerian-lamb-tagine",
-    "title": "Earthy Algerian Lamb Tagine",
+    "title": "Traditional Algerian Lamb Tagine",
     "tags": [
       "algerian",
-      "high-protein",
       "lamb",
-      "one-pan",
       "tagine",
-      "weeknight"
+      "north-african"
     ],
-    "cuisine": "algerian",
-    "totalTimeMin": 105,
+    "cuisine": "North African",
+    "totalTimeMin": 110,
     "shard": "e"
   },
   {
@@ -7390,17 +7388,16 @@
   },
   {
     "slug": "exotic-dense-saudi-arabian-lamb-kebabs",
-    "title": "Exotic Dense Saudi Arabian Lamb Kebabs",
+    "title": "Saudian Lamb Kebabs",
     "tags": [
-      "grilled",
-      "high-protein",
-      "indulgent",
+      "saudian",
+      "arabian",
+      "kebabs",
       "lamb",
-      "middle-eastern",
-      "salt-block"
+      "exotic"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 45,
+    "cuisine": "Arabian",
+    "totalTimeMin": 40,
     "shard": "e"
   },
   {
