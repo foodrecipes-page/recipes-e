@@ -1,0 +1,84 @@
+{
+  "slug": "exotic-dense-saudi-arabian-lamb-kebabs",
+  "title": "Saudian Lamb Kebabs",
+  "description": "A flavorful dish from the Arabian Peninsula, grilled to perfection with a blend of exotic spices.",
+  "cuisine": "Arabian",
+  "diet": [
+    "Meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "500g",
+      "notes": "Look for lamb with a good marbling of fat for enhanced flavor."
+    },
+    {
+      "name": "Exotic spice blend (e.g., sumac, cumin, coriander, cinnamon)",
+      "amount": "2 tsp",
+      "notes": "Adjust to taste or use store-bought blend."
+    },
+    {
+      "name": "Dense, sweet dates, pitted",
+      "amount": "6-8",
+      "notes": "Optional, but traditional in many Arabian dishes."
+    },
+    {
+      "name": "Saudian pomegranate molasses",
+      "amount": "2 tbsp",
+      "notes": "For a sweet and tangy glaze."
+    },
+    {
+      "name": "Arabian flatbread or pita",
+      "amount": "4-6",
+      "notes": "For serving with the kebabs."
+    },
+    {
+      "name": "Fresh parsley or cilantro",
+      "amount": "chopped (optional)",
+      "notes": "Garnish for added freshness."
+    },
+    {
+      "name": "Salt and black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing kebabs during grilling."
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "2 tbsp",
+      "notes": "For serving with kebabs."
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat (400°F/200°C).",
+    "2. In a large bowl, whisk together spice blend, salt, and black pepper. Add the lamb cubes and mix until evenly coated.",
+    "3. Thread lamb cubes onto skewers, leaving a small space between each piece.",
+    "4. Brush the lamb kebabs with olive oil and place on the grill.",
+    "5. Cook for 8-10 minutes per side, or until the lamb reaches an internal temperature of 145°F (63°C) for medium-rare.",
+    "6. While the kebabs are grilling, toast the flatbread or pita on the grill or in a toaster.",
+    "7. Once the kebabs are cooked, brush with pomegranate molasses and let rest for 5 minutes.",
+    "8. Serve the kebabs with toasted flatbread, chopped parsley or cilantro (if using), and a squeeze of fresh lemon juice.",
+    "9. Traditionally, kebabs are served with dates, but feel free to omit or substitute with other fruits or vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "saudian",
+    "arabian",
+    "kebabs",
+    "lamb",
+    "exotic"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-dense-saudi-arabian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:45:08.382Z"
+}
