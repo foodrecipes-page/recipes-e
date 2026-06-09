@@ -7912,17 +7912,15 @@
   },
   {
     "slug": "exotic-mediterranean-lamb-tagine",
-    "title": "Exotic Mediterranean Lamb Tagine",
+    "title": "Lamb Tagine with Exotic Spices",
     "tags": [
-      "date-night",
       "lamb",
+      "tagine",
       "mediterranean",
-      "one-pot",
-      "slow-cooked",
-      "whole30"
+      "exotic-spices"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 180,
+    "totalTimeMin": 170,
     "shard": "e"
   },
   {
