@@ -4563,16 +4563,15 @@
   },
   {
     "slug": "elegant-smokey-vietnamese-rice-pho",
-    "title": "Elegant Smokey Vietnamese Rice Pho",
+    "title": "Smokey Pho",
     "tags": [
-      "comfort-food",
-      "noodle-soup",
-      "one-pan",
       "vietnamese",
-      "weeknight"
+      "beef",
+      "soup",
+      "noodles"
     ],
-    "cuisine": "Asian",
-    "totalTimeMin": 260,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 140,
     "shard": "e"
   },
   {
@@ -5434,17 +5433,15 @@
   },
   {
     "slug": "energizing-dense-australian-sausage-pie",
-    "title": "Energizing Dense Australian Sausage Pie",
+    "title": "Australian Sausage Pie",
     "tags": [
-      "australian-cuisine",
-      "comfort-food",
-      "fermented-food",
-      "one-dish-meal",
-      "plant-based",
-      "post-workout"
+      "australian",
+      "sausage",
+      "pie",
+      "comfort food"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 55,
+    "cuisine": "australian",
+    "totalTimeMin": 45,
     "shard": "e"
   },
   {
@@ -5869,18 +5866,15 @@
   },
   {
     "slug": "energizing-mustardy-ukrainian-bramley-apples-borscht",
-    "title": "Energizing Mustardy Ukrainian Bramley Apples Borscht",
+    "title": "Bramley Apple Borscht",
     "tags": [
-      "breakfast",
-      "comfort-food",
-      "dairy-free-friendly",
-      "dinner",
-      "one-pan",
-      "vegan-friendly",
-      "weeknight"
+      "borscht",
+      "ukrainian",
+      "apples",
+      "vegetarian"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "e"
   },
   {
