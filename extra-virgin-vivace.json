@@ -1,0 +1,82 @@
+{
+  "slug": "extra-virgin-vivace",
+  "title": "Vivace Olive Oil Chicken Fettuccine",
+  "description": "A light and flavorful Italian-inspired pasta dish with chicken and vivace olive oil. Perfect for a weeknight dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "vivace olive oil",
+      "amount": "1/4 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "fettuccine pasta",
+      "amount": "1 pound",
+      "notes": "gluten-free option available"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil. Cook fettuccine pasta according to package instructions until al dente.",
+    "In a large skillet, heat 2 tablespoons of vivace olive oil over medium-high heat.",
+    "Add chicken to the skillet and cook until browned and cooked through, about 5-7 minutes.",
+    "Add garlic to the skillet and cook for 1 minute.",
+    "Add cooked fettuccine pasta to the skillet and toss with chicken and garlic.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, topped with grated Parmesan cheese and a drizzle of vivace olive oil.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "chicken",
+    "pasta",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 40,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/extra-virgin-vivace",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T02:33:43.088Z"
+}
