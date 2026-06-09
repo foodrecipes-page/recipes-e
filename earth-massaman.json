@@ -1,0 +1,86 @@
+{
+  "slug": "earth-massaman",
+  "title": "Massaman Curry with Earthy Notes",
+  "description": "A rich, slightly sweet massaman curry with the earthy undertones of mushroom and herbs.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Massaman curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Mushroom",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "Fish sauce (optional)",
+      "amount": "1 tablespoon",
+      "notes": "Omit for vegan version"
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onion and cook until softened, 3-4 minutes.",
+    "Add mushroom and cook until tender, 5-6 minutes.",
+    "Add curry paste and cook for 1-2 minutes.",
+    "Add coconut milk, water, fish sauce (if using), and palm sugar.",
+    "Bring to a simmer and cook for 10-15 minutes.",
+    "Stir in Thai basil and cook for 1 minute.",
+    "Season with salt to taste.",
+    "Serve over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "thaicuisine",
+    "veganoption",
+    "vegetarianoption"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earth-massaman",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T00:18:14.991Z"
+}
