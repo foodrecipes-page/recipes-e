@@ -1,0 +1,79 @@
+{
+  "slug": "energizing-mustardy-ukrainian-bramley-apples-borscht",
+  "title": "Bramley Apple Borscht",
+  "description": "A twist on the traditional Ukrainian beet-based borscht, using apples for a sweet and tangy twist.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bramley apples",
+      "amount": "2 large, peeled and chopped",
+      "notes": null
+    },
+    {
+      "name": "Ukrainian borscht mix",
+      "amount": "1 packet",
+      "notes": null
+    },
+    {
+      "name": "Mustardy vinaigrette",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the mustardy vinaigrette in a pan over medium heat.",
+    "Add the chopped apples and cook until tender.",
+    "Add the Ukrainian borscht mix and sugar, stir well.",
+    "Add the apple cider vinegar and salt, stir well.",
+    "Bring to a boil and then reduce the heat to low.",
+    "Simmer for 10 minutes.",
+    "Serve hot, garnished with black pepper.",
+    "Serve with energizing bread for a boost."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "borscht",
+    "ukrainian",
+    "apples",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 1,
+    "carbs": 30,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-mustardy-ukrainian-bramley-apples-borscht",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T21:46:23.476Z"
+}
