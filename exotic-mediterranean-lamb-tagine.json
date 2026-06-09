@@ -1,0 +1,98 @@
+{
+  "slug": "exotic-mediterranean-lamb-tagine",
+  "title": "Lamb Tagine with Exotic Spices",
+  "description": "A flavorful and aromatic lamb tagine with exotic spices, perfect for a special occasion. This dish is inspired by the rich flavors of the Mediterranean region.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "pork-free",
+    "beef-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the lamb with salt and black pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the onion to the pot and cook until softened, about 5 minutes.",
+    "Add the garlic, ginger, cumin, coriander, turmeric, cinnamon, and cayenne pepper to the pot.",
+    "Cook for 1 minute, stirring constantly.",
+    "Add the browned lamb back to the pot and stir to coat with the spice mixture.",
+    "Add 1 cup of water to the pot and bring to a boil.",
+    "Cover the pot and transfer to the oven.",
+    "Braise the lamb for 2 1/2 hours, or until tender and falling apart.",
+    "Serve hot, garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "mediterranean",
+    "exotic-spices"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-mediterranean-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T17:36:51.119Z"
+}
