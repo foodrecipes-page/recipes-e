@@ -1,0 +1,95 @@
+{
+  "slug": "exotic-grilled-saudi-arabian-pork-chops-kebabs",
+  "title": "Saudi Arabian Grilled Pork Chops Kebabs",
+  "description": "A flavorful and aromatic dish combining traditional Saudi Arabian spices with the smoky taste of grilled pork chops.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "gluten-free",
+    "meat-lovers"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": "1 1/2 pounds",
+      "notes": "preferably 1-1.5 inches thick"
+    },
+    {
+      "name": "Saudi Arabian spice blend",
+      "amount": "2 tablespoons",
+      "notes": "a mix of cinnamon, cardamom, and allspice"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "helps balance acidity and sweetness"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "add a squeeze just before serving"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing the grill"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped, for kebab assembly"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 large",
+      "notes": "any color, chopped, for kebab assembly"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced, for kebab assembly"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (375°F).",
+    "In a small bowl, mix together Saudi Arabian spice blend, brown sugar, salt, and black pepper.",
+    "Brush both sides of pork chops with olive oil, then coat evenly with spice mixture.",
+    "Let pork chops sit at room temperature for 15-30 minutes.",
+    "Thread pork chops, onions, bell peppers, and garlic onto skewers, brushing with olive oil.",
+    "Grill kebabs for 8-10 minutes per side, or until internal temperature reaches 145°F.",
+    "Let kebabs rest for 5 minutes before slicing.",
+    "Serve with additional lemon juice and Saudi Arabian spice blend, if desired.",
+    "Discard any leftover food and clean grill to prevent cross-contamination."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "pork",
+    "kebabs",
+    "saudi-arabian"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-grilled-saudi-arabian-pork-chops-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T06:41:43.737Z"
+}
