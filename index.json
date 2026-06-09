@@ -4393,17 +4393,16 @@
   },
   {
     "slug": "elegant-light-indian-paneer-palak-paneer",
-    "title": "Elegant Light Indian Paneer Palak Paneer",
+    "title": "Palak Paneer",
     "tags": [
-      "crowd-pleaser",
-      "easy-dinner",
-      "gluten-free",
-      "indian-cuisine",
-      "one-pot",
-      "vegetarian"
+      "indian",
+      "paneer",
+      "palak",
+      "vegetarian",
+      "low-fat"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 35,
+    "cuisine": "indian",
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
@@ -9553,17 +9552,15 @@
   },
   {
     "slug": "extra-virgin-vivace",
-    "title": "Sour Vivace Vegan",
+    "title": "Vivace Olive Oil Chicken Fettuccine",
     "tags": [
-      "sour",
-      "light",
-      "festive",
-      "spanish",
-      "extra-virgin-olive-oil",
-      "sous-vide"
+      "italian",
+      "chicken",
+      "pasta",
+      "gluten-free"
     ],
-    "cuisine": "Spanish",
-    "totalTimeMin": 35,
+    "cuisine": "Italian",
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
