@@ -1,0 +1,83 @@
+{
+  "slug": "exotic-smoky-slovakian-pork-dumplings",
+  "title": "Smoked Pork Dumplings",
+  "description": "A hearty and flavorful Slovakian-inspired dish featuring smoked pork and pan-seared dumplings.",
+  "cuisine": "Slovakian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked Pork Shoulder",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Exotic Spices (e.g. paprika, caraway seeds)",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Slovakian Dumpling Mix (or substitute with flour and eggs)",
+      "amount": "1 packet",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine flour, eggs, milk, salt, black pepper, and exotic spices. Mix until a smooth dough forms.",
+    "2. Knead the dough for 5-7 minutes until it becomes elastic.",
+    "3. Divide the dough into 8-10 equal pieces.",
+    "4. Roll each piece into a ball and then flatten slightly into a disk shape.",
+    "5. Heat a large skillet or frying pan with a couple of tablespoons of oil over medium heat.",
+    "6. Add the dumplings to the pan and cook for 3-4 minutes on each side, until golden brown and crispy.",
+    "7. Meanwhile, slice the smoked pork shoulder into thin strips.",
+    "8. Add the pork strips to the pan with the dumplings and cook for an additional 2-3 minutes, until heated through.",
+    "9. Serve the smoked pork and dumplings hot, garnished with chopped fresh parsley or dill if desired.",
+    "10. Enjoy your delicious Smoked Pork Dumplings!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "smoked-pork",
+    "dumplings",
+    "main-course"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-smoky-slovakian-pork-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T23:21:04.512Z"
+}
