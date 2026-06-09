@@ -1,0 +1,76 @@
+{
+  "slug": "energizing-freshly-juicy-chestnut-mushroom-stir-fry",
+  "title": "Chestnut and Mushroom Stir Fry",
+  "description": "A quick and easy stir fry made with fresh chestnuts and mushrooms, perfect for a weeknight dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chestnut",
+      "amount": "2 cups, peeled and sliced"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tablespoon, grated"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced chestnuts and cook for 2-3 minutes, or until they start to brown.",
+    "Add the sliced mushrooms and cook for another 2-3 minutes, or until they are tender.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, or until fragrant.",
+    "Pour in the soy sauce and stir to combine. Cook for 1 minute, or until the sauce has thickened.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles.",
+    "Garnish with chopped green onions and sesame seeds, if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "mushroom",
+    "chestnut",
+    "easy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-freshly-juicy-chestnut-mushroom-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T05:18:04.582Z"
+}
