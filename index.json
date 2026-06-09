@@ -125,17 +125,15 @@
   },
   {
     "slug": "earth-massaman",
-    "title": "EarthMassaman",
+    "title": "Massaman Curry with Earthy Notes",
     "tags": [
-      "thai",
-      "sous-vide",
-      "massaman curry",
-      "earthly",
-      "silky",
-      "comforting"
+      "curry",
+      "thaicuisine",
+      "veganoption",
+      "vegetarianoption"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 120,
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {
