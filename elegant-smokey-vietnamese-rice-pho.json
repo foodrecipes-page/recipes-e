@@ -1,0 +1,96 @@
+{
+  "slug": "elegant-smokey-vietnamese-rice-pho",
+  "title": "Smokey Pho",
+  "description": "A hearty, comforting dish inspired by the flavors of Vietnam. This smokey pho is a twist on the classic noodle soup, featuring tender beef and a rich, aromatic broth.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef brisket",
+      "amount": "1 pound",
+      "notes": "Cut into thin slices"
+    },
+    {
+      "name": "Smokey rice",
+      "amount": "1 cup",
+      "notes": "Cooked according to package directions"
+    },
+    {
+      "name": "Pho spice blend",
+      "amount": "2 tablespoons",
+      "notes": "Available at most Asian markets"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Star anise",
+      "amount": "2",
+      "notes": "Whole"
+    },
+    {
+      "name": "Cinnamon stick",
+      "amount": "1",
+      "notes": "Whole"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "Available at most Asian markets"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Available at most Asian markets"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": "Granulated"
+    }
+  ],
+  "instructions": [
+    "In a large stockpot, combine beef brisket, onion, ginger, star anise, and cinnamon stick.",
+    "Pour in 4 cups of cold water and bring to a boil over high heat.",
+    "Reduce heat to low and simmer for 2 hours, or until the beef is tender.",
+    "Strain the broth through a fine-mesh sieve into a clean pot, discarding the solids.",
+    "Add pho spice blend, fish sauce, soy sauce, and sugar to the broth.",
+    "Bring the broth to a simmer and cook for 10 minutes.",
+    "Cook the smokey rice according to package directions.",
+    "Slice the cooked beef into thin strips.",
+    "Assemble the pho by placing cooked rice and beef into bowls, then ladling the hot broth over the top.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "vietnamese",
+    "beef",
+    "soup",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/elegant-smokey-vietnamese-rice-pho",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T20:37:20.663Z"
+}
