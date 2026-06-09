@@ -1,0 +1,80 @@
+{
+  "slug": "energizing-dense-australian-sausage-pie",
+  "title": "Australian Sausage Pie",
+  "description": "A hearty and savory pie filled with Australian sausage, perfect for a cold winter night. Made with a flaky crust and topped with a sprinkle of cheese.",
+  "cuisine": "australian",
+  "diet": [
+    "meat",
+    "comfort food"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian sausage",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Pie crust",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out pie crust and place in a 9-inch pie dish.",
+    "Cook sausage in a pan over medium-high heat, breaking it up with a spoon as it cooks, until browned, about 5 minutes.",
+    "Add onion, garlic, and mushrooms to the pan and cook until the vegetables are softened, about 5 minutes.",
+    "Stir in heavy cream and bring the mixture to a simmer.",
+    "Pour the sausage and vegetable mixture into the pie crust.",
+    "Top the pie with shredded cheese.",
+    "Bake the pie in the preheated oven for 25-30 minutes, or until the crust is golden brown and the filling is hot and bubbly.",
+    "Serve the pie hot, garnished with chopped herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "sausage",
+    "pie",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 28,
+    "carbs": 30,
+    "fat": 37
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-dense-australian-sausage-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T20:47:34.902Z"
+}
