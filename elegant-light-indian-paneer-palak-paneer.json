@@ -1,0 +1,80 @@
+{
+  "slug": "elegant-light-indian-paneer-palak-paneer",
+  "title": "Palak Paneer",
+  "description": "A popular Indian dish made with spinach, paneer, and spices. This version is a healthier take on the classic recipe, with less oil and cream.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "250g"
+    },
+    {
+      "name": "palak",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of oil in a pan over medium heat.",
+    "2. Add the cumin powder, coriander powder, and garam masala. Cook for 1 minute.",
+    "3. Add the garlic and ginger. Cook for another minute.",
+    "4. Add the palak and cook until it's soft and wilted.",
+    "5. Add the paneer and cook until it's heated through.",
+    "6. Add the lemon juice and salt. Mix well.",
+    "7. Serve hot with naan or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "paneer",
+    "palak",
+    "vegetarian",
+    "low-fat"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/elegant-light-indian-paneer-palak-paneer",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T03:21:00.152Z"
+}
