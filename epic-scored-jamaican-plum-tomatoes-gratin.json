@@ -1,0 +1,90 @@
+{
+  "slug": "epic-scored-jamaican-plum-tomatoes-gratin",
+  "title": "Jamaican Jerk Pork with Gratin and Roasted Vegetables",
+  "description": "A flavorful jerk pork dish paired with a creamy gratin and roasted vegetables, perfect for a warm night.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1.5 lbs",
+      "notes": "scored"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tbsp",
+      "notes": "available at most grocery stores"
+    },
+    {
+      "name": "plum tomatoes",
+      "amount": "2",
+      "notes": "halved"
+    },
+    {
+      "name": "gratin",
+      "amount": "1 cup",
+      "notes": "pre-made or homemade"
+    },
+    {
+      "name": "epic",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for roasting"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the pork shoulder with Jamaican jerk seasoning, salt, and pepper.",
+    "Heat olive oil in a skillet over medium-high heat and sear the pork shoulder until browned on both sides.",
+    "Transfer the pork to a baking dish and roast in the oven for 20 minutes.",
+    "While the pork is cooking, toss the plum tomatoes and diced tomatoes with olive oil, salt, and pepper on a baking sheet.",
+    "Roast the vegetables in the oven for 15-20 minutes, or until tender.",
+    "To make the gratin, combine pre-made or homemade gratin with chopped epic and a pinch of salt and pepper.",
+    "Serve the jerk pork with roasted vegetables and a side of creamy gratin.",
+    "Garnish with additional chopped epic and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "jamaican",
+    "gratin",
+    "roasted-vegetables"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/epic-scored-jamaican-plum-tomatoes-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T06:36:51.278Z"
+}
