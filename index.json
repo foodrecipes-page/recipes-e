@@ -2614,17 +2614,15 @@
   },
   {
     "slug": "easy-chewy-ukrainian-dough-dumplings",
-    "title": "Ukrainian Cherry Dumplings",
+    "title": "Traditional Ukrainian Dough Dumplings",
     "tags": [
-      "fermented",
-      "healthy-snack",
-      "kid-friendly",
-      "steamed",
       "ukrainian",
-      "whole30"
+      "easy",
+      "dumplings",
+      "homemade"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 30,
     "shard": "e"
   },
   {
@@ -3657,16 +3655,15 @@
   },
   {
     "slug": "easygoing-american-chicken-casserole",
-    "title": "Easygoing American Chicken Casserole",
+    "title": "Classic American Chicken Casserole",
     "tags": [
-      "chicken-casserole",
-      "comfort-food",
-      "halal-friendly",
-      "one-pot",
-      "weeknight"
+      "american",
+      "chicken",
+      "casserole",
+      "comfort-food"
     ],
     "cuisine": "American",
-    "totalTimeMin": 70,
+    "totalTimeMin": 40,
     "shard": "e"
   },
   {
@@ -8380,16 +8377,16 @@
   },
   {
     "slug": "exotic-spicy-ukrainian-pork-skewers",
-    "title": "Exotic Spicy Ukrainian Pork Skewers",
+    "title": "Spicy Ukrainian Pork Skewers",
     "tags": [
-      "grilled-meat",
-      "one-pan",
-      "quick-dinner",
-      "spicy-food",
-      "ukrainian-cuisine"
+      "exotic",
+      "spicy",
+      "ukrainian",
+      "pork",
+      "skewers"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 36,
     "shard": "e"
   },
   {
@@ -9256,13 +9253,12 @@
   },
   {
     "slug": "exquisite-spring-polish-dum-dumplings",
-    "title": "Exquisite Spring Polish Dum Dumplings",
+    "title": "Polish Spring Dumplings",
     "tags": [
-      "date-night",
-      "gluten-free",
-      "polish-cuisine",
-      "spring-recipes",
-      "vegetarian-friendly"
+      "polish",
+      "spring",
+      "dumplings",
+      "soup"
     ],
     "cuisine": "Polish",
     "totalTimeMin": 35,
@@ -9609,18 +9605,15 @@
   },
   {
     "slug": "extraordinary-venezuelan-duck-tagine",
-    "title": "extraordinary venezuelan duck tagine",
+    "title": "Crispy Duck Tagine",
     "tags": [
-      "comfort-food",
-      "duck-legs",
-      "high-protein",
-      "one-pan",
-      "slow-cooker",
-      "venezuelan-cuisine",
-      "weeknight"
+      "duck",
+      "tagine",
+      "venezuelan",
+      "spicy"
     ],
     "cuisine": "venezuelan",
-    "totalTimeMin": 140,
+    "totalTimeMin": 45,
     "shard": "e"
   },
   {
