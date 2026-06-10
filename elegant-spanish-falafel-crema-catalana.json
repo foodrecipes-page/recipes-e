@@ -1,0 +1,55 @@
+{
+  "slug": "elegant-spanish-falafel-crema-catalana",
+  "title": "Pan Con Crema Catalana",
+  "description": "A Spanish twist on the classic dessert with a creamy twist. A rich and creamy crema catalana pairs perfectly with the elegance of toasted bread.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Bread",
+      "amount": "4 slices",
+      "notes": "Elegant bread, preferably a crusty baguette"
+    },
+    {
+      "name": "Crema Catalana",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Catalan Cream",
+      "amount": "1/2 cup",
+      "notes": "Optional, adds an extra layer of flavor"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Slice the bread into 1-inch thick slices and toast until crispy.",
+    "3. In a small saucepan, heat the crema catalana over low heat until warmed through.",
+    "4. To assemble the dessert, place a toasted bread slice on a plate and drizzle with the warmed crema catalana.",
+    "5. If desired, top with a dollop of catalan cream.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "crema",
+    "catalan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/elegant-spanish-falafel-crema-catalana",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T17:18:36.302Z"
+}
