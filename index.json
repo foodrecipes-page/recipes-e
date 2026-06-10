@@ -1427,16 +1427,16 @@
   },
   {
     "slug": "earthy-fluffy-korean-rice-bowl",
-    "title": "Earthy Fluffy Korean Rice Bowl",
+    "title": "Korean Rice Bowl",
     "tags": [
       "korean",
-      "vegetarian",
-      "low-sodium",
-      "post-workout",
-      "rice-bowl"
+      "bowl",
+      "egg",
+      "mushroom",
+      "rice"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
