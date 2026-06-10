@@ -2972,18 +2972,15 @@
   },
   {
     "slug": "easy-going-canadian-pork-bake",
-    "title": "Easy Going Canadian Pork Bake",
+    "title": "Easy Canadian Pork Chops",
     "tags": [
+      "easy",
       "canadian",
-      "comfort-food",
-      "high-protein",
-      "lazy-sunday",
-      "one-pan",
-      "weeknight",
-      "wood-fired"
+      "pork",
+      "bake"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 420,
+    "totalTimeMin": 30,
     "shard": "e"
   },
   {
@@ -7169,18 +7166,16 @@
   },
   {
     "slug": "exotic-crispy-argentinian-chicken-skewers",
-    "title": "Exotic Crispy Argentinian Chicken Skewers",
+    "title": "Argentinian Chicken Skewers with Crispy Exotic Peppers",
     "tags": [
       "argentinian",
-      "crispy",
-      "crowd-pleaser",
-      "high-protein",
-      "one-pan",
-      "spicy",
-      "weeknight"
+      "grilled",
+      "chicken",
+      "skewers",
+      "peppers"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 45,
+    "cuisine": "argentinian",
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
