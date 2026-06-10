@@ -1,0 +1,83 @@
+{
+  "slug": "easy-crumbly-turkish-lamb-cig-kofte",
+  "title": "Turkish-Style Lamb Kofte",
+  "description": "A classic Turkish dish featuring flavorful lamb kofte, inspired by the flavors of the Mediterranean.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Lamb",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Easy-Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Crumbly Breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": "plain, unsalted"
+    },
+    {
+      "name": "Cig Feta Cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Turkish Red Pepper Flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the grill to medium-high heat.",
+    "2. In a large mixing bowl, combine the ground lamb, finely chopped onion, breadcrumbs, crumbled feta cheese, chopped parsley, salt, black pepper, and Turkish red pepper flakes.",
+    "3. Use your hands to mix the ingredients until just combined.",
+    "4. Cover the mixture and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "5. Divide the mixture into 8 equal portions and shape each portion into a kofte.",
+    "6. Thread the kofte onto skewers, leaving a small space between each kofte.",
+    "7. Grill the kofte for 4-5 minutes per side, or until they are cooked through and slightly charred.",
+    "8. Serve the kofte hot with your favorite sides, such as rice pilaf, salad, or grilled vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "turkish",
+    "kofte",
+    "grill",
+    "mediterranean",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/easy-crumbly-turkish-lamb-cig-kofte",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T17:32:47.867Z"
+}
