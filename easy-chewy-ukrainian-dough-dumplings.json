@@ -1,0 +1,72 @@
+{
+  "slug": "easy-chewy-ukrainian-dough-dumplings",
+  "title": "Traditional Ukrainian Dough Dumplings",
+  "description": "Homemade Ukrainian-style dough dumplings are an easy and delicious addition to any meal. These chewy dumplings are perfect for a comforting meal.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": "use all-purpose flour for the best results"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": "warm water helps the dough come together"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "use kosher salt for the best flavor"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing the dumplings with oil"
+    },
+    {
+      "name": "dough (for dumplings)",
+      "amount": "1 cup",
+      "notes": "use homemade or store-bought dough for the dumplings"
+    }
+  ],
+  "instructions": [
+    "Combine the flour, warm water, and salt in a large mixing bowl.",
+    "Mix the dough until it comes together in a ball.",
+    "Knead the dough for 5-10 minutes until it is smooth and elastic.",
+    "Divide the dough into 8-10 equal pieces.",
+    "Roll out each piece of dough into a thin circle.",
+    "Place a tablespoon of your favorite filling in the center of each dough circle.",
+    "Fold the dough over the filling and press the edges together to seal the dumpling.",
+    "Brush the tops of the dumplings with vegetable oil.",
+    "Bring a large pot of water to a boil.",
+    "Gently add the dumplings to the boiling water.",
+    "Cook the dumplings for 10-15 minutes, or until they float to the surface.",
+    "Remove the dumplings from the water with a slotted spoon and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ukrainian",
+    "easy",
+    "dumplings",
+    "homemade"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/easy-chewy-ukrainian-dough-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T12:07:34.838Z"
+}
