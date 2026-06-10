@@ -1,0 +1,84 @@
+{
+  "slug": "exotic-crispy-argentinian-chicken-skewers",
+  "title": "Argentinian Chicken Skewers with Crispy Exotic Peppers",
+  "description": "A flavorful and colorful dish that combines the bold flavors of Argentinian cuisine with the exotic taste of peppers. Perfect for a summer evening or a BBQ gathering.",
+  "cuisine": "argentinian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Exotic peppers (bell, pimento, or Cubanelle)",
+      "amount": "4-6",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Argentinian chimichurri sauce",
+      "amount": "1/4 cup",
+      "notes": "Available at most grocery stores or online"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Crispy garlic (optional)",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together chimichurri sauce, olive oil, salt, and pepper.",
+    "Add chicken and peppers to the bowl and toss to coat.",
+    "Thread chicken and peppers onto skewers, leaving a small space between each piece.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill skewers for 8-10 minutes, or until chicken is cooked through and peppers are tender.",
+    "Serve hot, garnished with parsley and crispy garlic if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "grilled",
+    "chicken",
+    "skewers",
+    "peppers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-crispy-argentinian-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T07:13:46.831Z"
+}
