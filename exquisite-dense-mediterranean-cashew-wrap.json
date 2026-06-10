@@ -1,0 +1,96 @@
+{
+  "slug": "exquisite-dense-mediterranean-cashew-wrap",
+  "title": "Crunchy Cashew Mediterranean Wrap",
+  "description": "A delicious and healthy wrap filled with crunchy cashews, sweet mediterranean vegetables, and a hint of tangy flavors.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cashew",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "wrap",
+      "amount": "1",
+      "notes": "large flour wrap"
+    },
+    {
+      "name": "mediterranean olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "exquisite cucumber",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "dense feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "tomato",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": "extra virgin"
+    }
+  ],
+  "instructions": [
+    "1. Lay the wrap flat on a clean surface.",
+    "2. In a medium bowl, mix together chopped cashews, mediterranean olives, cucumber, feta cheese, tomato, lettuce, and red onion.",
+    "3. Squeeze the lemon juice over the mixture and toss to combine.",
+    "4. Drizzle the olive oil over the mixture and toss to combine.",
+    "5. Spoon the cashew mixture onto the center of the wrap, leaving a 1-inch border on either side.",
+    "6. Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll the wrap into a tight cylinder.",
+    "7. Slice the wrap in half and serve immediately.",
+    "8. Serve with your favorite side dish, such as a salad or a side of hummus."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "cashew",
+    "wrap",
+    "healthy",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exquisite-dense-mediterranean-cashew-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T09:04:12.001Z"
+}
