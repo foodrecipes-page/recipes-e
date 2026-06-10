@@ -1,0 +1,94 @@
+{
+  "slug": "exotic-spicy-ukrainian-pork-skewers",
+  "title": "Spicy Ukrainian Pork Skewers",
+  "description": "Deliciously marinated pork skewers with a spicy twist, inspired by Ukrainian cuisine.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "pork"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": "Make sure to cut the pork into consistent sizes for even cooking."
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Spicy Ukrainian seasoning blend",
+      "amount": "2 teaspoons",
+      "notes": "You can make your own blend by mixing together paprika, garlic powder, onion powder, salt, and black pepper."
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Roasted red peppers, sliced",
+      "amount": "1/2 cup",
+      "notes": "You can use jarred roasted peppers if you prefer."
+    },
+    {
+      "name": "Red onion, sliced",
+      "amount": "1/2 cup",
+      "notes": "Make sure to slice the onion thinly for even cooking."
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Spicy peppers, sliced",
+      "amount": "1/4 cup",
+      "notes": "You can use jalapeños or other spicy peppers of your choice."
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": "Make sure to soak the skewers in water for at least 30 minutes before using to prevent them from catching fire during cooking."
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together vegetable oil, lime juice, spicy Ukrainian seasoning blend, and honey.",
+    "Add the pork cubes to the marinade and toss to coat. Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Thread the marinated pork, roasted red peppers, red onion, cilantro, and spicy peppers onto the skewers, leaving a small space between each piece.",
+    "Grill the skewers for 8-10 minutes per side, or until the pork is cooked through and the vegetables are tender.",
+    "Serve the skewers hot, garnished with additional cilantro and spicy peppers if desired.",
+    "Make sure to let the skewers rest for a few minutes before serving to allow the juices to redistribute.",
+    "Serve with your favorite sides, such as grilled vegetables or a salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "exotic",
+    "spicy",
+    "ukrainian",
+    "pork",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-spicy-ukrainian-pork-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T11:25:45.018Z"
+}
