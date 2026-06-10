@@ -1,0 +1,75 @@
+{
+  "slug": "easy-going-canadian-pork-bake",
+  "title": "Easy Canadian Pork Chops",
+  "description": "A simple and delicious pork chop recipe from Canada, perfect for a weeknight dinner. The combination of pork, garlic, and herbs creates a mouthwatering dish that's sure to please.",
+  "cuisine": "Canadian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": "4",
+      "notes": "1-inch thick"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp",
+      "notes": "for glazing"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the pork chops with thyme, salt, and pepper.",
+    "Heat the olive oil in a skillet over medium-high heat.",
+    "Sear the pork chops for 2-3 minutes per side, or until browned.",
+    "Transfer the pork chops to a baking sheet and brush with maple syrup.",
+    "Bake in the preheated oven for 15-20 minutes, or until cooked to desired level of doneness.",
+    "Let the pork chops rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "canadian",
+    "pork",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/easy-going-canadian-pork-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T06:58:25.893Z"
+}
