@@ -1,0 +1,82 @@
+{
+  "slug": "exquisite-spring-polish-dum-dumplings",
+  "title": "Polish Spring Dumplings",
+  "description": "A traditional Polish dish filled with spring vegetables, served in a light broth.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "spring vegetables (carrots, peas, onions)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "polish sausage (optional)",
+      "amount": "1/2 cup",
+      "notes": "cook before adding to dumplings"
+    },
+    {
+      "name": "dumpling wrappers",
+      "amount": "1 package"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Combine flour and warm water to make dough, knead for 5 minutes.",
+    "Divide dough into 8 equal pieces, roll into balls.",
+    "Roll out each ball into a thin circle.",
+    "Place 1 tbsp of spring vegetables and 1 tsp of polish sausage (if using) in the center of each circle.",
+    "Fold dough over filling to form a half-moon shape.",
+    "Seal edges with a fork.",
+    "Bring chicken broth to a boil, add dumplings.",
+    "Cook for 10-12 minutes, or until dumplings float.",
+    "Serve with melted butter."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "spring",
+    "dumplings",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exquisite-spring-polish-dum-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T12:20:12.634Z"
+}
