@@ -1,0 +1,96 @@
+{
+  "slug": "exotic-peppery-tunisian-vegetarian-tagine",
+  "title": "Tunisian Vegetable Tagine",
+  "description": "A flavorful North African stew originating from Tunisia, made with exotic spices and a variety of vegetables.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tunisian olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Exotic spices (ras el hanout)",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Peppery artichoke hearts",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Tunisian preserved lemon",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large clay or ceramic tagine over medium heat.",
+    "Add onions and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add exotic spices, vegetable broth, carrots, zucchini, artichoke hearts, and chickpeas.",
+    "Bring mixture to a boil, then reduce heat to low and simmer, covered, for 30 minutes.",
+    "Stir in preserved lemon and cook for an additional 5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley and crusty bread on the side.",
+    "Let tagine rest for 10 minutes before serving to allow flavors to meld.",
+    "Serve with couscous or over rice, if desired.",
+    "Garnish with chopped fresh herbs, such as parsley or cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "vegetarian",
+    "stew",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-peppery-tunisian-vegetarian-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T08:53:37.769Z"
+}
