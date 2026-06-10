@@ -3321,17 +3321,15 @@
   },
   {
     "slug": "easy-roasted-australian-sirloin-steak-grill",
-    "title": "Easy Roasted Australian Sirloin Steak Grill",
+    "title": "Australian Sirloin Steak",
     "tags": [
+      "grill",
+      "easy",
       "australian",
-      "dairy-free",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "steak"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 55,
+    "cuisine": "australian",
+    "totalTimeMin": 20,
     "shard": "e"
   },
   {
