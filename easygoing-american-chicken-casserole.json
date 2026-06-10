@@ -1,0 +1,85 @@
+{
+  "slug": "easygoing-american-chicken-casserole",
+  "title": "Classic American Chicken Casserole",
+  "description": "A comforting and satisfying casserole filled with juicy chicken, creamy sauce, and a crunchy topping. Perfect for a weeknight dinner.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 1/2 pounds boneless, skinless chicken breast or thighs",
+      "amount": "",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "1 medium onion",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced",
+      "notes": ""
+    },
+    {
+      "name": "1 cup cream of chicken soup",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup milk",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup shredded cheddar cheese",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup crushed crackers",
+      "amount": "",
+      "notes": "For topping"
+    },
+    {
+      "name": "2 tablespoons butter",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Cook the chicken in a skillet over medium-high heat until browned and cooked through. Set aside.",
+    "In the same skillet, cook the onion and garlic until softened. Add the cream of chicken soup and stir until combined.",
+    "Add the cooked chicken back into the skillet and stir until coated with the soup mixture.",
+    "In a separate bowl, combine the milk and shredded cheese. Stir until smooth.",
+    "Add the cheese mixture to the skillet with the chicken and soup mixture. Stir until combined.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Sprinkle the crushed crackers over the top of the casserole.",
+    "Dot the top with butter.",
+    "Bake for 25-30 minutes or until the casserole is hot and the crackers are golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "chicken",
+    "casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/easygoing-american-chicken-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T11:31:17.471Z"
+}
