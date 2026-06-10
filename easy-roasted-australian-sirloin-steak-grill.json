@@ -1,0 +1,72 @@
+{
+  "slug": "easy-roasted-australian-sirloin-steak-grill",
+  "title": "Australian Sirloin Steak",
+  "description": "A simple and flavorful grilled sirloin steak recipe, perfect for a quick and easy dinner.",
+  "cuisine": "australian",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sirlion Steak",
+      "amount": "1.5 pounds",
+      "notes": "1.5 to 2 pounds per serving"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "Season the steak with salt, pepper, garlic powder, and paprika.",
+    "Brush both sides of the steak with olive oil.",
+    "Grill the steak for 4-5 minutes per side, or until it reaches your desired level of doneness.",
+    "Let the steak rest for 5 minutes before slicing and serving.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grill",
+    "easy",
+    "australian",
+    "steak"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 50,
+    "carbs": 0,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/easy-roasted-australian-sirloin-steak-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T16:27:22.823Z"
+}
