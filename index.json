@@ -4541,18 +4541,15 @@
   },
   {
     "slug": "elegant-silky-polish-buttermilk-macaroni",
-    "title": "Elegant Silky Polish Buttermilk Macaroni",
+    "title": "Creamy Macaroni Bake",
     "tags": [
-      "comfort-food",
-      "elegant",
-      "high-protein",
-      "one-pan",
-      "silky-sauce",
-      "tangy",
-      "weeknight"
+      "macaroni",
+      "creamy",
+      "bake",
+      "elegant"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 27,
+    "cuisine": "Italian-American",
+    "totalTimeMin": 30,
     "shard": "e"
   },
   {
@@ -7948,18 +7945,15 @@
   },
   {
     "slug": "exotic-peppery-tunisian-vegetarian-tagine",
-    "title": "exotic peppery tunisian vegetarian tagine",
+    "title": "Tunisian Vegetable Tagine",
     "tags": [
       "north-african",
-      "one-pan",
-      "peppery",
-      "tunisian",
-      "vegan-optional",
       "vegetarian",
-      "weeknight"
+      "stew",
+      "tagine"
     ],
-    "cuisine": "tunisian",
-    "totalTimeMin": 50,
+    "cuisine": "North African",
+    "totalTimeMin": 55,
     "shard": "e"
   },
   {
@@ -8992,17 +8986,17 @@
   },
   {
     "slug": "exquisite-dense-mediterranean-cashew-wrap",
-    "title": "Exquisite Dense Mediterranean Cashew Wrap",
+    "title": "Crunchy Cashew Mediterranean Wrap",
     "tags": [
-      "high-protein",
-      "jain-friendly",
-      "meal-prep",
       "mediterranean",
-      "one-pan",
-      "vegetarian"
+      "cashew",
+      "wrap",
+      "healthy",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 40,
+    "totalTimeMin": 10,
     "shard": "e"
   },
   {
