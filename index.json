@@ -2731,17 +2731,17 @@
   },
   {
     "slug": "easy-crumbly-turkish-lamb-cig-kofte",
-    "title": "Easy Crumbly Turkish Lamb Cig Kofte",
+    "title": "Turkish-Style Lamb Kofte",
     "tags": [
-      "easy-dinner",
-      "lamb-recipes",
-      "low-calorie",
-      "mediterranean-cuisine",
-      "turkish-food",
-      "weeknight"
+      "lamb",
+      "turkish",
+      "kofte",
+      "grill",
+      "mediterranean",
+      "easy"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 38,
+    "totalTimeMin": 28,
     "shard": "e"
   },
   {
@@ -4591,17 +4591,14 @@
   },
   {
     "slug": "elegant-spanish-falafel-crema-catalana",
-    "title": "Elegant Spanish Falafel Crema Catalana",
+    "title": "Pan Con Crema Catalana",
     "tags": [
-      "brunch-ideas",
-      "crema-catalana",
-      "falafel-recipes",
-      "fermented-foods",
-      "kosher-friendly",
-      "spanish-cuisine"
+      "spanish",
+      "crema",
+      "catalan"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 15,
     "shard": "e"
   },
   {
