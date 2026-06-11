@@ -7724,18 +7724,16 @@
   },
   {
     "slug": "exotic-floral-saudi-arabian-dates-tagine",
-    "title": "Exotic Floral Saudi Arabian Dates Tagine",
+    "title": "Saudi Arabian Date Tagine",
     "tags": [
-      "crumbly",
-      "floral",
-      "lazy-sunday",
-      "one-pan",
-      "saudi-arabian",
-      "shojin-friendly",
-      "vegetarian"
+      "saudi",
+      "arabian",
+      "beef",
+      "dates",
+      "tagine"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 45,
+    "cuisine": "Saudi",
+    "totalTimeMin": 170,
     "shard": "e"
   },
   {
@@ -9644,17 +9642,15 @@
   },
   {
     "slug": "extremely-dense-scottish-american-haggis-casserole",
-    "title": "Extremely Dense Scottish American Haggis Casserole",
+    "title": "Scottish Haggis Casserole",
     "tags": [
+      "scottish",
+      "hearty",
       "comfort-food",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "scottish-american",
-      "slow-cooker"
+      "haggis"
     ],
-    "cuisine": "Scottish American",
-    "totalTimeMin": 180,
+    "cuisine": "Scottish",
+    "totalTimeMin": 50,
     "shard": "e"
   },
   {
