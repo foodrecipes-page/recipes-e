@@ -8787,16 +8787,14 @@
   },
   {
     "slug": "exotic-yeasty-australian-pineapple-bake",
-    "title": "Exotic Yeasty Australian Pineapple Bake",
+    "title": "Australian Pineapple Upside-Down Cake",
     "tags": [
-      "australian-dessert",
-      "pineapple-juice",
-      "special-occasion",
-      "ti-leaf-wrap",
-      "yeasty-treats"
+      "australian-cake",
+      "pineapple-cake",
+      "yeast-based"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 45,
+    "cuisine": "australian",
+    "totalTimeMin": 60,
     "shard": "e"
   },
   {
