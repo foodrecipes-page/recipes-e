@@ -1,0 +1,93 @@
+{
+  "slug": "exciting-crunchy-german-tempeh-skillet",
+  "title": "Crunchy German Tempeh Skillet",
+  "description": "A hearty and flavorful skillet dish featuring tempeh, crunchy veggies, and a hint of German spices.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tempeh",
+      "amount": "8 oz",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "skillet",
+      "amount": "1 large",
+      "notes": "for cooking"
+    },
+    {
+      "name": "exciting",
+      "amount": "1 tsp",
+      "notes": "paprika (or to taste)"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "potato",
+      "amount": "1 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "canned"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "and pepper"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "and salt"
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium-high heat.",
+    "Add the onion, carrot, and potato. Cook for 5 minutes, stirring occasionally.",
+    "Add the tempeh, paprika, salt, and pepper. Cook for an additional 2 minutes.",
+    "Stir in the tomato paste and water.",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 15-20 minutes, or until the vegetables are tender.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "skillet",
+    "tempeh",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exciting-crunchy-german-tempeh-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T22:56:48.798Z"
+}
