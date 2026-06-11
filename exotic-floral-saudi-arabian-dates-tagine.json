@@ -1,0 +1,95 @@
+{
+  "slug": "exotic-floral-saudi-arabian-dates-tagine",
+  "title": "Saudi Arabian Date Tagine",
+  "description": "A traditional Saudi dish featuring tender meat, sweet dates, and aromatic spices, cooked to perfection in a clay tagine.",
+  "cuisine": "Saudi",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef shoulder",
+      "amount": "1.5 kg",
+      "notes": ""
+    },
+    {
+      "name": "Dates, pitted",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon, ground",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin, ground",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander, ground",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric, ground",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 150°C (300°F).",
+    "Heat the ghee or oil in the bottom of a clay or ceramic tagine over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the ginger, cinnamon, cumin, coriander, turmeric, and salt. Cook for 1 minute.",
+    "Add the beef shoulder and cook until browned on all sides, about 5 minutes.",
+    "Add the pitted dates and enough water to cover the meat.",
+    "Bring to a boil, then cover the tagine and transfer to the preheated oven.",
+    "Braise for 2 1/2 hours, or until the meat is tender and falls apart easily.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi",
+    "arabian",
+    "beef",
+    "dates",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-floral-saudi-arabian-dates-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T21:00:16.380Z"
+}
