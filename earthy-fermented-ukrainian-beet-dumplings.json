@@ -1,0 +1,84 @@
+{
+  "slug": "earthy-fermented-ukrainian-beet-dumplings",
+  "title": "Beet Borscht with Ukrainian Dumplings",
+  "description": "A hearty and comforting beet-based soup with Ukrainian-style dumplings, perfect for a cold winter's day.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beets",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fermented cabbage",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ukrainian dumplings",
+      "amount": "6-8",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Earthy mushroom broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the mushroom broth in a large pot over medium heat.",
+    "Add the chopped onions and cook until softened, about 5 minutes.",
+    "Add the grated carrots and cook for an additional 5 minutes.",
+    "Add the peeled and diced beets and cook for 10 minutes.",
+    "Stir in the chopped fermented cabbage and cook for 2 minutes.",
+    "Add the Ukrainian dumplings and cook for 5 minutes, or until they float to the surface.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beet",
+    "borscht",
+    "ukrainian",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-fermented-ukrainian-beet-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T05:53:10.519Z"
+}
