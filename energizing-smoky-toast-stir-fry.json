@@ -1,0 +1,82 @@
+{
+  "slug": "energizing-smoky-toast-stir-fry",
+  "title": "Smoky Breakfast Skillet",
+  "description": "A hearty and energizing breakfast skillet filled with smoky flavors and crunchy texture. Perfect for a weekend brunch.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "amount": "4 large",
+      "notes": "Fresh from the fridge"
+    },
+    {
+      "name": "Smoky Bacon",
+      "amount": "6 slices",
+      "notes": "Look for thick-cut bacon for a smokier flavor"
+    },
+    {
+      "name": "Chopped Bell Peppers",
+      "amount": "1 cup",
+      "notes": "Any color bell pepper works well"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly slice the onion for even cooking"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince the garlic for added flavor"
+    },
+    {
+      "name": "Shredded Cheese",
+      "amount": "1 cup",
+      "notes": "Cheddar or Monterey Jack work well"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped cilantro adds a bright freshness"
+    }
+  ],
+  "instructions": [
+    "1. Heat a large cast-iron skillet over medium-high heat.",
+    "2. Add the bacon and cook until crispy. Remove from the skillet and set aside.",
+    "3. Add the chopped bell peppers and onion to the skillet. Cook until they start to soften.",
+    "4. Add the minced garlic and cook for 1 minute.",
+    "5. Push the vegetables to one side of the skillet. Crack in the eggs and scramble them until cooked through.",
+    "6. Mix the eggs with the vegetables.",
+    "7. Sprinkle the shredded cheese over the top of the skillet.",
+    "8. Return the cooked bacon to the skillet and stir to combine.",
+    "9. Season with salt and pepper to taste.",
+    "10. Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "skillet",
+    "eggs",
+    "bacon",
+    "bell-peppers"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 10,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-smoky-toast-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T06:11:58.451Z"
+}
