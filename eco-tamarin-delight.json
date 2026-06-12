@@ -1,0 +1,54 @@
+{
+  "slug": "eco-tamarin-delight",
+  "title": "Tamarin Delight Delight",
+  "description": "A refreshing and healthy dessert made with tamarin and eco. Perfect for a hot summer day.",
+  "cuisine": null,
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "eco",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tamarin",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "delight",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "1. In a blender, combine eco, tamarin, and delight.",
+    "2. Blend until smooth.",
+    "3. Pour into individual cups.",
+    "4. Chill in the refrigerator for at least 30 minutes.",
+    "5. Serve cold."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tamarin",
+    "delight",
+    "dessert",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/eco-tamarin-delight",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T08:38:05.518Z"
+}
