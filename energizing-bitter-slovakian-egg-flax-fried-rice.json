@@ -1,0 +1,58 @@
+{
+  "slug": "energizing-bitter-slovakian-egg-flax-fried-rice",
+  "title": "Slovakian Sloppy Fried Rice",
+  "description": "A hearty and energizing breakfast dish from Slovakia, made with fried rice and a few secret ingredients.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Slovakian rice",
+      "amount": "1 cup cooked"
+    },
+    {
+      "name": "Egg",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "Flax",
+      "amount": "1 tablespoon ground"
+    },
+    {
+      "name": "Fried rice",
+      "amount": "1 cup cooked"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan or wok over medium-high heat.",
+    "Add the flax and cook for 1 minute, until fragrant.",
+    "Push the flax to one side of the pan, crack in the eggs and scramble them.",
+    "Mix the eggs with the flax, then add the cooked rice and stir-fry for 2 minutes.",
+    "Add the Slovakian rice and stir-fry for another 2 minutes, until heated through.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "slovakian",
+    "gluten-free",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-bitter-slovakian-egg-flax-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T05:20:25.770Z"
+}
