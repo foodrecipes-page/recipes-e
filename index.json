@@ -5639,16 +5639,14 @@
   },
   {
     "slug": "energizing-gooey-smoky-cumin-stir-fry",
-    "title": "Energizing Gooey Smoky Cumin Stir-fry",
+    "title": "Smoky Energizing Stir Fry",
     "tags": [
-      "energizing",
-      "smoky",
-      "gooey",
-      "cumin",
-      "nut-free"
+      "stir-fry",
+      "vegetarian",
+      "quick-meal"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 30,
+    "cuisine": null,
+    "totalTimeMin": 15,
     "shard": "e"
   },
   {
@@ -6043,15 +6041,14 @@
   },
   {
     "slug": "energizing-slovkian-juicy-chinese-leaf-stir-fry",
-    "title": "Energizing Slovkian Juicy Chinese Leaf Stir-fry",
+    "title": "Stir Fry Delight",
     "tags": [
-      "energizing",
-      "slovnian",
-      "juicy",
-      "whole30-friendly"
+      "stir-fry",
+      "chinese",
+      "easy"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 25,
+    "totalTimeMin": 13,
     "shard": "e"
   },
   {
