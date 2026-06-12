@@ -4321,18 +4321,14 @@
   },
   {
     "slug": "elegant-japanese-caraway-seed-tagine",
-    "title": "Elegant Japanese Caraway Seed Tagine",
+    "title": "Caraway Seed Tagine",
     "tags": [
-      "comfort-food",
-      "elegant",
-      "festive",
-      "japanese",
-      "one-pan",
-      "tagine",
-      "winter"
+      "north-african",
+      "vegetarian",
+      "stew"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 65,
+    "cuisine": "north-african",
+    "totalTimeMin": 40,
     "shard": "e"
   },
   {
@@ -4396,17 +4392,14 @@
   },
   {
     "slug": "elegant-malaysian-cabbage-stew",
-    "title": "Elegant Malaysian Cabbage Stew",
+    "title": "Spicy Malaysian Stew",
     "tags": [
-      "asian",
-      "cataplana",
-      "dairy-free",
-      "low-carb",
-      "stew",
-      "vegetarian"
+      "spicy",
+      "malaysian",
+      "stew"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 40,
+    "cuisine": "malaysian",
+    "totalTimeMin": 45,
     "shard": "e"
   },
   {
