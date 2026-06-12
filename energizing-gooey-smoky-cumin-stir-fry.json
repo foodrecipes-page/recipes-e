@@ -1,0 +1,81 @@
+{
+  "slug": "energizing-gooey-smoky-cumin-stir-fry",
+  "title": "Smoky Energizing Stir Fry",
+  "description": "A quick and delicious stir fry made with energizing greens and a smoky twist.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "energizing greens",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "smoky sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "oil",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "stir-fry mix",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "fry sauce",
+      "amount": "1 tbsp",
+      "notes": "Optional, for added flavor"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add garlic and ginger and stir-fry for 1 minute.",
+    "Add energizing greens and stir-fry until wilted.",
+    "Add smoky sauce and cumin; stir-fry for 1 minute.",
+    "Add stir-fry mix and fry sauce (if using); stir-fry for 2 minutes.",
+    "Serve hot and enjoy!",
+    "Cook to a safe internal temperature to avoid foodborne illness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "vegetarian",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-gooey-smoky-cumin-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T16:41:06.246Z"
+}
