@@ -849,15 +849,14 @@
   },
   {
     "slug": "earthy-crisp-tunisian-pea-stir-fry",
-    "title": "Earthy Crisp Tunisian Pea Stir-fry",
+    "title": "Tunisian Vegetable Stir Fry",
     "tags": [
-      "earthy",
-      "tunisian",
+      "vegetable",
       "stir-fry",
-      "crisp"
+      "tunisian"
     ],
     "cuisine": "Tunisian",
-    "totalTimeMin": 15,
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
@@ -1223,17 +1222,15 @@
   },
   {
     "slug": "earthy-fermented-ukrainian-beet-dumplings",
-    "title": "Earth Beet Dumplings",
+    "title": "Beet Borscht with Ukrainian Dumplings",
     "tags": [
-      "blue-food",
-      "brunch-ideas",
-      "fermented-food",
-      "gluten-free",
-      "sashimi-style",
-      "ukrainian-cuisine"
+      "beet",
+      "borscht",
+      "ukrainian",
+      "dumplings"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 55,
     "shard": "e"
   },
   {
@@ -5123,16 +5120,15 @@
   },
   {
     "slug": "energizing-bitter-slovakian-egg-flax-fried-rice",
-    "title": "Energizing Bitter Slovakian Egg Flax Fried-Rice",
+    "title": "Slovakian Sloppy Fried Rice",
     "tags": [
       "breakfast",
-      "egg-free",
-      "flaxseed",
-      "high-protein",
-      "slovakian"
+      "slovakian",
+      "gluten-free",
+      "rice"
     ],
-    "cuisine": "slovakian",
-    "totalTimeMin": 35,
+    "cuisine": "Slovakian",
+    "totalTimeMin": 13,
     "shard": "e"
   },
   {
@@ -6104,14 +6100,16 @@
   },
   {
     "slug": "energizing-smoky-toast-stir-fry",
-    "title": "Energizing Smoky Toast Stir-fry",
+    "title": "Smoky Breakfast Skillet",
     "tags": [
-      "energizing",
-      "smoky",
-      "gluten-free"
+      "breakfast",
+      "skillet",
+      "eggs",
+      "bacon",
+      "bell-peppers"
     ],
     "cuisine": "American",
-    "totalTimeMin": 15,
+    "totalTimeMin": 30,
     "shard": "e"
   },
   {
