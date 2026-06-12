@@ -1,0 +1,73 @@
+{
+  "slug": "earthy-crisp-tunisian-pea-stir-fry",
+  "title": "Tunisian Vegetable Stir Fry",
+  "description": "A flavorful and nutritious stir fry dish inspired by Tunisian cuisine, made with a variety of vegetables and earthy spices.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tunisian spice blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Crisp carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Earthy mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pea shoots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the garlic and sauté for 1 minute.",
+    "Add the earthy mushrooms and crisp carrots, and stir-fry for 3-4 minutes.",
+    "Add the pea shoots and Tunisian spice blend, and stir-fry for an additional 2-3 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with additional pea shoots if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetable",
+    "stir-fry",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-crisp-tunisian-pea-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T06:21:35.849Z"
+}
