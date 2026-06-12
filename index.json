@@ -3718,15 +3718,16 @@
   },
   {
     "slug": "eco-tamarin-delight",
-    "title": "Eco-Tamarin Delight",
+    "title": "Tamarin Delight Delight",
     "tags": [
-      "tamarind",
-      "almond",
-      "flaxseed",
-      "coconut"
+      "tamarin",
+      "delight",
+      "dessert",
+      "vegan",
+      "gluten-free"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 45,
+    "cuisine": null,
+    "totalTimeMin": 30,
     "shard": "e"
   },
   {
