@@ -1631,10 +1631,15 @@
   },
   {
     "slug": "earthy-hearty-malaysian-wild-garlic-curry",
-    "title": "Earthy Hearty Malaysian Wild Garlic Curry",
-    "tags": [],
+    "title": "Wild Garlic Curry with Earthy Hearty Vegetables",
+    "tags": [
+      "wild-garlic",
+      "curry",
+      "hearty-vegetables",
+      "malaysian"
+    ],
     "cuisine": "Malaysian",
-    "totalTimeMin": null,
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {
