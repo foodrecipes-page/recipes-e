@@ -1,0 +1,60 @@
+{
+  "slug": "energizing-slovkian-juicy-chinese-leaf-stir-fry",
+  "title": "Stir Fry Delight",
+  "description": "A quick and easy meal made with juicy flavors. Perfect for a weeknight dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Slovkian",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Leaf",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Juicy",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Chinese",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Energizing",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat a pan over medium heat.",
+    "Add Chinese and energizing, stir for 1 minute.",
+    "Add juicy, cook until browned, 3-4 minutes.",
+    "Add Slovkian and leaf, stir-fry for 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "chinese",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-slovkian-juicy-chinese-leaf-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T15:56:11.627Z"
+}
