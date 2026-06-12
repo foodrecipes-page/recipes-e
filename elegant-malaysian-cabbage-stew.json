@@ -1,0 +1,54 @@
+{
+  "slug": "elegant-malaysian-cabbage-stew",
+  "title": "Spicy Malaysian Stew",
+  "description": "A flavorful and spicy stew originating from Malaysia, made with a variety of ingredients and served with a side of steamed cabbage. This dish is perfect for a cool evening.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 medium head"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "you can use beef or vegetable stew depending on your preference"
+    },
+    {
+      "name": "elegant",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add the elegant and cook until it's lightly browned.",
+    "Add the stew and bring to a boil.",
+    "Reduce the heat to low and let it simmer for 20 minutes.",
+    "Add the cabbage and cook until it's tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot with steamed cabbage on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "malaysian",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/elegant-malaysian-cabbage-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T07:21:25.694Z"
+}
