@@ -4640,18 +4640,14 @@
   },
   {
     "slug": "elegant-tunisian-yellow-split-peas-tagine",
-    "title": "Elegant Tunisian Yellow Split Peas Tagine",
+    "title": "Tunisian Yellow Pea Tagine",
     "tags": [
-      "date-night",
-      "grassy",
-      "light",
-      "low-sodium",
-      "split-peas",
-      "tunisian",
-      "vegetarian"
+      "vegetarian",
+      "lentil-based",
+      "north-african"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 60,
+    "cuisine": "north african",
+    "totalTimeMin": 45,
     "shard": "e"
   },
   {
@@ -6342,13 +6338,16 @@
   },
   {
     "slug": "energizing-venezuelan-chickpeas-bowl",
-    "title": "Energizing Venezuelan Chickpeas Bowl",
+    "title": "Venezuelan Chickpea Bowl",
     "tags": [
-      "venezuelan",
-      "lunch"
+      "vegan",
+      "gluten-free",
+      "vegetarian",
+      "latin-american",
+      "south-american"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {
