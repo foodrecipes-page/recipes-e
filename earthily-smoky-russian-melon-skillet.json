@@ -1,0 +1,70 @@
+{
+  "slug": "earthily-smoky-russian-melon-skillet",
+  "title": "Smoked Skillet Melon",
+  "description": "A sweet and savory dish featuring smoky flavors and earthy undertones, perfect for a quick and easy meal.",
+  "cuisine": "russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "melon",
+      "amount": "1 medium"
+    },
+    {
+      "name": "skillet",
+      "amount": "1",
+      "notes": "for serving"
+    },
+    {
+      "name": "smoked earthy spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the melon into bite-sized pieces and place on a baking sheet.",
+    "Drizzle with olive oil and sprinkle with smoked earthy spice blend.",
+    "Roast in the oven for 15-20 minutes, or until the melon is tender.",
+    "While the melon is roasting, heat a skillet over medium-high heat.",
+    "Add the minced garlic and cook for 1-2 minutes, or until fragrant.",
+    "Add the roasted melon to the skillet and squeeze with lemon juice.",
+    "Serve the melon hot, garnished with additional smoked earthy spice blend if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "russian",
+    "smoky",
+    "melon",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthily-smoky-russian-melon-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T21:41:20.844Z"
+}
