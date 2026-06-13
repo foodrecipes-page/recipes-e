@@ -4197,17 +4197,15 @@
   },
   {
     "slug": "elegant-crispy-russian-mushroom-pilaf",
-    "title": "Elegant Crispy Russian Mushroom Pilaf",
+    "title": "Crispy Russian Pilaf with Mushroom",
     "tags": [
-      "comfort-food",
-      "indulgent",
-      "jain-friendly",
-      "mushroom-based",
-      "one-pot",
+      "russian",
+      "pilaf",
+      "mushroom",
       "vegetarian"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 50,
+    "cuisine": "russian",
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
