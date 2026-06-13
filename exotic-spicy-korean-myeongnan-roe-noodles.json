@@ -1,0 +1,85 @@
+{
+  "slug": "exotic-spicy-korean-myeongnan-roe-noodles",
+  "title": "Korean-Style Spicy Noodle Stir Fry",
+  "description": "A spicy and savory stir fry made with Korean noodles, myeongnan sauce, and a variety of exotic ingredients. This dish is perfect for those who enjoy a little heat in their meals.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Korean noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tbsp",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": "for added depth of flavor"
+    },
+    {
+      "name": "Meyongnan sauce",
+      "amount": "1 tsp",
+      "notes": "for a touch of sweetness"
+    },
+    {
+      "name": "Roasted peanuts",
+      "amount": "1/4 cup",
+      "notes": "for added crunch"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Sliced red onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the gochujang and stir-fry for 1-2 minutes, until fragrant.",
+    "Add the soy sauce and stir-fry for another minute.",
+    "Add the noodles and stir-fry for 2-3 minutes, until they start to brown.",
+    "Add the roasted peanuts and stir-fry for another minute.",
+    "Add the sliced red onion and scallions, and stir-fry for 1-2 minutes, until the onions are slightly softened.",
+    "Season with myeongnan sauce to taste.",
+    "Serve hot, garnished with additional scallions if desired.",
+    "Optional: top with roe for added richness and flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "spicy",
+    "noodles",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-spicy-korean-myeongnan-roe-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:02:54.167Z"
+}
