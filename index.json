@@ -1510,17 +1510,16 @@
   },
   {
     "slug": "earthy-gooey-ethiopian-ethiopian-dish-fondue",
-    "title": "Ethiopian Fondue with Thai Basil and Coconut Cream",
+    "title": "Ethiopian Fondue",
     "tags": [
       "appetizer",
+      "cheese",
       "ethiopian",
       "fondue",
-      "one-pan",
-      "snack",
-      "weeknight"
+      "mushrooms"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
