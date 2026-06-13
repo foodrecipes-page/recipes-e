@@ -2154,17 +2154,14 @@
   },
   {
     "slug": "earthy-smoky-mexican-chicken-tacos",
-    "title": "Earthy Smoky Mexican Chicken Tacos",
+    "title": "Smoky Chicken Tacos",
     "tags": [
-      "diabetic-friendly",
-      "gluten-free",
-      "high-protein",
-      "mexican-food",
-      "one-pan",
-      "weeknight"
+      "chicken",
+      "tacos",
+      "mexican"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 40,
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {
@@ -2848,17 +2845,16 @@
   },
   {
     "slug": "easy-exotic-moroccan-cream-cheese-tagine",
-    "title": "Easy Exotic Moroccan Cream Cheese Tagine",
+    "title": "Creamy Moroccan Chicken Tagine",
     "tags": [
-      "briny",
-      "crumbly",
+      "tagine",
       "moroccan",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "chicken",
+      "creamy",
+      "easy"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "e"
   },
   {
@@ -8296,14 +8292,12 @@
   },
   {
     "slug": "exotic-spicy-korean-myeongnan-roe-noodles",
-    "title": "Exotic Spicy Korean Myeongnan-roe Noodles",
+    "title": "Korean-Style Spicy Noodle Stir Fry",
     "tags": [
-      "gluten-free",
       "korean",
-      "one-pan",
       "spicy",
-      "vegetarian",
-      "weeknight"
+      "noodles",
+      "stir-fry"
     ],
     "cuisine": "Korean",
     "totalTimeMin": 25,
