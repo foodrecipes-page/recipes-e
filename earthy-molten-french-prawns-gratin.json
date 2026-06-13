@@ -1,0 +1,82 @@
+{
+  "slug": "earthy-molten-french-prawns-gratin",
+  "title": "Prawn and French Gratin",
+  "description": "A rich and flavorful seafood dish with a crispy, cheesy topping.",
+  "cuisine": "French",
+  "diet": [
+    "seafood",
+    "dairy",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Prawns",
+      "amount": "12 large",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "French bread",
+      "amount": "1 baguette",
+      "notes": "cubed"
+    },
+    {
+      "name": "Molten cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Earthy mushrooms",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Melt butter in a large skillet over medium heat.",
+    "Add garlic and sauté for 1 minute.",
+    "Add mushrooms and cook until tender, about 3-4 minutes.",
+    "Add prawns and cook until pink, about 2-3 minutes per side.",
+    "In a separate saucepan, melt molten cheese over low heat.",
+    "Add cubed bread to the cheese and stir until bread is toasted.",
+    "Transfer the prawn mixture to a baking dish.",
+    "Top with the bread and cheese mixture.",
+    "Season with salt and pepper to taste.",
+    "Bake for 10-12 minutes, or until golden brown and crispy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "french",
+    "gratin",
+    "cheesy"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-molten-french-prawns-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T00:31:09.582Z"
+}
