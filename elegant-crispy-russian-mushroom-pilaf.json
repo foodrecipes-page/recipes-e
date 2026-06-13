@@ -1,0 +1,82 @@
+{
+  "slug": "elegant-crispy-russian-mushroom-pilaf",
+  "title": "Crispy Russian Pilaf with Mushroom",
+  "description": "A hearty and flavorful vegetarian pilaf dish with crispy texture, inspired by Russian cuisine.",
+  "cuisine": "russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "crispy fried onions",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add diced onion and cook until translucent, about 3-4 minutes.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add pilaf, mushroom, thyme, salt, and pepper. Stir to combine.",
+    "Cook for 2-3 minutes, until the pilaf is lightly toasted.",
+    "Transfer the mixture to a serving dish and top with crispy fried onions.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "russian",
+    "pilaf",
+    "mushroom",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/elegant-crispy-russian-mushroom-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T19:46:16.896Z"
+}
