@@ -1,0 +1,60 @@
+{
+  "slug": "egg-y-flambe-saujaek-pilaf",
+  "title": "Flambe Pilaf",
+  "description": "A flavorful and aromatic pilaf dish made with flambe and egg, perfect for a quick weeknight dinner.",
+  "cuisine": "European",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flambe",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "saujaek",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "Add the flambe and cook until lightly browned, about 3-4 minutes.",
+    "Add the pilaf and stir to combine with the flambe.",
+    "Beat in the egg and stir until the egg is cooked through.",
+    "Add the saujak if using and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pilaf",
+    "flambe",
+    "egg",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/egg-y-flambe-saujaek-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:30:32.982Z"
+}
