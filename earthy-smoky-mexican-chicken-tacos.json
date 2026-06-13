@@ -1,0 +1,94 @@
+{
+  "slug": "earthy-smoky-mexican-chicken-tacos",
+  "title": "Smoky Chicken Tacos",
+  "description": "A flavorful and spicy twist on traditional tacos, featuring smoky chicken and earthy flavors.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "chipotle peppers in adobo sauce",
+      "amount": "1/4 cup",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": "corn or flour"
+    },
+    {
+      "name": "shredded cheese (optional)",
+      "amount": "1 cup",
+      "notes": "such as Monterey Jack or Cheddar"
+    },
+    {
+      "name": "sliced radishes",
+      "amount": "1 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together cumin, paprika, coriander, and lime juice.",
+    "Add the chicken to the bowl and toss to coat with the spice mixture.",
+    "Grill the chicken for 5-7 minutes per side, or until cooked through.",
+    "Transfer the chicken to a cutting board and let rest for 5 minutes.",
+    "Shred the chicken with two forks and stir in chipotle peppers.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the chicken onto a tortilla and topping with cheese, radishes, and cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "tacos",
+    "mexican"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "37g",
+    "carbs": "20g",
+    "fat": "12g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-smoky-mexican-chicken-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:02:53.581Z"
+}
