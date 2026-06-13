@@ -1,0 +1,112 @@
+{
+  "slug": "energizing-venezuelan-chickpeas-bowl",
+  "title": "Venezuelan Chickpea Bowl",
+  "description": "A hearty and nutritious bowl filled with the flavors of Venezuela, featuring chickpeas as the star ingredient. This dish is perfect for a quick and easy lunch or dinner.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "black beans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "cooked rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "avocado",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "energizing sauce (optional)",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium heat.",
+    "Add diced onion and cook until softened, about 3-4 minutes.",
+    "Add red bell pepper and cook for an additional 2-3 minutes.",
+    "Add chickpeas, black beans, diced tomatoes, cumin, coriander, salt, and pepper. Stir to combine.",
+    "Cook for 5-7 minutes, stirring occasionally.",
+    "Fluff cooked rice with a fork and stir into the skillet.",
+    "Heat cooked rice mixture over low heat for 2-3 minutes.",
+    "Stir in lime juice and avocado.",
+    "Serve warm, topped with energizing sauce if desired.",
+    "Garnish with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "vegetarian",
+    "latin-american",
+    "south-american"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 90,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-venezuelan-chickpeas-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T20:35:38.337Z"
+}
