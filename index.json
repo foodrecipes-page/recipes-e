@@ -268,17 +268,15 @@
   },
   {
     "slug": "earthily-smoky-russian-melon-skillet",
-    "title": "Earthily Smoky Russian Melon Skillet",
+    "title": "Smoked Skillet Melon",
     "tags": [
-      "nutritious",
-      "one-pan",
-      "plant-based",
-      "russian-inspired",
+      "russian",
       "smoky",
-      "weeknight"
+      "melon",
+      "skillet"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 35,
+    "cuisine": "russian",
+    "totalTimeMin": 30,
     "shard": "e"
   },
   {
@@ -4710,13 +4708,12 @@
   },
   {
     "slug": "elevated-italian-cannellini-beans-orecchiette",
-    "title": "elevated italian cannellini beans orecchiette",
+    "title": "Creamy Cannellini Bean and Orecchiette Pasta",
     "tags": [
       "italian",
-      "lacto-ovo-vegetarian",
-      "one-pan",
       "pasta",
-      "weeknight"
+      "vegetarian",
+      "creamy"
     ],
     "cuisine": "italian",
     "totalTimeMin": 25,
