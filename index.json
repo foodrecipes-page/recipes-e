@@ -3904,16 +3904,15 @@
   },
   {
     "slug": "egg-y-flambe-saujaek-pilaf",
-    "title": "Egg-y Flambe Saujaek Pilaf",
+    "title": "Flambe Pilaf",
     "tags": [
-      "argentinean-dish",
-      "diabetic-friendly",
-      "fermented-foods",
-      "flambe-cooking",
-      "one-pot-meal"
+      "pilaf",
+      "flambe",
+      "egg",
+      "weeknight-dinner"
     ],
-    "cuisine": "Argentinean",
-    "totalTimeMin": 50,
+    "cuisine": "European",
+    "totalTimeMin": 15,
     "shard": "e"
   },
   {
@@ -5954,15 +5953,16 @@
   },
   {
     "slug": "energizing-savory-dutch-hojicha-pancakes",
-    "title": "Energizing Savory Dutch Hojicha Pancakes",
+    "title": "Hojicha Pancakes",
     "tags": [
-      "breakfast-ideas",
-      "gluten-free",
-      "savory-breakfast",
-      "vegan-recipes"
+      "hojicha",
+      "pancakes",
+      "breakfast",
+      "dutch",
+      "dessert"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "e"
   },
   {
