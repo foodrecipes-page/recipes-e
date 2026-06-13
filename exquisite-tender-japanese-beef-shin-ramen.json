@@ -1,0 +1,96 @@
+{
+  "slug": "exquisite-tender-japanese-beef-shin-ramen",
+  "title": "Japanese Beef Shin Ramen",
+  "description": "A hearty, comforting bowl of Japanese beef shin ramen, made with rich pork broth, springy noodles, and tender beef shin.",
+  "cuisine": "Japanese",
+  "diet": [
+    "beef",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef shin",
+      "amount": "1 pound",
+      "notes": "cut into thin slices"
+    },
+    {
+      "name": "pork bones",
+      "amount": "2 pounds",
+      "notes": "for the broth"
+    },
+    {
+      "name": "ramen noodles",
+      "amount": "1 package",
+      "notes": "springy noodles"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for flavoring the broth"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "balance the savory flavors"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch",
+      "notes": "for garnish"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": "for added depth"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "for the broth"
+    },
+    {
+      "name": "sliced scallions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. In a large pot, combine pork bones, beef broth, water, and soy sauce. Bring to a boil over high heat.",
+    "2. Reduce heat to low and simmer for 2 hours, or until the broth is rich and flavorful.",
+    "3. In a separate pot, cook the ramen noodles according to package instructions. Drain and set aside.",
+    "4. In a large skillet or wok, cook the sliced beef shin over medium-high heat until browned and cooked through.",
+    "5. Add the cooked noodles to the skillet or wok and stir to combine with the beef and broth.",
+    "6. Season the broth with sugar and soy sauce to taste.",
+    "7. Divide the noodles and beef among individual bowls.",
+    "8. Ladle the hot broth over the top and garnish with green onions, sesame seeds, and sliced scallions.",
+    "9. Serve immediately and enjoy!",
+    "10. For an added rich and savory flavor, drizzle with sesame oil and sprinkle with grated ginger."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "ramen",
+    "japanese",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exquisite-tender-japanese-beef-shin-ramen",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:21:35.309Z"
+}
