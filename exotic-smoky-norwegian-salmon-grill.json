@@ -1,0 +1,82 @@
+{
+  "slug": "exotic-smoky-norwegian-salmon-grill",
+  "title": "Smoked Salmon Grilled Skewers",
+  "description": "A delicious and easy-to-make appetizer or snack featuring smoky salmon, grilled to perfection. Perfect for a summer evening.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Smoked Salmon Fillets",
+      "amount": "4 oz",
+      "notes": "look for high-quality, thick-cut salmon"
+    },
+    {
+      "name": "Norwegian Yogurt",
+      "amount": "1/4 cup",
+      "notes": "add a tangy and creamy element to the dish"
+    },
+    {
+      "name": "Exotic Fruit Salsa (such as mango, pineapple, and kiwi)",
+      "amount": "1/2 cup",
+      "notes": "add a burst of flavor and color to the dish"
+    },
+    {
+      "name": "Grill Skewers",
+      "amount": "10-12",
+      "notes": "make sure the skewers are long enough to hold the salmon fillets"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "use a high-quality, extra-virgin olive oil for the best flavor"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": "add a squeeze of fresh lemon juice for extra brightness"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp",
+      "notes": "use a light hand when adding garlic powder, as it can be overpowering"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": "season the salmon to taste, but be mindful of the delicate flavor of the smoked salmon"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the grill to medium-high heat.",
+    "2. In a small bowl, whisk together the olive oil, lemon juice, garlic powder, salt, and pepper.",
+    "3. Place the salmon fillets on the grill skewers, leaving a small space between each piece.",
+    "4. Brush the salmon with the olive oil mixture, making sure each piece is coated.",
+    "5. Grill the salmon for 2-3 minutes per side, or until cooked through.",
+    "6. Serve the grilled salmon on a platter or individual plates, topped with the exotic fruit salsa and a dollop of Norwegian yogurt."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoked-salmon",
+    "grilled-skewers",
+    "norwegian-cuisine",
+    "seafood-appetizer"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-smoky-norwegian-salmon-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:11:10.563Z"
+}
