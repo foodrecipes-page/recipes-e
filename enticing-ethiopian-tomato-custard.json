@@ -1,0 +1,90 @@
+{
+  "slug": "enticing-ethiopian-tomato-custard",
+  "title": "Ethiopian Custard Dessert",
+  "description": "A sweet and creamy Ethiopian dessert made with custard and enticing spices.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Enticing spice blend",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Large egg yolks",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter, softened",
+      "amount": "6 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Whole milk",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Tomato puree",
+      "amount": "2 tablespoons",
+      "notes": "optional for flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Custard powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium saucepan, whisk together sugar, flour, and salt.",
+    "Gradually add in milk, whisking continuously.",
+    "Cook over medium heat, stirring constantly, until the mixture comes to a boil.",
+    "Remove from heat and stir in softened butter, custard powder, and enticing spice blend.",
+    "In a separate bowl, whisk together egg yolks.",
+    "Temper the egg yolks by slowly pouring the warm milk mixture into the egg yolks, whisking continuously.",
+    "Pour the mixture into 6-8 individual serving cups.",
+    "Place cups in a large baking dish and add hot water to come halfway up the sides of the cups.",
+    "Bake for 25-30 minutes, or until the edges are set and the centers are slightly jiggly.",
+    "Remove from the water bath and let cool to room temperature.",
+    "Cover and refrigerate for at least 2 hours, or until chilled.",
+    "Serve chilled, garnished with a sprinkle of enticing spice blend if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "ethiopian",
+    "custard"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/enticing-ethiopian-tomato-custard",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:02:12.390Z"
+}
