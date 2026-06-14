@@ -1219,15 +1219,16 @@
   },
   {
     "slug": "earthy-fermented-ukrainian-beet-dumplings",
-    "title": "Beet Borscht with Ukrainian Dumplings",
+    "title": "Borshch with Ukrainian Dumplings",
     "tags": [
-      "beet",
-      "borscht",
       "ukrainian",
-      "dumplings"
+      "beet",
+      "dumplings",
+      "soup",
+      "comfort-food"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 75,
     "shard": "e"
   },
   {
