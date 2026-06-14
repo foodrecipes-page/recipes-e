@@ -2708,17 +2708,14 @@
   },
   {
     "slug": "easy-crispy-turkish-lentils-mercimek-corbasi",
-    "title": "Easy Crispy Turkish Lentils Mercimek Corbasi",
+    "title": "Turkish Lentil Soup (Mercimek Çorbası)",
     "tags": [
-      "crispy-snacks",
-      "gluten-free",
-      "kid-friendly",
-      "lentil-recipes",
-      "turkish-food",
-      "vegetarian-meals"
+      "turkish",
+      "lentil-soup",
+      "vegetarian"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "e"
   },
   {
@@ -7028,17 +7025,16 @@
   },
   {
     "slug": "exotic-chewy-middle-eastern-lamb-umm-ali",
-    "title": "Exotic Chewy Middle Eastern Lamb Umm Ali",
+    "title": "Ali's Exotic Lamb Koftas with Eastern-Style Rice",
     "tags": [
-      "corn-husk",
-      "dessert",
-      "exotic",
-      "lamb-based",
+      "lamb",
       "middle-eastern",
-      "steamed"
+      "koftas",
+      "rice",
+      "dinner"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 65,
+    "totalTimeMin": 45,
     "shard": "e"
   },
   {
