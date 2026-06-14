@@ -1,15 +1,14 @@
 [
   {
     "slug": "eadventurous-syrian-tempeh-poke-kadhai",
-    "title": "EAdventurous Syrian Tempeh Poke Kadhai",
+    "title": "Spicy Tempeh Kadhai",
     "tags": [
-      "no-onion-no-garlic",
-      "salty-crispy",
-      "syrian-poke",
-      "tempeh-dish"
+      "vegan",
+      "syrian",
+      "spicy"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 75,
+    "cuisine": "syrian",
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
