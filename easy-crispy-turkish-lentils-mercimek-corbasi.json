@@ -1,0 +1,88 @@
+{
+  "slug": "easy-crispy-turkish-lentils-mercimek-corbasi",
+  "title": "Turkish Lentil Soup (Mercimek Çorbası)",
+  "description": "A comforting and flavorful Turkish soup made with red lentils, onions, and spices. Serve with crusty bread for a satisfying meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup dried"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion, garlic, and carrot; cook until the vegetables are tender.",
+    "Add cumin, coriander, paprika, salt, and black pepper; cook for 1 minute.",
+    "Add tomato paste; cook for 1 minute.",
+    "Add lentils and water; bring to a boil.",
+    "Reduce heat to low and simmer for 30 minutes or until the lentils are tender.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "lentil-soup",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/easy-crispy-turkish-lentils-mercimek-corbasi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T02:58:57.077Z"
+}
