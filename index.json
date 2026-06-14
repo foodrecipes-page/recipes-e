@@ -620,16 +620,16 @@
   },
   {
     "slug": "earthy-canadian-cheese-bowl",
-    "title": "Earthy Canadian Cheese Bowl",
+    "title": "Canadian Poutine",
     "tags": [
+      "breakfast",
+      "lunch",
+      "snack",
       "canadian",
-      "vegan",
-      "cheese",
-      "quinoa",
-      "post-workout"
+      "comfort-food"
     ],
-    "cuisine": "canadian",
-    "totalTimeMin": 5,
+    "cuisine": "Canadian",
+    "totalTimeMin": 30,
     "shard": "e"
   },
   {
