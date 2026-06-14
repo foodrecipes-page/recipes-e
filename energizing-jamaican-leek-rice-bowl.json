@@ -1,0 +1,75 @@
+{
+  "slug": "energizing-jamaican-leek-rice-bowl",
+  "title": "Jamaican Rice Bowl",
+  "description": "A flavorful and nutritious bowl filled with Jamaican spices, leeks, and energizing ingredients.",
+  "cuisine": "jamaican",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jamaican Jerk Seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Leek",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cooked White Rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Black Beans, cooked",
+      "amount": "1 cup",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "Roasted Vegetables (such as sweet potatoes, carrots, and bell peppers)",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Energizing Granola",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the chopped leek and cook until softened, about 3-4 minutes.",
+    "Add the Jamaican Jerk Seasoning and cook for 1 minute, stirring constantly.",
+    "Add the cooked rice and stir to combine with the leek and jerk seasoning.",
+    "Add the cooked black beans, roasted vegetables, and chopped cilantro.",
+    "Stir to combine and cook for an additional 2-3 minutes.",
+    "Serve the rice mixture in a bowl and top with energizing granola.",
+    "Garnish with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy",
+    "veggie-packed",
+    "jamaican-insp",
+    "gluten-free"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-jamaican-leek-rice-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:33:49.650Z"
+}
