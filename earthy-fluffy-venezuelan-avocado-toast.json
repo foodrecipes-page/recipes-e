@@ -1,0 +1,61 @@
+{
+  "slug": "earthy-fluffy-venezuelan-avocado-toast",
+  "title": "Avocado Toast",
+  "description": "A simple yet delicious breakfast or snack option. Fresh avocado on toast provides a great source of healthy fats and complex carbs.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Avocado",
+      "amount": "1",
+      "notes": "Ripe and mashed"
+    },
+    {
+      "name": "Fluffy bread",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "Earthy salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Venezuelan cheese (Queso Venezolano)",
+      "amount": "1/4 cup, crumbled",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    " Toast the bread until lightly browned.",
+    "Mash the avocado in a bowl.",
+    "Spread the mashed avocado on the toasted bread.",
+    "Sprinkle with earthy salt and Venezuelan cheese.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "avocado",
+    "breakfast",
+    "snack",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 7,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-fluffy-venezuelan-avocado-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:35:24.733Z"
+}
