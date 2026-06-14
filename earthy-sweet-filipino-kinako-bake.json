@@ -1,0 +1,81 @@
+{
+  "slug": "earthy-sweet-filipino-kinako-bake",
+  "title": "Filipino Kinako Crusted Sweet Muffins",
+  "description": "Moist and sweet muffins with a crunchy kinako crust, inspired by Filipino flavors.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "kinako powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "earth brown sugar",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Line a 12-cup muffin tin with paper liners.",
+    "In a medium bowl, whisk together flour, granulated sugar, and kinako powder.",
+    "In a large bowl, whisk together almond milk, melted butter, eggs, vanilla extract, and salt.",
+    "Add the dry ingredients to the wet ingredients and stir until just combined. Do not overmix.",
+    "Divide the batter evenly among the muffin cups.",
+    "Bake for 20-22 minutes, or until the muffins are golden brown and a toothpick inserted into the center of a muffin comes out clean.",
+    "Let the muffins cool in the tin for 5 minutes, then transfer them to a wire rack to cool completely.",
+    "Meanwhile, mix the earth brown sugar and a pinch of salt in a small bowl.",
+    "Dust the cooled muffins with the kinako mixture.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "muffins",
+    "sweet",
+    "filipino",
+    "kinako"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-sweet-filipino-kinako-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T00:07:05.620Z"
+}
