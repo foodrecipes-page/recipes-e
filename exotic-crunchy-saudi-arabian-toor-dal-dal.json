@@ -1,0 +1,76 @@
+{
+  "slug": "exotic-crunchy-saudi-arabian-toor-dal-dal",
+  "title": "Saudi Arabian Dal",
+  "description": "A flavorful and comforting dal recipe from Saudi Arabia, made with lentils and spices. Serve over rice for a hearty meal.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "toor dal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "arabian dal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "crunchy saudi spices",
+      "amount": "2 teaspoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and garlic and sauté until softened.",
+    "Add dal, water, and spices. Bring to a boil.",
+    "Reduce heat to low and simmer for 20-25 minutes or until dal is tender.",
+    "Season with salt to taste.",
+    "Serve over rice and garnish with crunchy saudi spices."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi-arabian",
+    "dal",
+    "lentils",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-crunchy-saudi-arabian-toor-dal-dal",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:38:14.621Z"
+}
