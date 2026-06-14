@@ -1,0 +1,91 @@
+{
+  "slug": "eadventurous-syrian-tempeh-poke-kadhai",
+  "title": "Spicy Tempeh Kadhai",
+  "description": "A fusion of Syrian and adventurous flavors, this dish pairs spicy tempeh with a flavorful kadhai sauce.",
+  "cuisine": "syrian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tempeh",
+      "amount": "1 block, cut into small pieces"
+    },
+    {
+      "name": "kadhai masala",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, thinly sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large, thinly sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 large, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece, grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a kadhai or large skillet over medium-high heat.",
+    "Add onion and bell pepper, cook until tender, about 5 minutes.",
+    "Add garlic and ginger, cook for 1 minute.",
+    "Add cumin, coriander, paprika, salt, and pepper, cook for 1 minute.",
+    "Add tomato, cook until tender, about 3 minutes.",
+    "Add tempeh, cook until browned, about 5 minutes.",
+    "Stir in kadhai masala, cook for 1 minute.",
+    "Serve hot, garnished with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "syrian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/eadventurous-syrian-tempeh-poke-kadhai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:51:33.281Z"
+}
