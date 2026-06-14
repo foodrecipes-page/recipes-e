@@ -1,0 +1,89 @@
+{
+  "slug": "exotic-warm-tunisian-cobnuts-tagine",
+  "title": "Tunisian Cobnut Tagine",
+  "description": "A hearty and flavorful stew originating from Tunisia, featuring cobnuts as a main ingredient. This recipe is perfect for a chilly evening.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cobnuts",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium, peeled and chopped"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium, chopped"
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/4 cup, sliced"
+    },
+    {
+      "name": "Pomegranate molasses",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece, grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onions and cook until they're translucent, about 5 minutes.",
+    "Add the grated ginger and cook for an additional minute.",
+    "Add the chopped carrots, sliced almonds, cumin, paprika, salt, and black pepper.",
+    "Cook for 5 minutes, stirring occasionally.",
+    "Add the chopped cobnuts and pomegranate molasses.",
+    "Stir to combine and bring to a simmer.",
+    "Reduce heat to low and cook, covered, for 20-25 minutes or until the cobnuts are tender.",
+    "Serve hot and garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "vegetarian",
+    "gluten-free",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-warm-tunisian-cobnuts-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:58:19.186Z"
+}
