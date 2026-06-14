@@ -1,0 +1,56 @@
+{
+  "slug": "earthy-canadian-cheese-bowl",
+  "title": "Canadian Poutine",
+  "description": "A classic Canadian dish featuring cheese curds, fries, and gravy. Perfect for a quick snack or meal.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fries",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Earthy Cheese Curds",
+      "amount": "1 cup",
+      "notes": "Freshly shredded or store-bought"
+    },
+    {
+      "name": "Bowl",
+      "amount": "1",
+      "notes": "Large enough for the fries and cheese"
+    }
+  ],
+  "instructions": [
+    "1. Cut the fries into 1/2-inch thick sticks and fry in hot oil until crispy.",
+    "2. Drain the fries on paper towels.",
+    "3. In a large bowl, place the fries.",
+    "4. Sprinkle the cheese curds over the fries.",
+    "5. Drizzle with gravy (store-bought or homemade).",
+    "6. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "lunch",
+    "snack",
+    "canadian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-canadian-cheese-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T06:28:12.647Z"
+}
