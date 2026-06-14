@@ -7258,17 +7258,15 @@
   },
   {
     "slug": "exotic-crunchy-saudi-arabian-toor-dal-dal",
-    "title": "Exotic Crunchy Saudi Arabian Toor Dal Dal",
+    "title": "Saudi Arabian Dal",
     "tags": [
-      "high-protein",
-      "lentil-based",
-      "middle-eastern",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "saudi-arabian",
+      "dal",
+      "lentils",
+      "vegetarian"
     ],
     "cuisine": "Saudi Arabian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {
