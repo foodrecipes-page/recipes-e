@@ -6413,17 +6413,14 @@
   },
   {
     "slug": "enticing-ethiopian-tomato-custard",
-    "title": "Enticing Ethiopian Tomato Custard",
+    "title": "Ethiopian Custard Dessert",
     "tags": [
-      "african",
-      "dairy-free",
       "dessert",
-      "kid-friendly",
-      "one-pot",
-      "quick"
+      "ethiopian",
+      "custard"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 28,
+    "totalTimeMin": 45,
     "shard": "e"
   },
   {
@@ -8166,18 +8163,15 @@
   },
   {
     "slug": "exotic-smoky-norwegian-salmon-grill",
-    "title": "Exotic Smoky Norwegian Salmon Grill",
+    "title": "Smoked Salmon Grilled Skewers",
     "tags": [
-      "exotic",
-      "fish",
-      "grilled",
-      "kosher",
-      "norwegian",
-      "smoky",
-      "yuzu"
+      "smoked-salmon",
+      "grilled-skewers",
+      "norwegian-cuisine",
+      "seafood-appetizer"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 27,
+    "totalTimeMin": 16,
     "shard": "e"
   },
   {
