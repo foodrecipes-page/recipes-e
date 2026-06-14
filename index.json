@@ -1451,17 +1451,15 @@
   },
   {
     "slug": "earthy-fluffy-venezuelan-avocado-toast",
-    "title": "Earthy Fluffy Venezuelan Avocado Toast",
+    "title": "Avocado Toast",
     "tags": [
       "avocado",
-      "venezuelan",
-      "post-workout",
-      "low-sodium",
-      "gluten-free",
-      "breakfast"
+      "breakfast",
+      "snack",
+      "vegan-option"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 25,
+    "totalTimeMin": 7,
     "shard": "e"
   },
   {
@@ -5663,18 +5661,15 @@
   },
   {
     "slug": "energizing-jamaican-leek-rice-bowl",
-    "title": "energizing jamaican leek rice bowl",
+    "title": "Jamaican Rice Bowl",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "plant-based",
-      "raw-friendly",
-      "vegan",
-      "weeknight"
+      "healthy",
+      "veggie-packed",
+      "jamaican-insp",
+      "gluten-free"
     ],
     "cuisine": "jamaican",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
