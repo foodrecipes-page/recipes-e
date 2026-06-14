@@ -1,84 +1,92 @@
 {
   "slug": "earthy-fermented-ukrainian-beet-dumplings",
-  "title": "Beet Borscht with Ukrainian Dumplings",
-  "description": "A hearty and comforting beet-based soup with Ukrainian-style dumplings, perfect for a cold winter's day.",
+  "title": "Borshch with Ukrainian Dumplings",
+  "description": "A hearty Ukrainian-inspired beet soup served with homemade dumplings. This comforting meal is perfect for a chilly evening.",
   "cuisine": "Ukrainian",
   "diet": [
     "vegetarian",
     "gluten-free"
   ],
-  "meal": "lunch",
+  "meal": "dinner",
   "ingredients": [
     {
-      "name": "Beets",
-      "amount": "2 large",
-      "notes": "peeled and diced"
-    },
-    {
-      "name": "Carrots",
+      "name": "beets",
       "amount": "2 medium",
-      "notes": "peeled and grated"
+      "notes": "peeled and chopped"
     },
     {
-      "name": "Onions",
-      "amount": "1 large",
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
       "notes": "chopped"
     },
     {
-      "name": "Fermented cabbage",
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fermented beet juice",
       "amount": "1 cup",
-      "notes": "chopped"
+      "notes": "such as borshch"
     },
     {
-      "name": "Ukrainian dumplings",
-      "amount": "6-8",
-      "notes": "store-bought or homemade"
-    },
-    {
-      "name": "Earthy mushroom broth",
+      "name": "water",
       "amount": "4 cups",
-      "notes": "homemade or store-bought"
+      "notes": "for the soup"
     },
     {
-      "name": "Salt",
-      "amount": "1 tsp",
-      "notes": "to taste"
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for the dumplings"
     },
     {
-      "name": "Black pepper",
-      "amount": "1 tsp",
-      "notes": "to taste"
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
     }
   ],
   "instructions": [
-    "Heat the mushroom broth in a large pot over medium heat.",
-    "Add the chopped onions and cook until softened, about 5 minutes.",
-    "Add the grated carrots and cook for an additional 5 minutes.",
-    "Add the peeled and diced beets and cook for 10 minutes.",
-    "Stir in the chopped fermented cabbage and cook for 2 minutes.",
-    "Add the Ukrainian dumplings and cook for 5 minutes, or until they float to the surface.",
-    "Season with salt and black pepper to taste.",
+    "In a large pot, sauté the chopped onion and minced garlic until softened.",
+    "Add the chopped carrots and beets, cooking until they begin to soften.",
+    "Pour in the fermented beet juice and 4 cups of water, bringing the mixture to a boil.",
+    "Reduce heat and simmer for 20 minutes or until the vegetables are tender.",
+    "While the soup is cooking, prepare the dumplings by combining the flour, eggs, and salt in a bowl.",
+    "Mix the dough until a ball forms, then knead for 5 minutes until smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each into a ball.",
+    "Flatten each ball into a disk and set aside.",
+    "Once the soup is ready, cook the dumplings in the soup for 10-15 minutes or until they float to the surface.",
     "Serve hot, garnished with chopped fresh herbs if desired."
   ],
   "prepTimeMin": 30,
-  "cookTimeMin": 25,
-  "totalTimeMin": 55,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "beet",
-    "borscht",
     "ukrainian",
-    "dumplings"
+    "beet",
+    "dumplings",
+    "soup",
+    "comfort-food"
   ],
   "nutrition": {
-    "calories": 250,
-    "protein": 10,
-    "carbs": 40,
-    "fat": 10
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/earthy-fermented-ukrainian-beet-dumplings",
   "providerUsed": "groq",
-  "createdAt": "2026-06-09T05:53:10.519Z"
+  "createdAt": "2026-06-11T02:02:03.618Z"
 }
