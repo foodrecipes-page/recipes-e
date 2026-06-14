@@ -1,0 +1,92 @@
+{
+  "slug": "exotic-chewy-middle-eastern-lamb-umm-ali",
+  "title": "Ali's Exotic Lamb Koftas with Eastern-Style Rice",
+  "description": "A flavorful twist on traditional koftas, served with a side of spicy eastern-style rice.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Lamb",
+      "amount": "500g",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Chewy Apricots",
+      "amount": "250g",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Exotic Spice Blend",
+      "amount": "2 tbsp",
+      "notes": "Available at local middle eastern market"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Flaky sea salt"
+    },
+    {
+      "name": "Middle Eastern Rice",
+      "amount": "500g",
+      "notes": "Short-grain rice"
+    },
+    {
+      "name": "Ali's Special Sauce (see below)",
+      "amount": "2 tbsp",
+      "notes": "Available upon request"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a large mixing bowl, combine ground lamb, chopped onion, minced garlic, chopped apricots, exotic spice blend, lemon juice, and flaky sea salt. Mix well with your hands until just combined.",
+    "3. Cover the mixture and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "4. Meanwhile, cook the middle eastern rice according to package instructions.",
+    "5. Using your hands, shape the lamb mixture into 8-10 koftas. Place on a baking sheet lined with parchment paper.",
+    "6. Bake for 18-20 minutes, or until cooked through to an internal temperature of 160°F (71°C).",
+    "7. While the koftas are baking, heat a large skillet over medium-high heat.",
+    "8. Once hot, add a tablespoon of oil to the skillet and sear the koftas for 2-3 minutes per side, or until nicely browned.",
+    "9. Remove the koftas from the skillet and place on a paper towel-lined plate to drain excess oil.",
+    "10. Serve the koftas with a side of eastern-style rice, topped with a drizzle of Ali's Special Sauce and a sprinkle of flaky sea salt."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "middle-eastern",
+    "koftas",
+    "rice",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 24,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-chewy-middle-eastern-lamb-umm-ali",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T05:51:43.503Z"
+}
