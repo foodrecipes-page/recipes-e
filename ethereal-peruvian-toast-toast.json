@@ -1,0 +1,61 @@
+{
+  "slug": "ethereal-peruvian-toast-toast",
+  "title": "Peruvian Toast",
+  "description": "A sweet and crunchy Peruvian-inspired toast dish. Perfect for a quick snack or dessert.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Peruvian",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ethereal",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Toast",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 350°F (180°C).",
+    "2. Place the toast slices on a baking sheet.",
+    "3. Drizzle 1 tablespoon of Peruvian on each toast slice.",
+    "4. Sprinkle 1 teaspoon of Ethereal and 1 tablespoon of sugar on top of each toast slice.",
+    "5. Bake for 5 minutes or until the sugar is caramelized.",
+    "6. Remove from oven and sprinkle with salt to taste."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "snack",
+    "dessert",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ethereal-peruvian-toast-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T03:02:42.446Z"
+}
