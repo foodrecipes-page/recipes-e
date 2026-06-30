@@ -1190,16 +1190,15 @@
   },
   {
     "slug": "earthy-exotic-moroccan-lentil-tagine",
-    "title": "Earthy Exotic Moroccan Lentil Tagine",
+    "title": "Moroccan Lentil Tagine",
     "tags": [
-      "comfort-food",
-      "lentil-based",
-      "north-african",
-      "one-pot",
-      "vegan-friendly"
+      "lentil",
+      "moroccan",
+      "stew",
+      "vegetarian"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 50,
+    "cuisine": "moroccan",
+    "totalTimeMin": 45,
     "shard": "e"
   },
   {
@@ -6826,18 +6825,15 @@
   },
   {
     "slug": "ethereal-peruvian-toast-toast",
-    "title": "Ethereal Peruvian Toast",
+    "title": "Peruvian Toast",
     "tags": [
-      "gochugaru",
-      "high-protein",
-      "mediterranean",
-      "one-pan",
-      "peruvian-food",
-      "romantic-dinner",
-      "weeknight"
+      "peruvian",
+      "snack",
+      "dessert",
+      "easy"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 15,
+    "totalTimeMin": 10,
     "shard": "e"
   },
   {
