@@ -1,0 +1,89 @@
+{
+  "slug": "exotic-aerated-andalusian-chilli-paella",
+  "title": "Spicy Chilli Paella",
+  "description": "A twist on the classic Spanish dish, adding a spicy kick with the use of chilli ingredients.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "paella",
+      "amount": "1 cup",
+      "notes": "short-grain rice"
+    },
+    {
+      "name": "chilli",
+      "amount": "2 teaspoons",
+      "notes": "dried flakes"
+    },
+    {
+      "name": "andalusian",
+      "amount": "2 cups",
+      "notes": "vegetable broth"
+    },
+    {
+      "name": "aerated",
+      "amount": "1 can",
+      "notes": "chicken broth"
+    },
+    {
+      "name": "exotic",
+      "amount": "1 cup",
+      "notes": "mushrooms"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large paella pan over medium-high heat.",
+    "Add the minced garlic and sauté for 1 minute until fragrant.",
+    "Add the chilli flakes and stir for 30 seconds.",
+    "Add the paella rice and stir to coat the rice in the spice mixture.",
+    "Add the andalusian and aerated broths, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 18 minutes.",
+    "Add the exotic mushrooms and diced tomato to the pan, and stir to combine.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "paella",
+    "comfort-food",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-aerated-andalusian-chilli-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T09:56:41.375Z"
+}
