@@ -1,0 +1,86 @@
+{
+  "slug": "energizing-australian-tofu-stew",
+  "title": "Australian Tofu Stew",
+  "description": "A hearty and nourishing stew made with Australian ingredients, featuring tofu as the main protein source. Perfect for a cold winter's day.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "250g"
+    },
+    {
+      "name": "energizing",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "australian",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "carrots",
+      "amount": "4"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2"
+    },
+    {
+      "name": "onion",
+      "amount": "1"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic and sauté until softened.",
+    "Add carrots and potatoes and cook for 5 minutes.",
+    "Add beef broth, thyme, salt, and pepper.",
+    "Bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "Add tofu and cook for an additional 5 minutes.",
+    "Stir in energizing and australian seasonings.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "vegetarian",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-australian-tofu-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T05:58:27.355Z"
+}
