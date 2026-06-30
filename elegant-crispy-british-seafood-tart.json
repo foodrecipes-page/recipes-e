@@ -1,0 +1,78 @@
+{
+  "slug": "elegant-crispy-british-seafood-tart",
+  "title": "British Seafood Tart",
+  "description": "A classic British dish combining the elegance of a tart crust with the freshness of seafood.",
+  "cuisine": "British",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Puff Pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "Smoked Salmon",
+      "amount": "6 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 cup",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Lemon",
+      "amount": "2 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out puff pastry and place in a tart pan.",
+    "Arrange sliced smoked salmon on the bottom of the tart crust.",
+    "Top the salmon with shrimp, lemon slices, and chopped dill.",
+    "Season with salt and pepper to taste.",
+    "Dot the top of the tart with melted butter.",
+    "Bake for 12-15 minutes or until the pastry is golden brown and the seafood is cooked through.",
+    "Serve warm, garnished with additional dill if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "seafood",
+    "tart",
+    "elegant",
+    "lunch"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/elegant-crispy-british-seafood-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T03:44:48.397Z"
+}
