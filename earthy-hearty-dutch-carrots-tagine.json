@@ -1,0 +1,91 @@
+{
+  "slug": "earthy-hearty-dutch-carrots-tagine",
+  "title": "Carrot and Caraway Tagine",
+  "description": "A hearty and aromatic stew originating from the Netherlands, made with carrots and earthy spices.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Carrots",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Tagine spice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat the oil in the bottom of a Dutch oven or clay tagine over medium heat.",
+    "2. Add the onion and cook, stirring occasionally, until softened, about 10 minutes.",
+    "3. Add the ginger and garlic and cook for 1 minute.",
+    "4. Add the carrots, caraway seeds, tagine spice, salt, and pepper.",
+    "5. Stir to combine and bring to a boil.",
+    "6. Reduce the heat to low, cover, and simmer until the carrots are tender, about 30 minutes.",
+    "7. Stir in the parsley.",
+    "8. Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "stew",
+    "carrots",
+    "caraway"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-hearty-dutch-carrots-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T11:40:19.510Z"
+}
