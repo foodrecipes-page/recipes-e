@@ -1,0 +1,67 @@
+{
+  "slug": "effervescent-portuguese-yoghurt-dumplings",
+  "title": "Portuguese Dumplings with Yoghurt Sauce",
+  "description": "A refreshing twist on traditional Portuguese dumplings, served with a tangy yoghurt sauce.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Yoghurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Portuguese dumplings",
+      "amount": "1 package (12-15 dumplings)"
+    },
+    {
+      "name": "Effervescent water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Add the Portuguese dumplings and cook according to package instructions (usually 5-7 minutes).",
+    "Drain the dumplings and set aside.",
+    "In a small bowl, mix together the yoghurt and effervescent water.",
+    "Season the yoghurt sauce with salt and black pepper to taste.",
+    "Serve the cooked dumplings with the yoghurt sauce spooned over the top.",
+    "Garnish with chopped fresh parsley, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "dumplings",
+    "yoghurt",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/effervescent-portuguese-yoghurt-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T05:35:34.290Z"
+}
