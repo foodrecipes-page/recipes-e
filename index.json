@@ -1608,16 +1608,15 @@
   },
   {
     "slug": "earthy-hearty-dutch-carrots-tagine",
-    "title": "Earthy Hearty Dutch Carrots Tagine",
+    "title": "Carrot and Caraway Tagine",
     "tags": [
       "dutch",
-      "gluten-free",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "stew",
+      "carrots",
+      "caraway"
     ],
-    "cuisine": "dutch",
-    "totalTimeMin": 60,
+    "cuisine": "Dutch",
+    "totalTimeMin": 50,
     "shard": "e"
   },
   {
