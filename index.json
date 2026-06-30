@@ -280,17 +280,14 @@
   },
   {
     "slug": "earthily-smoky-venezuelan-plantain-stew",
-    "title": "Earthily Smoky Venezuelan Plantain Stew",
+    "title": "Venezuelan Plantain Stew",
     "tags": [
-      "comfort-food",
-      "one-pot",
-      "plantain-based",
-      "smoky",
-      "south-american",
-      "vegan-friendly"
+      "stew",
+      "latin-american",
+      "comfort-food"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 60,
+    "totalTimeMin": 210,
     "shard": "e"
   },
   {
@@ -6969,20 +6966,15 @@
   },
   {
     "slug": "exotic-aerated-andalusian-chilli-paella",
-    "title": "Exotic Aerated Andalusian Chilli Paella",
+    "title": "Spicy Chilli Paella",
     "tags": [
-      "adventurous",
-      "aerated",
-      "andalusian",
-      "chilli-powder",
-      "katsuramuki-cut",
-      "low-glycemic",
-      "paella",
       "spanish",
-      "winey"
+      "paella",
+      "comfort-food",
+      "spicy"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 70,
+    "totalTimeMin": 40,
     "shard": "e"
   },
   {
@@ -8351,17 +8343,15 @@
   },
   {
     "slug": "exotic-steamed-filipino-doraji-tagine",
-    "title": "Exotic Steamed Filipino Doraji Tagine",
+    "title": "Filipino Doraji Tagine",
     "tags": [
-      "aerated",
-      "herbal",
-      "low-fat",
-      "one-pan",
-      "plant-based",
-      "vegan",
-      "weeknight"
+      "filipino",
+      "moroccan",
+      "stew",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Filipino",
+    "cuisine": "Filipino, Moroccan",
     "totalTimeMin": 40,
     "shard": "e"
   },
