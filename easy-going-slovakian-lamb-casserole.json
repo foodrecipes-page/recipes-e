@@ -1,0 +1,81 @@
+{
+  "slug": "easy-going-slovakian-lamb-casserole",
+  "title": "Slovakian Lamb Casserole",
+  "description": "A hearty and flavorful Slovakian-inspired casserole made with tender lamb and topped with a crispy crust.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1.5 lbs",
+      "notes": "bone-in"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Caraway Seeds",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "sweet"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the lamb shoulder with salt, black pepper, caraway seeds, and paprika.",
+    "In a large Dutch oven, heat 2 tablespoons of oil over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, about 5 minutes.",
+    "Add the chopped onion and minced garlic to the pot and cook until the onion is translucent.",
+    "Transfer the pot to the preheated oven and braise the lamb for 2.5 hours, or until tender.",
+    "While the lamb is cooking, prepare the casserole topping by mixing together 1 cup of breadcrumbs and 1/4 cup of grated cheese.",
+    "Remove the pot from the oven and top the lamb with the casserole topping.",
+    "Return the pot to the oven and bake for an additional 20-25 minutes, or until the topping is golden brown.",
+    "Let the casserole rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 160,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "lamb",
+    "casserole",
+    "easy",
+    "going"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/easy-going-slovakian-lamb-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T08:44:28.276Z"
+}
