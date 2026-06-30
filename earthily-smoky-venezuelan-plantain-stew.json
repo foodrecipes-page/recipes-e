@@ -1,0 +1,83 @@
+{
+  "slug": "earthily-smoky-venezuelan-plantain-stew",
+  "title": "Venezuelan Plantain Stew",
+  "description": "A hearty and flavorful stew originating from Venezuela, made with plantains and a variety of earthy spices.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Plantains",
+      "amount": "2 large"
+    },
+    {
+      "name": "Earthily Smoked Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Venezuelan Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Stew Meat (Braised Beef or Pork)",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the stew meat in batches until browned on all sides.",
+    "Add onion and garlic to the pot and cook until the onion is translucent.",
+    "Add smoked paprika, cumin, salt, and black pepper to the pot and stir to combine.",
+    "Add tomato paste and cook for 1-2 minutes.",
+    "Add plantains, vegetable broth, and browned stew meat to the pot.",
+    "Bring the stew to a boil, then cover the pot and transfer it to the oven.",
+    "Braise the stew for 2-3 hours, or until the plantains are tender.",
+    "Serve hot, garnished with chopped cilantro or scallions."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "latin-american",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthily-smoky-venezuelan-plantain-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T10:43:38.011Z"
+}
