@@ -1,0 +1,76 @@
+{
+  "slug": "exotic-crispy-brazilian-potatoes-gratin",
+  "title": "Brazilian Gratin Casserole",
+  "description": "A delicious and comforting casserole featuring crispy potatoes and a rich Brazilian-inspired sauce.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "Exotic oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Gratin seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Crispy onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Brazilian cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel and thinly slice the potatoes.",
+    "In a large bowl, combine the sliced potatoes, exotic oil, gratin seasoning, crispy onions, and a pinch of salt and pepper. Toss to coat.",
+    "Transfer the potato mixture to a 9x13-inch baking dish.",
+    "In a separate bowl, mix the Brazilian cheese and minced garlic.",
+    "Spread the cheese mixture evenly over the potatoes.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20-25 minutes, or until the top is golden brown and the potatoes are tender.",
+    "Remove from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "potato",
+    "brazilian",
+    "gratin",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-crispy-brazilian-potatoes-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:46:39.378Z"
+}
