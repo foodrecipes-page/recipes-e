@@ -1,0 +1,96 @@
+{
+  "slug": "exotic-fragrant-romantic-malaysian-pecorino-bowl",
+  "title": "Malaysian Chicken Curry with Exotic Fragrance",
+  "description": "A fragrant and romantic chicken curry made with exotic spices and served with steamed Malaysian rice.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Malaysian curry paste",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "fragrant basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "pecorino cheese",
+      "amount": "1/4 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "romantic rose petal jelly",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "exotic lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "Malaysian fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large pan over medium heat.",
+    "Add the lemongrass and cook for 1 minute.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the curry paste and cook for 1 minute.",
+    "Add the coconut milk, fish sauce, and brown sugar. Stir to combine.",
+    "Bring the mixture to a simmer and cook for 10-15 minutes or until the chicken is cooked through.",
+    "Stir in the basil and pecorino cheese.",
+    "Serve hot over steamed Malaysian rice.",
+    "Garnish with a rose petal jelly, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "chicken",
+    "malaysian",
+    "fragrant",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-fragrant-romantic-malaysian-pecorino-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T20:36:14.837Z"
+}
