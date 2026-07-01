@@ -6875,19 +6875,15 @@
   },
   {
     "slug": "evenly-sweet-algerian-buckwheat-bake",
-    "title": "algerian buckwheat bake",
+    "title": "Sweet Buckwheat Cake",
     "tags": [
-      "algerian",
+      "cake",
       "buckwheat",
-      "crumbly",
-      "dessert",
-      "one-pot",
-      "sweet",
-      "weeknight",
-      "wood-fired"
+      "algerian",
+      "dessert"
     ],
     "cuisine": "algerian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 50,
     "shard": "e"
   },
   {
@@ -8866,17 +8862,16 @@
   },
   {
     "slug": "exquisite-crispy-french-beef-brochette",
-    "title": "Exquisite Crispy French Beef Brochette",
+    "title": "French Beef Brochette with Crispy Bites",
     "tags": [
       "beef",
-      "crispy",
-      "easy-dinner",
       "french-cuisine",
-      "low-sodium",
-      "raclette-grill"
+      "easy-dinner",
+      "grilled-beef",
+      "homemade-bread"
     ],
     "cuisine": "French",
-    "totalTimeMin": 36,
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {
@@ -9350,16 +9345,15 @@
   },
   {
     "slug": "extra-garlicky-venezuelan-chicken-tagine",
-    "title": "Extra Garlicky Venezuelan Chicken Tagine",
+    "title": "Chicken Tagine",
     "tags": [
-      "gluten-free",
-      "high-fiber",
-      "low-fat",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "chicken",
+      "venezuelan",
+      "tagine",
+      "dinner",
+      "main-course"
     ],
-    "cuisine": "Venezuelan",
+    "cuisine": "venezuelan",
     "totalTimeMin": 45,
     "shard": "e"
   },
