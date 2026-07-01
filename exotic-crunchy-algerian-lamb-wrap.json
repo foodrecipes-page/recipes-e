@@ -1,0 +1,73 @@
+{
+  "slug": "exotic-crunchy-algerian-lamb-wrap",
+  "title": "Algerian Lamb Wrap",
+  "description": "A flavorful and exotic wrap filled with lamb and crunchy vegetables, inspired by Algerian cuisine.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g",
+      "notes": "Ground lamb"
+    },
+    {
+      "name": "Exotic Spice Mix",
+      "amount": "2 tsp",
+      "notes": "Available at most Middle Eastern stores"
+    },
+    {
+      "name": "Crunchy Carrots",
+      "amount": "1 cup",
+      "notes": "Shredded or grated"
+    },
+    {
+      "name": "Algerian Olive Tapenade",
+      "amount": "2 tbsp",
+      "notes": "Available at most Mediterranean stores"
+    },
+    {
+      "name": "Flour Tortilla",
+      "amount": "1",
+      "notes": "Large, for wrapping"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, combine lamb, exotic spice mix, salt, and pepper. Mix well with your hands until just combined.",
+    "Divide the lamb mixture into 4 equal portions and shape each into a ball. Flatten each ball slightly into a patty.",
+    "Grill the lamb patties for 4-5 minutes per side, or until cooked through to your desired level of doneness.",
+    "Meanwhile, toast the tortilla over the grill or in a dry pan for a few seconds on each side.",
+    "Assemble the wraps by spreading a tablespoon of olive tapenade on each tortilla, followed by a lamb patty, some shredded carrots, and a sprinkle of cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "lamb",
+    "wrap",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-crunchy-algerian-lamb-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T20:15:29.572Z"
+}
