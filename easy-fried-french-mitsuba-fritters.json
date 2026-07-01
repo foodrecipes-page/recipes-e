@@ -1,0 +1,81 @@
+{
+  "slug": "easy-fried-french-mitsuba-fritters",
+  "title": "Mitsuba Fritters French Style",
+  "description": "A crispy and flavorful French-inspired mitsuba fritter recipe that's easy to make and perfect as a snack.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mitsuba",
+      "amount": "2 cups"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": "Sieved"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Buttermilk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together flour, eggs, buttermilk, salt, garlic powder, and paprika.",
+    "Add mitsuba to the bowl and stir until well combined.",
+    "Heat the vegetable oil in a deep frying pan to 350°F (180°C).",
+    "Using a spoon, drop small amounts of the mitsuba mixture into the oil, forming small fritters.",
+    "Fry the fritters for 2-3 minutes on each side, until golden brown.",
+    "Using a slotted spoon, remove the fritters from the oil and place them on a paper towel-lined plate.",
+    "Sprinkle the fritters with breadcrumbs and serve hot.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "french",
+    "fritters",
+    "mitsuba"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/easy-fried-french-mitsuba-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:38:43.816Z"
+}
