@@ -1971,17 +1971,17 @@
   },
   {
     "slug": "earthy-saudi-arabian-brown-rice-pilaf",
-    "title": "Earthy Saudi Arabian Brown Rice Pilaf",
+    "title": "Saudi Arabian Brown Rice Pilaf",
     "tags": [
-      "halal",
-      "middle-eastern",
-      "one-pan",
+      "brown-rice",
+      "mideastern",
       "pilaf",
-      "saudi-arabian",
-      "weeknight"
+      "arabic",
+      "saudi",
+      "vegetarian"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 32,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 30,
     "shard": "e"
   },
   {
@@ -5321,17 +5321,15 @@
   },
   {
     "slug": "energizing-croatian-cheese-flatbread",
-    "title": "Energizing Croatian Cheese Flatbread",
+    "title": "Croatian Flatbread with Energizing Cheese Spread",
     "tags": [
+      "croation",
       "cheese",
-      "croatian",
       "flatbread",
-      "snappy",
-      "weeknight",
-      "yeast"
+      "easy-snack"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 22,
     "shard": "e"
   },
   {
@@ -7668,15 +7666,16 @@
   },
   {
     "slug": "exotic-fragrant-romantic-malaysian-pecorino-bowl",
-    "title": "exotic fragrant romantic malaysian pecorino bowl",
+    "title": "Malaysian Chicken Curry with Exotic Fragrance",
     "tags": [
-      "comfort-food",
+      "curry",
+      "chicken",
       "malaysian",
-      "one-pan",
-      "vegan-options"
+      "fragrant",
+      "romantic"
     ],
-    "cuisine": "malaysian",
-    "totalTimeMin": 47,
+    "cuisine": "Malaysian",
+    "totalTimeMin": 40,
     "shard": "e"
   },
   {
