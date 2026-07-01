@@ -1,0 +1,68 @@
+{
+  "slug": "easy-smoky-croatian-bread-toast",
+  "title": "Easy Croatian Toast",
+  "description": "A simple and delicious twist on traditional toast, inspired by Croatian cuisine.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bread",
+      "amount": "1 loaf",
+      "notes": "preferably a day-old loaf"
+    },
+    {
+      "name": "Easy",
+      "amount": "1 teaspoon",
+      "notes": "smoked paprika"
+    },
+    {
+      "name": "Smoky",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked salt"
+    },
+    {
+      "name": "Croatian",
+      "amount": "1/4 teaspoon",
+      "notes": "dried oregano"
+    },
+    {
+      "name": "Toast",
+      "amount": "8 slices",
+      "notes": "preferably a crusty bread"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler.",
+    "Slice the bread into 1-inch thick slices.",
+    "Place the slices on a baking sheet.",
+    "Mix together the smoked paprika, smoked salt, and dried oregano to create a spice blend.",
+    "Sprinkle the spice blend evenly over the bread slices.",
+    "Broil for 2-3 minutes or until the bread is toasted and fragrant.",
+    "Remove from the oven and let cool slightly.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "toast",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/easy-smoky-croatian-bread-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T15:04:34.636Z"
+}
