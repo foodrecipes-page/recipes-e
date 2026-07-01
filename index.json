@@ -391,17 +391,15 @@
   },
   {
     "slug": "earthly-dutch-pandan-skewers",
-    "title": "Earthly Dutch Pandan Skewers",
+    "title": "Pandan Skewers with Earthy Peanut Sauce",
     "tags": [
-      "dutch",
+      "indonesian",
       "grilled",
-      "one-pan",
-      "quick",
-      "vegetarian",
-      "wine-based"
+      "peanut-sauce",
+      "chicken"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 35,
+    "cuisine": "indonesian",
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
@@ -2891,17 +2889,15 @@
   },
   {
     "slug": "easy-fried-french-mitsuba-fritters",
-    "title": "Easy Fried French Mitsuba Fritters",
+    "title": "Mitsuba Fritters French Style",
     "tags": [
-      "brunch",
-      "deep-fried",
-      "french-cuisine",
-      "lazy-sunday",
-      "low-fat",
-      "vegetarian"
+      "easy",
+      "french",
+      "fritters",
+      "mitsuba"
     ],
     "cuisine": "French",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
@@ -3416,18 +3412,15 @@
   },
   {
     "slug": "easy-smoky-croatian-bread-toast",
-    "title": "Easy Smoky Croatian Bread Toast",
+    "title": "Easy Croatian Toast",
     "tags": [
-      "bread",
       "croatian",
-      "easy-to-make",
-      "plant-based",
-      "smoky",
+      "toast",
       "snack",
-      "toast"
+      "easy"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 20,
+    "totalTimeMin": 8,
     "shard": "e"
   },
   {
@@ -3716,18 +3709,14 @@
   },
   {
     "slug": "effervescent-british-spinach-welsh-rarebit",
-    "title": "Effervescent British Spinach Welsh Rarebit",
+    "title": "Welsh Rarebit Casserole",
     "tags": [
-      "british",
-      "cheese",
-      "lacto-vegetarian",
-      "quick",
-      "spinach",
-      "veg",
-      "weeknight"
+      "comfort-food",
+      "cheesy",
+      "spinach"
     ],
     "cuisine": "British",
-    "totalTimeMin": 20,
+    "totalTimeMin": 40,
     "shard": "e"
   },
   {
