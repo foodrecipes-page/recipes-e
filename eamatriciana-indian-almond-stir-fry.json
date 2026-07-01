@@ -1,0 +1,84 @@
+{
+  "slug": "eamatriciana-indian-almond-stir-fry",
+  "title": "Spicy Almond Stir Fry",
+  "description": "A quick and easy stir-fry with spicy sauce and crunchy almonds. This dish is inspired by Indian cuisine and can be served as a snack or light meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bamboo shoots",
+      "amount": "250g",
+      "notes": "canned"
+    },
+    {
+      "name": "Almonds",
+      "amount": "100g",
+      "notes": "sliced"
+    },
+    {
+      "name": "Eamatriciana sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chili peppers",
+      "amount": "1-2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced chili peppers and cook until fragrant, about 1 minute.",
+    "Add the grated ginger and minced garlic and cook for another minute.",
+    "Add the bamboo shoots and cook until they start to soften, about 2-3 minutes.",
+    "Add the sliced almonds and cook for another 2-3 minutes, until they are lightly toasted.",
+    "Stir in the eamatriciana sauce and cook for 1-2 minutes, until the sauce has thickened.",
+    "Season with salt and black pepper to taste.",
+    "Serve the stir-fry hot, garnished with additional sliced almonds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "easy",
+    "stir-fry",
+    "indian-inspired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/eamatriciana-indian-almond-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T20:36:09.576Z"
+}
