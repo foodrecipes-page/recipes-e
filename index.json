@@ -1475,16 +1475,15 @@
   },
   {
     "slug": "earthy-gooey-algerian-almond-butter-bao",
-    "title": "Earthy Gooey Algerian Almond Butter Bao",
+    "title": "Algerian Bao Dessert",
     "tags": [
       "algerian",
       "dessert",
-      "high-protein",
-      "low-glycemic",
-      "midnight-snack"
+      "buttery",
+      "earthy"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 22,
     "shard": "e"
   },
   {
@@ -6049,15 +6048,14 @@
   },
   {
     "slug": "energizing-smoky-potato-starch-pilaf",
-    "title": "Energizing Smoky Potato Starch Pilaf",
+    "title": "Smoky Pilaf with Crispy Potato",
     "tags": [
-      "energizing",
       "smoky",
-      "potato-starch",
-      "caramelized"
+      "crispy",
+      "side dish"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 30,
+    "cuisine": "middle eastern",
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
