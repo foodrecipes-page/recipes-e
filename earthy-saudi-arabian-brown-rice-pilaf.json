@@ -1,0 +1,72 @@
+{
+  "slug": "earthy-saudi-arabian-brown-rice-pilaf",
+  "title": "Saudi Arabian Brown Rice Pilaf",
+  "description": "A flavorful rice dish from Saudi Arabia, made with earthy spices and saudi pilaf.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brown Rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Saudi Arabian Pilaf",
+      "amount": "1 tsp",
+      "notes": "spice blend"
+    },
+    {
+      "name": "Earthy",
+      "amount": "1 tsp",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a saucepan over medium heat.",
+    "Add earthy (ground cumin) and saudi pilaf, cook for 1 minute.",
+    "Add brown rice, salt, and water. Stir to combine.",
+    "Bring to a boil, reduce heat to low, cover, and simmer for 20 minutes.",
+    "Fluff with a fork and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brown-rice",
+    "mideastern",
+    "pilaf",
+    "arabic",
+    "saudi",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-saudi-arabian-brown-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T20:43:31.518Z"
+}
