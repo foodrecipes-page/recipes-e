@@ -57,16 +57,15 @@
   },
   {
     "slug": "eamatriciana-indian-almond-stir-fry",
-    "title": "EAmatriciana Indian Almond Stir-fry",
+    "title": "Spicy Almond Stir Fry",
     "tags": [
-      "crumbly",
-      "date-night",
-      "dutch-inspired",
-      "peppery",
-      "satvik-friendly"
+      "spicy",
+      "easy",
+      "stir-fry",
+      "indian-inspired"
     ],
-    "cuisine": "Indian-Dutch fusion",
-    "totalTimeMin": 35,
+    "cuisine": "Indian",
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
@@ -4105,16 +4104,16 @@
   },
   {
     "slug": "elegant-creamy-middle-eastern-lamb-tagine",
-    "title": "Elegant Creamy Middle-Eastern Lamb Tagine",
+    "title": "Lamb Tagine with Creamy Couscous",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "one-pan",
-      "romantic",
-      "weeknight"
+      "lamb",
+      "tagine",
+      "middle eastern",
+      "couscous",
+      "braised lamb"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 60,
+    "totalTimeMin": 150,
     "shard": "e"
   },
   {
@@ -7163,17 +7162,15 @@
   },
   {
     "slug": "exotic-crunchy-algerian-lamb-wrap",
-    "title": "Exotic Crunchy Algerian Lamb Wrap",
+    "title": "Algerian Lamb Wrap",
     "tags": [
-      "algerian-cuisine",
-      "high-protein",
-      "korean-inspired",
-      "lunch-ideas",
-      "post-workout",
-      "whole30-friendly"
+      "algerian",
+      "lamb",
+      "wrap",
+      "grilled"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 18,
     "shard": "e"
   },
   {
