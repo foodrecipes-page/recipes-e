@@ -1,0 +1,89 @@
+{
+  "slug": "earthly-dutch-pandan-skewers",
+  "title": "Pandan Skewers with Earthy Peanut Sauce",
+  "description": "Sweet and savory pandan skewers grilled to perfection and served with a rich earthy peanut sauce.",
+  "cuisine": "indonesian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pandan leaves",
+      "amount": "10-12 leaves",
+      "notes": "fresh"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": "raw"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dutch chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "skewers",
+      "amount": "1 package",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread chicken and pandan leaves onto skewers.",
+    "In a blender or food processor, combine peanuts, soy sauce, honey, garlic, and chili flakes.",
+    "Blend until smooth.",
+    "With grill on medium-high heat, brush skewers with vegetable oil.",
+    "Grill skewers for 8-10 minutes, turning occasionally.",
+    "Brush peanut sauce onto skewers during last 2 minutes of grilling.",
+    "Serve skewers hot with additional peanut sauce for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indonesian",
+    "grilled",
+    "peanut-sauce",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 34,
+    "carbs": 12,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthly-dutch-pandan-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T15:04:26.533Z"
+}
