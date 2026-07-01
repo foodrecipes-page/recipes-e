@@ -1,0 +1,72 @@
+{
+  "slug": "evenly-sweet-algerian-buckwheat-bake",
+  "title": "Sweet Buckwheat Cake",
+  "description": "A moist and flavorful cake made with buckwheat, evenly sweetened and perfect for a dessert or snack.",
+  "cuisine": "algerian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "buckwheat flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "evenly oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C). Grease a 9-inch round cake pan.",
+    "In a medium bowl, whisk together buckwheat flour, baking powder, and salt.",
+    "In a large bowl, whisk together almond milk, oil, coconut sugar, and vanilla extract.",
+    "Add the dry ingredients to the wet ingredients and stir until just combined.",
+    "Pour the batter into the prepared pan and smooth the top.",
+    "Bake for 35-40 minutes or until a toothpick inserted into the center comes out clean.",
+    "Remove from oven and let cool in the pan for 5 minutes before transferring to a wire rack to cool completely.",
+    "Once the cake is completely cool, you can frost it with a sweet frosting of your choice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cake",
+    "buckwheat",
+    "algerian",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/evenly-sweet-algerian-buckwheat-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T22:18:28.860Z"
+}
