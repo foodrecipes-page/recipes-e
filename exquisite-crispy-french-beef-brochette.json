@@ -1,0 +1,68 @@
+{
+  "slug": "exquisite-crispy-french-beef-brochette",
+  "title": "French Beef Brochette with Crispy Bites",
+  "description": "A flavorful and easy-to-make French-inspired dish featuring tender beef brochette served with crispy onions.",
+  "cuisine": "French",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "French bread",
+      "amount": "1 baguette",
+      "notes": "preferably a day-old bread"
+    },
+    {
+      "name": "Beef",
+      "amount": "0.5 kg",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Exquisite onions",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Cut the baguette into 1-inch slices and toast until crispy.",
+    "3. In a pan, heat olive oil over medium heat. Add sliced onions and cook until caramelized.",
+    "4. In a separate pan, grill the beef brochette until cooked to your liking.",
+    "5. Brush the toasted bread with olive oil and top with caramelized onions.",
+    "6. Serve the beef brochette with crispy onions and toasted bread.",
+    "7. Season with salt to taste.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "french-cuisine",
+    "easy-dinner",
+    "grilled-beef",
+    "homemade-bread"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exquisite-crispy-french-beef-brochette",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T22:19:04.391Z"
+}
