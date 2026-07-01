@@ -1,0 +1,56 @@
+{
+  "slug": "energizing-croatian-cheese-flatbread",
+  "title": "Croatian Flatbread with Energizing Cheese Spread",
+  "description": "A simple and delicious Croatian-inspired flatbread topped with an energizing cheese spread, perfect for a quick snack or light meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Croatian flatbread",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "energizing cheese",
+      "amount": "8 ounces",
+      "notes": "such as feta or goat cheese"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the flatbread into bite-sized pieces.",
+    "In a small bowl, mix together the energizing cheese and chopped parsley.",
+    "Arrange the flatbread pieces on a baking sheet.",
+    "Spread the energizing cheese mixture on top of the flatbread.",
+    "Bake for 10-12 minutes, or until the cheese is melted and the flatbread is crispy.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croation",
+    "cheese",
+    "flatbread",
+    "easy-snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-croatian-cheese-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T21:28:03.262Z"
+}
