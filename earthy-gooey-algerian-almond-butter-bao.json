@@ -1,0 +1,62 @@
+{
+  "slug": "earthy-gooey-algerian-almond-butter-bao",
+  "title": "Algerian Bao Dessert",
+  "description": "A unique dessert recipe that combines the earthy flavors of earthy ingredients with the gooey sweetness of butter.",
+  "cuisine": "Algerian",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Algerian Bao",
+      "amount": "2 pieces",
+      "notes": "Soft and fluffy bao dough"
+    },
+    {
+      "name": "Earthy Ingredients (e.g. Mushrooms, Herbs)",
+      "amount": "1/2 cup",
+      "notes": "Dried and ground earthy ingredients for added flavor"
+    },
+    {
+      "name": "Gooey Butter",
+      "amount": "1/4 cup",
+      "notes": "Soft and melted butter for drizzling"
+    },
+    {
+      "name": "Almond",
+      "amount": "1/4 cup",
+      "notes": "Sliced or slivered almonds for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Bake the Algerian Bao for 10-12 minutes, or until lightly golden.",
+    "In a small pan, melt the gooey butter over low heat.",
+    "Add the earthy ingredients to the melted butter and stir to combine.",
+    "Drizzle the earthy butter mixture over the baked bao.",
+    "Sprinkle sliced almonds over the top for garnish.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "dessert",
+    "buttery",
+    "earthy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-gooey-algerian-almond-butter-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T13:56:35.690Z"
+}
