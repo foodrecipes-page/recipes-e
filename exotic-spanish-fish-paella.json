@@ -1,0 +1,89 @@
+{
+  "slug": "exotic-spanish-fish-paella",
+  "title": "Exotic Spanish Paella",
+  "description": "A flavorful and spicy paella dish inspired by Spanish cuisine, featuring exotic spices and seafood.",
+  "cuisine": "spanish",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Saffron-infused chicken broth",
+      "amount": "2 cups",
+      "notes": "Use store-bought or homemade broth"
+    },
+    {
+      "name": "Spanish rice",
+      "amount": "1 cup",
+      "notes": "Short-grain rice works best"
+    },
+    {
+      "name": "Exotic spice blend (cumin, coriander, smoked paprika)",
+      "amount": "1 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Large shrimp, peeled and deveined",
+      "amount": "1 pound",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "Mussels, scrubbed and debearded",
+      "amount": "1 pound",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "Red bell pepper, diced",
+      "amount": "1",
+      "notes": "Any color bell pepper works"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "Use a good-quality oil"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": "Use 2-3 cloves for a stronger flavor"
+    },
+    {
+      "name": "Tomato, diced",
+      "amount": "1",
+      "notes": "Fresh or canned, drained"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large paella pan or skillet over medium-high heat.",
+    "Add garlic and sauté for 1-2 minutes until fragrant.",
+    "Add the shrimp and mussels, and cook until they start to turn pink, about 2-3 minutes.",
+    "Add the diced red bell pepper and cook for an additional 2-3 minutes.",
+    "Add the tomato, saffron-infused chicken broth, Spanish rice, and exotic spice blend.",
+    "Stir well to combine and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes or until the rice is cooked and the liquid has been absorbed.",
+    "Remove from heat and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "spicy",
+    "spanish",
+    "paella"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-spanish-fish-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T02:04:16.221Z"
+}
