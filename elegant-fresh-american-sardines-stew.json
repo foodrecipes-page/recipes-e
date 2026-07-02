@@ -1,0 +1,89 @@
+{
+  "slug": "elegant-fresh-american-sardines-stew",
+  "title": "Sardine Stew",
+  "description": "A hearty and flavorful stew made with sardines, perfect for a cozy evening. This recipe combines the freshness of herbs with the richness of fish.",
+  "cuisine": "american",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sardines",
+      "amount": "1 can (drained and chopped)",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium (chopped)",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves (minced)",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium (chopped)",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup (chopped)",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "stew",
+      "amount": "4 cups (vegetable or chicken broth)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chopped tomatoes and cook for 5 minutes, stirring occasionally.",
+    "Add the chopped sardines, vegetable or chicken broth, salt, and pepper.",
+    "Stir to combine and bring the mixture to a simmer.",
+    "Reduce heat to low and let the stew cook for 10-15 minutes, or until the flavors have melded together.",
+    "Stir in the chopped parsley and serve hot.",
+    "Serve with crusty bread or over rice, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sardine-stew",
+    "fish-stew",
+    "american-cuisine",
+    "cozy-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/elegant-fresh-american-sardines-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:36:59.925Z"
+}
