@@ -1,0 +1,100 @@
+{
+  "slug": "exotic-creamy-tunisian-chickpea-tagine",
+  "title": "Tunisian Chickpea Tagine",
+  "description": "A flavorful and aromatic stew originating from Tunisia, made with chickpeas and a blend of exotic spices. This dish is perfect for a cozy dinner.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "tunisian spice blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chickpea flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tagine spice mix",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped (for garnish)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for an additional 1 minute.",
+    "Stir in tunisian spice blend, cumin, and chickpea flour. Cook for 1 minute.",
+    "Add chickpeas, chicken broth, and tagine spice mix. Bring to a simmer.",
+    "Reduce heat to low and cook, covered, for 20-25 minutes.",
+    "Season with salt to taste.",
+    "Garnish with chopped parsley and serve over couscous or rice.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tunisian",
+    "chickpea",
+    "tagine",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-creamy-tunisian-chickpea-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T02:44:18.893Z"
+}
