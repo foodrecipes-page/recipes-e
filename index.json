@@ -925,15 +925,14 @@
   },
   {
     "slug": "earthy-croatian-ghee-dumplings",
-    "title": "Earthy Croatian Ghee Dumplings",
+    "title": "Croatian Dumplings with Earthy Ghee",
     "tags": [
-      "ghee-based",
-      "hangover-cure",
-      "high-fiber",
-      "weeknight"
+      "comfort-food",
+      "european",
+      "hearty"
     ],
-    "cuisine": "croatian",
-    "totalTimeMin": 23,
+    "cuisine": "Croatian",
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
@@ -1152,18 +1151,15 @@
   },
   {
     "slug": "earthy-dutch-water-broth",
-    "title": "Earthy Dutch Water Broth",
+    "title": "Earthy Dutch Pea Soup",
     "tags": [
-      "comforting",
-      "easy-to-make",
-      "gluten-free-option",
-      "one-pot",
       "soup",
-      "vegan-recipe",
-      "weeknight-meal"
+      "pea-soup",
+      "vegetarian",
+      "comfort-food"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 60,
+    "totalTimeMin": 30,
     "shard": "e"
   },
   {
@@ -1224,16 +1220,14 @@
   },
   {
     "slug": "earthy-filipino-dish-bouncy-qq",
-    "title": "bouncy-qq",
+    "title": "Filipino Style Earthy Stir Fry",
     "tags": [
+      "stir-fry",
       "filipino",
-      "gluten-free",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "vegan"
     ],
     "cuisine": "filipino",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
