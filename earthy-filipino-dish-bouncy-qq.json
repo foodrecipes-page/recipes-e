@@ -1,0 +1,79 @@
+{
+  "slug": "earthy-filipino-dish-bouncy-qq",
+  "title": "Filipino Style Earthy Stir Fry",
+  "description": "A hearty, earthy stir fry with a mix of vegetables and Filipino flavors. This dish is easy to make and packed with nutrients.",
+  "cuisine": "filipino",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup sliced",
+      "notes": ""
+    },
+    {
+      "name": "Bok Choy",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Filipino-style soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or regular soy sauce as substitute"
+    },
+    {
+      "name": "Vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves minced",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon grated",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over medium-high heat.",
+    "Add the tofu and cook until golden brown on all sides.",
+    "Remove the tofu and set aside.",
+    "Add the mushrooms and cook until they release their liquid and start to brown.",
+    "Add the bok choy and cook until wilted.",
+    "Add the soy sauce, vinegar, garlic, and ginger. Stir to combine.",
+    "Return the tofu to the wok and stir to combine.",
+    "Cook for an additional 2-3 minutes.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "filipino",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-filipino-dish-bouncy-qq",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T14:50:27.705Z"
+}
