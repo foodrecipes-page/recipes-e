@@ -1,0 +1,87 @@
+{
+  "slug": "earthly-malaysian-thai-eggplant-curry",
+  "title": "Eggplant Curry",
+  "description": "A flavorful and aromatic curry dish made with eggplant, inspired by Malaysian and Thai cuisine.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "1 large",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tablespoons",
+      "notes": "Thai red curry paste"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "to balance the flavor"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "for cooking the eggplant"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large pan over medium heat.",
+    "Add the onion and garlic and sauté until softened.",
+    "Add the curry paste and cook for 1-2 minutes, stirring constantly.",
+    "Add the fish sauce and sugar and stir to combine.",
+    "Add the eggplant and chicken broth to the pan and bring to a boil.",
+    "Reduce the heat to low and simmer for 15-20 minutes, or until the eggplant is tender.",
+    "Season with salt to taste.",
+    "Garnish with chopped cilantro and serve over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "eggplant",
+    "curry",
+    "malaysian",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthly-malaysian-thai-eggplant-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T16:04:54.946Z"
+}
