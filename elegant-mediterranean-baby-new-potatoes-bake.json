@@ -1,0 +1,72 @@
+{
+  "slug": "elegant-mediterranean-baby-new-potatoes-bake",
+  "title": "Roasted Elegant Potatoes with Mediterranean Herbs",
+  "description": "A simple yet flavorful side dish that's perfect for any meal. The combination of elegant potatoes, mediterranean herbs, and a hint of lemon zest creates a delicious and aromatic roasted potato dish.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "Elegant Potatoes",
+      "amount": "4-5 medium-sized potatoes",
+      "notes": null
+    },
+    {
+      "name": "Fresh Rosemary",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh Oregano",
+      "amount": "1 sprig",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Peel the potatoes and cut them into 1-inch cubes.",
+    "In a large bowl, toss the potatoes with olive oil, rosemary, oregano, garlic, and lemon zest until they're evenly coated.",
+    "Spread the potatoes out in a single layer on a baking sheet.",
+    "Roast the potatoes in the preheated oven for 20-25 minutes, or until they're golden brown and crispy.",
+    "Remove the potatoes from the oven and let them cool slightly.",
+    "Serve the roasted potatoes hot, garnished with additional rosemary and oregano if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "potatoes",
+    "mediterranean",
+    "roasted",
+    "herbs"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/elegant-mediterranean-baby-new-potatoes-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T15:27:23.778Z"
+}
