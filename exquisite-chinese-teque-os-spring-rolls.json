@@ -1,0 +1,79 @@
+{
+  "slug": "exquisite-chinese-teque-os-spring-rolls",
+  "title": "Pan-Seared Os Rolls",
+  "description": "Crispy and savory os rolls pan-seared to perfection. Served with a sweet and sour dipping sauce. A delicious and easy-to-make Chinese-inspired dish.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Os Rolls",
+      "amount": "1 package (about 20 rolls)"
+    },
+    {
+      "name": "Spring Rolls",
+      "amount": "1 package (about 20 rolls)"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Hoisin Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat 1/4 cup of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the garlic and ginger and stir-fry for 1 minute.",
+    "Add the os rolls and stir-fry for 2-3 minutes, until lightly browned.",
+    "Add the spring rolls and stir-fry for another 2-3 minutes, until lightly browned.",
+    "In a small bowl, whisk together the soy sauce, hoisin sauce, sugar, and rice vinegar.",
+    "Pour the sauce over the os rolls and spring rolls, and stir-fry for another minute.",
+    "Serve hot with additional dipping sauce, if desired.",
+    "Cooking temperature: 375°F (190°C).",
+    "Prep Time: 10 minutes.",
+    "Cook Time: 10 minutes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "snack",
+    "easy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exquisite-chinese-teque-os-spring-rolls",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T02:20:01.106Z"
+}
