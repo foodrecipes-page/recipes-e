@@ -1,0 +1,72 @@
+{
+  "slug": "earthy-croatian-ghee-dumplings",
+  "title": "Croatian Dumplings with Earthy Ghee",
+  "description": "A hearty and comforting dish featuring Croatian dumplings smothered in a rich, earthy ghee sauce.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dumplings",
+      "amount": "1 package (20-25 dumplings)",
+      "notes": ""
+    },
+    {
+      "name": "Earthy ghee",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring the vegetable broth to a simmer in a large pot.",
+    "Add the dumplings to the pot and cook for 10-12 minutes, or until they float to the surface.",
+    "While the dumplings are cooking, heat the earthy ghee in a small saucepan over medium heat.",
+    "Once the ghee is melted and fragrant, remove from heat and set aside.",
+    "Once the dumplings are done, remove them from the pot with a slotted spoon and place them in a serving dish.",
+    "Pour the heated ghee over the top of the dumplings and sprinkle with chopped parsley.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "european",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-croatian-ghee-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T13:56:47.455Z"
+}
