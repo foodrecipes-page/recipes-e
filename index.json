@@ -433,13 +433,12 @@
   },
   {
     "slug": "earthly-malaysian-thai-eggplant-curry",
-    "title": "Earthly Malaysian Thai Eggplant Curry",
+    "title": "Eggplant Curry",
     "tags": [
-      "comfort-food",
-      "malaysian-cuisine",
-      "one-pot",
-      "vegan-friendly",
-      "weeknight"
+      "eggplant",
+      "curry",
+      "malaysian",
+      "thai"
     ],
     "cuisine": "Malaysian",
     "totalTimeMin": 35,
@@ -1580,18 +1579,15 @@
   },
   {
     "slug": "earthy-greek-scamorza-revithia",
-    "title": "Earthy Greek Scamorza Revithia",
+    "title": "Scamorza and Revithia Fritters",
     "tags": [
-      "brunch",
-      "crumbly",
-      "nutty",
-      "quick",
-      "terracotta",
-      "vegan",
-      "whole30"
+      "greek",
+      "snack",
+      "fritters",
+      "lentil"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 30,
+    "totalTimeMin": 27,
     "shard": "e"
   },
   {
@@ -4394,17 +4390,15 @@
   },
   {
     "slug": "elegant-mediterranean-baby-new-potatoes-bake",
-    "title": "Elegant Mediterranean Baby New Potatoes Bake",
+    "title": "Roasted Elegant Potatoes with Mediterranean Herbs",
     "tags": [
-      "gluten-free",
-      "healthy",
-      "high-protein",
-      "low-glycemic",
-      "one-pan",
-      "weeknight"
+      "potatoes",
+      "mediterranean",
+      "roasted",
+      "herbs"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {
