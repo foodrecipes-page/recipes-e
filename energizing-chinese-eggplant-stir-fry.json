@@ -1,0 +1,84 @@
+{
+  "slug": "energizing-chinese-eggplant-stir-fry",
+  "title": "Stir Fry Eggplant Delight",
+  "description": "A simple and flavorful Asian-inspired eggplant recipe. Perfect for a quick and nutritious meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "2 medium",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon, grated",
+      "notes": "Add flavor and aroma"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": "Saute with ginger and eggplant"
+    },
+    {
+      "name": "Bamboo shoots",
+      "amount": "1 can, drained and sliced",
+      "notes": "Add texture and nutrition"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Season with savory flavor"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": "Sweeten the dish"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "Garnish with nutty flavor"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add grated ginger and minced garlic. Saute until fragrant (1 minute).",
+    "Add eggplant pieces and cook until tender (3-4 minutes).",
+    "Add bamboo shoots, soy sauce, and honey. Stir-fry until well combined.",
+    "Season with salt and pepper to taste.",
+    "Transfer to a serving platter and sprinkle with sesame seeds.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "eggplant",
+    "stir-fry",
+    "chinese-cuisine",
+    "vegetarian",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4.6,
+    "carbs": 35.9,
+    "fat": 9.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-chinese-eggplant-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T05:56:58.979Z"
+}
