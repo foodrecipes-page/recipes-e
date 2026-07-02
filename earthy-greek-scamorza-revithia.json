@@ -1,0 +1,73 @@
+{
+  "slug": "earthy-greek-scamorza-revithia",
+  "title": "Scamorza and Revithia Fritters",
+  "description": "A Greek-inspired snack or appetizer featuring crispy fritters filled with the creamy taste of scamorza cheese and earthy lentils.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "revithia (lentils)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "scamorza cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, whisk together the flour, eggs, salt, and black pepper.",
+    "Add the revithia to the bowl and mix until well combined.",
+    "Add the scamorza cheese to the bowl and mix until well combined.",
+    "Using your hands, shape the mixture into small patties or balls.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "When the oil is hot, add a few of the fritters to the skillet (do not overcrowd).",
+    "Fry the fritters until they are crispy and golden brown on both sides, about 3-4 minutes per side.",
+    "Remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the fritters warm, garnished with chopped fresh parsley or oregano if desired.",
+    "Repeat with the remaining fritters."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "snack",
+    "fritters",
+    "lentil"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-greek-scamorza-revithia",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T16:00:53.564Z"
+}
