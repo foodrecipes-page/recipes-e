@@ -7025,17 +7025,16 @@
   },
   {
     "slug": "exotic-creamy-tunisian-chickpea-tagine",
-    "title": "Exotic Creamy Tunisian Chickpea Tagine",
+    "title": "Tunisian Chickpea Tagine",
     "tags": [
-      "comfort-food",
-      "jain-friendly",
-      "midnight-craving",
-      "north-african",
-      "one-pot",
+      "tunisian",
+      "chickpea",
+      "tagine",
+      "stew",
       "vegetarian"
     ],
     "cuisine": "Tunisian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "e"
   },
   {
@@ -8200,16 +8199,14 @@
   },
   {
     "slug": "exotic-spanish-fish-paella",
-    "title": "Exotic Spanish Fish Paella",
+    "title": "Exotic Spanish Paella",
     "tags": [
-      "anti-inflammatory",
-      "date-night",
-      "high-protein",
-      "one-pan",
-      "romantic",
-      "weeknight"
+      "seafood",
+      "spicy",
+      "spanish",
+      "paella"
     ],
-    "cuisine": "Spanish",
+    "cuisine": "spanish",
     "totalTimeMin": 45,
     "shard": "e"
   },
@@ -8273,17 +8270,15 @@
   },
   {
     "slug": "exotic-spicy-saudi-arabian-cannellini-beans-tagine",
-    "title": "Exotic Spicy Saudi Arabian Cannellini Beans Tagine",
+    "title": "Saudi Arabian Cannellini Tagine",
     "tags": [
-      "comfort-food",
-      "hearty-stew",
-      "low-glycemic",
-      "middle-eastern",
-      "one-pot",
-      "vegetarian"
+      "saudi",
+      "arabian",
+      "stew",
+      "beans"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 50,
+    "cuisine": "saudi",
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {
@@ -8772,16 +8767,15 @@
   },
   {
     "slug": "exquisite-chinese-teque-os-spring-rolls",
-    "title": "Exquisite Chinese Teque Os Spring Rolls",
+    "title": "Pan-Seared Os Rolls",
     "tags": [
-      "asian-fusion",
-      "chinese-cuisine",
-      "pescatarian",
-      "seafood",
-      "spring-rolls"
+      "chinese",
+      "snack",
+      "easy",
+      "quick"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 30,
+    "totalTimeMin": 20,
     "shard": "e"
   },
   {
