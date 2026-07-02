@@ -6956,15 +6956,17 @@
   },
   {
     "slug": "exotic-aerated-portuguese-peanuts-wrap",
-    "title": "exotic aerated portuguese peanuts wrap",
+    "title": "Aerated Portuguese Wrap",
     "tags": [
-      "high-calorie",
       "portuguese",
       "snack",
-      "wrap"
+      "wrap",
+      "peanuts",
+      "exotic",
+      "aerated"
     ],
-    "cuisine": "portuguese",
-    "totalTimeMin": 25,
+    "cuisine": "Portuguese",
+    "totalTimeMin": 15,
     "shard": "e"
   },
   {
