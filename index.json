@@ -4244,15 +4244,15 @@
   },
   {
     "slug": "elegant-fresh-american-sardines-stew",
-    "title": "Fresh American Sardines Stew",
+    "title": "Sardine Stew",
     "tags": [
+      "sardine-stew",
       "fish-stew",
-      "low-sodium",
-      "one-pan",
-      "weeknight"
+      "american-cuisine",
+      "cozy-food"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 25,
+    "cuisine": "american",
+    "totalTimeMin": 30,
     "shard": "e"
   },
   {
