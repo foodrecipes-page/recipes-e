@@ -1,0 +1,80 @@
+{
+  "slug": "elegant-juicy-greek-leek-spanakopita",
+  "title": "Spanakopita Stuffed Leeks",
+  "description": "A unique twist on traditional spanakopita, with tender leeks wrapped around a flavorful spinach and feta filling.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "leek",
+      "amount": "4 large",
+      "notes": "white and light green parts only"
+    },
+    {
+      "name": "spanakopita",
+      "amount": "1 package",
+      "notes": "thawed and crumbled"
+    },
+    {
+      "name": "greek yogurt",
+      "amount": "1/2 cup",
+      "notes": "for brushing leeks"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Trim the leeks, leaving the root end intact. Cut off the dark green tops and set aside.",
+    "Brush the leeks with Greek yogurt, then season with salt and black pepper.",
+    "Cut a horizontal slit in each leek, creating a pocket to fill.",
+    "Spoon the spanakopita mixture into each leek pocket.",
+    "Top each leek with crumbled feta cheese and a sprinkle of minced garlic.",
+    "Place the leeks on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until the leeks are tender and the filling is heated through.",
+    "Serve hot, garnished with the reserved dark green leek tops."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanakopita",
+    "leek",
+    "greek",
+    "vegetarian",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/elegant-juicy-greek-leek-spanakopita",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T06:55:54.432Z"
+}
