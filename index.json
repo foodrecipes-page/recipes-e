@@ -6457,17 +6457,14 @@
   },
   {
     "slug": "epic-monsoon-ukrainian-garlicky-juicy-stew",
-    "title": "Epic Monsoon Ukrainian Garlicky, Juicy Stew",
+    "title": "Stew",
     "tags": [
-      "garlicky",
-      "hearty",
-      "juicy",
-      "keto-friendly",
-      "monsoon",
+      "beef",
+      "stew",
       "ukrainian"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 210,
+    "cuisine": "ukrainian",
+    "totalTimeMin": 105,
     "shard": "e"
   },
   {
