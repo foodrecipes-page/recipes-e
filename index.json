@@ -4073,17 +4073,16 @@
   },
   {
     "slug": "elegant-canadian-pappardelle-pasta",
-    "title": "Elegant Canadian Pappardelle Pasta",
+    "title": "Pan-Seared Pappardelle with Elegant Canadian Sauce",
     "tags": [
-      "canadian-cuisine",
-      "gluten-free",
-      "low-glycemic",
-      "pappardelle-pasta",
-      "romantic-dinner",
-      "special-occasion"
+      "italian",
+      "pasta",
+      "sauce",
+      "elegant",
+      "canadian"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 35,
+    "cuisine": "italian",
+    "totalTimeMin": 27,
     "shard": "e"
   },
   {
@@ -4285,16 +4284,16 @@
   },
   {
     "slug": "elegant-juicy-greek-leek-spanakopita",
-    "title": "Elegant Juicy Greek Leek Spanakopita",
+    "title": "Spanakopita Stuffed Leeks",
     "tags": [
-      "brunch-ideas",
-      "greek-cuisine",
-      "leek-recipes",
-      "spanakopita-recipes",
-      "vegetarian-dishes"
+      "spanakopita",
+      "leek",
+      "greek",
+      "vegetarian",
+      "dinner"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "e"
   },
   {
@@ -7536,14 +7535,12 @@
   },
   {
     "slug": "exotic-egyptian-tomato-custard",
-    "title": "Exotic Egyptian Tomato Custard",
+    "title": "Egyptian Custard Delight",
     "tags": [
-      "creamy",
-      "festive",
-      "gluten-free",
-      "keto-friendly",
-      "middle-eastern",
-      "rich"
+      "dessert",
+      "egyptian-cuisine",
+      "custard",
+      "exotic-spices"
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 45,
