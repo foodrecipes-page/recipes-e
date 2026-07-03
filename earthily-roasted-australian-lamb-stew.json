@@ -1,0 +1,91 @@
+{
+  "slug": "earthily-roasted-australian-lamb-stew",
+  "title": "Australian Lamb Stew",
+  "description": "A hearty and comforting lamb stew originating from Australia, perfect for a cold evening. This recipe uses earthy flavors and a rich broth to bring out the best in the lamb.",
+  "cuisine": "australian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian lamb shoulder, cut into 2-inch cubes",
+      "amount": "1 1/2 pounds",
+      "notes": "Look for lamb shoulder with a good balance of fat and lean meat"
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "1 large",
+      "notes": "You can use a sweet onion like Vidalia or a yellow onion"
+    },
+    {
+      "name": "Carrots, peeled and chopped",
+      "amount": "2 medium",
+      "notes": "Use a variety like Nantes or Danver for the best flavor"
+    },
+    {
+      "name": "Potatoes, peeled and chopped",
+      "amount": "2 large",
+      "notes": "Choose high-starch potatoes like Russet or Idaho"
+    },
+    {
+      "name": "Red wine, such as Cabernet Sauvignon",
+      "amount": "1 cup",
+      "notes": "You can also use beef broth if you prefer"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "Use a low-sodium broth to avoid overpowering the stew"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "Look for a high-quality tomato paste with minimal added ingredients"
+    },
+    {
+      "name": "Thyme",
+      "amount": "2 sprigs",
+      "notes": "Choose fresh thyme for the best flavor"
+    },
+    {
+      "name": "Rosemary",
+      "amount": "1 sprig",
+      "notes": "Use fresh rosemary for the best flavor"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb cubes in batches until they're nicely browned on all sides. Remove the lamb from the pot and set it aside.",
+    "Add the chopped onion to the pot and cook until it's softened and lightly browned.",
+    "Add the chopped carrots and cook for an additional 5 minutes.",
+    "Add the chopped potatoes and cook for an additional 5 minutes.",
+    "Add the red wine to the pot and cook until it's almost completely reduced.",
+    "Add the beef broth, tomato paste, thyme, and rosemary to the pot. Stir to combine.",
+    "Return the lamb to the pot and bring the stew to a boil.",
+    "Reduce the heat to low and simmer the stew, covered, for 2 1/2 to 3 hours, or until the lamb is tender.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "australian",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthily-roasted-australian-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T04:31:51.847Z"
+}
