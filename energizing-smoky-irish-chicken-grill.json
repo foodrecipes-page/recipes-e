@@ -1,0 +1,74 @@
+{
+  "slug": "energizing-smoky-irish-chicken-grill",
+  "title": "Smoky Irish Chicken Delight",
+  "description": "A delightful twist on traditional chicken with smoky flavors inspired by Ireland's rugged landscape. Perfect for a quick and satisfying meal.",
+  "cuisine": "irish",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "4",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "energizing granola",
+      "amount": "1/4 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "smoky BBQ sauce",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "irish butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "grill seasoning",
+      "amount": "1 teaspoon",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season chicken breasts with grill seasoning and cook for 5-6 minutes per side or until cooked through.",
+    "In a small bowl, mix together smoky BBQ sauce and irish butter.",
+    "Brush the BBQ sauce mixture on the grilled chicken breasts.",
+    "Sprinkle crushed energizing granola on top of the chicken for added crunch.",
+    "Garnish with chopped fresh parsley before serving.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grill",
+    "irish",
+    "chicken",
+    "smoky",
+    "energizing"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-smoky-irish-chicken-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T17:17:50.915Z"
+}
