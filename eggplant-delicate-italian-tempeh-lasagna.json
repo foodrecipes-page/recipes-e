@@ -1,0 +1,98 @@
+{
+  "slug": "eggplant-delicate-italian-tempeh-lasagna",
+  "title": "Lasagna with Eggplant and Tempeh",
+  "description": "A vegetarian twist on the classic Italian dish, featuring tender eggplant and savory tempeh.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "tempeh",
+      "amount": "8 oz",
+      "notes": "crumbled"
+    },
+    {
+      "name": "lasagna",
+      "amount": "8 noodles",
+      "notes": "wide"
+    },
+    {
+      "name": "marinara sauce",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra-virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the lasagna noodles according to the package instructions. Drain and set aside.",
+    "In a large skillet, heat the olive oil over medium heat. Add the sliced eggplant and cook until tender, about 5 minutes.",
+    "In a separate skillet, cook the crumbled tempeh over medium-high heat until golden brown, about 5 minutes.",
+    "In a large bowl, combine the marinara sauce, ricotta cheese, and chopped basil. Mix well to combine.",
+    "Spread a layer of the sauce mixture in the bottom of a 9x13 inch baking dish. Arrange 4 lasagna noodles on top.",
+    "Spread half of the remaining sauce mixture over the noodles. Top with half of the cooked eggplant and half of the cooked tempeh.",
+    "Sprinkle with half of the shredded parmesan cheese.",
+    "Repeat the layers, starting with the noodles, then the remaining sauce mixture, the remaining eggplant, the remaining tempeh, and finally the remaining parmesan cheese.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and bake for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Let the lasagna rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "vegetarian",
+    "lasagna",
+    "eggplant",
+    "tempeh"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/eggplant-delicate-italian-tempeh-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T22:04:39.375Z"
+}
