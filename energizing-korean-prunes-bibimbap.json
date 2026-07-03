@@ -1,0 +1,85 @@
+{
+  "slug": "energizing-korean-prunes-bibimbap",
+  "title": "Spicy Korean-Style Bibimbap",
+  "description": "A flavorful and nutritious Korean-inspired bibimbap recipe with energizing ingredients to start your day.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Cauliflower Rice",
+      "amount": "1 cup",
+      "notes": "Use pre-cut cauliflower rice for convenience"
+    },
+    {
+      "name": "Korean Chili Flakes (Gochugaru)",
+      "amount": "1 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Prunes",
+      "amount": "1/4 cup",
+      "notes": "Rehydrate by soaking in water for 10 minutes"
+    },
+    {
+      "name": "Bibimbap Sauce (make your own or store-bought)",
+      "amount": "2 tbsp",
+      "notes": "Homemade recipe: 1/2 cup rice vinegar, 1/4 cup sugar, 2 tsp Gochujang"
+    },
+    {
+      "name": "Mixed Vegetables (e.g., carrots, zucchini, spinach)",
+      "amount": "1 cup",
+      "notes": "Use leftover or pre-cut for convenience"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": "High-quality, cold-pressed oil for flavor"
+    },
+    {
+      "name": "Soy Sauce (optional)",
+      "amount": "1 tsp",
+      "notes": "Use gluten-free soy sauce for vegan option"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp",
+      "notes": "Optional garnish for added crunch"
+    }
+  ],
+  "instructions": [
+    "Prepare the cauliflower rice according to package instructions.",
+    "In a small bowl, mix together Korean chili flakes and sesame oil. Set aside.",
+    "Soak the prunes in water for 10 minutes, then chop into small pieces.",
+    "Heat a non-stick pan over medium-high heat. Add the mixed vegetables and cook until tender.",
+    "In a separate pan, warm the bibimbap sauce over low heat.",
+    "To assemble the dish, place a scoop of cauliflower rice onto a plate, followed by the cooked vegetables and chopped prunes.",
+    "Drizzle the bibimbap sauce over the top and sprinkle with sesame seeds.",
+    "Finally, sprinkle the Korean chili flake mixture over the dish and serve immediately.",
+    "For added energy, sprinkle some energizing powder on top (optional)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "bibimbap",
+    "energizing",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-korean-prunes-bibimbap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T01:18:10.394Z"
+}
