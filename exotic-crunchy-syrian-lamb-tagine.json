@@ -1,0 +1,100 @@
+{
+  "slug": "exotic-crunchy-syrian-lamb-tagine",
+  "title": "Lamb Tagine with Crunchy Syrian Nuts",
+  "description": "A rich and flavorful North African stew made with tender lamb, crunchy Syrian nuts, and a hint of exotic spices.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "crunchy Syrian nuts",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat. Brown lamb on all sides, about 5 minutes. Remove lamb from pot and set aside.",
+    "Reduce heat to medium. Add onion, garlic, and ginger to pot. Cook, stirring occasionally, until onion is softened, about 5 minutes.",
+    "Add cumin, coriander, and cinnamon to pot. Cook, stirring constantly, for 1 minute.",
+    "Add chicken broth and honey to pot. Stir to combine.",
+    "Return lamb to pot. Cover and bring to a boil.",
+    "Transfer pot to the oven. Braise lamb, covered, at 300°F for 2 hours, or until tender.",
+    "Stir in crunchy Syrian nuts. Serve hot.",
+    "Serve over couscous or rice, if desired.",
+    "Garnish with additional crunchy Syrian nuts, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "north-african",
+    "stew",
+    "exotic"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-crunchy-syrian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T06:15:43.007Z"
+}
