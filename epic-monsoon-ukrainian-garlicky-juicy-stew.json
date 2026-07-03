@@ -1,0 +1,85 @@
+{
+  "slug": "epic-monsoon-ukrainian-garlicky-juicy-stew",
+  "title": "Stew",
+  "description": "A hearty garlicky stew made with juicy beef and served over a bed of epic root vegetables.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "meat",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "500g",
+      "notes": "cut into 2 inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "3",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "dried"
+    },
+    {
+      "name": "monsoon spice blend",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "canned or homemade"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Brown the beef cubes in batches until browned, about 5 minutes.",
+    "Remove the browned beef from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chopped carrots and potatoes to the pot and cook for 5 minutes.",
+    "Add the browned beef back to the pot, along with the tomato paste and monsoon spice blend.",
+    "Stir to combine and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1 1/2 hours, or until the beef is tender.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/epic-monsoon-ukrainian-garlicky-juicy-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T18:03:17.031Z"
+}
