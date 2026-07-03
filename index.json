@@ -210,17 +210,15 @@
   },
   {
     "slug": "earthily-roasted-australian-lamb-stew",
-    "title": "Earthily Roasted Australian Lamb Stew",
+    "title": "Australian Lamb Stew",
     "tags": [
-      "australian-cuisine",
-      "comfort-food",
-      "gluten-free",
-      "lamb-recipes",
-      "one-pot",
-      "winter-stew"
+      "lamb",
+      "australian",
+      "stew",
+      "comfort-food"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 180,
+    "cuisine": "australian",
+    "totalTimeMin": 170,
     "shard": "e"
   },
   {
