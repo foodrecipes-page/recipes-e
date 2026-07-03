@@ -1,0 +1,85 @@
+{
+  "slug": "energetic-glazed-aerated-black-treacle-biscuit",
+  "title": "Black Treacle Biscuit",
+  "description": "A simple dessert recipe combining the deep flavor of black treacle with the crunch of biscuit. Perfect for a sweet treat.",
+  "cuisine": "british",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "black treacle",
+      "amount": "200g",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "200g",
+      "notes": null
+    },
+    {
+      "name": "biscuit",
+      "amount": "100g",
+      "notes": null
+    },
+    {
+      "name": "butter",
+      "amount": "100g",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "100g",
+      "notes": null
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "0.5 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Line a baking sheet with parchment paper.",
+    "In a bowl, whisk together the flour, sugar, and salt.",
+    "Add the butter and mix until the mixture resembles coarse breadcrumbs.",
+    "Press the mixture into a lined baking dish.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Remove from the oven and let cool slightly.",
+    "Drizzle with black treacle and return to the oven for a further 5 minutes.",
+    "Remove from the oven and let cool completely.",
+    "Cut into squares and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "dessert",
+    "biscuit",
+    "treacle"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energetic-glazed-aerated-black-treacle-biscuit",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T20:20:49.138Z"
+}
