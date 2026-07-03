@@ -3907,18 +3907,16 @@
   },
   {
     "slug": "eggplant-delicate-italian-tempeh-lasagna",
-    "title": "Eggplant Delicate Italian Tempeh Lasagna",
+    "title": "Lasagna with Eggplant and Tempeh",
     "tags": [
-      "egg-free-friendly",
-      "high-protein",
       "italian",
-      "one-pan",
-      "vegan-friendly",
       "vegetarian",
-      "weeknight"
+      "lasagna",
+      "eggplant",
+      "tempeh"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 70,
+    "cuisine": "italian",
+    "totalTimeMin": 60,
     "shard": "e"
   },
   {
