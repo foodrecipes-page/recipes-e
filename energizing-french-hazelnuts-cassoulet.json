@@ -1,0 +1,67 @@
+{
+  "slug": "energizing-french-hazelnuts-cassoulet",
+  "title": "French Hazelnut Cassoulet",
+  "description": "A classic French dish with a twist, adding hazelnuts for added crunch and flavor. This hearty casserole is perfect for a cold winter night.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Hazelnuts",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "Energizing Cassoulet Beans",
+      "amount": "2 cups, cooked"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 cups, diced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large, diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Bacon",
+      "amount": "4 slices, diced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Cook the bacon until crispy, then set aside.",
+    "In a large Dutch oven, sauté the onions and garlic until softened.",
+    "Add the cooked cassoulet beans, diced tomatoes, and chopped hazelnuts.",
+    "Stir well and bring to a simmer.",
+    "Transfer the Dutch oven to the preheated oven and cook for 30 minutes.",
+    "Top with crispy bacon and continue cooking for an additional 15 minutes.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "vegetarian",
+    "hazelnuts",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-french-hazelnuts-cassoulet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T00:01:00.261Z"
+}
