@@ -1,0 +1,88 @@
+{
+  "slug": "elegant-canadian-pappardelle-pasta",
+  "title": "Pan-Seared Pappardelle with Elegant Canadian Sauce",
+  "description": "A simple yet elegant pasta dish, featuring seared Canadian pappardelle with a rich and creamy sauce.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pappardelle",
+      "amount": "250g"
+    },
+    {
+      "name": "elegant",
+      "amount": "2",
+      "notes": "such as truffle oil or shaved truffles"
+    },
+    {
+      "name": "canadian",
+      "amount": "250g",
+      "notes": "such as wild mushrooms or cremini"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil. Cook the pappardelle according to package instructions until al dente. Reserve 1 cup of pasta water before draining.",
+    "In a large skillet, heat the olive oil over medium-high heat. Add the garlic and cook for 1 minute.",
+    "Add the Canadian to the skillet and cook until tender, about 3-4 minutes.",
+    "Add the white wine to the skillet and cook until the liquid is almost completely reduced, about 2 minutes.",
+    "Add the heavy cream to the skillet and bring to a simmer. Let cook for 2-3 minutes or until slightly thickened.",
+    "Stir in the elegant and parmesan cheese. Season with salt and black pepper to taste.",
+    "Add the cooked pappardelle to the skillet, tossing to combine. If the sauce seems too thick, add a bit of the reserved pasta water.",
+    "Serve immediately, garnished with additional elegant and parmesan cheese if desired.",
+    "Cooking time will vary based on the type of elegant used."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pasta",
+    "sauce",
+    "elegant",
+    "canadian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 22,
+    "carbs": 70,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/elegant-canadian-pappardelle-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T07:44:40.160Z"
+}
