@@ -5990,17 +5990,16 @@
   },
   {
     "slug": "energizing-smoky-irish-chicken-grill",
-    "title": "Energizing Smoky Irish Chicken Grill",
+    "title": "Smoky Irish Chicken Delight",
     "tags": [
-      "grilled-chicken",
-      "irish-cuisine",
-      "lazy-susan-spinner",
-      "post-workout-meal",
-      "smoky-flavor",
-      "wine-based-marinade"
+      "grill",
+      "irish",
+      "chicken",
+      "smoky",
+      "energizing"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 45,
+    "cuisine": "irish",
+    "totalTimeMin": 22,
     "shard": "e"
   },
   {
