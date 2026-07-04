@@ -3206,17 +3206,14 @@
   },
   {
     "slug": "easy-melted-russian-butter-pilaf",
-    "title": "Easy Melted Russian Butter Pilaf",
+    "title": "Russian Pilaf with Melted Butter",
     "tags": [
-      "comfort-food",
-      "diabetic-friendly",
-      "easy-to-make",
-      "gluten-free",
-      "one-pan",
-      "weeknight"
+      "pilaf",
+      "russian",
+      "buttery"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {
@@ -3873,17 +3870,16 @@
   },
   {
     "slug": "egg-y-zanzibari-taro-pilaf",
-    "title": "Egg-y Zanzibari Taro Pilaf",
+    "title": "Taro and Y Pilaf with Zanzibari Egg",
     "tags": [
-      "crisp",
-      "egg-y-zanzibari-taro-pilaf",
-      "grassy",
-      "hangover-cure",
-      "kanten-agar",
-      "ovo-vegetarian-friendly"
+      "african",
+      "vegetarian",
+      "easy",
+      "pilaf",
+      "eggs"
     ],
-    "cuisine": "East African",
-    "totalTimeMin": 30,
+    "cuisine": "African",
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
@@ -6662,18 +6658,16 @@
   },
   {
     "slug": "ethereal-ethiopian-cabbage-wot",
-    "title": "Ethereal Ethiopian Cabbage Wot",
+    "title": "Ethereal Ethiopian Cabbage Stew",
     "tags": [
       "ethiopian",
-      "high-fiber",
-      "low-fat",
-      "one-pan",
-      "romantic",
-      "sour",
-      "weeknight"
+      "stew",
+      "cabbage",
+      "spicy",
+      "vegetarian"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "e"
   },
   {
