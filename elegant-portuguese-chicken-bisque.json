@@ -1,0 +1,114 @@
+{
+  "slug": "elegant-portuguese-chicken-bisque",
+  "title": "Portuguese Chicken and Bisque",
+  "description": "A classic Portuguese-inspired dish, combining succulent chicken with rich bisque for a flavorful and satisfying meal. The aromatic spices and herbs add a depth of flavor that will leave you wanting more.",
+  "cuisine": "Portuguese",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "portuguese red wine",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "bisque",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "parsley",
+      "amount": "chopped",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Season the chicken breasts with salt and black pepper.",
+    "Heat the olive oil in a large skillet over medium-high heat. Add the chicken and cook until browned on both sides, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Reduce heat to medium and add the onion to the skillet. Cook until softened, about 3-4 minutes.",
+    "Add the garlic to the skillet and cook for an additional minute.",
+    "Add the red wine to the skillet and cook, scraping up any browned bits, until reduced by half, about 2-3 minutes.",
+    "Add the chicken broth, tomato paste, and saffron threads to the skillet. Stir to combine.",
+    "Return the chicken to the skillet and simmer, covered, until cooked through, about 10-12 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Stir in the bisque and cook for an additional 2-3 minutes, or until heated through.",
+    "Serve the chicken with the bisque sauce spooned over the top. Garnish with chopped parsley.",
+    "Serve hot and enjoy!",
+    "Note: You can also serve the bisque as a side dish, omitting the chicken."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "chicken",
+    "bisque",
+    "wine",
+    "garlic"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 24,
+    "fat": 26
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/elegant-portuguese-chicken-bisque",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T08:06:54.661Z"
+}
