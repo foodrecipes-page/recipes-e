@@ -1,0 +1,82 @@
+{
+  "slug": "easy-elegant-argentinian-smoked-mackerel-empanadas",
+  "title": "Smoked Mackerel Empanadas",
+  "description": "Delicate empanadas filled with smoked mackerel, perfect for a elegant dinner or appetizer.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked Mackerel",
+      "amount": "1/2 pound"
+    },
+    {
+      "name": "Puff Pastry",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten for egg wash"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Parsley",
+      "amount": "1 tablespoon",
+      "notes": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out puff pastry on a floured surface to a thickness of about 1/8 inch.",
+    "Cut out circles of pastry using a cookie cutter or the rim of a glass.",
+    "Place a spoonful of smoked mackerel in the center of each pastry circle.",
+    "Brush the edges of the pastry with beaten egg for a golden glaze.",
+    "Fold the pastry in half over the filling, pressing the edges to seal.",
+    "Use a fork to crimp the edges and create a decorative border.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Brush the tops of the empanadas with a little water and sprinkle with salt and pepper.",
+    "Bake for 20-25 minutes, or until the pastry is golden brown.",
+    "Serve warm, garnished with chopped parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "elegant",
+    "easy",
+    "argentinian",
+    "smoked",
+    "mackerel"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/easy-elegant-argentinian-smoked-mackerel-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T22:02:07.020Z"
+}
