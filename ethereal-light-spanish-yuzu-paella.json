@@ -1,0 +1,79 @@
+{
+  "slug": "ethereal-light-spanish-yuzu-paella",
+  "title": "Spanish Paella with a Twist",
+  "description": "A classic Spanish dish with a touch of citrus and the light crunch of ethereal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "paella rice",
+      "amount": "1 cup",
+      "notes": "preferably Spanish"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "ethereal",
+      "amount": "1/4 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tbsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "sea salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of olive oil in a large paella pan over medium-high heat.",
+    "Add the chicken breast and cook until browned, about 5-6 minutes.",
+    "Add the paella rice and cook for 2-3 minutes, stirring constantly.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes.",
+    "Stir in the yuzu juice, ethereal, and sea salt.",
+    "Continue to simmer for another 5-7 minutes, until the liquid has been absorbed.",
+    "Garnish with chopped parsley, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "paella",
+    "citrus",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ethereal-light-spanish-yuzu-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T12:12:59.483Z"
+}
