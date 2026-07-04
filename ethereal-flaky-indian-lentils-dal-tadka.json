@@ -1,0 +1,71 @@
+{
+  "slug": "ethereal-flaky-indian-lentils-dal-tadka",
+  "title": "Ethereal Dal Tadka",
+  "description": "A simple and flavorful Indian-inspired lentil dish. This comforting dal is made with red lentils, aromatic spices, and a crispy tadka topping.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dal tadka spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "tadka oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the red lentils and soak them in water for 30 minutes.",
+    "Drain and rinse the lentils, then transfer them to a large pot.",
+    "Add 2 cups of water to the pot and bring to a boil.",
+    "Reduce the heat to a simmer and cook the lentils for 20-25 minutes, or until they are tender.",
+    "While the lentils are cooking, heat the tadka oil in a small pan over medium heat.",
+    "Add the chopped onion and grated ginger to the pan and sauté until the onion is translucent.",
+    "Add the dal tadka spice blend to the pan and stir to combine.",
+    "When the lentils are cooked, stir in the tadka mixture and season with salt to taste.",
+    "Serve the dal hot, garnished with a sprinkle of tadka oil and a side of flaky naan or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "lentils",
+    "dal",
+    "tadka"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ethereal-flaky-indian-lentils-dal-tadka",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T09:11:22.857Z"
+}
