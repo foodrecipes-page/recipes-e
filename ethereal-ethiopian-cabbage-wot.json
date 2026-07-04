@@ -1,0 +1,71 @@
+{
+  "slug": "ethereal-ethiopian-cabbage-wot",
+  "title": "Ethereal Ethiopian Cabbage Stew",
+  "description": "A flavorful and spicy stew made with cabbage, onions, and the unique spices of Ethiopia.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "2 medium heads"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "wot spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ethereal oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the ethereal oil in a large pot over medium heat.",
+    "Add the onion and garlic and sauté until softened.",
+    "Add the wot spice mix and cook for 1 minute.",
+    "Add the cabbage and water, and bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Season with salt to taste.",
+    "Serve hot over injera or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "stew",
+    "cabbage",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ethereal-ethiopian-cabbage-wot",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T16:59:45.747Z"
+}
