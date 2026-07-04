@@ -2477,17 +2477,15 @@
   },
   {
     "slug": "earthy-vietnamese-mushroom-bo-kho",
-    "title": "Earthy Vietnamese Mushroom Bo Kho",
+    "title": "Vietnamese Beef Kho",
     "tags": [
-      "comfort-food",
-      "midnight-cravings",
-      "one-pot",
-      "quick",
-      "sattvic",
-      "vegan"
+      "vietnamese",
+      "beef",
+      "stew",
+      "comfort-food"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 30,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 140,
     "shard": "e"
   },
   {
