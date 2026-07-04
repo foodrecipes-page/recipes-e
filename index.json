@@ -6681,15 +6681,12 @@
   },
   {
     "slug": "ethereal-flaky-indian-lentils-dal-tadka",
-    "title": "Ethereal Flaky Indian Lentils Dal-Tadka",
+    "title": "Ethereal Dal Tadka",
     "tags": [
-      "dal-tadka",
-      "flaky",
       "indian",
       "lentils",
-      "seafood-stock",
-      "tandoor",
-      "umami"
+      "dal",
+      "tadka"
     ],
     "cuisine": "Indian",
     "totalTimeMin": 40,
@@ -6712,15 +6709,15 @@
   },
   {
     "slug": "ethereal-french-ovolimushroom-souffle",
-    "title": "Ethereal French Ovolimushroom Souffle",
+    "title": "Creamy French Mushroom Omelette",
     "tags": [
-      "brunch",
-      "french",
-      "high-protein",
-      "mushroom"
+      "breakfast",
+      "omelette",
+      "mushroom",
+      "french"
     ],
     "cuisine": "French",
-    "totalTimeMin": 50,
+    "totalTimeMin": 15,
     "shard": "e"
   },
   {
@@ -7241,18 +7238,16 @@
   },
   {
     "slug": "exotic-dense-egyptian-chicken-kebabs",
-    "title": "Exotic Dense Egyptian Chicken Kebabs",
+    "title": "Egyptian Kebab Chicken Shawarma",
     "tags": [
-      "chicken-recipes",
-      "dairy-free",
-      "gluten-free",
-      "grilled",
-      "kid-friendly",
-      "middle-eastern",
-      "weeknight"
+      "kebabs",
+      "chicken",
+      "egyptian",
+      "shawarma",
+      "grilled"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {
@@ -7661,16 +7656,15 @@
   },
   {
     "slug": "exotic-gooey-syrian-kabanos-wrap",
-    "title": "Exotic Gooey Syrian Kabanos Wrap",
+    "title": "Syrian Kabanos Wrap",
     "tags": [
-      "gluten-free",
-      "paleo",
-      "polish-sausage",
-      "romantic-dinner",
-      "syrian-cuisine",
-      "whole30"
+      "middle-eastern",
+      "grilled-sausages",
+      "feta-cheese",
+      "wrap",
+      "meat-lovers"
     ],
-    "cuisine": "Syrian",
+    "cuisine": "Middle Eastern",
     "totalTimeMin": 30,
     "shard": "e"
   },
@@ -9426,16 +9420,17 @@
   },
   {
     "slug": "extraordinary-ethiopian-gobo-burdock-atakilt-wat",
-    "title": "Extraordinary Ethiopian Gobo-Burdock Atakilt Wat",
+    "title": "Ethiopian-Style Atakilt Wat with Burdock and Gobo",
     "tags": [
+      "vegetarian",
+      "gluten-free",
       "ethiopian",
-      "low-sodium",
-      "one-pan",
-      "slow-cooked",
-      "veggie-rich"
+      "atakilt-wat",
+      "gobo",
+      "burdock"
     ],
-    "cuisine": "Ethiopian",
-    "totalTimeMin": 60,
+    "cuisine": "ethiopian",
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {
