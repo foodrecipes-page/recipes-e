@@ -1,0 +1,89 @@
+{
+  "slug": "exotic-earthy-filipino-cornmeal-pilaf",
+  "title": "Filipino-Style Cornmeal Crusted Tofu with Earthy Pilaf",
+  "description": "A flavorful and nutritious dish that combines the earthy taste of pilaf with the crispy cornmeal crust of tofu.",
+  "cuisine": "filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (12 oz)",
+      "notes": null
+    },
+    {
+      "name": "cornmeal",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "pilaf",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Mix cornmeal, garlic, and ginger in a bowl.",
+    "Crumble tofu into the bowl and toss to coat with cornmeal mixture.",
+    "Heat olive oil in a non-stick skillet over medium-high heat. Add tofu and cook until golden brown, about 3-4 minutes per side.",
+    "Transfer tofu to a baking sheet and bake for an additional 10-12 minutes, or until crispy.",
+    "While tofu is baking, heat pilaf in a saucepan over medium heat. Add soy sauce and stir to combine.",
+    "Toss cooked tofu with pilaf mixture and top with scallions.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "pilaf",
+    "cornmeal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-earthy-filipino-cornmeal-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T20:23:30.854Z"
+}
