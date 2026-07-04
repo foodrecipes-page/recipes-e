@@ -1,0 +1,94 @@
+{
+  "slug": "energizing-slovakian-pork-skewers",
+  "title": "Slovakian Pork Skewers",
+  "description": "A flavorful and easy-to-make Slovakian-inspired pork skewer recipe, perfect for a quick dinner. The combination of pork, vegetables, and spices will transport your taste buds to Eastern Europe.",
+  "cuisine": "Slovakian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, cut into 1-inch cubes",
+      "amount": "500g",
+      "notes": "Use a meat thermometer to ensure the pork reaches a safe internal temperature of 63°C (145°F)"
+    },
+    {
+      "name": "Bell peppers, any color, sliced",
+      "amount": "4",
+      "notes": "You can use any color bell pepper you like or have on hand"
+    },
+    {
+      "name": "Onions, sliced",
+      "amount": "2",
+      "notes": "You can use red or yellow onions for this recipe"
+    },
+    {
+      "name": "Tomatoes, cherry, halved",
+      "amount": "12",
+      "notes": "You can use any type of tomato you like or have on hand"
+    },
+    {
+      "name": "Skewers, metal or bamboo",
+      "amount": "12",
+      "notes": "Make sure the skewers are clean and dry before using"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "Use a high-quality olive oil for the best flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Use a flaky sea salt or kosher salt for the best flavor"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "Use freshly ground black pepper for the best flavor"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "Use sweet or smoked paprika for this recipe"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": "Use fresh garlic for the best flavor"
+    }
+  ],
+  "instructions": [
+    "1. Preheat your grill to medium-high heat (about 200°C or 400°F).",
+    "2. In a large bowl, whisk together olive oil, salt, black pepper, and paprika.",
+    "3. Add the pork cubes, bell peppers, onions, and tomatoes to the bowl. Toss to coat with the marinade.",
+    "4. Thread the pork and vegetables onto the skewers, leaving a little space between each piece.",
+    "5. Grill the skewers for 8-10 minutes per side, or until the pork reaches a safe internal temperature of 63°C (145°F).",
+    "6. While the skewers are cooking, mix the minced garlic with a little bit of olive oil. Brush the garlic mixture onto the skewers during the last minute of cooking.",
+    "7. Remove the skewers from the grill and let them rest for a few minutes before serving.",
+    "8. Serve the Slovakian pork skewers hot, garnished with fresh parsley or dill if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian",
+    "pork",
+    "skewers",
+    "grill",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-slovakian-pork-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T10:09:54.246Z"
+}
