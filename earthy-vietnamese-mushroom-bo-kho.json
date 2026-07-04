@@ -1,0 +1,93 @@
+{
+  "slug": "earthy-vietnamese-mushroom-bo-kho",
+  "title": "Vietnamese Beef Kho",
+  "description": "A rich and flavorful beef stew from Vietnam, made with tender beef, crunchy eggplant, and aromatic spices.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef short ribs",
+      "amount": "1 pound",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "earthly mushrooms",
+      "amount": "2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "kho bo sauce",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "or beef broth"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes. Remove from pot.",
+    "Add more oil if necessary, then add mushrooms and cook until browned, about 5 minutes.",
+    "Add kho bo sauce, fish sauce, sugar, eggplant, coconut milk, water, salt, and pepper.",
+    "Return beef to pot and bring to a boil.",
+    "Reduce heat to low and simmer, covered, until beef is tender, about 2 hours.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "beef",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-vietnamese-mushroom-bo-kho",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T11:46:01.630Z"
+}
