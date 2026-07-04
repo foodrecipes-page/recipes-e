@@ -1,0 +1,86 @@
+{
+  "slug": "extraordinary-ethiopian-gobo-burdock-atakilt-wat",
+  "title": "Ethiopian-Style Atakilt Wat with Burdock and Gobo",
+  "description": "A flavorful and nutritious Ethiopian-inspired dish made with a variety of vegetables, including burdock and gobo. This recipe combines the traditional atakilt wat with a unique twist using these lesser-known ingredients.",
+  "cuisine": "ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "gobo",
+      "amount": "1 large"
+    },
+    {
+      "name": "burdock",
+      "amount": "2 medium"
+    },
+    {
+      "name": "atakilt",
+      "amount": "1 large onion"
+    },
+    {
+      "name": "extraordinary oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "tumeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Peel and chop the gobo and burdock into bite-sized pieces.",
+    "Heat the extraordinary oil in a large pan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the ginger and garlic and cook for an additional 1-2 minutes.",
+    "Add the berbere spice, tumeric, salt, and black pepper. Cook for 1 minute.",
+    "Add the chopped gobo and burdock to the pan and stir to combine.",
+    "Cook for an additional 10-12 minutes, or until the vegetables are tender.",
+    "Serve hot over injera or with some crusty bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "gluten-free",
+    "ethiopian",
+    "atakilt-wat",
+    "gobo",
+    "burdock"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/extraordinary-ethiopian-gobo-burdock-atakilt-wat",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T09:34:53.053Z"
+}
