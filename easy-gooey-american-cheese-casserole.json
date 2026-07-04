@@ -1,0 +1,69 @@
+{
+  "slug": "easy-gooey-american-cheese-casserole",
+  "title": "American Mac and Cheese Casserole",
+  "description": "A classic American comfort food, this easy macaroni and cheese casserole is sure to become a family favorite.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Macaroni",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "2 cups, shredded"
+    },
+    {
+      "name": "American cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook macaroni according to package instructions until al dente; drain.",
+    "In a saucepan, melt butter over medium heat.",
+    "Whisk in flour to make a roux, cooking for 1 minute.",
+    "Slowly pour in milk, whisking continuously to avoid lumps.",
+    "Bring mixture to a simmer and cook until thickened, stirring occasionally.",
+    "Remove from heat and stir in cheddar and American cheese until melted and smooth.",
+    "Combine cooked macaroni and cheese sauce; transfer to a 9x13 inch baking dish.",
+    "Top with additional cheese if desired.",
+    "Bake for 20-25 minutes or until golden brown and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "easy-recipe",
+    "mac-and-cheese"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 55,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/easy-gooey-american-cheese-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T18:32:06.103Z"
+}
