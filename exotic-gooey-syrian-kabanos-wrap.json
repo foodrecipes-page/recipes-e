@@ -1,0 +1,70 @@
+{
+  "slug": "exotic-gooey-syrian-kabanos-wrap",
+  "title": "Syrian Kabanos Wrap",
+  "description": "A flavorful Middle Eastern-inspired wrap filled with spicy kabanos and gooey cheese.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kabanos Sausages",
+      "amount": "4",
+      "notes": "Syrian-style kabanos sausages"
+    },
+    {
+      "name": "Exotic Wrap Bread",
+      "amount": "1",
+      "notes": "Soft, slightly sweet flatbread"
+    },
+    {
+      "name": "Gooey Feta Cheese",
+      "amount": "1/2 cup",
+      "notes": "Crumble into small pieces"
+    },
+    {
+      "name": "Syrian Olive Tapenade",
+      "amount": "2 tbsp",
+      "notes": "Spread on flatbread before filling"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Garnish for added flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat grill or grill pan to medium-high heat.",
+    "Grill kabanos sausages for 5-7 minutes, or until cooked through.",
+    "Slice grilled kabanos into thin rounds.",
+    "Warm wrap bread by wrapping in foil and heating in the oven for 5 minutes.",
+    "Spread Syrian olive tapenade on flatbread, leaving a small border around the edges.",
+    "Arrange grilled kabanos slices on top of the tapenade.",
+    "Crumble gooey feta cheese over the kabanos.",
+    "Garnish with chopped fresh cilantro.",
+    "Serve immediately, folding wrap in half to enclose the filling."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "grilled-sausages",
+    "feta-cheese",
+    "wrap",
+    "meat-lovers"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-gooey-syrian-kabanos-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T09:41:44.668Z"
+}
