@@ -1,0 +1,76 @@
+{
+  "slug": "ethereal-french-ovolimushroom-souffle",
+  "title": "Creamy French Mushroom Omelette",
+  "description": "A simple and delicious omelette filled with sautéed French mushrooms and a hint of creaminess.",
+  "cuisine": "French",
+  "diet": [
+    "Vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "French cheese",
+      "amount": "2 slices",
+      "notes": "Softened"
+    },
+    {
+      "name": "Ovoli mushroom",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Ethereal cream",
+      "amount": "1/2 cup",
+      "notes": "Heavy cream"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Crack 2 eggs into a bowl and whisk until well combined.",
+    "2. Heat 1 tablespoon of butter in a non-stick skillet over medium heat.",
+    "3. Add the sliced mushrooms and cook until they release their moisture and start to brown.",
+    "4. Pour in the whisked eggs and let the mixture set slightly.",
+    "5. Sprinkle the softened French cheese over the eggs.",
+    "6. Use a spatula to gently lift and fold the edges of the omelette towards the center.",
+    "7. Add the remaining 1 tablespoon of butter to the skillet.",
+    "8. Once the butter has melted, pour in the ethereal cream.",
+    "9. Use the spatula to carefully fold the omelette in half over the filling.",
+    "10. Cook for an additional 2-3 minutes or until the cheese is melted and the eggs are cooked through.",
+    "11. Slide the omelette onto a plate and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "omelette",
+    "mushroom",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ethereal-french-ovolimushroom-souffle",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T08:54:51.614Z"
+}
