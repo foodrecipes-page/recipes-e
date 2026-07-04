@@ -1418,17 +1418,15 @@
   },
   {
     "slug": "earthy-fluffy-rice-stir-fry",
-    "title": "Earthy Fluffy Rice Stir-fry",
+    "title": "Stir Fry Rice Bowl",
     "tags": [
-      "earthly",
-      "fluffy",
-      "meal-prep",
-      "filipino",
-      "chinese-sesame",
-      "low-sodium"
+      "easy",
+      "quick",
+      "rice",
+      "vegetarian"
     ],
-    "cuisine": "Filipino with Chinese influence",
-    "totalTimeMin": 30,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
@@ -4428,17 +4426,16 @@
   },
   {
     "slug": "elegant-portuguese-chicken-bisque",
-    "title": "Elegant Portuguese Chicken Bisque",
+    "title": "Portuguese Chicken and Bisque",
     "tags": [
-      "bisque",
-      "chicken",
-      "comfort-food",
-      "one-pan",
       "portuguese",
-      "weeknight"
+      "chicken",
+      "bisque",
+      "wine",
+      "garlic"
     ],
-    "cuisine": "portuguese",
-    "totalTimeMin": 35,
+    "cuisine": "Portuguese",
+    "totalTimeMin": 40,
     "shard": "e"
   },
   {
