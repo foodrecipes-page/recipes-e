@@ -1,0 +1,86 @@
+{
+  "slug": "easy-melted-russian-butter-pilaf",
+  "title": "Russian Pilaf with Melted Butter",
+  "description": "A simple and delicious Russian-inspired pilaf dish made with easy-to-find ingredients.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "melted",
+      "amount": "2 tablespoons",
+      "notes": "melted butter"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "easy",
+      "amount": "1 onion",
+      "notes": "chopped"
+    },
+    {
+      "name": "easy",
+      "amount": "2 cloves",
+      "notes": "chopped garlic"
+    },
+    {
+      "name": "easy",
+      "amount": "1 cup",
+      "notes": "chicken broth"
+    },
+    {
+      "name": "easy",
+      "amount": "1 teaspoon",
+      "notes": "dried thyme"
+    },
+    {
+      "name": "easy",
+      "amount": "1 teaspoon",
+      "notes": "salt"
+    },
+    {
+      "name": "easy",
+      "amount": "1/2 teaspoon",
+      "notes": "black pepper"
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, melt 2 tablespoons of butter over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the chopped garlic and cook for another minute.",
+    "Add the pilaf, chicken broth, thyme, salt, and pepper.",
+    "Bring to a boil, then reduce the heat to low and cover.",
+    "Simmer for 20-25 minutes, or until the liquid has been absorbed.",
+    "Fluff the pilaf with a fork and stir in the remaining 2 tablespoons of melted butter.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pilaf",
+    "russian",
+    "buttery"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/easy-melted-russian-butter-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T16:31:04.967Z"
+}
