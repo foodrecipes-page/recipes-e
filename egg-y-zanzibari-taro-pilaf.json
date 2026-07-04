@@ -1,0 +1,70 @@
+{
+  "slug": "egg-y-zanzibari-taro-pilaf",
+  "title": "Taro and Y Pilaf with Zanzibari Egg",
+  "description": "A flavorful and nutritious pilaf dish made with taro, y, zanzibari, and served with a zanzibari egg.",
+  "cuisine": "African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "egg",
+      "amount": "2",
+      "notes": "for frying"
+    },
+    {
+      "name": "y",
+      "amount": "1 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "taro",
+      "amount": "2 cups, diced",
+      "notes": ""
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "pre-cooked"
+    },
+    {
+      "name": "zanzibari",
+      "amount": "1 tsp",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add zanzibari and sauté for 1 minute.",
+    "Add sliced y and cook until tender.",
+    "Add diced taro and cook for 2 minutes.",
+    "Add pre-cooked pilaf and stir well.",
+    "Make a well in the center and crack in the egg.",
+    "Scramble the egg with the pilaf mixture.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "african",
+    "vegetarian",
+    "easy",
+    "pilaf",
+    "eggs"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/egg-y-zanzibari-taro-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T16:43:11.956Z"
+}
