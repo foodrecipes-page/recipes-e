@@ -1,0 +1,62 @@
+{
+  "slug": "exquisitely-roasted-mediterranean-lettuce-salad",
+  "title": "Roasted Mediterranean Salad",
+  "description": "A flavorful salad featuring roasted vegetables and a mix of fresh greens.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lettuce",
+      "amount": "4 cups",
+      "notes": "mixed greens"
+    },
+    {
+      "name": "roasted vegetables",
+      "amount": "1 cup",
+      "notes": "mix of zucchini, bell peppers, and eggplant"
+    },
+    {
+      "name": "exquisitely seasoned olive oil",
+      "amount": "2 tbsp",
+      "notes": "infused with garlic and herbs"
+    },
+    {
+      "name": "mediterranean salad dressing",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Toss the zucchini, bell peppers, and eggplant with olive oil and season with salt, pepper, and herbs.",
+    "Roast the vegetables in the oven for 20-25 minutes, or until tender.",
+    "In a large bowl, combine the lettuce and roasted vegetables.",
+    "Drizzle the mediterranean salad dressing over the top and toss to combine.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "mediterranean",
+    "healthy",
+    "vegetarian",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exquisitely-roasted-mediterranean-lettuce-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T20:00:09.244Z"
+}
