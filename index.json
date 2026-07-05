@@ -8231,17 +8231,14 @@
   },
   {
     "slug": "exotic-springy-saudi-arabian-peppers-skewers",
-    "title": "Exotic Springy Saudi Arabian Peppers Skewers",
+    "title": "Saudi Arabian Grilled Skewers",
     "tags": [
-      "dairy-free",
-      "grilled-vegetables",
-      "healthy-snacks",
-      "saudi-arabian-cuisine",
-      "spring-recipes",
-      "vegetarian"
+      "grilled",
+      "skewers",
+      "saudi-arabian"
     ],
     "cuisine": "Saudi Arabian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
@@ -9155,16 +9152,16 @@
   },
   {
     "slug": "exquisitely-roasted-mediterranean-lettuce-salad",
-    "title": "Exquisitely Roasted Mediterranean Lettuce Salad",
+    "title": "Roasted Mediterranean Salad",
     "tags": [
-      "mediterranean",
-      "one-pan",
-      "roasted",
       "salad",
-      "vegan"
+      "mediterranean",
+      "healthy",
+      "vegetarian",
+      "roasted"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {
