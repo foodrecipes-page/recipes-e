@@ -2514,18 +2514,15 @@
   },
   {
     "slug": "earthy-xeriscape-filipino-mulukhiyah-bicol-express",
-    "title": "Earthy Xeriscape Filipino Mulukhiyah Bicol Express",
+    "title": "Filipino-Style Bicol Express",
     "tags": [
       "filipino",
-      "halal",
-      "heart-healthy",
-      "one-pan",
       "spicy",
-      "veggie-rich",
-      "weeknight"
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 60,
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
@@ -4827,17 +4824,16 @@
   },
   {
     "slug": "energetic-greek-soya-dolmades",
-    "title": "Energetic Greek Soya Dolmades",
+    "title": "Soya Dolmades Stuffed with Energetic Greek Mix",
     "tags": [
-      "greek-cuisine",
-      "high-protein",
-      "one-pan",
-      "post-workout-snack",
-      "vegetarian-friendly",
-      "weeknight"
+      "vegan",
+      "gluten-free",
+      "snack",
+      "soya",
+      "greek"
     ],
-    "cuisine": "Greek",
-    "totalTimeMin": 55,
+    "cuisine": null,
+    "totalTimeMin": 15,
     "shard": "e"
   },
   {
