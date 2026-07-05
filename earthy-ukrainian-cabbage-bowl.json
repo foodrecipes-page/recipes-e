@@ -1,0 +1,77 @@
+{
+  "slug": "earthy-ukrainian-cabbage-bowl",
+  "title": "Braised Cabbage with Ukrainian Flair",
+  "description": "A hearty, comforting dish featuring earthy flavors and a hint of Ukrainian tradition. Serve with a side of crusty bread for a satisfying meal.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "1 medium head, chopped"
+    },
+    {
+      "name": "Earthly mushrooms",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large bowl over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the chopped cabbage, caraway seeds, vegetable broth, brown sugar, apple cider vinegar, salt, and black pepper to the bowl. Stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook, covered, until the cabbage is tender, about 20-25 minutes.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "cabbage",
+    "braised",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-ukrainian-cabbage-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T08:31:20.163Z"
+}
