@@ -1,0 +1,88 @@
+{
+  "slug": "enticingly-caramelized-korean-garlic-jjigae",
+  "title": "Caramelized Korean Jjigae",
+  "description": "A spicy, savory, and sweet Korean-inspired stew made with caramelized garlic, onions, and a variety of ingredients. Serve with steamed rice or noodles.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Caramelized garlic",
+      "amount": "2 cloves",
+      "notes": "Mince before adding to dish"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Jjigae gochujang",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat. Add sliced onion and cook until caramelized.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add sliced ginger and cook for an additional minute.",
+    "Add zucchini and mushrooms and cook until tender.",
+    "Add Korean chili flakes, soy sauce, jjigae gochujang, and brown sugar. Stir to combine.",
+    "Bring the mixture to a simmer and cook for 5-7 minutes or until the flavors have melded together.",
+    "Serve hot over steamed rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "stew",
+    "jjigae",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/enticingly-caramelized-korean-garlic-jjigae",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T03:58:58.303Z"
+}
