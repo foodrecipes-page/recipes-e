@@ -1,0 +1,88 @@
+{
+  "slug": "energizing-citrusy-chinese-noodles-chow-fun",
+  "title": "Citrusy Noodle Chow Fun",
+  "description": "A quick and easy Chinese-inspired noodle dish with a citrusy twist. Perfect for a weeknight dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free",
+    "vegetarian",
+    "pescetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice Noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Citrusy Sauce (see notes)",
+      "amount": "4 tbsp",
+      "notes": "see notes for homemade sauce recipe"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 lb",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook rice noodles according to package instructions. Drain and set aside.",
+    "Heat vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add grated ginger and cook for 1 minute, until fragrant.",
+    "Add minced garlic and cook for an additional minute.",
+    "Add shrimp and cook until pink and fully cooked, about 2-3 minutes per side.",
+    "Add cooked noodles to the wok and stir to combine with shrimp and garlic mixture.",
+    "Pour citrusy sauce over the top and toss to combine.",
+    "Stir in chopped scallions and sesame seeds.",
+    "Serve hot and enjoy!",
+    "To make homemade citrusy sauce, combine 1/2 cup rice vinegar, 1/4 cup honey, 1/4 cup citrus juice (such as orange or grapefruit), and 1 tsp grated ginger in a small bowl. Whisk until smooth and set aside."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "citrusy",
+    "noodle",
+    "chow",
+    "fun"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-citrusy-chinese-noodles-chow-fun",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T08:05:12.416Z"
+}
