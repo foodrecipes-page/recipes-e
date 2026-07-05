@@ -1,0 +1,84 @@
+{
+  "slug": "energizing-slovakian-pork-dumplings",
+  "title": "Slovakian Pork Dumplings",
+  "description": "A hearty Slovakian dish featuring pork-filled dumplings, perfect for a cold winter's day.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Dumpling wrappers",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine pork shoulder, flour, eggs, salt, and black pepper. Mix well until just combined.",
+    "Cover the mixture and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Bring a large pot of salted water to a boil. Cook the dumpling wrappers according to package instructions.",
+    "Remove the dumpling wrappers from the water and place them on a clean surface.",
+    "Spoon a tablespoon of the pork mixture onto the center of each dumpling wrapper.",
+    "Fold the dumpling in half to form a triangle, pressing the edges to seal.",
+    "In a large skillet, melt 1 tablespoon of butter over medium heat. Add the dumplings and cook for 2-3 minutes on each side, until golden brown.",
+    "Transfer the dumplings to a serving platter and serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "dumplings",
+    "pork",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-slovakian-pork-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T11:03:12.665Z"
+}
