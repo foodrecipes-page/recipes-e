@@ -1,0 +1,88 @@
+{
+  "slug": "earthy-snappy-ukrainian-fry-fritters",
+  "title": "Ukrainian Beet Fritters",
+  "description": "A traditional Ukrainian dish made with beets and served as a snack or side. The earthy sweetness of beets pairs perfectly with a crispy exterior.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "gluten-free flour for vegan option"
+    },
+    {
+      "name": "fry oil",
+      "amount": "1 cup",
+      "notes": "vegetable oil for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "for garnish",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine grated beets, chopped onion, minced garlic, salt, and black pepper.",
+    "In a separate bowl, mix together flour and a pinch of salt.",
+    "Add the dry ingredients to the beet mixture and mix well.",
+    "Heat the fry oil in a deep frying pan over medium-high heat.",
+    "Using a spoon, drop small balls of the beet mixture into the hot oil.",
+    "Fry the fritters for 3-4 minutes on each side, until golden brown.",
+    "Using a slotted spoon, remove the fritters from the oil and place them on a paper towel-lined plate.",
+    "Serve the fritters hot, garnished with chopped fresh dill.",
+    "For a vegan option, use gluten-free flour and omit the egg from the recipe."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ukrainian",
+    "beets",
+    "fritters",
+    "snack",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-snappy-ukrainian-fry-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T09:17:59.644Z"
+}
