@@ -1,0 +1,84 @@
+{
+  "slug": "exotic-earthy-peruvian-tofu-skillet",
+  "title": "Peruvian Earthy Skillet",
+  "description": "A flavorful and hearty dish that combines the earthy flavors of Peruvian cuisine with the simplicity of a skillet meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": ""
+    },
+    {
+      "name": "exotic mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "peruvian potatoes",
+      "amount": "2 medium",
+      "notes": "such as papas arrugadas"
+    },
+    {
+      "name": "earthly onions",
+      "amount": "1 medium",
+      "notes": "such as sweet onions"
+    },
+    {
+      "name": "skillet seasoning",
+      "amount": "1 tsp",
+      "notes": "such as aji amarillo"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the skillet over medium heat.",
+    "Add the olive oil and sauté the onions until softened, about 3-4 minutes.",
+    "Add the mushrooms and cook until they release their moisture and start to brown, about 5 minutes.",
+    "Add the tofu and cook until browned on all sides, about 5-6 minutes.",
+    "Add the potatoes and cook for an additional 5 minutes, stirring occasionally.",
+    "Season with skillet seasoning, salt, and black pepper to taste.",
+    "Serve hot and enjoy!",
+    "Optional: garnish with chopped fresh herbs such as cilantro or scallions.",
+    "Optional: serve with a side of steamed vegetables or a simple salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "skillet",
+    "vegetarian",
+    "earthly"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-earthy-peruvian-tofu-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T17:07:38.730Z"
+}
