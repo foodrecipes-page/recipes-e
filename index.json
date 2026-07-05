@@ -5095,17 +5095,14 @@
   },
   {
     "slug": "energizing-briny-thai-trout-nam-prik",
-    "title": "Energizing Briny Thai Trout Nam-Prik",
+    "title": "Thai Trout with Briny Nam Prik",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "low-fat",
-      "one-pan",
-      "thai",
-      "weeknight"
+      "thaifood",
+      "fishrecipe",
+      "spicyfood"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 30,
+    "totalTimeMin": 22,
     "shard": "e"
   },
   {
@@ -5922,16 +5919,15 @@
   },
   {
     "slug": "energizing-slovakian-pork-dumplings",
-    "title": "Energizing Slovakian Pork Dumplings",
+    "title": "Slovakian Pork Dumplings",
     "tags": [
-      "ayurvedic-friendly",
-      "pork-recipe",
-      "post-workout",
-      "slovakian-cuisine",
-      "steamed-dish"
+      "slovakian",
+      "dumplings",
+      "pork",
+      "comfort-food"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 50,
     "shard": "e"
   },
   {
