@@ -1,0 +1,77 @@
+{
+  "slug": "exotic-springy-saudi-arabian-peppers-skewers",
+  "title": "Saudi Arabian Grilled Skewers",
+  "description": "A flavorful and aromatic dish from Saudi Arabia, featuring marinated chicken and vegetables grilled to perfection on skewers.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "gluten-free",
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Exotic chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Springy onions",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Saudi Arabian spices (Baharat)",
+      "amount": "2 teaspoons",
+      "notes": "available at Middle Eastern grocery stores"
+    },
+    {
+      "name": "Arabian peppers",
+      "amount": "2",
+      "notes": "any color, seeded and sliced"
+    },
+    {
+      "name": "Saudi skewers (metal or bamboo)",
+      "amount": "12-15",
+      "notes": "brushed with oil before use"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "4",
+      "notes": "for serving"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together olive oil, lemon juice, and Saudi Arabian spices.",
+    "Add chicken, onions, and peppers to the bowl, and mix well to coat.",
+    "Thread the marinated chicken and vegetables onto the skewers.",
+    "Preheat grill to medium-high heat, and cook skewers for 8-10 minutes, flipping halfway through.",
+    "Serve hot, garnished with parsley and lemon wedges.",
+    "Cook skewers to an internal temperature of at least 165°F (74°C) to ensure food safety.",
+    "Let skewers rest for 2-3 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "skewers",
+    "saudi-arabian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-springy-saudi-arabian-peppers-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T20:03:37.716Z"
+}
