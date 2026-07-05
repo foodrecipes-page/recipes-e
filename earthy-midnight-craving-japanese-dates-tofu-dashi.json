@@ -1,0 +1,76 @@
+{
+  "slug": "earthy-midnight-craving-japanese-dates-tofu-dashi",
+  "title": "Tofu Dashi Bites",
+  "description": "A Japanese-inspired appetizer featuring crispy tofu bites tossed in a savory dashi sauce. Perfect for a quick snack or light meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "drained and cut into bite-sized pieces"
+    },
+    {
+      "name": "dashi",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "craving",
+      "amount": "1 tsp",
+      "notes": "assuming craving is a reference to furikake or a spicy seasoning blend"
+    },
+    {
+      "name": "dates",
+      "amount": "4-6 pitted dates",
+      "notes": "chopped"
+    },
+    {
+      "name": "earthly",
+      "amount": "1 tbsp",
+      "notes": "assuming earthly is a reference to sesame oil or a savory oil"
+    },
+    {
+      "name": "midnight",
+      "amount": "1 tsp",
+      "notes": "assuming midnight is a reference to black sesame seeds or a dark oil"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oil in a deep frying pan to 350°F (175°C).",
+    "2. In a shallow dish, mix together dashi, craving (furikake or spicy seasoning blend), and earthly (sesame oil or savory oil).",
+    "3. Dip tofu pieces into the dashi mixture, coating evenly.",
+    "4. Fry tofu in batches until golden brown, about 3-4 minutes per batch.",
+    "5. Remove fried tofu from oil and place on a paper towel-lined plate to drain excess oil.",
+    "6. In a small bowl, mix together chopped dates and midnight (black sesame seeds or dark oil).",
+    "7. Toss fried tofu in the date-midnight mixture to coat.",
+    "8. Serve tofu bites hot, garnished with additional dashi if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "snack",
+    "tofu",
+    "dashi",
+    "dates",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 15,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-midnight-craving-japanese-dates-tofu-dashi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T15:16:39.973Z"
+}
