@@ -1,0 +1,77 @@
+{
+  "slug": "exquisite-indulgent-canadian-cheese-spring-rolls",
+  "title": "Canadian Spring Cheese Rolls",
+  "description": "A deliciously indulgent snack using fresh spring ingredients and melted cheese. Perfect for any occasion.",
+  "cuisine": "canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Spring Rolls Wrappers",
+      "amount": "12-15 count"
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Spring Onions",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a pan, heat olive oil over medium heat. Add garlic and cook for 1 minute.",
+    "Add chopped spring onions and cook for another minute.",
+    "In a separate bowl, mix together chopped cilantro and soy sauce.",
+    "Place a spring roll wrapper on a flat surface. Add 1-2 tbsp of the cheese mixture onto the center of the wrapper.",
+    "Add a spoonful of the spring onion mixture on top of the cheese.",
+    "Fold the bottom half of the wrapper over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "Place the rolls seam-side down on a baking sheet lined with parchment paper.",
+    "Brush the tops of the rolls with a little bit of olive oil.",
+    "Bake in the preheated oven for 12-15 minutes, or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "spring",
+    "cheese",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exquisite-indulgent-canadian-cheese-spring-rolls",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T12:38:44.904Z"
+}
