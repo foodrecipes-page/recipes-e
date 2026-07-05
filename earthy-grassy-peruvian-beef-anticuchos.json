@@ -1,0 +1,77 @@
+{
+  "slug": "earthy-grassy-peruvian-beef-anticuchos",
+  "title": "Grilled Anticuchos with Peruvian Chimichurri",
+  "description": "A traditional Peruvian dish featuring marinated beef heart skewers grilled to perfection and served with a tangy chimichurri sauce. This recipe is perfect for a quick and flavorful dinner.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef heart",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "peruvian ají amarillo peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1/2 cup",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for grilling"
+    }
+  ],
+  "instructions": [
+    "Combine beef heart, ají amarillo peppers, red onion, garlic, and olive oil in a large bowl. Let marinate for at least 30 minutes.",
+    "Preheat grill to medium-high heat. Thread marinated beef heart onto skewers.",
+    "Grill skews for 8-10 minutes per side, or until beef is cooked to desired level of doneness.",
+    "Meanwhile, combine chimichurri sauce and parsley in a small bowl.",
+    "Serve grilled anticuchos with chimichurri sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "peruvian",
+    "beef",
+    "skewers",
+    "chimichurri"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-grassy-peruvian-beef-anticuchos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T08:03:24.102Z"
+}
