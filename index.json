@@ -1546,17 +1546,16 @@
   },
   {
     "slug": "earthy-grassy-peruvian-beef-anticuchos",
-    "title": "Earthy Grassy Peruvian Beef Anticuchos",
+    "title": "Grilled Anticuchos with Peruvian Chimichurri",
     "tags": [
-      "beef-recipes",
-      "gluten-free",
-      "grilling",
-      "low-glycemic",
-      "one-pot",
-      "peruvian-cuisine"
+      "grilled",
+      "peruvian",
+      "beef",
+      "skewers",
+      "chimichurri"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 36,
     "shard": "e"
   },
   {
@@ -2196,17 +2195,17 @@
   },
   {
     "slug": "earthy-snappy-ukrainian-fry-fritters",
-    "title": "Earthy Snappy Ukrainian Fry Fritters",
+    "title": "Ukrainian Beet Fritters",
     "tags": [
-      "fritters",
-      "gluten-free",
-      "one-pan",
-      "snappy-fry",
       "ukrainian",
-      "weeknight"
+      "beets",
+      "fritters",
+      "snack",
+      "vegan",
+      "gluten-free"
     ],
-    "cuisine": "ukrainian",
-    "totalTimeMin": 27,
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 30,
     "shard": "e"
   },
   {
@@ -2320,17 +2319,15 @@
   },
   {
     "slug": "earthy-ukrainian-cabbage-bowl",
-    "title": "Earthy Ukrainian Cabbage Bowl",
+    "title": "Braised Cabbage with Ukrainian Flair",
     "tags": [
-      "clay-pot",
-      "date-night",
-      "herbal",
-      "keto-friendly",
-      "snappy",
-      "tandoor"
+      "ukrainian",
+      "cabbage",
+      "braised",
+      "vegetarian"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "e"
   },
   {
@@ -5216,17 +5213,16 @@
   },
   {
     "slug": "energizing-citrusy-chinese-noodles-chow-fun",
-    "title": "Energizing Citrusy Chinese Noodles Chow Fun",
+    "title": "Citrusy Noodle Chow Fun",
     "tags": [
-      "chinese-food",
-      "citrus-recipes",
-      "noodle-recipes",
-      "quick-lunch",
-      "vegan",
-      "vegetarian"
+      "chinese",
+      "citrusy",
+      "noodle",
+      "chow",
+      "fun"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 25,
+    "totalTimeMin": 18,
     "shard": "e"
   },
   {
