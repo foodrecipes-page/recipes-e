@@ -1,0 +1,74 @@
+{
+  "slug": "earthy-shattering-french-mushroom-terrine",
+  "title": "French Mushroom Terrine",
+  "description": "A rich and earthy French dish made with sautéed mushrooms and served as a terrine.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mushroom",
+      "amount": "1 cup"
+    },
+    {
+      "name": "earthly mushroom",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "French bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "terrine mold",
+      "amount": "1"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "shattering",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Sauté the mushrooms in olive oil until tender.",
+    "Butter the terrine mold and arrange the bread slices in the bottom.",
+    "Add the sautéed mushrooms on top of the bread.",
+    "Season with salt and pepper to taste.",
+    "Drizzle with shattering and cover with the remaining bread slices.",
+    "Transfer the terrine to the preheated oven and bake for 20-25 minutes or until golden brown.",
+    "Remove from the oven and let cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "mushroom",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-shattering-french-mushroom-terrine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T11:52:49.558Z"
+}
