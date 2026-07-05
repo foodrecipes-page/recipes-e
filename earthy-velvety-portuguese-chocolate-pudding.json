@@ -1,0 +1,68 @@
+{
+  "slug": "earthy-velvety-portuguese-chocolate-pudding",
+  "title": "Portuguese Chocolate Pudding",
+  "description": "A rich and creamy Portuguese-inspired dessert featuring chocolate pudding, perfect for warm weather.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "milk",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "chocolate",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pudding mix",
+      "amount": "1 package"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine the milk, chocolate, and pudding mix. Cook over medium heat, stirring constantly, until the mixture comes to a boil.",
+    "Reduce the heat to low and simmer for 2 minutes.",
+    "Remove the saucepan from the heat and stir in the sugar until dissolved.",
+    "In a separate bowl, whisk together the eggs and melted butter.",
+    "Gradually add the egg mixture to the saucepan with the pudding mixture, whisking constantly.",
+    "Return the saucepan to the stovetop and cook over low heat, stirring constantly, until the mixture thickens.",
+    "Remove the saucepan from the heat and let cool to room temperature.",
+    "Cover the pudding and refrigerate for at least 2 hours.",
+    "Serve chilled, garnished with chocolate shavings or whipped cream if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chocolate",
+    "pudding",
+    "dessert",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-velvety-portuguese-chocolate-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T23:28:07.271Z"
+}
