@@ -2007,17 +2007,14 @@
   },
   {
     "slug": "earthy-shattering-french-mushroom-terrine",
-    "title": "Earthy, Shattering French Mushroom Terrine",
+    "title": "French Mushroom Terrine",
     "tags": [
-      "comfort-food",
-      "european",
       "french",
-      "gluten-free",
-      "low-carb",
+      "mushroom",
       "vegetarian"
     ],
-    "cuisine": "french",
-    "totalTimeMin": 45,
+    "cuisine": "French",
+    "totalTimeMin": 40,
     "shard": "e"
   },
   {
@@ -8984,16 +8981,15 @@
   },
   {
     "slug": "exquisite-indulgent-canadian-cheese-spring-rolls",
-    "title": "Exquisite Indulgent Canadian Cheese Spring Rolls",
+    "title": "Canadian Spring Cheese Rolls",
     "tags": [
-      "canadian-cuisine",
-      "cheese-recipes",
-      "gluten-free",
-      "indulgent-snacks",
-      "spring-rolls"
+      "canadian",
+      "spring",
+      "cheese",
+      "snack"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 50,
+    "cuisine": "canadian",
+    "totalTimeMin": 27,
     "shard": "e"
   },
   {
