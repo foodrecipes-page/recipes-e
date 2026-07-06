@@ -1,0 +1,79 @@
+{
+  "slug": "exotic-silky-peruvian-fish-ceviche-clasico",
+  "title": "Peruvian-Style Grilled Fish Ceviche",
+  "description": "A refreshing twist on traditional ceviche, featuring grilled fish marinated in Peruvian-inspired flavors.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "fish",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (tilapia or sea bass)",
+      "amount": "4 fillets",
+      "notes": "Fresh and sustainably sourced"
+    },
+    {
+      "name": "Silky corn",
+      "amount": "1 cup",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Peruvian ceviche marinade",
+      "amount": "1/2 cup",
+      "notes": "Made with aji amarillo peppers, garlic, and lime juice"
+    },
+    {
+      "name": "Exotic aji amarillo peppers",
+      "amount": "2",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Clasico olive oil",
+      "amount": "1 tsp",
+      "notes": "High-quality and cold-pressed"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season fish with salt and pepper. Grill for 2-3 minutes per side, or until cooked through.",
+    "In a large bowl, combine marinated fish, aji amarillo peppers, cilantro, and lime juice.",
+    "Stir in olive oil and adjust seasoning as needed.",
+    "Cover and refrigerate for at least 30 minutes to allow flavors to meld.",
+    "Serve chilled, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "peruvian",
+    "grilled",
+    "ceviche",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-silky-peruvian-fish-ceviche-clasico",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T13:14:15.105Z"
+}
