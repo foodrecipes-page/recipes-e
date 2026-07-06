@@ -4521,17 +4521,15 @@
   },
   {
     "slug": "elegant-spicy-japanese-chickpea-tamagoyaki",
-    "title": "Elegant Spicy Japanese Chickpea Tamagoyaki",
+    "title": "Spicy Tamagoyaki",
     "tags": [
-      "high-protein",
-      "japanese-inspired",
-      "low-sodium",
-      "meal-prep",
-      "spicy",
-      "vegetarian"
+      "japanese",
+      "snack",
+      "vegetarian",
+      "eggs"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 18,
     "shard": "e"
   },
   {
