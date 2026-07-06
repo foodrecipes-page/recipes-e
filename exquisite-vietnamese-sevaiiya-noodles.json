@@ -1,0 +1,77 @@
+{
+  "slug": "exquisite-vietnamese-sevaiiya-noodles",
+  "title": "Vietnamese Sevaiiya Noodle Stir-Fry",
+  "description": "A quick and delicious stir-fry made with Sevaiiya noodles, Vietnamese flavors, and exotic ingredients. Enjoy as a light lunch or dinner.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sevaiiya noodles",
+      "amount": "1 cup",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Exquisite mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Vietnamese fish sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tbsp",
+      "notes": "or vegetable oil"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "2",
+      "notes": "for serving"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook Sevaiiya noodles according to package instructions. Drain and set aside.",
+    "Heat coconut oil in a large skillet or wok over medium-high heat.",
+    "Add sliced mushrooms and cook until tender, about 3-4 minutes.",
+    "Add Vietnamese fish sauce and stir to combine. Cook for an additional minute.",
+    "Add cooked noodles to the skillet and stir to combine with mushroom mixture.",
+    "Season with salt to taste.",
+    "Garnish with chopped cilantro and serve with lime wedges on the side.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "noodles",
+    "vietnamese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exquisite-vietnamese-sevaiiya-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T16:55:43.477Z"
+}
