@@ -652,16 +652,15 @@
   },
   {
     "slug": "earthy-chewy-filipino-peanuts-stew",
-    "title": "Earthy Chewy Filipino Peanuts Stew",
+    "title": "Filipino-Style Stew with Peanuts",
     "tags": [
-      "paleo",
-      "gluten-free",
-      "high-protein",
-      "post-workout",
-      "pressure-cook"
+      "stew",
+      "peanuts",
+      "vegetarian",
+      "filipino"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "e"
   },
   {
@@ -9135,16 +9134,15 @@
   },
   {
     "slug": "exquisite-vietnamese-sevaiiya-noodles",
-    "title": "Exquisite Vietnamese Sevaiiya Noodles",
+    "title": "Vietnamese Sevaiiya Noodle Stir-Fry",
     "tags": [
-      "gluten-free",
-      "grilled-pork",
-      "noodle-dishes",
-      "vegetarian-option",
-      "vietnamese-cuisine"
+      "stir-fry",
+      "noodles",
+      "vietnamese",
+      "vegetarian"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "e"
   },
   {
