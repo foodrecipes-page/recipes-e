@@ -7893,17 +7893,16 @@
   },
   {
     "slug": "exotic-silky-peruvian-fish-ceviche-clasico",
-    "title": "Exotic Silky Peruvian Fish Ceviche Clasico",
+    "title": "Peruvian-Style Grilled Fish Ceviche",
     "tags": [
-      "easy-to-make",
-      "healthy-dinner",
-      "lacto-vegetarian",
-      "one-bowl",
-      "peruvian-cuisine",
+      "fish",
+      "peruvian",
+      "grilled",
+      "ceviche",
       "seafood"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
