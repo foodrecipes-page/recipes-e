@@ -1,0 +1,70 @@
+{
+  "slug": "emulsified-rich-portuguese-bread-gratin",
+  "title": "Portuguese Bread Gratina",
+  "description": "A rich and satisfying gratin made with portuguese bread and a creamy emulsified sauce.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Portuguese bread",
+      "amount": "1 loaf, cubed"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Emulsified sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Grated cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Butter a 9x13-inch baking dish.",
+    "Arrange half of the bread cubes in the prepared baking dish.",
+    "Pour half of the emulsified sauce over the bread cubes.",
+    "Sprinkle with half of the grated cheese and half of the chopped eggs.",
+    "Repeat the layers, starting with the bread, then the emulsified sauce, the remaining cheese, and finally the remaining eggs.",
+    "Season with salt to taste.",
+    "Cover the baking dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the top is golden brown and the gratin is set.",
+    "Let the gratin rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "portuguese",
+    "bread",
+    "gratin",
+    "emulsified"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/emulsified-rich-portuguese-bread-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T08:35:09.732Z"
+}
