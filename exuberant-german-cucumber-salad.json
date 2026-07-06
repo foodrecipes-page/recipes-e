@@ -1,0 +1,71 @@
+{
+  "slug": "exuberant-german-cucumber-salad",
+  "title": "German Cucumber Salad",
+  "description": "A refreshing German salad with thinly sliced cucumber, vinegar, and spices.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "salad",
+  "ingredients": [
+    {
+      "name": "cucumber",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "exuberant",
+      "amount": "1/4 cup",
+      "notes": "apple cider vinegar"
+    },
+    {
+      "name": "salad",
+      "amount": "4 cups",
+      "notes": "mixed greens"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine sliced cucumber and mixed greens.",
+    "In a small bowl, whisk together apple cider vinegar, salt, black pepper, and sugar.",
+    "Pour the dressing over the cucumber mixture and toss to combine.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "salad",
+    "cucumber",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 1,
+    "carbs": 12,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exuberant-german-cucumber-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T12:40:31.047Z"
+}
