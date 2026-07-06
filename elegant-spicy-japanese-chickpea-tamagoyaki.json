@@ -1,0 +1,82 @@
+{
+  "slug": "elegant-spicy-japanese-chickpea-tamagoyaki",
+  "title": "Spicy Tamagoyaki",
+  "description": "A Japanese-style tamagoyaki omelette with a spicy kick, perfect for a snack or light meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpea flour",
+      "amount": "1/2 cup",
+      "notes": "for tamagoyaki"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "tamagoyaki eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "spicy miso paste",
+      "amount": "2 tsp",
+      "notes": "optional, adjust to taste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "In a bowl, whisk together chickpea flour, water, soy sauce, sugar, and sesame oil.",
+    "Add tamagoyaki eggs and whisk until smooth.",
+    "Heat a tamagoyaki pan or a small non-stick pan over medium heat.",
+    "Pour in the batter and cook until the edges start to set.",
+    "Fold the omelette in half and cook for another 2-3 minutes.",
+    "Transfer the omelette to a plate and garnish with green onions.",
+    "If using spicy miso paste, drizzle it over the omelette."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "snack",
+    "vegetarian",
+    "eggs"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/elegant-spicy-japanese-chickpea-tamagoyaki",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T05:50:03.143Z"
+}
