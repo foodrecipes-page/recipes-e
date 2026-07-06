@@ -1,0 +1,84 @@
+{
+  "slug": "extraordinary-fermented-chinese-double-rise-bread-kung-pao-style-stew",
+  "title": "Kung Pao Stew",
+  "description": "A twist on traditional Kung Pao chicken, this stew combines the spicy flavors of Sichuan cuisine with the hearty warmth of a stew.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "double rise bread",
+      "amount": "2 cups",
+      "notes": "diced"
+    },
+    {
+      "name": "pao",
+      "amount": "2 tablespoons",
+      "notes": "ground into a spice blend"
+    },
+    {
+      "name": "fermented soybeans",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "extraordinary vegetables",
+      "amount": "1 cup",
+      "notes": "sliced bell peppers, onions, and snow peas"
+    },
+    {
+      "name": "chinese chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "stew broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the diced bread and cook for an additional 2 minutes.",
+    "Add the pao spice blend, fermented soybeans, and chili flakes (if using) and stir to combine.",
+    "Add the sliced vegetables and cook until tender, about 5 minutes.",
+    "Pour in the stew broth and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the stew cook for 10-15 minutes, stirring occasionally.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kung pao",
+    "chinese",
+    "stew",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/extraordinary-fermented-chinese-double-rise-bread-kung-pao-style-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T06:21:06.193Z"
+}
