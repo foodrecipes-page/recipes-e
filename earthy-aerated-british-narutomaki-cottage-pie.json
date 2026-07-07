@@ -1,0 +1,73 @@
+{
+  "slug": "earthy-aerated-british-narutomaki-cottage-pie",
+  "title": "Narutomaki and Cottage Pie",
+  "description": "A hearty British-inspired dish combining the rich flavors of narutomaki with the comforting taste of cottage pie.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Narutomaki",
+      "amount": "200g"
+    },
+    {
+      "name": "Earthy Mushrooms",
+      "amount": "250g"
+    },
+    {
+      "name": "Aerated Mashed Potatoes",
+      "amount": "500g"
+    },
+    {
+      "name": "Cottage Cheese",
+      "amount": "200g"
+    },
+    {
+      "name": "British Breadcrumbs",
+      "amount": "50g"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Butter",
+      "amount": "20g"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "Sauté the earthy mushrooms until tender.",
+    "Mix the cottage cheese with the narutomaki.",
+    "Add the sautéed mushrooms to the cottage cheese mixture and stir well.",
+    "Transfer the mixture to an oven-safe dish.",
+    "Top the mixture with the aerated mashed potatoes.",
+    "Dot the top with butter.",
+    "Bake in the oven for 25-30 minutes.",
+    "Garnish with British breadcrumbs.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "british-cuisine",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-aerated-british-narutomaki-cottage-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T15:05:18.950Z"
+}
