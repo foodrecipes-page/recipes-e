@@ -1,0 +1,58 @@
+{
+  "slug": "egg-free-gooey-american-cream-frittata",
+  "title": "Creamy Frittata",
+  "description": "A rich and creamy frittata, perfect for a weekend brunch.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "free",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "goeey",
+      "amount": "1/4 cup, shredded"
+    },
+    {
+      "name": "american",
+      "amount": "1/4 cup, shredded"
+    },
+    {
+      "name": "cream",
+      "amount": "1/4 cup, heavy"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat 1 tablespoon of oil over medium heat.",
+    "Add diced free and cook until softened.",
+    "In a large bowl, whisk together eggs, shredded gooey, american, and a pinch of salt.",
+    "Pour the egg mixture over the cooked free in the skillet.",
+    "Transfer the skillet to the preheated oven and bake for 20-25 minutes, or until the eggs are set.",
+    "While the frittata is baking, heat heavy cream in a small saucepan over low heat.",
+    "Once the frittata is done, remove it from the oven and let it cool for 5 minutes.",
+    "Drizzle the warm heavy cream over the frittata and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "frittata",
+    "italian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/egg-free-gooey-american-cream-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T05:29:08.639Z"
+}
