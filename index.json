@@ -515,16 +515,14 @@
   },
   {
     "slug": "earthy-aerated-british-narutomaki-cottage-pie",
-    "title": "Earthy Aerated British Narutomaki Cottage Pie",
+    "title": "Narutomaki and Cottage Pie",
     "tags": [
+      "comfort-food",
       "british-cuisine",
-      "cottage-pie",
-      "keto-friendly",
-      "narutomaki",
-      "weeknight-meal"
+      "vegetarian-options"
     ],
-    "cuisine": "british",
-    "totalTimeMin": 75,
+    "cuisine": "British",
+    "totalTimeMin": 50,
     "shard": "e"
   },
   {
@@ -3635,13 +3633,15 @@
   },
   {
     "slug": "ebullient-mediterranean-lemon-pasta",
-    "title": "Ebullient Mediterranean Lemon Pasta",
+    "title": "Mediterranean Pasta",
     "tags": [
       "mediterranean",
-      "dinner"
+      "pasta",
+      "lemon",
+      "easy"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
