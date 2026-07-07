@@ -1,0 +1,87 @@
+{
+  "slug": "earthy-kenyan-celery-stew",
+  "title": "Hearty Kenyan Stew",
+  "description": "A flavorful and comforting stew originating from Kenya, featuring earthy spices and tender beef.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "earthly spice blend",
+      "amount": "2 tablespoons",
+      "notes": "available at most African or international markets"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "stew broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": null,
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned on all sides, about 5 minutes.",
+    "Remove the beef from the pot and set aside.",
+    "Add the chopped onion, carrots, and celery to the pot and cook until the vegetables are tender, about 5 minutes.",
+    "Add the earthly spice blend and cook for 1 minute.",
+    "Add the tomato paste, if using, and cook for 1 minute.",
+    "Add the stew broth and bring to a boil.",
+    "Return the beef to the pot and bring the stew to a simmer.",
+    "Reduce the heat to low and cook, covered, until the beef is tender, about 1 1/2 hours.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "stew",
+    "beef",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-kenyan-celery-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T13:20:04.342Z"
+}
