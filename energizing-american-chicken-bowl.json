@@ -1,0 +1,83 @@
+{
+  "slug": "energizing-american-chicken-bowl",
+  "title": "Energizing Chicken Bowl",
+  "description": "A protein-packed bowl filled with grilled chicken, quinoa, and roasted vegetables, perfect for a post-workout meal.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "mixed vegetables (bell peppers, carrots, broccoli)",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for grilling"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "for dressing"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1/4 cup",
+      "notes": "for creaminess"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season chicken with salt and pepper. Grill for 5-6 minutes per side, or until cooked through.",
+    "Cook quinoa according to package instructions.",
+    "Toss mixed vegetables with olive oil, salt, and pepper. Grill for 3-4 minutes per side, or until tender.",
+    "In a large bowl, combine cooked quinoa, grilled chicken, and roasted vegetables.",
+    "Drizzle with lemon juice and almond milk. Toss to combine.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "quinoa",
+    "veggies",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-american-chicken-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T00:03:41.553Z"
+}
