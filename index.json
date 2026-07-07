@@ -7448,16 +7448,15 @@
   },
   {
     "slug": "exotic-egyptian-lamb-wrap",
-    "title": "Exotic Egyptian Lamb Wrap",
+    "title": "Egyptian Lamb Wrap",
     "tags": [
-      "high-protein",
-      "leaf-wrapped",
+      "lamb",
       "middle-eastern",
-      "plant-based",
-      "slow-cooked"
+      "wrap",
+      "grilled"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 150,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {
@@ -8819,17 +8818,15 @@
   },
   {
     "slug": "exquisite-easy-filipino-beef-stew",
-    "title": "Exquisite Easy Filipino Beef Stew",
+    "title": "Filipino Beef Stew",
     "tags": [
-      "beef-recipes",
-      "comfort-food",
-      "filipino-food",
-      "hangover-cure",
-      "low-calorie-meals",
-      "one-pot-meals"
+      "filipino",
+      "beef",
+      "stew",
+      "easy"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 140,
+    "cuisine": "filipino",
+    "totalTimeMin": 110,
     "shard": "e"
   },
   {
