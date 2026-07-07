@@ -1,0 +1,89 @@
+{
+  "slug": "ethereal-flaky-moroccan-sweet-potatoes-msemen",
+  "title": "Moroccan Sweet Potato Msemen",
+  "description": "A delicious breakfast dish that combines the flavors of Morocco with the comfort of sweet potatoes. Perfect for a weekend brunch.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "msemen",
+      "amount": "4-6 pieces",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Moroccan flaky pastry",
+      "amount": "1 package",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Poke holes in the sweet potatoes and bake for 45-60 minutes, or until tender.",
+    "While the sweet potatoes are baking, heat the olive oil in a pan over medium heat.",
+    "Add the cumin and coriander and cook for 1 minute, stirring constantly.",
+    "Add the msemen to the pan and cook for 2-3 minutes on each side, or until crispy.",
+    "If using flaky pastry, roll it out and use it to wrap the msemen.",
+    "Once the sweet potatoes are done, slice them in half lengthwise and top with the msemen mixture.",
+    "Season with salt, black pepper, and chopped parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "sweet-potato",
+    "breakfast",
+    "msemen"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ethereal-flaky-moroccan-sweet-potatoes-msemen",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T13:51:44.667Z"
+}
