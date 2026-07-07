@@ -1,0 +1,93 @@
+{
+  "slug": "exotic-egyptian-lamb-wrap",
+  "title": "Egyptian Lamb Wrap",
+  "description": "A flavorful Middle Eastern-inspired wrap filled with tender lamb, crispy lettuce, creamy tahini sauce, and tangy pickled turnips.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound",
+      "notes": "Ground lamb"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Tahini",
+      "amount": "1/2 cup",
+      "notes": "Creamy tahini sauce"
+    },
+    {
+      "name": "Pickled Turnips",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Egyptian Pita Wraps",
+      "amount": "4-6",
+      "notes": "Soft, warm pita bread"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing pita bread"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a large bowl, combine lamb, salt, black pepper, and garlic powder. Mix well with your hands until just combined.",
+    "Form lamb mixture into 4-6 small patties, depending on desired size.",
+    "Grill lamb patties for 4-5 minutes per side, or until cooked to your desired level of doneness. Transfer to a plate and cover with foil to keep warm.",
+    "Warm pita bread by wrapping in foil and heating in the oven at 350°F (180°C) for 5 minutes.",
+    "Assemble wraps by spreading a layer of tahini sauce on each pita bread, followed by a few slices of grilled lamb, some chopped lettuce, and a spoonful of pickled turnips.",
+    "Drizzle with olive oil and garnish with chopped parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "middle-eastern",
+    "wrap",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-egyptian-lamb-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T10:02:37.765Z"
+}
