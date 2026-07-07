@@ -1,0 +1,98 @@
+{
+  "slug": "elegant-kanto-courgette-onigiri",
+  "title": "Pan-Seared Courgette with Rice Balls and Elegant Sauce",
+  "description": "A simple yet elegant dish combining pan-seared courgette with kanto-style rice balls and a flavorful onigiri-inspired sauce.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "courgette",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "kanto-style Japanese short-grain rice",
+      "amount": "1 cup",
+      "notes": "for rice balls"
+    },
+    {
+      "name": "onigiri filling (Japanese rice and sesame seeds)",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Prepare the rice balls: soak kanto-style Japanese short-grain rice in water for 30 minutes. Mix with sesame seeds and shape into small balls.",
+    "2. Pan-sear the courgette: heat 1 tsp of sesame oil in a pan over medium heat. Add the sliced courgette and cook until tender, about 5 minutes.",
+    "3. Make the onigiri-inspired sauce: mix soy sauce, rice vinegar, sugar, and sesame oil in a small bowl.",
+    "4. Assemble the dish: place the pan-seared courgette on a plate, top with rice balls, and drizzle with onigiri-inspired sauce.",
+    "5. Garnish with onion and garlic: thinly slice the onion and mince the garlic. Sprinkle on top of the dish.",
+    "6. Season with salt and pepper: to taste.",
+    "7. Serve immediately: enjoy your delicious pan-seared courgette with rice balls and elegant sauce!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "vegetarian",
+    "easy",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/elegant-kanto-courgette-onigiri",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T21:49:01.273Z"
+}
