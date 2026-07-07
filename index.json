@@ -1754,17 +1754,15 @@
   },
   {
     "slug": "earthy-kenyan-celery-stew",
-    "title": "Earthy Kenyan Celery Stew",
+    "title": "Hearty Kenyan Stew",
     "tags": [
-      "cozy",
-      "gluten-free",
-      "kenyan-cuisine",
-      "one-pot",
+      "kenyan",
       "stew",
-      "sugar-free"
+      "beef",
+      "hearty"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 40,
+    "cuisine": "kenyan",
+    "totalTimeMin": 110,
     "shard": "e"
   },
   {
@@ -6661,17 +6659,15 @@
   },
   {
     "slug": "ethereal-flaky-moroccan-sweet-potatoes-msemen",
-    "title": "Ethereal Flaky Moroccan Sweet Potatoes Msemen",
+    "title": "Moroccan Sweet Potato Msemen",
     "tags": [
-      "comfort-food",
-      "flaky",
       "moroccan",
-      "msemen",
-      "pandan-leaf",
-      "sweet-potatoes"
+      "sweet-potato",
+      "breakfast",
+      "msemen"
     ],
-    "cuisine": "moroccan",
-    "totalTimeMin": 42,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 75,
     "shard": "e"
   },
   {
@@ -7964,16 +7960,15 @@
   },
   {
     "slug": "exotic-smoky-ethiopian-lamb-stew",
-    "title": "Exotic Smoky Ethiopian Lamb Stew",
+    "title": "Ethiopian Lamb Stew",
     "tags": [
-      "low-glycemic",
-      "one-pot",
-      "special-occasion",
-      "spicy",
-      "stew"
+      "lamb",
+      "ethiopian",
+      "stew",
+      "hearty"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 180,
+    "totalTimeMin": 110,
     "shard": "e"
   },
   {
