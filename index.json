@@ -4293,17 +4293,15 @@
   },
   {
     "slug": "elegant-kanto-courgette-onigiri",
-    "title": "Elegant Kanto Courgette Onigiri",
+    "title": "Pan-Seared Courgette with Rice Balls and Elegant Sauce",
     "tags": [
-      "brunch",
       "japanese",
-      "low-carb",
-      "onigiri",
-      "quick",
-      "savory"
+      "vegetarian",
+      "easy",
+      "lunch"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
@@ -8185,17 +8183,14 @@
   },
   {
     "slug": "exotic-spicy-norwegian-fish-dumplings",
-    "title": "Exotic Spicy Norwegian Fish Dumplings",
+    "title": "Pan-Seared Norwegian Cod with Spicy Dumplings",
     "tags": [
-      "comfort-food",
-      "diabetic-friendly",
-      "fish-recipes",
-      "gluten-free",
-      "norwegian-cuisine",
-      "one-pot"
+      "fish",
+      "norwegian",
+      "spicy"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "e"
   },
   {
