@@ -1,0 +1,96 @@
+{
+  "slug": "exotic-smoky-ethiopian-lamb-stew",
+  "title": "Ethiopian Lamb Stew",
+  "description": "A hearty and flavorful stew originating from Ethiopia, featuring tender lamb and spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "lamb",
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Ethiopian berbere spice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Exotic spices (cardamom, cumin, coriander)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb on all sides, then remove and set aside.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger and cook for 1 minute.",
+    "Add the berbere spice and smoked paprika and cook for 1 minute.",
+    "Add the tomato paste and cook for 1 minute.",
+    "Add the beef broth and water and bring to a boil.",
+    "Return the lamb to the pot and cover.",
+    "Simmer for 1.5 hours or until the lamb is tender.",
+    "Season with exotic spices and serve over injera or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "ethiopian",
+    "stew",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-smoky-ethiopian-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T13:55:36.502Z"
+}
