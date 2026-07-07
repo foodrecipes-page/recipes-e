@@ -1,0 +1,94 @@
+{
+  "slug": "earthy-uruguayan-beef-stew",
+  "title": "Uruguayan Beef Stew",
+  "description": "A hearty stew originating from Uruguay, made with tender beef and rich flavors.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Chuck",
+      "amount": "1.5 lbs",
+      "notes": "cut into 1 1/2-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup",
+      "notes": "full-bodied"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp",
+      "notes": "dried"
+    },
+    {
+      "name": "Dried Oregano",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "kosher"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Uruguayan Salsa Criolla",
+      "amount": "optional",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef on all sides, about 5 minutes. Remove and set aside.",
+    "Reduce the heat to medium and add more oil if necessary. Sauté the onion and garlic until softened, about 5 minutes.",
+    "Add the red wine, scraping the bottom of the pot to release browned bits. Bring to a boil and cook until reduced by half, about 5 minutes.",
+    "Add the beef broth, tomato paste, oregano, salt, and pepper. Stir to combine.",
+    "Return the beef to the pot and bring to a boil. Cover and transfer to the oven.",
+    "Braise the stew for 2 1/2 to 3 hours, or until the beef is tender.",
+    "Serve the stew hot, garnished with Uruguayan Salsa Criolla if desired.",
+    "Serve with crusty bread or over egg noodles.",
+    "Let the stew rest for 15 minutes before serving to allow the flavors to meld."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "uruguayan",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-uruguayan-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T02:44:09.724Z"
+}
