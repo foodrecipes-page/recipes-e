@@ -3352,16 +3352,15 @@
   },
   {
     "slug": "easy-silky-malaysian-chicken-noodles",
-    "title": "Easy Silky Malaysian Chicken Noodles",
+    "title": "Easy Malaysian Chicken Noodle Stir Fry",
     "tags": [
-      "easy-meal",
-      "kid-friendly",
-      "malaysian-cuisine",
-      "noodle-dish",
-      "weeknight-dinner"
+      "easy",
+      "stir-fry",
+      "chicken",
+      "noodles"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 35,
+    "cuisine": "malaysian",
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
@@ -3804,16 +3803,14 @@
   },
   {
     "slug": "egg-free-gooey-american-cream-frittata",
-    "title": "Egg-Free Gooey American Cream Frittata",
+    "title": "Creamy Frittata",
     "tags": [
-      "american",
-      "creamy",
-      "eggs-free",
-      "herbal",
-      "one-pan",
-      "vegan-friendly"
+      "breakfast",
+      "brunch",
+      "frittata",
+      "italian"
     ],
-    "cuisine": "American",
+    "cuisine": "Italian",
     "totalTimeMin": 35,
     "shard": "e"
   },
