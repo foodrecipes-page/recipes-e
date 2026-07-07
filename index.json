@@ -2356,10 +2356,14 @@
   },
   {
     "slug": "earthy-uruguayan-beef-stew",
-    "title": "Earthy Uruguayan Beef Stew",
-    "tags": [],
+    "title": "Uruguayan Beef Stew",
+    "tags": [
+      "beef",
+      "uruguayan",
+      "stew"
+    ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": null,
+    "totalTimeMin": 170,
     "shard": "e"
   },
   {
