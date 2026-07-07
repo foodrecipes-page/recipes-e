@@ -1,0 +1,78 @@
+{
+  "slug": "exquisite-easy-filipino-beef-stew",
+  "title": "Filipino Beef Stew",
+  "description": "A hearty and flavorful stew originating from the Philippines, featuring tender beef and a rich, slightly sweet sauce.",
+  "cuisine": "filipino",
+  "diet": [
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned on all sides, about 5 minutes.",
+    "Remove beef from pot and set aside.",
+    "Add onion and garlic to pot and cook until softened, about 3 minutes.",
+    "Stir in tomato paste and cook for 1 minute.",
+    "Add fish sauce, brown sugar, bay leaves, black pepper, and salt. Stir to combine.",
+    "Return beef to pot and add enough water to cover.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 1 1/2 hours.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with fresh bay leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "beef",
+    "stew",
+    "easy"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exquisite-easy-filipino-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T10:02:43.617Z"
+}
