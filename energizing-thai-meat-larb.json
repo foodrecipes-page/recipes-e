@@ -1,0 +1,89 @@
+{
+  "slug": "energizing-thai-meat-larb",
+  "title": "Thai Larb Meatballs",
+  "description": "Spicy Thai-inspired meatballs made with ground meat and a variety of Thai seasonings. Serve with steamed rice for a flavorful and filling meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground meat",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Thai red chili peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Larb seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large mixing bowl, combine ground meat, Thai red chili peppers, fish sauce, soy sauce, brown sugar, larb seasoning, garlic, and egg. Mix well with your hands until just combined.",
+    "Cover the mixture and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "When ready to cook, use your hands to shape the mixture into meatballs, about 1 1/2 inches (3.8 cm) in diameter. Place the meatballs on a baking sheet lined with parchment paper.",
+    "Bake the meatballs in the preheated oven for 18-20 minutes, or until cooked through.",
+    "While the meatballs are baking, mix the flour with a little water to create a slurry.",
+    "Once the meatballs are done, remove them from the oven and toss them in the slurry to coat.",
+    "Serve the meatballs hot with steamed rice and your favorite Thai-style toppings.",
+    "Optional: garnish with fresh cilantro and serve with a side of steamed vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "meat",
+    "larb",
+    "energizing"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-thai-meat-larb",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T19:03:23.943Z"
+}
