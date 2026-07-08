@@ -2281,18 +2281,15 @@
   },
   {
     "slug": "earthy-tunisian-onions-dumplings",
-    "title": "Earthy Tunisian Onions Dumplings",
+    "title": "Tunisian Earthy Dumplings",
     "tags": [
       "tunisian",
       "dumplings",
       "vegetarian",
-      "kosher",
-      "earth",
-      "onion",
-      "weeknight"
+      "lunch"
     ],
-    "cuisine": "tunisian",
-    "totalTimeMin": 15,
+    "cuisine": "Tunisian",
+    "totalTimeMin": 40,
     "shard": "e"
   },
   {
@@ -4967,17 +4964,16 @@
   },
   {
     "slug": "energizing-australian-cheddar-bake",
-    "title": "Energizing Australian Cheddar Bake",
+    "title": "Australian Energizing Cheddar Bake",
     "tags": [
-      "cheese-lover",
-      "one-bake",
-      "quick",
-      "single-dinner",
-      "spicy",
-      "weeknight"
+      "breakfast",
+      "australian",
+      "energizing",
+      "cheddar",
+      "bake"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 25,
+    "cuisine": null,
+    "totalTimeMin": 50,
     "shard": "e"
   },
   {
@@ -7038,17 +7034,15 @@
   },
   {
     "slug": "exotic-crispy-indian-eggplant-baingan-bharta",
-    "title": "Exotic Crispy Indian Eggplant Baingan Bharta",
+    "title": "Eggplant Bharta",
     "tags": [
-      "crispy",
-      "deep-fried",
-      "exotic",
-      "gluten-free",
+      "eggplant",
+      "bharta",
       "indian-food",
       "vegetarian"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
