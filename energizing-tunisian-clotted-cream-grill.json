@@ -1,0 +1,90 @@
+{
+  "slug": "energizing-tunisian-clotted-cream-grill",
+  "title": "Tunisian Grilled Chicken with Clotted Cream",
+  "description": "A flavorful and refreshing Tunisian dish that combines the taste of grilled chicken, creamy clotted cream, and energizing ingredients to create a delightful meal.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breasts",
+      "amount": "2 pounds",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Tunisian spice blend",
+      "amount": "2 tablespoons",
+      "notes": "Available at most middle eastern stores"
+    },
+    {
+      "name": "Clotted cream",
+      "amount": "1 cup",
+      "notes": "Chilled in the refrigerator"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "High-quality extra virgin"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Unrefined sea salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Energizing ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, mix together Tunisian spice blend, garlic, salt, and black pepper.",
+    "Rub the spice mixture all over the chicken breasts.",
+    "Grill the chicken for 5-6 minutes per side, or until it reaches an internal temperature of 165°F.",
+    "Transfer the chicken to a plate and let it rest for 5 minutes.",
+    "In a small bowl, whisk together clotted cream and lemon juice.",
+    "Serve the grilled chicken with the clotted cream sauce spooned over the top.",
+    "Garnish with grated energizing ginger and a sprinkle of black pepper.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "grilled",
+    "north-african",
+    "dairy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 6,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-tunisian-clotted-cream-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T19:45:40.167Z"
+}
