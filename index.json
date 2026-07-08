@@ -6091,14 +6091,12 @@
   },
   {
     "slug": "energizing-thai-meat-larb",
-    "title": "Energizing Thai Meat Larb",
+    "title": "Thai Larb Meatballs",
     "tags": [
-      "high-protein",
-      "isaneats",
+      "thai",
+      "meat",
       "larb",
-      "low-glycemic",
-      "one-pan",
-      "thaifood"
+      "energizing"
     ],
     "cuisine": "Thai",
     "totalTimeMin": 35,
@@ -6120,15 +6118,14 @@
   },
   {
     "slug": "energizing-tunisian-clotted-cream-grill",
-    "title": "Energizing Tunisian Clotted Cream Grill",
+    "title": "Tunisian Grilled Chicken with Clotted Cream",
     "tags": [
-      "easy-grill",
-      "low-calorie",
-      "one-pan",
-      "tunisian",
-      "weeknight"
+      "chicken",
+      "grilled",
+      "north-african",
+      "dairy"
     ],
-    "cuisine": "Tunisian",
+    "cuisine": "North African",
     "totalTimeMin": 22,
     "shard": "e"
   },
