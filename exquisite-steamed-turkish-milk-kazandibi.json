@@ -1,0 +1,74 @@
+{
+  "slug": "exquisite-steamed-turkish-milk-kazandibi",
+  "title": "Turkish Delight Kazandibi",
+  "description": "A rich and creamy Turkish dessert made with kazandibi, steamed to perfection and topped with exquisite sugar.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Kazandibi",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Milk",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Exquisite sugar",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Turkish delight",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Combine kazandibi, milk, and vanilla extract in a saucepan over medium heat, whisking until smooth.",
+    "Bring the mixture to a simmer and cook for 5 minutes, or until the kazandibi is fully dissolved.",
+    "Remove from heat and stir in unsalted butter until melted.",
+    "Add Turkish delight and stir until smooth.",
+    "Pour the mixture into individual serving cups.",
+    "Refrigerate for at least 2 hours, or until chilled.",
+    "Just before serving, sprinkle exquisite sugar on top.",
+    "Serve cold and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "dessert",
+    "kazandibi",
+    "turkish-delight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exquisite-steamed-turkish-milk-kazandibi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T03:02:24.300Z"
+}
