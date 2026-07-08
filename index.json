@@ -3176,16 +3176,15 @@
   },
   {
     "slug": "easy-malty-algerian-toor-dal-dal",
-    "title": "Easy Malty Algerian Toor Dal Dal",
+    "title": "Algerian Dal Malt",
     "tags": [
-      "algerian-cuisine",
-      "high-protein",
-      "one-pot",
-      "plant-based",
-      "weeknight"
+      "algerian",
+      "lentil",
+      "vegan",
+      "gluten-free"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {
@@ -6548,17 +6547,14 @@
   },
   {
     "slug": "ethereal-aerated-greek-yoghurt-raita",
-    "title": "Ethereal Aerated Greek yoghurt Raita",
+    "title": "Cucumber Raita",
     "tags": [
-      "cold",
-      "dessert",
-      "easy-to-make",
-      "greek",
-      "healthy",
-      "side-dish"
+      "side-dish",
+      "summer-recipe",
+      "yogurt-based"
     ],
-    "cuisine": "Greek",
-    "totalTimeMin": 15,
+    "cuisine": "Indian",
+    "totalTimeMin": 30,
     "shard": "e"
   },
   {
