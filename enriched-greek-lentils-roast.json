@@ -1,0 +1,83 @@
+{
+  "slug": "enriched-greek-lentils-roast",
+  "title": "Lentil and Roast Vegetable Stew",
+  "description": "A hearty and comforting stew made with lentils and roasted vegetables, perfect for a cold winter evening.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "enriched flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "greek yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "roast beef",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the onion and garlic and cook until softened.",
+    "Add the carrots and potatoes and cook for 5 minutes.",
+    "Add the lentils, roast beef, tomato paste, and salt. Stir to combine.",
+    "Cook for 10 minutes, stirring occasionally.",
+    "Add the greek yogurt and stir to combine.",
+    "Simmer for 20-25 minutes or until the lentils are tender.",
+    "Serve hot, garnished with fresh herbs."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "lentil",
+    "stew",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/enriched-greek-lentils-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T22:09:44.700Z"
+}
