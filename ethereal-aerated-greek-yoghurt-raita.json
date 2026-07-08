@@ -1,0 +1,60 @@
+{
+  "slug": "ethereal-aerated-greek-yoghurt-raita",
+  "title": "Cucumber Raita",
+  "description": "A refreshing yogurt-based side dish from Indian cuisine, perfect for hot summer days.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Greek yoghurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ethereal cucumber",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Aerated water",
+      "amount": "1 tablespoon",
+      "notes": "for thinning the yoghurt"
+    },
+    {
+      "name": "Raita",
+      "amount": "1 tablespoon",
+      "notes": "for extra creaminess"
+    }
+  ],
+  "instructions": [
+    "In a bowl, whisk together the Greek yoghurt, grated cucumber, and aerated water until smooth.",
+    "Add the raita and mix well to combine.",
+    "Season with salt to taste.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "side-dish",
+    "summer-recipe",
+    "yogurt-based"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 10,
+    "carbs": 15,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ethereal-aerated-greek-yoghurt-raita",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T06:49:42.222Z"
+}
