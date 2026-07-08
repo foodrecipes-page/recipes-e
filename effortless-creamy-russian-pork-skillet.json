@@ -1,0 +1,93 @@
+{
+  "slug": "effortless-creamy-russian-pork-skillet",
+  "title": "Effortless Pork Skillet",
+  "description": "A simple and delicious pork skillet recipe with creamy sauce, inspired by Russian cuisine.",
+  "cuisine": "russian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "skillet",
+      "amount": "",
+      "notes": "For cooking"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the pork shoulder with salt and black pepper.",
+    "Heat a skillet over medium-high heat. Sear the pork shoulder until browned on all sides, about 2-3 minutes per side.",
+    "Remove the pork from the skillet and set aside.",
+    "Add the sliced onion to the skillet and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Sprinkle the flour over the onion mixture and cook for 1 minute.",
+    "Gradually pour in the heavy cream, whisking continuously to avoid lumps.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes, or until slightly thickened.",
+    "Return the pork shoulder to the skillet and spoon some of the creamy sauce over the top.",
+    "Transfer the skillet to the preheated oven and bake for 20-25 minutes, or until the pork is cooked through.",
+    "Remove the skillet from the oven and let rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "effortless",
+    "creamy",
+    "russian",
+    "skillet",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/effortless-creamy-russian-pork-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T05:05:36.258Z"
+}
