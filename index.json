@@ -6292,16 +6292,15 @@
   },
   {
     "slug": "enriched-greek-lentils-roast",
-    "title": "Enriched Greek Lentils Roast",
+    "title": "Lentil and Roast Vegetable Stew",
     "tags": [
-      "gluten-free",
-      "high-fiber",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "vegetarian",
+      "lentil",
+      "stew",
+      "soup"
     ],
-    "cuisine": "Greek",
-    "totalTimeMin": 55,
+    "cuisine": "American",
+    "totalTimeMin": 60,
     "shard": "e"
   },
   {
