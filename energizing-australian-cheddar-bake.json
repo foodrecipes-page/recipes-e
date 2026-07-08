@@ -1,0 +1,80 @@
+{
+  "slug": "energizing-australian-cheddar-bake",
+  "title": "Australian Energizing Cheddar Bake",
+  "description": "A hearty and energizing breakfast bake filled with australian flavors and cheddar goodness.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Cheddar Cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Energizing Granola",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Australian-Style Sausages",
+      "amount": "4, sliced"
+    },
+    {
+      "name": "Bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4"
+    },
+    {
+      "name": "Onion",
+      "amount": "1, diced",
+      "notes": "About 1/2 cup"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1, diced",
+      "notes": "About 1/2 cup"
+    },
+    {
+      "name": "Spinach",
+      "amount": "1 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Prepare the baking dish with a non-stick coating.",
+    "Layer 2 slices of bread at the bottom of the dish.",
+    "Add 1/2 cup of diced onion and 1/2 cup of diced bell pepper on top of the bread.",
+    "Add 2 sliced Australian-style sausages on top of the vegetables.",
+    "Add 1/2 cup of chopped spinach on top of the sausages.",
+    "Pour 1 cup of shredded cheddar cheese over the top.",
+    "Crack 2 eggs into the baking dish and mix well.",
+    "Sprinkle 1/2 cup of energizing granola over the top.",
+    "Repeat the layers: 2 slices of bread, 1/2 cup of diced onion and 1/2 cup of diced bell pepper, 2 sliced Australian-style sausages, 1/2 cup of chopped spinach, 1 cup of shredded cheddar cheese, 2 eggs, and 1/2 cup of energizing granola.",
+    "Bake for 35-40 minutes, or until the eggs are set and the cheese is melted and golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "australian",
+    "energizing",
+    "cheddar",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-australian-cheddar-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T00:21:57.139Z"
+}
