@@ -1,0 +1,84 @@
+{
+  "slug": "elegant-velvety-japanese-tofu-kaiseki-course",
+  "title": "Tofu Kaiseki Course in Elegant Japanese Broth",
+  "description": "A delicate and refined Japanese dish made with silken tofu, kaiseki broth, and garnished with elegant and velvety ingredients.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Silken Tofu",
+      "amount": "1 block (12 oz)",
+      "notes": "Extra-firm or firm tofu works best for this dish"
+    },
+    {
+      "name": "Kaiseki Broth",
+      "amount": "2 cups",
+      "notes": "You can make your own kaiseki broth or use store-bought"
+    },
+    {
+      "name": "Velvety Shiitake Mushrooms",
+      "amount": "1 cup",
+      "notes": "Thinly slice the mushrooms to enhance their velvety texture"
+    },
+    {
+      "name": "Elegant Wakame Seaweed",
+      "amount": "1 cup",
+      "notes": "You can adjust the amount of seaweed according to your preference"
+    },
+    {
+      "name": "Japanese Sesame Oil",
+      "amount": "2 tbsp",
+      "notes": "Use high-quality sesame oil for the best flavor"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tsp",
+      "notes": "Use gluten-free soy sauce if necessary"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp",
+      "notes": "Optional garnish for added crunch"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1 bunch",
+      "notes": "Thinly slice the green onions for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine kaiseki broth, soy sauce, and sesame oil. Bring to a simmer over medium heat.",
+    "Cut the silken tofu into bite-sized pieces and gently add to the broth. Cook for 5 minutes or until the tofu is heated through.",
+    "Add the thinly sliced shiitake mushrooms to the broth and continue to simmer for 3 minutes.",
+    "Add the wakame seaweed to the broth and cook for an additional 2 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "To serve, place the tofu and broth into individual bowls and garnish with sesame seeds and thinly sliced green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    " japanese",
+    "kaiseki",
+    "tofu",
+    "vegan",
+    "broth"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/elegant-velvety-japanese-tofu-kaiseki-course",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T01:46:16.041Z"
+}
