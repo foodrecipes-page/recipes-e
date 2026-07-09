@@ -1,0 +1,77 @@
+{
+  "slug": "elegant-umami-korean-flax-hwajeon",
+  "title": "Savory Hwajeon Pancakes with Flax and Umami",
+  "description": "A fusion Korean-inspired hwajeon pancake with a nutty flax topping and umami-rich sesame oil.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "flaxseed meal",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "hwajeon flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together hwajeon flour and water until smooth.",
+    "2. Add sesame oil, salt, and 1/4 cup scallions; stir until combined.",
+    "3. Using a non-stick skillet over medium heat, pour batter and spread evenly.",
+    "4. Cook for 3-4 minutes, until bubbles appear on surface and edges start to curl.",
+    "5. Flip pancakes and cook for an additional 2-3 minutes.",
+    "6. Meanwhile, mix flaxseed meal, remaining scallions, and crumbled tofu in a bowl.",
+    "7. Once pancakes are cooked, top with flaxseed mixture and serve immediately.",
+    "8. Garnish with additional scallions if desired.",
+    "9. Serve warm with your favorite dipping sauce.",
+    "10. Enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "breakfast",
+    "pancakes",
+    "savory",
+    "vegan-options"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/elegant-umami-korean-flax-hwajeon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T23:03:05.897Z"
+}
