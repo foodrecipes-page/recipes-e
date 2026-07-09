@@ -1,0 +1,94 @@
+{
+  "slug": "exotic-tunisian-butter-tagine",
+  "title": "Tunisian Chicken Tagine",
+  "description": "A flavorful North African stew made with chicken, exotic spices, and a rich tagine sauce.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken Thighs",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Exotic Spices",
+      "amount": "2 tablespoons",
+      "notes": "A blend of cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "Tunisian Tagine Spice Mix",
+      "amount": "1 tablespoon",
+      "notes": "Available at Middle Eastern markets"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Dried Apricots",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can",
+      "notes": "Drained and rinsed"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat butter in the bottom of a clay or ceramic tagine or a Dutch oven over medium heat.",
+    "Add onions and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Add exotic spices, tagine spice mix, apricots, chickpeas, and chicken broth.",
+    "Bring to a boil, then cover and simmer for 20-25 minutes, or until chicken is cooked through.",
+    "Stir in honey and cook for an additional 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "north-african",
+    "exotic-spices",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-tunisian-butter-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T22:18:10.190Z"
+}
