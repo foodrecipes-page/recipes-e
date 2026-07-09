@@ -764,15 +764,14 @@
   },
   {
     "slug": "earthy-creamy-tunisian-tomato-stir-fry",
-    "title": "Earthy Creamy Tunisian Tomato Stir-fry",
+    "title": "Tunisian Vegetable Stew",
     "tags": [
-      "tunisian-dish",
-      "creamy-stir-fry",
-      "sherry-vinegar",
-      "pescatarian-friendly"
+      "north-african",
+      "stew",
+      "vegetarian"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 30,
+    "cuisine": "North African",
+    "totalTimeMin": 45,
     "shard": "e"
   },
   {
