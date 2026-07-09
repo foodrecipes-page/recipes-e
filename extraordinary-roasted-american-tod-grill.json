@@ -1,0 +1,64 @@
+{
+  "slug": "extraordinary-roasted-american-tod-grill",
+  "title": "Grilled Tod with Roasted American Sides",
+  "description": "A savory grilled tod recipe paired with roasted american vegetables.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tod",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch thick steaks"
+    },
+    {
+      "name": "roasted american",
+      "amount": "2 medium-sized",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "grill",
+      "amount": "as needed",
+      "notes": "for grilling tod"
+    },
+    {
+      "name": "american",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "extraordinary",
+      "amount": "1 teaspoon",
+      "notes": "for flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season tod with salt, pepper, and extraordinary.",
+    "Marinate tod in american for 30 minutes.",
+    "Grill tod for 5-7 minutes per side, or until cooked through.",
+    "Toss roasted american with olive oil, salt, and pepper.",
+    "Roast american in the oven at 425°F for 15-20 minutes, or until tender.",
+    "Serve grilled tod with roasted american."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilledtod",
+    "roastedamerican",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/extraordinary-roasted-american-tod-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T01:20:52.710Z"
+}
