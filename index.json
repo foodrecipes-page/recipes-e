@@ -4865,17 +4865,15 @@
   },
   {
     "slug": "energizing-algerian-chocolate-pudding",
-    "title": "Energizing Algerian Chocolate Pudding",
+    "title": "Energizing Algerian Pudding",
     "tags": [
+      "algerian",
+      "energizing",
       "chocolate",
-      "dessert",
-      "glassy",
-      "jelly",
-      "satvik",
-      "wood-fired"
+      "pudding"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 10,
     "shard": "e"
   },
   {
