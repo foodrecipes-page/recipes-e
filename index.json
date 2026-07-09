@@ -9365,18 +9365,14 @@
   },
   {
     "slug": "extraordinary-roasted-american-tod-grill",
-    "title": "Extraordinary Roasted American Tod Grill",
+    "title": "Grilled Tod with Roasted American Sides",
     "tags": [
-      "american",
-      "ayurvedic",
-      "easy-weeknight",
-      "high-protein",
-      "one-pan",
-      "roasted",
-      "sattvic"
+      "grilledtod",
+      "roastedamerican",
+      "savory"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 40,
     "shard": "e"
   },
   {
