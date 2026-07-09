@@ -1,0 +1,75 @@
+{
+  "slug": "ethereal-slovakian-chicken-salad",
+  "title": "Slovakian Chicken Salad",
+  "description": "A refreshing and flavorful salad from Slovakia made with grilled chicken and a hint of Eastern European spices.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free",
+    "meat",
+    "lactose-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Slovakian chicken",
+      "amount": "1 pound",
+      "notes": "Boneless and skinless chicken breast"
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups",
+      "notes": "Chopped lettuce and other leafy greens"
+    },
+    {
+      "name": "Diced onion",
+      "amount": "0.5 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Crushed garlic",
+      "amount": "3 cloves",
+      "notes": "Mince before adding"
+    },
+    {
+      "name": "Ethereal",
+      "amount": "0.25 cup",
+      "notes": "Ethereal oil or substitute with olive oil"
+    },
+    {
+      "name": "Diced cucumber",
+      "amount": "1 cup",
+      "notes": "Sliced into bite-sized pieces"
+    }
+  ],
+  "instructions": [
+    "1. Preheat your grill to medium-high heat.",
+    "2. Season the chicken with salt, pepper, and your favorite Slovakian spices.",
+    "3. Grill the chicken for 5-7 minutes per side, or until it reaches an internal temperature of 165°F (74°C).",
+    "4. Chop the grilled chicken into bite-sized pieces.",
+    "5. In a large bowl, combine the chopped chicken, mixed greens, diced onion, crushed garlic, and diced cucumber.",
+    "6. In a small bowl, whisk together the Ethereal and a pinch of salt.",
+    "7. Drizzle the dressing over the salad and toss to combine.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "salad",
+    "grilled",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ethereal-slovakian-chicken-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T10:28:14.759Z"
+}
