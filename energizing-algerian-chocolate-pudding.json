@@ -1,0 +1,78 @@
+{
+  "slug": "energizing-algerian-chocolate-pudding",
+  "title": "Energizing Algerian Pudding",
+  "description": "A rich and creamy Algerian-inspired pudding infused with energizing ingredients for a boost.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "agave nectar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "matcha powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chocolate pudding mix",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "energizing granola",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine almond milk, coconut cream, agave nectar, and matcha powder in a blender.",
+    "Blend until smooth and creamy.",
+    "Add the chocolate pudding mix and blend until well combined.",
+    "Pour the mixture into individual serving cups.",
+    "Refrigerate for at least 4 hours or until set.",
+    "Top with energizing granola before serving.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "energizing",
+    "chocolate",
+    "pudding"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-algerian-chocolate-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T20:22:12.460Z"
+}
