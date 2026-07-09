@@ -859,19 +859,16 @@
   },
   {
     "slug": "earthy-crispy-croatian-chicken-bake",
-    "title": "Earthy Crispy Croatian Chicken Bake",
+    "title": "Croatian Crispy Chicken Bake",
     "tags": [
-      "croatian",
-      "low-fat",
-      "post-workout",
-      "crispy",
-      "bake",
       "chicken",
-      "gherkin-relish",
-      "earthy"
+      "bacon",
+      "mushroom",
+      "croatian",
+      "bake"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 35,
+    "cuisine": "croatian",
+    "totalTimeMin": 45,
     "shard": "e"
   },
   {
@@ -4565,16 +4562,16 @@
   },
   {
     "slug": "elegant-umami-korean-flax-hwajeon",
-    "title": "Elegant Umami Korean Flax Hwajeon",
+    "title": "Savory Hwajeon Pancakes with Flax and Umami",
     "tags": [
-      "broiled",
-      "flax-eggs",
-      "korean-pancake",
-      "ovo-vegetarian",
-      "umami-rich"
+      "korean",
+      "breakfast",
+      "pancakes",
+      "savory",
+      "vegan-options"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "e"
   },
   {
@@ -8423,17 +8420,14 @@
   },
   {
     "slug": "exotic-tunisian-butter-tagine",
-    "title": "exotic tunisian butter tagine",
+    "title": "Tunisian Chicken Tagine",
     "tags": [
-      "breakfast-lunch-dinner",
-      "lazy-sunday",
-      "one-pan",
-      "ovovegetarian",
-      "snack-dinner",
-      "tunisian",
-      "vegan"
+      "chicken",
+      "north-african",
+      "exotic-spices",
+      "tagine"
     ],
-    "cuisine": "tunisian",
+    "cuisine": "Tunisian",
     "totalTimeMin": 40,
     "shard": "e"
   },
