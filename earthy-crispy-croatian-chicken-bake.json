@@ -1,0 +1,90 @@
+{
+  "slug": "earthy-crispy-croatian-chicken-bake",
+  "title": "Croatian Crispy Chicken Bake",
+  "description": "A hearty and flavorful dish that combines the best of Croatian cuisine with a crispy twist. Perfect for a weeknight dinner.",
+  "cuisine": "croatian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "earthly mushroom",
+      "amount": "1 cup",
+      "notes": "such as porcini or cremini"
+    },
+    {
+      "name": "crispy bacon",
+      "amount": "4 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "croatian paprika",
+      "amount": "1 tablespoon",
+      "notes": "sweet or smoked"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1/2 cup",
+      "notes": "sauteed until translucent"
+    },
+    {
+      "name": "chopped bell pepper",
+      "amount": "1/2 cup",
+      "notes": "any color"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken breast with salt, black pepper, and garlic powder.",
+    "In a large skillet, cook the diced bacon over medium heat until crispy.",
+    "Add the sautéed onion and bell pepper to the skillet and cook for an additional 2 minutes.",
+    "Add the earthly mushroom to the skillet and cook until they release their liquid and start to brown.",
+    "Add the Croatian paprika to the skillet and stir to combine.",
+    "Transfer the skillet mixture to a baking dish and top with the seasoned chicken breast.",
+    "Bake in the preheated oven for 25-30 minutes or until the chicken is cooked through.",
+    "Let the dish rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "bacon",
+    "mushroom",
+    "croatian",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-crispy-croatian-chicken-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T22:17:56.869Z"
+}
