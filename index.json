@@ -6735,18 +6735,15 @@
   },
   {
     "slug": "ethereal-slovakian-chicken-salad",
-    "title": "Ethereal Slovakian Chicken Salad",
+    "title": "Slovakian Chicken Salad",
     "tags": [
-      "dinner",
-      "gluten-free",
-      "herb",
-      "low-carb",
-      "meal-prep",
-      "quick",
-      "slovak"
+      "chicken",
+      "salad",
+      "grilled",
+      "slovakian"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 137,
+    "totalTimeMin": 27,
     "shard": "e"
   },
   {
