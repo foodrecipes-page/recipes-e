@@ -3777,17 +3777,16 @@
   },
   {
     "slug": "egg-free-glazed-filipino-sweet-rice-flour-chapssalgaru-wrap",
-    "title": "Filipino Sweet-rice-flour-chapssalgaru Wrap",
+    "title": "Sweet Filipino-Style Rice Wraps",
     "tags": [
-      "breakfast",
-      "brunch",
       "filipino",
-      "one-pan",
-      "raw-friendly",
-      "weekend"
+      "sweet",
+      "dessert",
+      "snack",
+      "easy"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 25,
+    "totalTimeMin": 20,
     "shard": "e"
   },
   {
@@ -4835,14 +4834,15 @@
   },
   {
     "slug": "energetic-slovakian-kielbasa-stir-fry",
-    "title": "Energetic Slovakian Kielbasa Stir-fry",
+    "title": "Slovakian Kielbasa Stir Fry",
     "tags": [
-      "energetic-slovakian-stir-fry",
-      "salt-and-pepper-kielbasa",
-      "low-fat-friendly-dish"
+      "kielbasa",
+      "slovakian",
+      "stir-fry",
+      "eastern-european"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 30,
+    "cuisine": "Eastern European",
+    "totalTimeMin": 17,
     "shard": "e"
   },
   {
@@ -6523,18 +6523,16 @@
   },
   {
     "slug": "esalting-indonesian-amaranth-pilaf",
-    "title": "Esalting Indonesian Amaranth Pilaf",
+    "title": "Amaranth Pilaf with Indonesian Flair",
     "tags": [
-      "amaranth-pilaf",
-      "brazilian",
-      "esalting",
-      "indulgent",
-      "silky",
-      "sour",
-      "vegan-friendly"
+      "amaranth",
+      "pilaf",
+      "indonesian",
+      "gluten-free",
+      "vegetarian"
     ],
-    "cuisine": "Brazilian, Indonesian",
-    "totalTimeMin": 25,
+    "cuisine": "indonesian",
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {
