@@ -2821,17 +2821,14 @@
   },
   {
     "slug": "easy-flaky-spanish-fish-empanadas",
-    "title": "Easy Flaky Spanish Fish Empanadas",
+    "title": "Spanish Fish Empanadas",
     "tags": [
-      "diabetic-friendly",
-      "fish-based",
-      "flaky-crust",
-      "kid-friendly",
-      "low-carb",
-      "spanish-cuisine"
+      "spanish",
+      "fish",
+      "empanadas"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {
@@ -6430,17 +6427,15 @@
   },
   {
     "slug": "epicenter-of-flavors-indian-chicken-vindaloo",
-    "title": "Epicenter of Flavors Indian Chicken Vindaloo",
+    "title": "Chicken Vindaloo",
     "tags": [
       "chicken",
       "indian",
-      "low-sodium",
-      "one-pan",
-      "vindaloo",
-      "weeknight"
+      "dinner",
+      "spicy"
     ],
     "cuisine": "indian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 45,
     "shard": "e"
   },
   {
