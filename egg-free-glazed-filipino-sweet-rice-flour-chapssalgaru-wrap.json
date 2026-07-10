@@ -1,0 +1,71 @@
+{
+  "slug": "egg-free-glazed-filipino-sweet-rice-flour-chapssalgaru-wrap",
+  "title": "Sweet Filipino-Style Rice Wraps",
+  "description": "A twist on traditional Filipino dishes, these sweet rice wraps are perfect for a sweet snack or dessert.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sweet rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "glazed egg",
+      "amount": "2",
+      "notes": "cook eggs in a glaze of 1 tbsp sugar and 1 tbsp water"
+    },
+    {
+      "name": "filipino wrap",
+      "amount": "4-6 wraps",
+      "notes": "or substitute with flour tortillas"
+    },
+    {
+      "name": "flour",
+      "amount": "1/4 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp",
+      "notes": "for glazing eggs"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan or griddle over medium heat.",
+    "Dust the wraps with a pinch of flour to prevent sticking.",
+    "Place a wrap in the pan and cook for 1 minute.",
+    "Flip the wrap and cook for another minute.",
+    "Repeat with remaining wraps.",
+    "In a separate pan, cook the glazed eggs until heated through.",
+    "To assemble the wraps, place a cooked wrap on a flat surface.",
+    "Add a scoop of sweet rice, followed by a glazed egg.",
+    "Fold the wrap in half and serve immediately.",
+    "Repeat with remaining ingredients."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "sweet",
+    "dessert",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/egg-free-glazed-filipino-sweet-rice-flour-chapssalgaru-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T13:10:59.036Z"
+}
