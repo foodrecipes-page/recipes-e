@@ -1,0 +1,65 @@
+{
+  "slug": "esalting-indonesian-amaranth-pilaf",
+  "title": "Amaranth Pilaf with Indonesian Flair",
+  "description": "A flavorful and nutritious side dish that combines the nutty taste of amaranth with the savory flavors of Indonesian cuisine.",
+  "cuisine": "indonesian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "Amaranth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Indonesian",
+      "amount": "2 tablespoons (chicken bouillon paste)"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Rinse the amaranth in a fine-mesh strainer under cold water, and drain well.",
+    "In a medium saucepan, heat the pilaf over medium heat.",
+    "Add the amaranth and stir to coat with the pilaf.",
+    "Add the salt and Indonesian paste, and stir to combine.",
+    "Cook for 5 minutes, or until the amaranth is lightly toasted.",
+    "Add the water and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes, or until the water has been absorbed.",
+    "Fluff the amaranth with a fork, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "amaranth",
+    "pilaf",
+    "indonesian",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/esalting-indonesian-amaranth-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T12:46:15.496Z"
+}
