@@ -1,0 +1,82 @@
+{
+  "slug": "easy-flaky-spanish-fish-empanadas",
+  "title": "Spanish Fish Empanadas",
+  "description": "Delicious Spanish-style fish empanadas with a flaky crust and a hint of easy seasoning.",
+  "cuisine": "Spanish",
+  "diet": [
+    "fish"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fish (Cod or Tilapia)",
+      "amount": "1 pound, skin removed",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Easy Pastry Dough",
+      "amount": "1 package",
+      "notes": "Pre-made for convenience"
+    },
+    {
+      "name": "Flaky Sea Salt",
+      "amount": "1 teaspoon",
+      "notes": "For a touch of Spanish flair"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": "For brushing the crust"
+    },
+    {
+      "name": "Spanish Onion",
+      "amount": "1/2 cup, finely chopped",
+      "notes": "Sweet and savory"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": "Garnish and flavor"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "A squeeze of freshness"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/2 teaspoon",
+      "notes": "Easy seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the pastry dough to a thickness of 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of fish mixture in the center of each dough circle.",
+    "Fold the dough over the filling, pressing the edges to seal.",
+    "Brush the tops with olive oil and sprinkle with flaky sea salt.",
+    "Bake for 15-20 minutes, or until golden brown.",
+    "Garnish with parsley and a squeeze of lemon juice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "fish",
+    "empanadas"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/easy-flaky-spanish-fish-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T01:04:25.597Z"
+}
