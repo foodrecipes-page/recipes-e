@@ -1,0 +1,90 @@
+{
+  "slug": "earthy-dense-brazilian-hind-shank-tagine",
+  "title": "Braised Indian-Style Beef Tagine",
+  "description": "A hearty and aromatic slow-cooked beef tagine originating from India, with rich flavors and tender meat.",
+  "cuisine": "Indian",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef shank",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Hind earthy spices",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Dense brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Tagine Brazilian citrus",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Sear the beef until browned, then set aside.",
+    "Sauté the onion, garlic, and ginger until softened.",
+    "Add the spices, sugar, and citrus, and cook for 1 minute.",
+    "Add the tomato paste and cook for another minute.",
+    "Return the beef to the pot, and add enough water to cover.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Braise for 2 1/2 hours, or until the meat is tender.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "beef",
+    "braised",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-dense-brazilian-hind-shank-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T08:59:35.404Z"
+}
