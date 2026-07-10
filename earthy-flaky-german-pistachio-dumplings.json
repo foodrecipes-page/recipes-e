@@ -1,0 +1,77 @@
+{
+  "slug": "earthy-flaky-german-pistachio-dumplings",
+  "title": "Pistachio German Dumplings with Earthy Filling",
+  "description": "A hearty, comforting German-inspired dish with a delicious pistachio crust and an earthy mushroom filling. The perfect meal for a cozy evening.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "pistachio meal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mushrooms (such as cremini or shiitake)",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "flaky pastry dough",
+      "amount": "1 package (thawed)",
+      "notes": "for dumpling wrappers"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour and pistachio meal.",
+    "Gradually add warm water, mixing until dough forms.",
+    "Knead dough for 5 minutes until smooth.",
+    "Divide dough into 8 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Place 1 tablespoon of mushroom filling in the center of each circle.",
+    "Fold dough over filling to form a half-moon shape, pressing edges to seal.",
+    "Place dumplings on a baking sheet lined with parchment paper.",
+    "Bake in a preheated oven at 375°F (190°C) for 20-25 minutes, or until golden brown.",
+    "Serve hot with your favorite sauce or topping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "dumplings",
+    "pistachio",
+    "mushrooms"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-flaky-german-pistachio-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T23:51:50.401Z"
+}
