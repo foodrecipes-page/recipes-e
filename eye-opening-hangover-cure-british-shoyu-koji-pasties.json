@@ -1,0 +1,85 @@
+{
+  "slug": "eye-opening-hangover-cure-british-shoyu-koji-pasties",
+  "title": "Traditional British Pasties",
+  "description": "A classic dish from Cornwall, these flaky pasties are filled with slow-cooked beef and vegetables, perfect for a hearty meal.",
+  "cuisine": "british",
+  "diet": [
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "500g",
+      "notes": "chuck or round steak"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "swede",
+      "amount": "1 medium",
+      "notes": "or rutabaga"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "shoyu",
+      "amount": "1 tsp",
+      "notes": "or soy sauce"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 180°C (350°F).",
+    "2. Peel and chop the onion, potato, carrot and swede.",
+    "3. In a large pan, cook the beef over medium heat until browned.",
+    "4. Add the chopped vegetables to the pan and cook until they start to soften.",
+    "5. Roll out the flour to a thickness of about 3mm.",
+    "6. Spoon the beef and vegetable mixture onto one half of the dough, leaving a 1cm border.",
+    "7. Brush the edges with water and fold the dough over to form a half-circle.",
+    "8. Crimp the edges to seal the pasty.",
+    "9. Brush the top of the pasty with shoyu and cut a few slits in the top.",
+    "10. Bake the pasty in the preheated oven for 30-40 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "beef",
+    "pasty",
+    "cornwall"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/eye-opening-hangover-cure-british-shoyu-koji-pasties",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T05:50:43.056Z"
+}
