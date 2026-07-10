@@ -1,0 +1,99 @@
+{
+  "slug": "epicenter-of-flavors-indian-chicken-vindaloo",
+  "title": "Chicken Vindaloo",
+  "description": "A popular Indian dish made with marinated chicken cooked in a spicy tomato-based sauce.",
+  "cuisine": "indian",
+  "diet": [
+    "pork-free",
+    "beef-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "vindaloo paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Marinate the chicken in a mixture of lemon juice, cayenne pepper, salt, and black pepper for at least 30 minutes.",
+    "Heat oil in a pan over medium-high heat. Add the onion and cook until it's browned.",
+    "Add the garlic and ginger to the pan and cook for 1 minute.",
+    "Add the vindaloo paste to the pan and cook for 1 minute.",
+    "Add the tomatoes to the pan and cook for 5 minutes.",
+    "Add the marinated chicken to the pan and cook until it's browned and cooked through.",
+    "Serve the chicken with the sauce spooned over the top.",
+    "Garnish with fresh cilantro leaves, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "indian",
+    "dinner",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/epicenter-of-flavors-indian-chicken-vindaloo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T02:30:42.730Z"
+}
