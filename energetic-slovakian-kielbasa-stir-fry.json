@@ -1,0 +1,69 @@
+{
+  "slug": "energetic-slovakian-kielbasa-stir-fry",
+  "title": "Slovakian Kielbasa Stir Fry",
+  "description": "A quick and flavorful stir fry made with Slovakian sausage, inspired by the hearty dishes of Eastern Europe. Serve with steamed vegetables or over rice for a filling meal.",
+  "cuisine": "Eastern European",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kielbasa",
+      "amount": "1 pound, sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large, sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced onion and cook until translucent, about 3-4 minutes.",
+    "Add the sliced bell pepper and cook for an additional 2-3 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the sliced kielbasa and cook for 2-3 minutes, until browned.",
+    "In a small bowl, whisk together soy sauce and 1 tablespoon of water.",
+    "Pour the soy sauce mixture over the kielbasa and vegetables, and stir to combine.",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "Serve hot over rice or with steamed vegetables.",
+    "Garnish with chopped fresh parsley or green onions, if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kielbasa",
+    "slovakian",
+    "stir-fry",
+    "eastern-european"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energetic-slovakian-kielbasa-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T11:55:23.326Z"
+}
