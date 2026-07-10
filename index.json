@@ -3069,17 +3069,15 @@
   },
   {
     "slug": "easy-grilled-australian-lamb-skewers",
-    "title": "Easy Grilled Australian Lamb Skewers",
+    "title": "Australian Lamb Skewers",
     "tags": [
-      "australian-cuisine",
-      "dairy-free",
-      "grilled-meat",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "lamb",
+      "australian",
+      "grilled",
+      "skewers"
     ],
     "cuisine": "Australian",
-    "totalTimeMin": 38,
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
