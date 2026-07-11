@@ -1,0 +1,98 @@
+{
+  "slug": "earthy-german-peeling-stew",
+  "title": "Hearty German Stew",
+  "description": "A traditional German stew made with tender beef, root vegetables, and a rich broth. This hearty dish is perfect for a cold winter's night.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef on all sides, then remove it from the pot.",
+    "Add the onion and garlic to the pot and cook until the onion is softened.",
+    "Add the carrots and potatoes to the pot and cook for 5 minutes.",
+    "Add the beef broth, red wine, tomato paste, thyme, salt, and pepper to the pot.",
+    "Return the beef to the pot and bring the mixture to a boil.",
+    "Cover the pot and transfer it to the oven.",
+    "Braise the stew for 2 1/2 hours, or until the beef is tender.",
+    "Serve the stew hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beef",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 38,
+    "carbs": 40,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-german-peeling-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T12:49:15.395Z"
+}
