@@ -1,0 +1,75 @@
+{
+  "slug": "exquisite-creamy-mediterranean-pear-tagine",
+  "title": "Creamy Tagine with Pear",
+  "description": "A rich and exotic dessert inspired by Moroccan cuisine, featuring a creamy sauce and sweet poached pear.",
+  "cuisine": "marrakech",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pear",
+      "amount": "2",
+      "notes": "Bartlett or Anjou work well"
+    },
+    {
+      "name": "tagine",
+      "amount": "1",
+      "notes": "a 1-quart ceramic or clay pot"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "or substitute with coconut cream"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": "or to taste"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Rinse and peel the pear, then cut it in half lengthwise.",
+    "Place the pear halves in the tagine, skin side down.",
+    "In a small bowl, whisk together the heavy cream, sugar, cinnamon, and salt (if using).",
+    "Pour the cream mixture over the pears in the tagine.",
+    "Cover the tagine with its lid and transfer it to a baking sheet.",
+    "Bake for 30-40 minutes, or until the pears are tender and the sauce has thickened.",
+    "Remove the tagine from the oven and let it cool slightly.",
+    "Serve the pears with the creamy sauce spooned over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "pear",
+    "tagine",
+    "dessert",
+    "marrakech"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exquisite-creamy-mediterranean-pear-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T10:10:03.801Z"
+}
