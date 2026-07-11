@@ -3045,17 +3045,15 @@
   },
   {
     "slug": "easy-grilled-australian-courgettes-skewers",
-    "title": "Easy Grilled Australian Courgettes Skewers",
+    "title": "Grilled Courgette Skewers with Aussie Flair",
     "tags": [
-      "australian-cuisine",
-      "gluten-free",
-      "grilled-vegetables",
-      "healthy-snack",
-      "kid-friendly",
-      "summer-meal"
+      "grilled",
+      "easy",
+      "australian",
+      "vegetarian"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 32,
+    "cuisine": "australian",
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
@@ -8413,17 +8411,15 @@
   },
   {
     "slug": "exotic-turkish-beef-flank-steak-kebabs",
-    "title": "Exotic Turkish Beef Flank Steak Kebabs",
+    "title": "Turkish Beef Kebabs",
     "tags": [
-      "grilled",
-      "high-protein",
-      "one-pan",
-      "romantic",
       "turkish",
-      "weeknight"
+      "beef",
+      "kebabs",
+      "grilled"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 50,
     "shard": "e"
   },
   {
