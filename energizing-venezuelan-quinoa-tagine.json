@@ -1,0 +1,85 @@
+{
+  "slug": "energizing-venezuelan-quinoa-tagine",
+  "title": "Venezuelan Quinoa Bowl",
+  "description": "A hearty and energizing bowl filled with quinoa, tagine-spiced chicken, and fresh vegetables.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Tagine spice blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Energizing powder",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Rinse the quinoa and cook according to package instructions.",
+    "In a large skillet, heat 1 tablespoon of oil over medium-high heat.",
+    "Add the chicken breast and cook until browned, about 5 minutes.",
+    "Add the tagine spice blend and cook for 1 minute.",
+    "Add the sliced onion and bell pepper and cook until tender, about 5 minutes.",
+    "Stir in the cooked quinoa, lime juice, salt, and energizing powder (if using).",
+    "Serve hot, garnished with fresh cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "quinoa",
+    "chicken",
+    "latin-american"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-venezuelan-quinoa-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T03:03:35.892Z"
+}
