@@ -1,0 +1,78 @@
+{
+  "slug": "earthy-creamy-croatian-scamorza-pasta",
+  "title": "Creamy Pasta Bake with Scamorza",
+  "description": "A delicious and comforting pasta dish featuring scamorza cheese, a staple of Croatian cuisine. Earthy mushrooms add depth to this creamy bake.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Scamorza cheese",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Pasta (gluten-free)",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Earthy mushrooms (such as cremini or shiitake)",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "Salt",
+      "amount": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook pasta according to package instructions until al dente.",
+    "In a large skillet, melt butter over medium heat.",
+    "Add sliced mushrooms and cook until tender.",
+    "Add minced garlic and cook for 1 minute.",
+    "Stir in cream and bring to a simmer.",
+    "Add sliced scamorza cheese and stir until melted.",
+    "Combine cooked pasta and mushroom mixture.",
+    "Transfer pasta to a baking dish and top with additional scamorza cheese.",
+    "Bake for 15-20 minutes, or until golden brown and bubbly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pasta",
+    "creamy",
+    "croatian",
+    "scamorza"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-creamy-croatian-scamorza-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T15:13:28.812Z"
+}
