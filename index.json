@@ -8002,17 +8002,16 @@
   },
   {
     "slug": "exotic-smoky-roasted-greek-goat-meat-pastitsio",
-    "title": "Exotic, Smoky Roasted Greek goat meat Pastitsio",
+    "title": "Smoky Goat Pastitsio",
     "tags": [
       "greek",
-      "hearty",
-      "high-protein",
-      "lacto-vegetarian",
-      "one-pan",
-      "smoky"
+      "goat",
+      "pastitsio",
+      "smoky",
+      "roasted"
     ],
-    "cuisine": "Greek",
-    "totalTimeMin": 75,
+    "cuisine": "greek",
+    "totalTimeMin": 55,
     "shard": "e"
   },
   {
