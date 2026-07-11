@@ -1964,17 +1964,16 @@
   },
   {
     "slug": "earthy-savory-croatian-cheese-flatbread",
-    "title": "Earthy Savory Croatian Cheese Flatbread",
+    "title": "Croatian Flatbread Pizza",
     "tags": [
-      "croatian-cuisine",
-      "crusty-bread",
-      "date-night",
-      "garlic-lovers",
-      "lacto-vegetarian",
-      "savory-dishes"
+      "croatian",
+      "flatbread",
+      "pizza",
+      "vegetarian",
+      "snack"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 15,
     "shard": "e"
   },
   {
