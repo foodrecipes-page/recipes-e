@@ -1,0 +1,80 @@
+{
+  "slug": "earthy-savory-croatian-cheese-flatbread",
+  "title": "Croatian Flatbread Pizza",
+  "description": "A savory flatbread topped with cheese and earthy flavors, inspired by Croatian cuisine.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 piece",
+      "notes": ""
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Earth Mushroom",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced Onion",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Place the flatbread on a baking sheet.",
+    "Spread the mozzarella cheese evenly over the flatbread.",
+    "Top with earth mushroom slices and sliced onion.",
+    "Sprinkle with salt and black pepper to taste.",
+    "Bake in the preheated oven for 10-12 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and sprinkle with fresh parsley.",
+    "Serve immediately and enjoy.",
+    "Optional: Add a side salad or soup for a more filling meal."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "flatbread",
+    "pizza",
+    "vegetarian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-savory-croatian-cheese-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T11:32:24.438Z"
+}
