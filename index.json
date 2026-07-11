@@ -5340,17 +5340,17 @@
   },
   {
     "slug": "energizing-ethiopian-vermicelli-jjigae",
-    "title": "Energizing Ethiopian Vermicelli Jjigae",
+    "title": "Spicy Ethiopian Vermicelli Jjigae",
     "tags": [
-      "easy-dinner",
+      "vermicelli",
       "ethiopian",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "jjigae",
+      "spicy",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
@@ -8686,17 +8686,15 @@
   },
   {
     "slug": "exquisite-creamy-mediterranean-pear-tagine",
-    "title": "Exquisite Creamy Mediterranean Pear Tagine",
+    "title": "Creamy Tagine with Pear",
     "tags": [
-      "autumn",
-      "comfort-food",
-      "mediterranean",
-      "one-pot",
-      "plant-based",
-      "winter"
+      "pear",
+      "tagine",
+      "dessert",
+      "marrakech"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 60,
+    "cuisine": "marrakech",
+    "totalTimeMin": 40,
     "shard": "e"
   },
   {
