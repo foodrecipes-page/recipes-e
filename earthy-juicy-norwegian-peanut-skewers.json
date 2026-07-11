@@ -1,0 +1,82 @@
+{
+  "slug": "earthy-juicy-norwegian-peanut-skewers",
+  "title": "Norwegian Skewers with Earthy Peanut Sauce",
+  "description": "A flavorful skewer recipe with a delicious earthy peanut sauce, perfect for a summer evening. This dish combines the juiciness of the skewers with the rich taste of peanut sauce.",
+  "cuisine": "Nordic",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Juicy Norwegian salmon fillets",
+      "amount": "4",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Earthy mushrooms (such as portobello)",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1/4 cup",
+      "notes": "Ground"
+    },
+    {
+      "name": "Skewers (bamboo or metal)",
+      "amount": "12",
+      "notes": "Soaked in water for 30 minutes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "For marinating"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": "For the sauce"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Alternate salmon and mushroom cubes on skewers.",
+    "Brush skewers with olive oil and season with salt and pepper.",
+    "Grill skewers for 8-10 minutes, turning occasionally.",
+    "Meanwhile, mix peanut butter, lime juice, garlic, and honey in a bowl.",
+    "Once skewers are cooked, brush with peanut sauce and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilling",
+    "nordic",
+    "summer",
+    "salmon"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-juicy-norwegian-peanut-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T01:27:39.744Z"
+}
