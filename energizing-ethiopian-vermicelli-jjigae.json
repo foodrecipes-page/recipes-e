@@ -1,0 +1,92 @@
+{
+  "slug": "energizing-ethiopian-vermicelli-jjigae",
+  "title": "Spicy Ethiopian Vermicelli Jjigae",
+  "description": "A spicy, satisfying vermicelli jjigae dish with Ethiopian flavors, perfect for a quick dinner.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vermicelli",
+      "amount": "1 package",
+      "notes": "dried"
+    },
+    {
+      "name": "Energizing Chili Sauce",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 can",
+      "notes": "crushed"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Green Chilies",
+      "amount": "1-2",
+      "notes": "depending on desired heat level"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Reconstitute the vermicelli by soaking it in hot water for about 5 minutes.",
+    "2. Drain the vermicelli and set it aside.",
+    "3. In a large pan, heat 1 tablespoon of energizing chili sauce over medium heat.",
+    "4. Add the chopped onion and sauté until translucent.",
+    "5. Add the minced garlic and sauté for another minute.",
+    "6. Add the crushed tomato, vegetable broth, and water (if using). Bring the mixture to a simmer.",
+    "7. Add the reconstituted vermicelli to the pan and stir to combine.",
+    "8. Add the green chilies and salt to taste.",
+    "9. Cook for an additional 5-7 minutes, or until the vermicelli is tender.",
+    "10. Serve hot, garnished with additional green chilies if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vermicelli",
+    "ethiopian",
+    "jjigae",
+    "spicy",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-ethiopian-vermicelli-jjigae",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T09:03:58.336Z"
+}
