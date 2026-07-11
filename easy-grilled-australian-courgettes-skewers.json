@@ -1,0 +1,66 @@
+{
+  "slug": "easy-grilled-australian-courgettes-skewers",
+  "title": "Grilled Courgette Skewers with Aussie Flair",
+  "description": "A simple and flavorful summer recipe from Australia, perfect for a quick and easy dinner. This dish is all about showcasing the freshness of courgettes and the smokiness of the grill.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Courgettes",
+      "amount": "2 medium",
+      "notes": "about 1 inch in diameter"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing the courgettes"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Cut the courgettes into 1-inch slices.",
+    "Thread 4-5 slices of courgette onto each skewer.",
+    "Brush the courgettes with olive oil and season with salt, pepper, and minced garlic.",
+    "Grill the skewers for 8-10 minutes, turning occasionally.",
+    "Serve hot with a squeeze of lemon juice.",
+    "Optional: Serve with a side of quinoa or couscous for a complete meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "easy",
+    "australian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/easy-grilled-australian-courgettes-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T13:59:47.262Z"
+}
