@@ -1,0 +1,79 @@
+{
+  "slug": "exotic-turkish-beef-flank-steak-kebabs",
+  "title": "Turkish Beef Kebabs",
+  "description": "A flavorful and spicy dish from Turkish cuisine, perfect for a weekend dinner. Marinated beef kebabs grilled to perfection.",
+  "cuisine": "Turkish",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Flank Steak",
+      "amount": "1.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Exotic Spice Mix",
+      "amount": "2 tsp",
+      "notes": "available at most middle eastern grocery stores"
+    },
+    {
+      "name": "Turkish Red Pepper Flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat (400°F).",
+    "2. In a large bowl, whisk together exotic spice mix, red pepper flakes, olive oil, garlic, salt, and black pepper.",
+    "3. Add the beef flank steak to the marinade and mix well to coat.",
+    "4. Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "5. Thread the marinated beef onto skewers, leaving a little space between each piece.",
+    "6. Grill the kebabs for 8-10 minutes per side, or until they reach your desired level of doneness.",
+    "7. Remove from heat and let rest for 5 minutes before serving.",
+    "8. Serve hot with your favorite sides, such as rice, salad, or roasted vegetables."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "beef",
+    "kebabs",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-turkish-beef-flank-steak-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T14:07:29.008Z"
+}
