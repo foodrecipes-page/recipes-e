@@ -1,0 +1,83 @@
+{
+  "slug": "exotic-smoky-roasted-greek-goat-meat-pastitsio",
+  "title": "Smoky Goat Pastitsio",
+  "description": "A classic Greek dish with a twist of smoky flavor, perfect for a delicious dinner.",
+  "cuisine": "greek",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "goat meat",
+      "amount": "500g",
+      "notes": "ground"
+    },
+    {
+      "name": "smoky roasted red pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "pasta",
+      "amount": "200g",
+      "notes": "short tubular"
+    },
+    {
+      "name": "bechamel sauce",
+      "amount": "250ml",
+      "notes": "homemade"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "100g",
+      "notes": "grated"
+    },
+    {
+      "name": "egg, beaten",
+      "amount": "2",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "olive oil",
+      "amount": "20ml",
+      "notes": "for greasing"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Cook the pasta al dente, then set aside.",
+    "In a large pan, heat the olive oil over medium heat. Add the diced onion and cook until softened.",
+    "Add the ground goat meat and cook, breaking it up with a spoon, until browned.",
+    "Stir in the diced smoky roasted red pepper and cook for 1 minute.",
+    "In a separate saucepan, heat the bechamel sauce over low heat.",
+    "In a large bowl, combine the cooked pasta, goat meat mixture, and bechamel sauce. Mix well.",
+    "Transfer the mixture to a baking dish and top with grated parmesan cheese.",
+    "Brush the beaten egg over the top of the cheese.",
+    "Bake in the preheated oven for 25-30 minutes, or until golden brown.",
+    "Serve hot, garnished with additional parmesan cheese if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "goat",
+    "pastitsio",
+    "smoky",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-smoky-roasted-greek-goat-meat-pastitsio",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T17:54:27.581Z"
+}
