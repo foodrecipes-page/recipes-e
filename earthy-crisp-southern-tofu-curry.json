@@ -1,0 +1,79 @@
+{
+  "slug": "earthy-crisp-southern-tofu-curry",
+  "title": "Southern Tofu Curry",
+  "description": "A southern twist on the classic curry dish, featuring crispy tofu and earthy flavors.",
+  "cuisine": "Southern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "southern-style coleslaw",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "crusty bread",
+      "amount": "4 slices",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and bell pepper and cook until crispy, about 5 minutes.",
+    "Add the tofu and cook until golden brown, about 3-4 minutes per side.",
+    "In a small bowl, mix together the curry powder and 1 tablespoon of olive oil.",
+    "Add the curry powder mixture to the skillet and stir to combine.",
+    "Cook for an additional 1-2 minutes, until the tofu is coated in the curry sauce.",
+    "Serve the tofu and curry sauce over southern-style coleslaw and crusty bread.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "southern",
+    "curry",
+    "tofu",
+    "veggie",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-crisp-southern-tofu-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T08:03:44.604Z"
+}
