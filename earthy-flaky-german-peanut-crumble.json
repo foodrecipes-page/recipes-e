@@ -1,0 +1,83 @@
+{
+  "slug": "earthy-flaky-german-peanut-crumble",
+  "title": "German Apple Crumble",
+  "description": "A classic German dessert featuring tender apples topped with a crunchy oat and butter crumble. Perfect for a chilly evening.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "apples",
+      "amount": "6 medium",
+      "notes": "a mix of Granny Smith and Gala"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for the crumble topping"
+    },
+    {
+      "name": "oats",
+      "amount": "1 cup",
+      "notes": "for the crumble topping"
+    },
+    {
+      "name": "light brown sugar",
+      "amount": "1/2 cup",
+      "notes": "for the crumble topping"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp",
+      "notes": "for the apples"
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1/2 tsp",
+      "notes": "for the apples"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "for the crumble topping"
+    },
+    {
+      "name": "german crumble topping",
+      "amount": "1 cup pre-made",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel, core, and slice the apples. Place them in a 9x9-inch baking dish.",
+    "In a separate bowl, mix together the flour, oats, brown sugar, cinnamon, and nutmeg.",
+    "Add the cold butter to the dry ingredients and use a pastry blender or your fingers to work it into a crumbly mixture.",
+    "If using the pre-made german crumble topping, sprinkle it evenly over the apples.",
+    "If not using the pre-made topping, add the crumb mixture to the apples and gently toss to combine.",
+    "Bake for 35-40 minutes or until the topping is golden brown and the apples are tender.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "dessert",
+    "crumble",
+    "apple"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-flaky-german-peanut-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T10:29:02.271Z"
+}
