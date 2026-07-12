@@ -1,0 +1,70 @@
+{
+  "slug": "earthy-creamy-german-potato-gratin",
+  "title": "German Potato Gratin",
+  "description": "A classic German dish featuring thinly sliced potatoes, onions, and a creamy earthy sauce, perfect for a cold winter evening.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3 large, peeled and thinly sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, thinly sliced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "earthly mushroom duxelles",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "gruyère cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a small saucepan, melt 2 tablespoons of butter over medium heat.",
+    "Add the sliced onions and cook until they're softened and caramelized, stirring occasionally.",
+    "In a separate saucepan, combine the sliced potatoes, flour, and a pinch of salt.",
+    "Gradually add the heavy cream, whisking continuously to avoid lumps.",
+    "Bring the mixture to a simmer and cook until the potatoes are slightly tender, about 5 minutes.",
+    "In a greased 9x13-inch baking dish, create a layer of potatoes.",
+    "Top with a layer of caramelized onions, followed by a sprinkle of Gruyère cheese.",
+    "Repeat the layers, ending with a layer of cheese on top.",
+    "Bake in the preheated oven for 35-40 minutes, or until the top is golden brown and the potatoes are tender.",
+    "Remove from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "potato",
+    "gratin",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-creamy-german-potato-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T08:46:06.341Z"
+}
