@@ -749,15 +749,16 @@
   },
   {
     "slug": "earthy-creamy-spanish-doner-meat-stir-fry",
-    "title": "Earthy Creamy Spanish Doner Meat Stir-fry",
+    "title": "Spicy Earthy Stir-Fry",
     "tags": [
-      "paleo-friendly",
-      "earthly",
-      "creamy",
-      "spanish-doner-meat-stir-fry"
+      "spanish",
+      "stir-fry",
+      "mushrooms",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 65,
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
@@ -7006,16 +7007,16 @@
   },
   {
     "slug": "exotic-crispy-mexican-fish-pozole",
-    "title": "Exotic Crispy Mexican Fish Pozole",
+    "title": "Crispy Fish Pozole",
     "tags": [
-      "hangover-cure",
-      "mexican-cuisine",
-      "one-pot",
-      "pescatarian",
-      "spicy-food"
+      "fish",
+      "mexican",
+      "pozole",
+      "crispy",
+      "dinner"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {
