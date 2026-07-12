@@ -1,0 +1,96 @@
+{
+  "slug": "early-evening-greek-peas-avgolemono",
+  "title": "Greek Evening Avgolemono Soup",
+  "description": "A traditional Greek soup made with chicken, egg, and lemon, perfect for a chilly evening. This avgolemono soup is a classic comfort food.",
+  "cuisine": "Greek",
+  "diet": [
+    "Vegetarian",
+    "Gluten-Free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "early riser",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "dried peas",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "egg yolks",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large pot, sauté the onion and garlic in a little bit of oil until softened.",
+    "2. Add the chicken and cook until browned.",
+    "3. Stir in the cumin, dried peas, and chicken broth.",
+    "4. Bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "5. Using an immersion blender, puree the soup until smooth.",
+    "6. In a small bowl, whisk together the lemon juice and egg yolks.",
+    "7. Stir the egg mixture into the soup and cook for 1 minute.",
+    "8. Season with salt and pepper to taste.",
+    "9. Serve warm, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soup",
+    "greek",
+    "comfort-food",
+    "dinner",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/early-evening-greek-peas-avgolemono",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:56:09.956Z"
+}
