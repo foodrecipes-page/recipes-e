@@ -1,0 +1,65 @@
+{
+  "slug": "energizing-british-butter-fry",
+  "title": "Classic British Fry-Up",
+  "description": "A hearty and comforting breakfast dish from the UK, combining crispy bacon, golden eggs, and fluffy sautéed potatoes.",
+  "cuisine": "British",
+  "diet": [
+    "Breakfast",
+    "Brunch"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Bacon",
+      "amount": "6 slices"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4 large eggs",
+      "notes": "Fresh from the fridge"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large potatoes, peeled and diced"
+    },
+    {
+      "name": "Butter",
+      "amount": "50g (1/4 cup)"
+    },
+    {
+      "name": "Fry",
+      "amount": "1 large onion, diced"
+    }
+  ],
+  "instructions": [
+    "Heat a large non-stick frying pan over medium heat and add the butter.",
+    "Add the diced onion and cook until softened, about 5 minutes.",
+    "Add the diced potatoes and cook, stirring occasionally, for 15-20 minutes or until golden brown.",
+    "Meanwhile, fry the bacon slices in a separate pan until crispy.",
+    "Crack the eggs into the pan with the potatoes and scramble them together.",
+    "Serve the eggs and potatoes in a bowl, topped with crispy bacon.",
+    "Garnish with chopped fresh herbs, such as parsley or chives, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "british",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "24g",
+    "carbs": "36g",
+    "fat": "38g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-british-butter-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T08:52:50.211Z"
+}
