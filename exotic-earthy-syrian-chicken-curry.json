@@ -1,0 +1,97 @@
+{
+  "slug": "exotic-earthy-syrian-chicken-curry",
+  "title": "Syrian Chicken Curry",
+  "description": "A rich and flavorful curry dish inspired by Syrian cuisine, featuring juicy chicken and a blend of exotic spices.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": null
+    },
+    {
+      "name": "exotic curry powder",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "earthly cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "syrian sumac",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Heat the coconut oil in a large skillet over medium heat.",
+    "2. Add the onion and cook until softened, about 5 minutes.",
+    "3. Add the garlic and cook for an additional 1-2 minutes.",
+    "4. Add the chicken breast and cook until browned on all sides, about 5-7 minutes.",
+    "5. In a small bowl, mix together the curry powder, cumin, and sumac.",
+    "6. Add the spice mixture to the skillet and stir to combine.",
+    "7. Pour in the chicken broth and bring to a simmer.",
+    "8. Reduce heat to low and let cook for 10-15 minutes, or until the chicken is cooked through.",
+    "9. Stir in the Greek yogurt and cook for an additional 1-2 minutes.",
+    "10. Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "chicken",
+    "curry",
+    "exotic",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-earthy-syrian-chicken-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T04:51:19.881Z"
+}
