@@ -1,0 +1,78 @@
+{
+  "slug": "easy-spring-canadian-basil-stew",
+  "title": "Easy Spring Stew",
+  "description": "A hearty and flavorful stew perfect for a chilly spring evening, made with tender Canadian beef and fresh basil.",
+  "cuisine": "Canadian",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Canadian beef stew meat",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Spring onions",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Brown the beef in a large Dutch oven over medium-high heat.",
+    "Add the onions and garlic, cooking until the onions are translucent.",
+    "Add the flour, stirring to coat the meat and vegetables.",
+    "Gradually add the beef broth and red wine, stirring to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 1 hour.",
+    "Stir in the chopped basil during the last 10 minutes of cooking.",
+    "Serve hot, garnished with additional basil if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spring",
+    "stew",
+    "beef",
+    "basil"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/easy-spring-canadian-basil-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:46:20.073Z"
+}
