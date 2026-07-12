@@ -801,17 +801,16 @@
   },
   {
     "slug": "earthy-crisp-southern-tofu-curry",
-    "title": "Earthy Crisp Southern Tofu Curry",
+    "title": "Southern Tofu Curry",
     "tags": [
-      "crispy",
-      "earthy",
-      "one-pot",
-      "southern-thai",
+      "southern",
+      "curry",
       "tofu",
-      "vegetarian"
+      "veggie",
+      "lunch"
     ],
-    "cuisine": "Southern Thai",
-    "totalTimeMin": 45,
+    "cuisine": "Southern",
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
@@ -2508,15 +2507,16 @@
   },
   {
     "slug": "easily-spiced-norwegian-chilli-gratin",
-    "title": "easily-spiced Norwegian chilli gratin",
+    "title": "Easy Chilli Gratin Casserole",
     "tags": [
-      "comfort-food",
-      "high-calorie",
-      "one-pan",
-      "weeknight"
+      "casserole",
+      "beef",
+      "chilli",
+      "potatoes",
+      "gratin"
     ],
-    "cuisine": "norwegian",
-    "totalTimeMin": 55,
+    "cuisine": "American",
+    "totalTimeMin": 50,
     "shard": "e"
   },
   {
