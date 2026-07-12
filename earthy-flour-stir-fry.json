@@ -1,0 +1,75 @@
+{
+  "slug": "earthy-flour-stir-fry",
+  "title": "Earthy Stir Fry",
+  "description": "A simple stir fry recipe that combines earthy mushrooms with a variety of vegetables, cooked to perfection.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mushrooms, earthy",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Flour",
+      "amount": "2tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large pan over medium-high heat.",
+    "Add the sliced onion and cook until translucent, about 3-4 minutes.",
+    "Add the sliced bell pepper and cook for an additional 2-3 minutes.",
+    "Add the sliced carrots and cook for 2-3 minutes.",
+    "Add the earthy mushrooms and cook until they release their moisture and start to brown, about 3-4 minutes.",
+    "Sprinkle the flour over the vegetables and stir-fry for 1 minute.",
+    "Cook for an additional 2-3 minutes, until the vegetables are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "mushroom",
+    "vegetable",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-flour-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T03:45:52.340Z"
+}
