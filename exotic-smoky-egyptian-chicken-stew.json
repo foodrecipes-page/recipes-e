@@ -1,0 +1,86 @@
+{
+  "slug": "exotic-smoky-egyptian-chicken-stew",
+  "title": "Egyptian Chicken Stew",
+  "description": "A hearty and flavorful stew made with chicken, inspired by Egyptian spices and flavors.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "exotic spices",
+      "amount": "2 tsp",
+      "notes": "a blend of Egyptian spices"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "egyptian stew mix",
+      "amount": "1 cup",
+      "notes": "available at most Middle Eastern markets"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the chicken and cook until browned on all sides, about 5 minutes.",
+    "Remove the chicken from the pot and set aside.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent, about 3-4 minutes.",
+    "Add the exotic spices, smoky paprika, and Egyptian stew mix to the pot and cook for 1 minute.",
+    "Add the chicken broth and water to the pot and bring to a boil.",
+    "Return the chicken to the pot and reduce the heat to low.",
+    "Simmer the stew for 20-25 minutes, or until the chicken is cooked through.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "chicken",
+    "stew",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-smoky-egyptian-chicken-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T10:18:48.951Z"
+}
