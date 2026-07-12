@@ -1377,15 +1377,15 @@
   },
   {
     "slug": "earthy-flour-stir-fry",
-    "title": "Earthy Flour Stir-fry",
+    "title": "Earthy Stir Fry",
     "tags": [
-      "whole30",
-      "flour",
       "stir-fry",
-      "slovakian"
+      "mushroom",
+      "vegetable",
+      "gluten-free"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 35,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
@@ -7460,17 +7460,16 @@
   },
   {
     "slug": "exotic-elegant-moroccan-cheese-tagine",
-    "title": "Exotic Elegant Moroccan Cheese Tagine",
+    "title": "Moroccan Chicken Tagine with Exotic Spice Blend",
     "tags": [
-      "brunch",
-      "cheesy",
-      "gluten-free",
-      "low-carb",
       "moroccan",
-      "wine-infused"
+      "chicken",
+      "stew",
+      "tagine",
+      "spicy"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 55,
+    "totalTimeMin": 50,
     "shard": "e"
   },
   {
