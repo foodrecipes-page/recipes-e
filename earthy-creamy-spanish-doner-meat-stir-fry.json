@@ -1,0 +1,80 @@
+{
+  "slug": "earthy-creamy-spanish-doner-meat-stir-fry",
+  "title": "Spicy Earthy Stir-Fry",
+  "description": "A flavorful and spicy stir-fry made with earthy mushrooms and a hint of Spanish spice. Serve hot over a bed of rice for a satisfying meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "earth mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "spanish olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "creamy goat cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "stir-fry vegetables",
+      "amount": "1 cup",
+      "notes": "frozen, thawed"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and chili flakes and cook for 1 minute, until fragrant.",
+    "Add the sliced mushrooms and cook for 3-4 minutes, until tender.",
+    "Add the stir-fry vegetables and cook for an additional 2-3 minutes, until heated through.",
+    "Stir in the soy sauce and cook for 1 minute.",
+    "Reduce heat to low and stir in the crumbled goat cheese.",
+    "Cook for an additional 1-2 minutes, until the cheese is melted and the mixture is heated through.",
+    "Serve hot over a bed of rice and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "stir-fry",
+    "mushrooms",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-creamy-spanish-doner-meat-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T06:03:18.219Z"
+}
