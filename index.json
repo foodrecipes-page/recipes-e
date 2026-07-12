@@ -70,16 +70,16 @@
   },
   {
     "slug": "early-evening-greek-peas-avgolemono",
-    "title": "Early Evening Greek Peas Avgolemono",
+    "title": "Greek Evening Avgolemono Soup",
     "tags": [
-      "comfort-food",
+      "soup",
       "greek",
-      "one-pot",
-      "sugar-free",
-      "vegetarian"
+      "comfort-food",
+      "dinner",
+      "easy"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 40,
+    "totalTimeMin": 60,
     "shard": "e"
   },
   {
@@ -3434,17 +3434,15 @@
   },
   {
     "slug": "easy-spring-canadian-basil-stew",
-    "title": "Easy Spring Canadian Basil Stew",
+    "title": "Easy Spring Stew",
     "tags": [
-      "canadian-cuisine",
-      "one-pot",
-      "plant-based",
-      "quick-dinner",
-      "spring-recipes",
-      "vegan-friendly"
+      "spring",
+      "stew",
+      "beef",
+      "basil"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 80,
     "shard": "e"
   },
   {
@@ -8223,17 +8221,16 @@
   },
   {
     "slug": "exotic-sweet-mexican-fig-skewers",
-    "title": "Exotic Sweet Mexican Fig Skewers",
+    "title": "Grilled Exotic Fruit Skewers with Fig Glaze",
     "tags": [
-      "fruity",
       "grilled",
-      "mexican",
-      "romantic",
-      "special-occasion",
-      "vegan"
+      "fruit",
+      "skewers",
+      "dessert",
+      "mexican"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 40,
+    "totalTimeMin": 20,
     "shard": "e"
   },
   {
