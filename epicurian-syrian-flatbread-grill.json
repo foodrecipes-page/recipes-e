@@ -1,0 +1,63 @@
+{
+  "slug": "epicurian-syrian-flatbread-grill",
+  "title": "Syrian-Style Grilled Flatbread",
+  "description": "A flavorful and crispy flatbread, inspired by Syrian cuisine, perfect for grilling and serving with a variety of toppings.",
+  "cuisine": "syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 package (8-10 pieces)"
+    },
+    {
+      "name": "Epicurian Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Crushed Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Rosemary",
+      "amount": "1 sprig",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Brush the flatbread with olive oil on both sides.",
+    "Season the flatbread with salt and sprinkle with garlic and rosemary.",
+    "Grill the flatbread for 2-3 minutes per side, or until crispy and slightly charred.",
+    "Remove from heat and let cool for a few minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "flatbread",
+    "syrian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/epicurian-syrian-flatbread-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T06:54:16.975Z"
+}
