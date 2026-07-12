@@ -6458,16 +6458,15 @@
   },
   {
     "slug": "epicurian-syrian-flatbread-grill",
-    "title": "Epicurian Syrian Flatbread Grill",
+    "title": "Syrian-Style Grilled Flatbread",
     "tags": [
-      "breakfast",
       "grilled",
-      "low-sodium",
-      "one-pan",
-      "weeknight"
+      "flatbread",
+      "syrian",
+      "snack"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 23,
+    "cuisine": "syrian",
+    "totalTimeMin": 13,
     "shard": "e"
   },
   {
