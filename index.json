@@ -703,17 +703,15 @@
   },
   {
     "slug": "earthy-creamy-german-potato-gratin",
-    "title": "Earthy Creamy German Potato Gratin",
+    "title": "German Potato Gratin",
     "tags": [
       "german",
       "potato",
       "gratin",
-      "scallions",
-      "temper",
-      "vegetarian"
+      "comfort-food"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 70,
+    "cuisine": "german",
+    "totalTimeMin": 55,
     "shard": "e"
   },
   {
@@ -5062,17 +5060,15 @@
   },
   {
     "slug": "energizing-british-butter-fry",
-    "title": "Energizing British Butter Fry",
+    "title": "Classic British Fry-Up",
     "tags": [
-      "energizing",
+      "breakfast",
+      "brunch",
       "british",
-      "buttery",
-      "jam",
-      "vegan",
-      "vegetarian"
+      "hearty"
     ],
     "cuisine": "British",
-    "totalTimeMin": 17,
+    "totalTimeMin": 40,
     "shard": "e"
   },
   {
