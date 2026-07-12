@@ -1,0 +1,67 @@
+{
+  "slug": "exotic-sweet-mexican-fig-skewers",
+  "title": "Grilled Exotic Fruit Skewers with Fig Glaze",
+  "description": "Sweet and tangy, these grilled fruit skewers are perfect for a light dessert or snack.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Exotic fruit (such as pineapple, mango, and kiwi)",
+      "amount": "1 cup, cut into 1-inch pieces",
+      "notes": ""
+    },
+    {
+      "name": "Fig jam",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread exotic fruit onto skewers.",
+    "Brush fig jam mixture onto fruit.",
+    "Grill skewers for 2-3 minutes per side, or until caramelized.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "fruit",
+    "skewers",
+    "dessert",
+    "mexican"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-sweet-mexican-fig-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:35:00.062Z"
+}
