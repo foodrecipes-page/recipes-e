@@ -1,0 +1,91 @@
+{
+  "slug": "easy-spicy-argentinian-beef-skewers",
+  "title": "Argentinian Beef Skewers",
+  "description": "Grilled beef skewers served with a spicy twist, inspired by the flavors of Argentina.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Flank Steak",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Zest of 1 Lime",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Argentinian Chimichurri Sauce (store-bought or homemade)",
+      "amount": "1/4 cup",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for grilling"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "preferably kosher or sea salt"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat (400°F/200°C).",
+    "2. In a large bowl, whisk together lime zest, garlic, and chimichurri sauce.",
+    "3. Add the beef cubes, red onion, and red bell pepper to the bowl. Toss to coat with the marinade.",
+    "4. Thread the beef and vegetables onto skewers, leaving space between each piece.",
+    "5. Brush the grill with olive oil to prevent sticking.",
+    "6. Grill the skewers for 8-10 minutes per side, or until the beef reaches your desired level of doneness.",
+    "7. Let the skewers rest for 5 minutes before serving.",
+    "8. Serve hot, garnished with additional lime wedges and chimichurri sauce if desired.",
+    "9. Season with salt and black pepper to taste.",
+    "10. Enjoy your delicious Argentinian Beef Skewers!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "grilled",
+    "argentinian",
+    "skewers",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "35g",
+    "carbs": "10g",
+    "fat": "24g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/easy-spicy-argentinian-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T09:11:25.734Z"
+}
