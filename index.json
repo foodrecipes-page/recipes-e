@@ -1286,16 +1286,15 @@
   },
   {
     "slug": "earthy-flaky-german-peanut-crumble",
-    "title": "Earthy Flaky German Peanut Crumble",
+    "title": "German Apple Crumble",
     "tags": [
-      "earthly-flaky",
-      "german-dish",
-      "peanut-oil",
-      "blanching-friendly",
-      "low-carb"
+      "german",
+      "dessert",
+      "crumble",
+      "apple"
     ],
     "cuisine": "German",
-    "totalTimeMin": 40,
+    "totalTimeMin": 50,
     "shard": "e"
   },
   {
@@ -7887,15 +7886,12 @@
   },
   {
     "slug": "exotic-smoky-egyptian-chicken-stew",
-    "title": "Exotic Smoky Egyptian Chicken Stew",
+    "title": "Egyptian Chicken Stew",
     "tags": [
-      "chicken-stew",
-      "gluten-free",
-      "low-sodium",
-      "one-pot",
-      "smoky",
-      "spicy",
-      "weeknight"
+      "egyptian",
+      "chicken",
+      "stew",
+      "lunch"
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 40,
