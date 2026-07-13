@@ -1,0 +1,91 @@
+{
+  "slug": "elevated-post-workout-french-provence-wagyu-gougere",
+  "title": "Wagyu Beef Gougere Tartines",
+  "description": "A French-inspired post-workout snack featuring Wagyu beef and gougere, perfect for elevating your taste buds.",
+  "cuisine": "French",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Wagyu beef strips",
+      "amount": "120g",
+      "notes": "Thinly sliced, room temperature"
+    },
+    {
+      "name": "Gougere",
+      "amount": "4-6 pieces",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 sprig",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Truffle aioli",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Brioche buns",
+      "amount": "4",
+      "notes": "Toasted"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "4 slices",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "1 cup",
+      "notes": "Freshly chopped"
+    },
+    {
+      "name": "Balsamic glaze",
+      "amount": "1 tbsp",
+      "notes": "Homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat a panini press to medium-high heat.",
+    "Assemble the tartines by spreading truffle aioli on toasted brioche buns.",
+    "Top with Wagyu beef strips, cheddar cheese, red onion, and a sprinkle of thyme.",
+    "Place the gougere on top of the beef.",
+    "Drizzle balsamic glaze over the gougere.",
+    "Add a handful of mixed greens on top.",
+    "Place the tartine under the panini press for 3-4 minutes or until the cheese is melted.",
+    "Serve immediately and enjoy!",
+    "Optional: Add a side salad or fruit for a more substantial snack."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "wagyu",
+    "gougere",
+    "tartine",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": "35g",
+    "carbs": "30g",
+    "fat": "40g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/elevated-post-workout-french-provence-wagyu-gougere",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T19:36:13.494Z"
+}
