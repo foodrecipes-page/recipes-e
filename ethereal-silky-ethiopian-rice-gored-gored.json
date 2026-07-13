@@ -1,0 +1,62 @@
+{
+  "slug": "ethereal-silky-ethiopian-rice-gored-gored",
+  "title": "Ethereal Ethiopian Delight",
+  "description": "A flavorful and exotic dish inspired by Ethiopian cuisine, perfect for a dinner gathering. This recipe combines the rich flavors of spices with the simplicity of rice.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ethiopian spices",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Gored (ginger)",
+      "amount": "1 inch"
+    },
+    {
+      "name": "Gored (garlic)",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Silky sauce",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add ginger and garlic, sauté for 1 minute.",
+    "Add Ethiopian spices, sauté for another minute.",
+    "Add rice and stir-fry for 2 minutes.",
+    "Add silky sauce, stir-fry for 1 minute.",
+    "Transfer to a serving dish and serve hot.",
+    "Garnish with fresh herbs, if desired.",
+    "Serve with a side of steamed vegetables or salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "rice",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ethereal-silky-ethiopian-rice-gored-gored",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T15:19:22.443Z"
+}
