@@ -1,0 +1,81 @@
+{
+  "slug": "energizing-cold-egyptian-tuna-poke",
+  "title": "Poke Bowl with Egyptian Flair",
+  "description": "A refreshing, cold poke bowl with a twist from Egyptian cuisine. Perfect for a light lunch.",
+  "cuisine": "egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tuna",
+      "amount": "300g",
+      "notes": "sushi-grade"
+    },
+    {
+      "name": "energizing",
+      "amount": "1 cup",
+      "notes": "mixed greens"
+    },
+    {
+      "name": "cold",
+      "amount": "1/2 cup",
+      "notes": "cucumber slices"
+    },
+    {
+      "name": "pomegranate seeds",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": "high-quality"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine tuna, energizing, cold, pomegranate seeds, lemon juice, olive oil, garlic powder, and salt. Mix well.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, garnish with additional pomegranate seeds and lemon wedges, if desired.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "poke",
+    "egyptian",
+    "vegetarian",
+    "gluten-free",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-cold-egyptian-tuna-poke",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T03:11:08.040Z"
+}
