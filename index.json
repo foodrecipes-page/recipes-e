@@ -6687,14 +6687,11 @@
   },
   {
     "slug": "ethereal-silky-ethiopian-rice-gored-gored",
-    "title": "Ethereal Silky Ethiopian Rice Gored Gored",
+    "title": "Ethereal Ethiopian Delight",
     "tags": [
-      "bento-box",
-      "easy",
       "ethiopian",
-      "lazy-sunday",
-      "one-pot",
-      "silky"
+      "rice",
+      "vegetarian"
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 25,
@@ -7012,17 +7009,15 @@
   },
   {
     "slug": "exotic-crispy-peruvian-peppers-rocoto-relleno",
-    "title": "Exotic Crispy Peruvian Peppers Rocoto Relleno",
+    "title": "Rocoto Relleno Peruano",
     "tags": [
-      "crispy-peppers",
-      "dutch-stroop",
-      "gluten-free",
-      "one-pan",
-      "peruvian-cuisine",
-      "shio-koji"
+      "peruvian-food",
+      "stuffed-peppers",
+      "rocoto-peppers",
+      "south-american-cuisine"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 55,
+    "cuisine": "peruvian",
+    "totalTimeMin": 75,
     "shard": "e"
   },
   {
