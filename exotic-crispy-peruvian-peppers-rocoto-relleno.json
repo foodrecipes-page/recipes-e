@@ -1,0 +1,85 @@
+{
+  "slug": "exotic-crispy-peruvian-peppers-rocoto-relleno",
+  "title": "Rocoto Relleno Peruano",
+  "description": "A traditional Peruvian dish where rocoto peppers are stuffed with a mix of ingredients and baked to perfection.",
+  "cuisine": "peruvian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rocoto peppers",
+      "amount": "4",
+      "notes": "Choose ripe but firm rocotos"
+    },
+    {
+      "name": "exotic",
+      "amount": "1 cup",
+      "notes": "Mix of sautéed onions, garlic, and cilantro"
+    },
+    {
+      "name": "crispy",
+      "amount": "1/2 cup",
+      "notes": "Crispy fried onions for garnish"
+    },
+    {
+      "name": "peruvian cheese",
+      "amount": "1 cup",
+      "notes": "Queso fresco or similar"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "Season with cumin and paprika"
+    },
+    {
+      "name": "peruvian rice",
+      "amount": "1 cup",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "Beaten for the filling"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cut off the tops of the rocoto peppers and remove the seeds.",
+    "Sauté the exotic mixture until softened.",
+    "Cook the ground beef until browned and drain excess fat.",
+    "Mix the cooked beef with the exotic mixture, peruvian cheese, rice, eggs, salt, and pepper.",
+    "Stuff each rocoto pepper with the filling.",
+    "Place the stuffed peppers in a baking dish and cover with foil.",
+    "Bake for 30 minutes, then remove the foil and continue baking for another 15 minutes.",
+    "Garnish with crispy fried onions and serve."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian-food",
+    "stuffed-peppers",
+    "rocoto-peppers",
+    "south-american-cuisine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-crispy-peruvian-peppers-rocoto-relleno",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T15:16:08.166Z"
+}
