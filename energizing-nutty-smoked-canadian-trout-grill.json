@@ -1,0 +1,78 @@
+{
+  "slug": "energizing-nutty-smoked-canadian-trout-grill",
+  "title": "Smoked Trout Grill",
+  "description": "A simple and flavorful grilled trout dish with a smoky twist.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Trout fillets",
+      "amount": "4",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tsp",
+      "notes": "Smoky flavor"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "1/4 cup",
+      "notes": "Optional garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Fresh or kosher"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing the grill"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F/200°C).",
+    "Rinse the trout fillets under cold water and pat them dry with paper towels.",
+    "Sprinkle both sides of the trout with smoked paprika.",
+    "Season with salt and pepper to taste.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the trout for 4-5 minutes per side, or until cooked through.",
+    "Remove from heat and garnish with chopped fresh dill, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grill",
+    "seafood",
+    "canadian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-nutty-smoked-canadian-trout-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T03:01:41.452Z"
+}
