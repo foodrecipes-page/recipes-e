@@ -3999,18 +3999,16 @@
   },
   {
     "slug": "elegant-briny-mexican-cornmeal-tagine",
-    "title": "Elegant Briny Mexican Cornmeal Tagine",
+    "title": "Elegant Corn Fritters with Mexican Slaw",
     "tags": [
-      "coconut-cream",
-      "cornmeal",
-      "easy-dinner",
-      "gluten-free",
       "mexican",
-      "tagine",
-      "vegetarian"
+      "corn",
+      "fritters",
+      "slaw",
+      "snack"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 40,
+    "cuisine": null,
+    "totalTimeMin": 22,
     "shard": "e"
   },
   {
@@ -4631,17 +4629,15 @@
   },
   {
     "slug": "elevated-turkish-meat-lahmacun",
-    "title": "Elevated Turkish Meat Lahmacun",
+    "title": "Turkish-Style Lahmacun",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
       "turkish",
-      "weeknight",
-      "whole30"
+      "lahmacun",
+      "pizza",
+      "meat-lovers"
     ],
-    "cuisine": "turkish",
-    "totalTimeMin": 30,
+    "cuisine": "Turkish",
+    "totalTimeMin": 45,
     "shard": "e"
   },
   {
@@ -5713,17 +5709,14 @@
   },
   {
     "slug": "energizing-nutty-smoked-canadian-trout-grill",
-    "title": "Energizing Nutty Smoked Canadian Trout Grill",
+    "title": "Smoked Trout Grill",
     "tags": [
       "grill",
-      "high-protein",
-      "nutty",
-      "one-pan",
-      "shojin-friendly",
-      "weeknight"
+      "seafood",
+      "canadian"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 23,
+    "totalTimeMin": 22,
     "shard": "e"
   },
   {
