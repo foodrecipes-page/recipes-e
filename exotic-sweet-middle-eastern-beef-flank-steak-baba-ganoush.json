@@ -1,0 +1,76 @@
+{
+  "slug": "exotic-sweet-middle-eastern-beef-flank-steak-baba-ganoush",
+  "title": "Grilled Middle Eastern Baba Ganoush",
+  "description": "A flavorful Middle Eastern eggplant dip, perfect for snacking, grilled to perfection.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 large eggplants",
+      "amount": "2",
+      "notes": "any variety"
+    },
+    {
+      "name": "1/4 cup tahini",
+      "amount": "60g",
+      "notes": "sesame paste"
+    },
+    {
+      "name": "1/4 cup lemon juice",
+      "amount": "60ml",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "2g",
+      "notes": "optional, to taste"
+    },
+    {
+      "name": "3 tablespoons olive oil",
+      "amount": "45ml",
+      "notes": "for grilling and dressing"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Brush the eggplants with olive oil and season with salt.",
+    "Grill the eggplants, turning occasionally, until charred and tender, about 10-12 minutes.",
+    "Let the eggplants cool, then peel and place in a colander to drain excess moisture.",
+    "In a blender or food processor, combine the eggplants, tahini, lemon juice, garlic, and a pinch of salt.",
+    "Blend until smooth, adding more lemon juice or tahini as needed to achieve the desired consistency.",
+    "Transfer the baba ganoush to a serving bowl and drizzle with olive oil.",
+    "Garnish with toasted pine nuts or parsley, if desired.",
+    "Serve with pita chips, vegetables, or crackers."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "eggplant",
+    "dip",
+    "snack",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": "2g",
+    "carbs": "15g",
+    "fat": "9g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-sweet-middle-eastern-beef-flank-steak-baba-ganoush",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T02:49:50.482Z"
+}
