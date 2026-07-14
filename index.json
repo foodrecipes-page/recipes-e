@@ -8725,16 +8725,15 @@
   },
   {
     "slug": "exquisite-elegant-norwegian-salmon-skewers",
-    "title": "Exquisite Elegant Norwegian Salmon Skewers",
+    "title": "Grilled Norwegian Salmon Skewers",
     "tags": [
       "grilled",
-      "norwegian-cuisine",
-      "romantic-dinner",
-      "seafood",
-      "special-occasion"
+      "salmon",
+      "skewers",
+      "norwegian"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 32,
+    "cuisine": "norwegian",
+    "totalTimeMin": 31,
     "shard": "e"
   },
   {
