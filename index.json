@@ -7314,16 +7314,16 @@
   },
   {
     "slug": "exotic-earthy-saudi-arabian-split-peas-stew",
-    "title": "Exotic Earthy Saudi Arabian Split Peas Stew",
+    "title": "Saudi Arabian Stew",
     "tags": [
+      "saudi-arabian",
+      "stew",
       "comfort-food",
-      "high-protein",
-      "middle-eastern",
-      "one-pot",
-      "weeknight"
+      "hearty",
+      "exotic-spices"
     ],
     "cuisine": "Saudi Arabian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {
