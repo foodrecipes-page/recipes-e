@@ -677,14 +677,13 @@
   },
   {
     "slug": "earthy-creamy-bean-sprouts-stir-fry",
-    "title": "Earthy Creamy Bean Sprouts Stir-Fry",
+    "title": "Earthy Bean Stir Fry",
     "tags": [
-      "bean sprouts",
       "stir-fry",
-      "creamy",
-      "keto"
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Irish",
+    "cuisine": null,
     "totalTimeMin": 25,
     "shard": "e"
   },
@@ -3517,16 +3516,16 @@
   },
   {
     "slug": "easy-weekend-australian-fregola-wrap",
-    "title": "easy weekend australian fregola wrap",
+    "title": "Australian Weekend Wrap",
     "tags": [
-      "gluten-free",
-      "lazy-sunday",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "easy",
+      "weekend",
+      "australian",
+      "fregola",
+      "wrap"
     ],
     "cuisine": "australian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 30,
     "shard": "e"
   },
   {
