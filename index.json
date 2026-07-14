@@ -4489,17 +4489,15 @@
   },
   {
     "slug": "elegant-spring-argentinian-brussels-sprouts-skewers",
-    "title": "Elegant Spring Argentinian Brussels Sprouts Skewers",
+    "title": "Grilled Spring Skewers with Brussels Sprouts",
     "tags": [
-      "argentinian-cuisine",
-      "dairy-free",
-      "easy-dinner",
-      "gluten-free",
-      "grilled-vegetables",
-      "spring-recipe"
+      "spring",
+      "grilled",
+      "vegetarian",
+      "argentinian"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 27,
     "shard": "e"
   },
   {
@@ -5088,17 +5086,15 @@
   },
   {
     "slug": "energizing-catalan-octopus-gallega-pulpo",
-    "title": "Catalan Octopus Gallega Pulpo",
+    "title": "Catalan-Style Grilled Octopus",
     "tags": [
-      "catalan",
-      "gallega",
-      "octopus",
-      "seafood",
       "spanish",
-      "tapas"
+      "grilled",
+      "seafood",
+      "octopus"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 18,
     "shard": "e"
   },
   {
@@ -5118,16 +5114,14 @@
   },
   {
     "slug": "energizing-charred-peruvian-rice-suspiro-limeno",
-    "title": "Energizing Charred Peruvian Rice Suspiro Limeno",
+    "title": "Suspiro de Limeno Dessert",
     "tags": [
-      "dinner-ideas",
-      "energizing-meals",
-      "gluten-free",
-      "low-sodium",
-      "peruvian-cuisine"
+      "peruvian",
+      "dessert",
+      "rice-pudding"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 50,
     "shard": "e"
   },
   {
