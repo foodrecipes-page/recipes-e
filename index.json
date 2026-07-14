@@ -3795,15 +3795,14 @@
   },
   {
     "slug": "egg-white-encrusted-toast",
-    "title": "Egg White Encrusted Toast",
+    "title": "Egg Toast",
     "tags": [
-      "egg_white",
-      "encrusted",
-      "toast",
-      "portuguese"
+      "breakfast",
+      "egg",
+      "toast"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 22,
+    "cuisine": null,
+    "totalTimeMin": 8,
     "shard": "e"
   },
   {
@@ -6930,17 +6929,16 @@
   },
   {
     "slug": "exotic-crisp-thai-porcini-pad-thai",
-    "title": "Exotic Crisp Thai Porcini Pad Thai",
+    "title": "Thai Pad Crispy Exotic Stir Fry",
     "tags": [
-      "exotic-mushrooms",
-      "low-calorie",
-      "one-pan",
-      "quick-fix",
-      "thai-inspired",
-      "vegetarian"
+      "thai",
+      "stir-fry",
+      "vegetarian",
+      "mushrooms",
+      "pad-thai"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 25,
+    "totalTimeMin": 27,
     "shard": "e"
   },
   {
