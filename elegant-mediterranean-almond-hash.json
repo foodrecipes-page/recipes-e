@@ -1,0 +1,78 @@
+{
+  "slug": "elegant-mediterranean-almond-hash",
+  "title": "Hash Brown Medley",
+  "description": "A simple, elegant hash brown dish with a mediterranean twist, featuring crispy almond slivers.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Almond",
+      "amount": "1/4 cup",
+      "notes": "Sliced, toasted"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. In a large bowl, combine diced potatoes, chopped onion, minced garlic, salt, and pepper. Mix well.",
+    "3. Add the beaten egg to the bowl and mix until the potato mixture is well coated.",
+    "4. Heat a non-stick skillet over medium-high heat. Add the potato mixture and cook until the bottom is crispy.",
+    "5. Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the top is golden brown.",
+    "6. While the hash browns are baking, toast the sliced almonds in a small skillet over medium heat until crispy.",
+    "7. Remove the hash browns from the oven and top with toasted almond slivers.",
+    "8. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "mediterranean",
+    "hash-brown"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/elegant-mediterranean-almond-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T20:10:11.805Z"
+}
