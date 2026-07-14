@@ -1,0 +1,79 @@
+{
+  "slug": "exquisite-elegant-norwegian-salmon-skewers",
+  "title": "Grilled Norwegian Salmon Skewers",
+  "description": "A simple and elegant recipe featuring marinated Norwegian salmon grilled to perfection on skewers.",
+  "cuisine": "norwegian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian salmon (1 pound)",
+      "amount": "",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Exquisite elegant skewers (10-12)",
+      "amount": "",
+      "notes": "wooden or metal"
+    },
+    {
+      "name": "Lemon juice (1/4 cup)",
+      "amount": "",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil (2 tablespoons)",
+      "amount": "",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Garlic (2 cloves)",
+      "amount": "",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt (to taste)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pepper (to taste)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "In a large bowl, whisk together lemon juice, olive oil, garlic, salt, and pepper.",
+    "Add the salmon pieces to the marinade and mix well to coat.",
+    "Thread the marinated salmon onto the skewers, leaving a small space between each piece.",
+    "Brush the grill grates with oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes per side, or until the salmon is cooked through.",
+    "Transfer the skewers to a plate and let them rest for a few minutes.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 16,
+  "totalTimeMin": 31,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "salmon",
+    "skewers",
+    "norwegian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exquisite-elegant-norwegian-salmon-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T10:10:00.492Z"
+}
