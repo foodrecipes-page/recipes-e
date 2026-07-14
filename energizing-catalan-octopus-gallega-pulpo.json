@@ -1,0 +1,64 @@
+{
+  "slug": "energizing-catalan-octopus-gallega-pulpo",
+  "title": "Catalan-Style Grilled Octopus",
+  "description": "A traditional Spanish-inspired dish from the region of Catalonia, featuring tender grilled octopus with a tangy and smoky flavor.",
+  "cuisine": "Spanish",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Octopus (pulpo)",
+      "amount": "1 large, cleaned and cut into bite-sized pieces"
+    },
+    {
+      "name": "Energizing Olive Oil",
+      "amount": "3 tablespoons",
+      "notes": "Use a high-quality extra virgin olive oil for the best flavor"
+    },
+    {
+      "name": "Catalan-Style Spice Blend",
+      "amount": "1 teaspoon",
+      "notes": "A blend of paprika, garlic, and oregano"
+    },
+    {
+      "name": "Gallega Sea Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "A mild, flaky sea salt from the Galicia region"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to high heat (400°F/200°C).",
+    "Season the octopus with Catalan-Style Spice Blend and Gallega Sea Salt.",
+    "Brush the grill grates with Energizing Olive Oil to prevent sticking.",
+    "Grill the octopus for 2-3 minutes per side, or until slightly charred and cooked through.",
+    "Transfer the octopus to a plate and garnish with chopped parsley, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "grilled",
+    "seafood",
+    "octopus"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 0,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-catalan-octopus-gallega-pulpo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T11:05:26.025Z"
+}
