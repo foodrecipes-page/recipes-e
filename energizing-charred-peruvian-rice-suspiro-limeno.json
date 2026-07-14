@@ -1,0 +1,77 @@
+{
+  "slug": "energizing-charred-peruvian-rice-suspiro-limeno",
+  "title": "Suspiro de Limeno Dessert",
+  "description": "A Peruvian-inspired dessert made with rice pudding, charred lime, and a touch of energizing spices.",
+  "cuisine": "Peruvian",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Lime",
+      "amount": "2"
+    },
+    {
+      "name": "Charred Lime Zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Energizing Spices (Cinnamon, Ginger)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Suspiro (Dulce de Leche)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Prepare the rice pudding by cooking the rice with heavy cream, sugar, and salt in a saucepan over medium heat, stirring occasionally.",
+    "Transfer the pudding to a baking dish and bake for 25-30 minutes, or until lightly golden brown.",
+    "While the pudding is baking, char the lime zest by holding it over an open flame, rotating it until it's lightly browned.",
+    "Remove the pudding from the oven and let it cool slightly.",
+    "In a separate saucepan, melt the butter over medium heat. Add the energizing spices and cook for 1-2 minutes, stirring constantly.",
+    "Stir the charred lime zest into the pudding and pour in the suspiro (dulce de leche).",
+    "Pour the pudding mixture into individual serving cups and top with a sprinkle of granulated sugar.",
+    "Chill the desserts in the refrigerator for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "dessert",
+    "rice-pudding"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 55,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-charred-peruvian-rice-suspiro-limeno",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T11:05:34.682Z"
+}
