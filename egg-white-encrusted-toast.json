@@ -1,0 +1,53 @@
+{
+  "slug": "egg-white-encrusted-toast",
+  "title": "Egg Toast",
+  "description": "A simple breakfast recipe consisting of toasted bread topped with a fried egg.",
+  "cuisine": null,
+  "diet": [
+    "breakfast"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "bread, toasted",
+      "amount": "2 slices",
+      "notes": "preferably white toasted"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    " Toast 2 slices of bread until lightly browned.",
+    " Crack 1 egg into a non-stick pan coated with butter.",
+    " Cook the egg over medium heat until the whites are set and the yolks are cooked to your desired doneness.",
+    " Place the toasted bread on a plate and top with the fried egg.",
+    " Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "egg",
+    "toast"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/egg-white-encrusted-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T23:14:52.192Z"
+}
