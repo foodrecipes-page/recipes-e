@@ -5410,17 +5410,15 @@
   },
   {
     "slug": "energizing-floral-silky-kenyan-barramundi-stir-fry",
-    "title": "Energizing Floral Silky Kenyan Barramundi Stir-fry",
+    "title": "Kenyan Barramundi Stir Fry",
     "tags": [
-      "energizing",
-      "floral",
-      "silky",
       "kenyan",
       "barramundi",
-      "tandoor"
+      "stir-fry",
+      "healthy"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 60,
+    "cuisine": "kenyan",
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
@@ -8218,17 +8216,16 @@
   },
   {
     "slug": "exotic-sweet-middle-eastern-beef-flank-steak-baba-ganoush",
-    "title": "Exotic Sweet Middle Eastern Beef Flank Steak Baba Ganoush",
+    "title": "Grilled Middle Eastern Baba Ganoush",
     "tags": [
-      "dehydrated",
-      "gluten-free",
-      "high-protein",
-      "macrobiotic",
-      "middle-eastern",
-      "post-workout"
+      "grilled",
+      "eggplant",
+      "dip",
+      "snack",
+      "middle-eastern"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 60,
+    "totalTimeMin": 27,
     "shard": "e"
   },
   {
