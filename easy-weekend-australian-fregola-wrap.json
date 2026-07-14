@@ -1,0 +1,84 @@
+{
+  "slug": "easy-weekend-australian-fregola-wrap",
+  "title": "Australian Weekend Wrap",
+  "description": "A delicious and easy-to-make wrap filled with fregola pasta, vegetables, and your choice of protein.",
+  "cuisine": "australian",
+  "diet": [
+    "easy",
+    "weekend"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fregola Pasta",
+      "amount": "250g"
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "500g",
+      "notes": "Grilled or cooked in a pan"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Wrap",
+      "amount": "4",
+      "notes": "Large flour wraps"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Grill the chicken breast for 5-6 minutes per side, or until cooked through.",
+    "3. Cook the fregola pasta according to package instructions.",
+    "4. In a large bowl, combine the cooked pasta, sliced vegetables, and chopped tomato.",
+    "5. Slice the grilled chicken breast and add it to the bowl.",
+    "6. Warm the wraps by wrapping them in foil and heating them in the oven for 2-3 minutes.",
+    "7. Assemble the wraps by spooning the pasta and vegetable mixture onto the wrap.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "weekend",
+    "australian",
+    "fregola",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/easy-weekend-australian-fregola-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T06:44:59.879Z"
+}
