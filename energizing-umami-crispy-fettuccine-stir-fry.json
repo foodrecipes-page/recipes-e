@@ -1,0 +1,81 @@
+{
+  "slug": "energizing-umami-crispy-fettuccine-stir-fry",
+  "title": "Spicy Fettuccine Stir Fry",
+  "description": "A quick and flavorful stir-fry dish made with fettuccine, vegetables, and a hint of spice. Perfect for a weeknight dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fettuccine",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Crushed red pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook fettuccine according to package instructions until al dente. Drain and set aside.",
+    "Heat vegetable oil in a large skillet over medium-high heat.",
+    "Add onion and bell pepper to the skillet and cook for 3-4 minutes, or until tender.",
+    "Add mushrooms to the skillet and cook for an additional 2-3 minutes.",
+    "Add garlic and ginger to the skillet and cook for 1 minute, or until fragrant.",
+    "Add crushed red pepper to the skillet and cook for an additional minute.",
+    "Add cooked fettuccine to the skillet and toss with the vegetable mixture.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "stir-fry",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-umami-crispy-fettuccine-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T13:28:52.845Z"
+}
