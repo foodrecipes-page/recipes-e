@@ -4796,13 +4796,14 @@
   },
   {
     "slug": "energetic-light-mexican-tofu-stir-fry",
-    "title": "Energetic Light Mexican Tofu Stir-fry",
+    "title": "Tofu Stir Fry",
     "tags": [
-      "energetic",
-      "light_mexican",
-      "vegan_tofu_stir_fry"
+      "tofu",
+      "stir-fry",
+      "vegetarian",
+      "low-carb"
     ],
-    "cuisine": "Mexican",
+    "cuisine": null,
     "totalTimeMin": 25,
     "shard": "e"
   },
@@ -6128,17 +6129,14 @@
   },
   {
     "slug": "energizing-umami-crispy-fettuccine-stir-fry",
-    "title": "Energizing Umami Crispy Fettuccine Stir-fry",
+    "title": "Spicy Fettuccine Stir Fry",
     "tags": [
-      "energizing",
-      "umami",
-      "crispy",
-      "fettuccine",
-      "slow-cook",
-      "plant-based"
+      "italian",
+      "stir-fry",
+      "spicy"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 55,
+    "cuisine": "Italian",
+    "totalTimeMin": 20,
     "shard": "e"
   },
   {
