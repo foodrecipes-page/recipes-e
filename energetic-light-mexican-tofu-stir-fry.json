@@ -1,0 +1,82 @@
+{
+  "slug": "energetic-light-mexican-tofu-stir-fry",
+  "title": "Tofu Stir Fry",
+  "description": "A quick and easy stir fry recipe with crispy tofu and a variety of colorful vegetables. Serve over rice or noodles for a satisfying meal.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "broccoli",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the tofu and cook until golden brown on all sides, about 5 minutes.",
+    "Add the onion, bell pepper, and broccoli to the skillet. Cook until the vegetables are tender-crisp, about 3-4 minutes.",
+    "In a small bowl, whisk together the soy sauce and garlic powder. Pour the sauce over the vegetables and tofu.",
+    "Season with salt to taste.",
+    "Serve the stir fry hot over rice or noodles, garnished with green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tofu",
+    "stir-fry",
+    "vegetarian",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energetic-light-mexican-tofu-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T11:58:15.432Z"
+}
