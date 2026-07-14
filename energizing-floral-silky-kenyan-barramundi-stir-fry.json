@@ -1,0 +1,95 @@
+{
+  "slug": "energizing-floral-silky-kenyan-barramundi-stir-fry",
+  "title": "Kenyan Barramundi Stir Fry",
+  "description": "A flavorful and healthy Kenyan-inspired dish made with barramundi, featuring a delicate balance of floral and silky notes.",
+  "cuisine": "kenyan",
+  "diet": [
+    "healthy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "barramundi fillets",
+      "amount": "4",
+      "notes": "frozen"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "green beans",
+      "amount": "1 cup",
+      "notes": "trimmed and chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Heat the coconut oil in a large skillet over medium-high heat.",
+    "2. Add the onion and garlic and cook for 2-3 minutes, until softened.",
+    "3. Add the carrots and green beans and cook for 5 minutes, until tender.",
+    "4. Add the ginger and cook for 1 minute, until fragrant.",
+    "5. Add the barramundi fillets and cook for 3-4 minutes per side, until cooked through.",
+    "6. Remove the fish from the skillet and cover with foil to keep warm.",
+    "7. Add the lemon juice and honey (if using) to the skillet and stir to combine.",
+    "8. Return the fish to the skillet and spoon some of the sauce over the top.",
+    "9. Season with salt and pepper to taste.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "barramundi",
+    "stir-fry",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-floral-silky-kenyan-barramundi-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T01:40:46.204Z"
+}
