@@ -1,0 +1,96 @@
+{
+  "slug": "exotic-crisp-thai-porcini-pad-thai",
+  "title": "Thai Pad Crispy Exotic Stir Fry",
+  "description": "A flavorful and spicy Thai-inspired stir fry featuring exotic mushrooms, crispy vegetables, and a hint of Thai aromatics.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "exotic mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "crisp bell peppers",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "pad thai noodles",
+      "amount": "1/2 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 block",
+      "notes": "cubed"
+    },
+    {
+      "name": "porcini mushrooms",
+      "amount": "2 tablespoons",
+      "notes": "dried"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "divided"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a large skillet or wok over medium-high heat.",
+    "Add the cubed tofu and cook until golden brown, about 3-4 minutes. Remove from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of coconut oil and swirl to coat the pan.",
+    "Add the sliced exotic mushrooms and cook until they release their liquid and start to brown, about 3-4 minutes.",
+    "Add the sliced bell peppers and cook until they start to soften, about 2-3 minutes.",
+    "Add the cooked pad thai noodles, soy sauce, fish sauce, sugar, and Thai red curry paste. Stir-fry for about 1 minute.",
+    "Add the cooked tofu, chopped Thai basil, and dried porcini mushrooms. Stir-fry for another minute.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "vegetarian",
+    "mushrooms",
+    "pad-thai"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-crisp-thai-porcini-pad-thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T01:10:20.992Z"
+}
