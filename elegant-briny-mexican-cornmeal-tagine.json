@@ -1,0 +1,91 @@
+{
+  "slug": "elegant-briny-mexican-cornmeal-tagine",
+  "title": "Elegant Corn Fritters with Mexican Slaw",
+  "description": "Crispy corn fritters served with a refreshing Mexican-inspired slaw.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup cornmeal",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1/2 cup all-purpose flour",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1/2 cup grated cheddar cheese",
+      "amount": null,
+      "notes": "sharp cheddar"
+    },
+    {
+      "name": "1/2 cup crumbled queso fresco",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1/4 cup briny feta cheese, crumbled",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1/4 cup chopped fresh cilantro",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1/2 cup buttermilk",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1 egg",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": null,
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together cornmeal, flour, cheese, feta, cilantro, buttermilk, egg, salt, and pepper.",
+    "Heat about 1/2 inch of oil in a large skillet over medium-high heat.",
+    "Using a 1/4 cup measuring cup, scoop the corn mixture into the hot oil.",
+    "Fry the fritters for about 3-4 minutes on each side, or until golden brown.",
+    "Drain the fritters on paper towels and serve hot with Mexican slaw."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "corn",
+    "fritters",
+    "slaw",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/elegant-briny-mexican-cornmeal-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T04:05:19.498Z"
+}
