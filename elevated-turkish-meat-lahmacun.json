@@ -1,0 +1,91 @@
+{
+  "slug": "elevated-turkish-meat-lahmacun",
+  "title": "Turkish-Style Lahmacun",
+  "description": "Lahmacun is a popular Turkish dish consisting of a thin crust topped with spiced minced meat, onions, and herbs.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Minced lamb",
+      "amount": "1 pound",
+      "notes": "80% lean"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Yeast",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "warm"
+    }
+  ],
+  "instructions": [
+    "Combine flour, yeast, and salt in a large mixing bowl.",
+    "Gradually add warm water, mixing until a dough forms.",
+    "Knead the dough for 10 minutes, until smooth and elastic.",
+    "Place the dough in a greased bowl, cover with plastic wrap, and let rise in a warm place for 1 hour.",
+    "Preheat the oven to 450°F (230°C) with a baking stone or baking sheet inside.",
+    "Divide the dough into 2-3 equal pieces, depending on desired pizza size.",
+    "Roll out each piece into a thin circle, about 1/4 inch thick.",
+    "Transfer the dough to the preheated stone or baking sheet.",
+    "Spread the minced lamb mixture evenly over the dough, leaving a 1-inch border around the edges.",
+    "Sprinkle the chopped onion and parsley over the lamb mixture.",
+    "Drizzle with olive oil and season with salt, black pepper, and red pepper flakes.",
+    "Bake for 12-15 minutes, until the crust is golden brown and the meat is cooked through."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "lahmacun",
+    "pizza",
+    "meat-lovers"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/elevated-turkish-meat-lahmacun",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T04:05:42.893Z"
+}
