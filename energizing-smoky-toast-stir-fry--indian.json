@@ -1,0 +1,92 @@
+{
+  "slug": "energizing-smoky-toast-stir-fry--indian",
+  "title": "Smoky Chana Masala Toast",
+  "description": "A quick and flavorful Indian-inspired breakfast dish made with smoky chana masala, crispy toast, and a hint of energizing spices. Perfect for a morning pick-me-up!",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Chickpeas",
+      "amount": "1 can (15 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Smoky spice blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Toast",
+      "amount": "4 slices",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Toast the bread until crispy.",
+    "Heat oil in a pan over medium heat.",
+    "Add onion and garlic, sauté until softened.",
+    "Add tomato, sauté until mushy.",
+    "Add chickpeas, smoky spice blend, cumin, coriander, salt, and black pepper.",
+    "Stir well to combine.",
+    "Fry for 5 minutes, stirring occasionally.",
+    "Serve over toasted bread.",
+    "Garnish with chopped cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "breakfast",
+    "chickpeas",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-smoky-toast-stir-fry--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:18:10.753Z"
+}
