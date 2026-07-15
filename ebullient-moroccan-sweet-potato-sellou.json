@@ -1,0 +1,63 @@
+{
+  "slug": "ebullient-moroccan-sweet-potato-sellou",
+  "title": "Moroccan Sweet Potato Sellou",
+  "description": "A traditional Moroccan dessert made with sweet potatoes, perfect for a warm evening. This sweet potato sellou is a delicious and comforting treat.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "ebullient",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sellou",
+      "amount": "2 cups"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Poke some holes in the sweet potatoes with a fork and bake for 45-60 minutes, or until tender.",
+    "Let the sweet potatoes cool down.",
+    "Peel the sweet potatoes and mash them in a large bowl.",
+    "Add the ebullient, sellou, milk, and honey to the bowl. Mix well.",
+    "Transfer the mixture to a 9x13 inch baking dish and bake for an additional 25-30 minutes, or until the top is golden brown.",
+    "Serve warm, garnished with a sprinkle of sellou, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 70,
+  "totalTimeMin": 85,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "sweet-potato",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 4,
+    "carbs": 55,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ebullient-moroccan-sweet-potato-sellou",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T12:21:20.277Z"
+}
