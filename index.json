@@ -1539,16 +1539,16 @@
   },
   {
     "slug": "earthy-greek-lamb-tagine",
-    "title": "Earthy Greek Lamb Tagine",
+    "title": "Lamb Tagine",
     "tags": [
-      "dinner",
-      "earthy",
-      "hangover-cure",
       "lamb",
-      "mediterranean"
+      "tagine",
+      "moroccan",
+      "stew",
+      "earthly"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 65,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 110,
     "shard": "e"
   },
   {
