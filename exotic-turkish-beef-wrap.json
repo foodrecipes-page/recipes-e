@@ -1,0 +1,82 @@
+{
+  "slug": "exotic-turkish-beef-wrap",
+  "title": "Turkish Beef Wrap",
+  "description": "A flavorful Turkish-inspired wrap filled with tender beef and exotic spices.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef (thinly sliced)",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Exotic Spice Blend (containing cumin, coriander, and paprika)",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Turkish Wrap Bread",
+      "amount": "1 large"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 large"
+    },
+    {
+      "name": "Feta Cheese (crumbled)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Greek Yogurt (optional)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the beef with the exotic spice blend and cook for 3-4 minutes per side, or until cooked to your liking.",
+    "Let the beef rest for 5 minutes before slicing it thinly.",
+    "Warm the wrap bread by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wrap by spreading the feta cheese on the warm bread, followed by the sliced beef, red onion, cucumber, tomato, and lettuce.",
+    "Drizzle with olive oil and serve with Greek yogurt on the side if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "beef",
+    "wrap",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-turkish-beef-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T15:50:05.254Z"
+}
