@@ -1,0 +1,91 @@
+{
+  "slug": "energizing-smoky-toast-stir-fry--chinese",
+  "title": "Smoky Kung Pao Stir Fry",
+  "description": "A spicy and savory Chinese dish made with marinated chicken, peanuts, and vegetables.",
+  "cuisine": "chinese",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "stir-fry oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "toasted peanuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "1. Heat stir-fry oil in a wok or large skillet over medium-high heat.",
+    "2. Add chicken and cook until browned, about 5 minutes.",
+    "3. Remove chicken from the wok and set aside.",
+    "4. Add soy sauce, garlic, and ginger to the wok and stir-fry for 1 minute.",
+    "5. Add bell peppers and scallions to the wok and stir-fry for 2 minutes.",
+    "6. Return chicken to the wok and stir-fry for 1 minute.",
+    "7. Stir in peanuts and sugar, and cook for 1 minute.",
+    "8. Season with salt and pepper to taste.",
+    "9. Serve hot over toast or rice.",
+    "10. Garnish with additional peanuts and scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "kung-pao",
+    "stir-fry",
+    "peanut"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-smoky-toast-stir-fry--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:18:02.938Z"
+}
