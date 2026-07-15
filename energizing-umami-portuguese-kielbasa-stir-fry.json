@@ -1,0 +1,87 @@
+{
+  "slug": "energizing-umami-portuguese-kielbasa-stir-fry",
+  "title": "Spicy Kielbasa Stir Fry",
+  "description": "A quick and flavorful stir fry made with spicy kielbasa and a variety of vegetables, perfect for a weeknight dinner.",
+  "cuisine": "portuguese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kielbasa",
+      "amount": "1 pound",
+      "notes": "sliced into thin rounds"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1",
+      "notes": "any color"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low sodium"
+    },
+    {
+      "name": "stir-fry sauce",
+      "amount": "1 tablespoon",
+      "notes": "available in most grocery stores"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced kielbasa and cook until browned, about 3-4 minutes.",
+    "Add the sliced bell pepper and onion to the skillet and cook until tender, about 5 minutes.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "In a small bowl, whisk together the soy sauce and stir-fry sauce.",
+    "Pour the sauce into the skillet and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kielbasa",
+    "stir-fry",
+    "portuguese",
+    "dinner",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-umami-portuguese-kielbasa-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T14:02:53.760Z"
+}
