@@ -10014,5 +10014,57 @@
     "cuisine": "Peruvian",
     "totalTimeMin": 30,
     "shard": "e"
+  },
+  {
+    "slug": "energizing-smoky-toast-stir-fry--german",
+    "title": "Bratwurst mit Sauerkraut",
+    "tags": [
+      "german",
+      "bratwurst",
+      "sauerkraut",
+      "breakfast"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 20,
+    "shard": "e"
+  },
+  {
+    "slug": "energizing-smoky-toast-stir-fry--chinese",
+    "title": "Smoky Kung Pao Stir Fry",
+    "tags": [
+      "chinese-food",
+      "kung-pao",
+      "stir-fry",
+      "peanut"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 27,
+    "shard": "e"
+  },
+  {
+    "slug": "energizing-smoky-toast-stir-fry--indian",
+    "title": "Smoky Chana Masala Toast",
+    "tags": [
+      "indian",
+      "breakfast",
+      "chickpeas",
+      "smoky"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "e"
+  },
+  {
+    "slug": "energizing-smoky-toast-stir-fry--italian",
+    "title": "Italian Smoky Toast",
+    "tags": [
+      "italian",
+      "breakfast",
+      "snack",
+      "cheesy"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 15,
+    "shard": "e"
   }
 ]
