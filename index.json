@@ -5574,18 +5574,16 @@
   },
   {
     "slug": "energizing-kenyan-herbal-toast",
-    "title": "Energizing Kenyan Herbal Toast",
+    "title": "Herbal Kenyan Energy Toast",
     "tags": [
-      "diabetic-friendly",
-      "gluten-free",
+      "breakfast",
       "herbal",
       "kenyan",
-      "one-pan",
-      "refreshing",
-      "snack"
+      "energizing",
+      "tea"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 20,
+    "totalTimeMin": 15,
     "shard": "e"
   },
   {
@@ -9993,6 +9991,19 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 13,
+    "shard": "e"
+  },
+  {
+    "slug": "earthy-tender-peruvian-split-peas-stew--german",
+    "title": "Traditional German Split Pea Stew",
+    "tags": [
+      "german",
+      "vegan",
+      "gluten-free",
+      "peas"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
     "shard": "e"
   }
 ]
