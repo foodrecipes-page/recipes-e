@@ -3610,17 +3610,14 @@
   },
   {
     "slug": "ebullient-moroccan-sweet-potato-sellou",
-    "title": "Ebullient Moroccan Sweet Potato Sellou",
+    "title": "Moroccan Sweet Potato Sellou",
     "tags": [
-      "crowd-pleaser",
-      "dessert",
-      "eggfree",
       "moroccan",
-      "pillowy",
-      "sweet-potato"
+      "sweet-potato",
+      "dessert"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 65,
+    "totalTimeMin": 85,
     "shard": "e"
   },
   {
