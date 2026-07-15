@@ -1,0 +1,72 @@
+{
+  "slug": "excitingly-sour-canadian-noodles-noodles",
+  "title": "Spicy Sour Noodle Soup",
+  "description": "A refreshing and spicy noodle soup that combines the tanginess of sour ingredients with the comfort of a warm bowl.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sour Cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "Canadian Bacon",
+      "amount": "4 slices"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil. Cook the noodles according to package instructions.",
+    "In a separate pot, combine the sour cream, vinegar, carrots, celery, and ginger. Bring to a simmer.",
+    "Add the cooked noodles to the sour cream mixture and toss to coat.",
+    "Cook the Canadian bacon in a pan until crispy. Chop into small pieces.",
+    "Add the cooked Canadian bacon to the noodle mixture and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sour",
+    "noodle",
+    "soup",
+    "canadian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/excitingly-sour-canadian-noodles-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T19:23:53.280Z"
+}
