@@ -2618,16 +2618,16 @@
   },
   {
     "slug": "easy-crispy-american-garlic-skillet",
-    "title": "Easy Crispy American Garlic Skillet",
+    "title": "Crispy Garlic American Skillet Meal",
     "tags": [
-      "american-classic",
-      "garlic-lover",
-      "lazy-sunday",
-      "low-fat",
-      "one-pot"
+      "easy",
+      "american",
+      "breakfast",
+      "brunch",
+      "skillet-dish"
     ],
     "cuisine": "American",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
@@ -2704,16 +2704,16 @@
   },
   {
     "slug": "easy-elegant-american-pork-skillet",
-    "title": "Easy Elegant American Pork Skillet",
+    "title": "Pan-Seared Pork Chops with American Glaze",
     "tags": [
-      "american",
       "easy",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "elegant",
+      "american",
+      "pork",
+      "skillet"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 35,
+    "cuisine": "american",
+    "totalTimeMin": 30,
     "shard": "e"
   },
   {
@@ -6726,15 +6726,16 @@
   },
   {
     "slug": "ewholesome-asian-herbs-herbfried-rice-pilaf",
-    "title": "EWholesome Asian Herbs Herbfried Rice Pilaf",
+    "title": "Herby Fried Rice Pilaf",
     "tags": [
-      "dairy-free",
-      "herbal",
-      "mild",
-      "vegan"
+      "quick",
+      "easy",
+      "asian-fusion",
+      "one-pot",
+      "lunch"
     ],
-    "cuisine": "Asian",
-    "totalTimeMin": 50,
+    "cuisine": "asian",
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
