@@ -2239,10 +2239,16 @@
   },
   {
     "slug": "earthy-tender-peruvian-split-peas-stew",
-    "title": "Earthy Tender Peruvian Split Peas Stew",
-    "tags": [],
+    "title": "Tender Peruvian Stew",
+    "tags": [
+      "peruvian",
+      "stew",
+      "beef",
+      "vegetarian",
+      "gluten-free"
+    ],
     "cuisine": "Peruvian",
-    "totalTimeMin": null,
+    "totalTimeMin": 65,
     "shard": "e"
   },
   {
@@ -8358,18 +8364,15 @@
   },
   {
     "slug": "exotic-turkish-beef-wrap",
-    "title": "Exotic Turkish Beef Wrap",
+    "title": "Turkish Beef Wrap",
     "tags": [
-      "beef-stock",
-      "crunchy",
-      "garlicky",
-      "lotus-leaf-wrap",
-      "quick-fix",
-      "turkish-food",
-      "vegan-friendly"
+      "turkish",
+      "beef",
+      "wrap",
+      "lunch"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 18,
     "shard": "e"
   },
   {
