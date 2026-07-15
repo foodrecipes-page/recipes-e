@@ -1,0 +1,86 @@
+{
+  "slug": "ewholesome-asian-herbs-herbfried-rice-pilaf",
+  "title": "Herby Fried Rice Pilaf",
+  "description": "A flavorful and aromatic fried rice dish infused with herbs and spices.",
+  "cuisine": "asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "herbfried rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "ewholesome herbs",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh herbs like parsley, basil or cilantro"
+    },
+    {
+      "name": "asian herbs",
+      "amount": "2 tablespoons",
+      "notes": "chopped fresh cilantro or scallions"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the chopped herbs and stir-fry for 1 minute until fragrant.",
+    "Add the herbfried rice and stir-fry for 2-3 minutes until heated through.",
+    "Push the rice mixture to one side of the pan.",
+    "Add the remaining 1 tablespoon of vegetable oil to the empty side of the pan.",
+    "Pour in the beaten eggs and scramble them until cooked through.",
+    "Mix the eggs with the rice mixture.",
+    "Add the soy sauce, sesame oil (if using), salt, and pepper, and stir-fry for another minute.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the Herby Fried Rice Pilaf to a serving platter and garnish with additional chopped herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quick",
+    "easy",
+    "asian-fusion",
+    "one-pot",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ewholesome-asian-herbs-herbfried-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T14:03:08.567Z"
+}
