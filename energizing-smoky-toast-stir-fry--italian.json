@@ -1,0 +1,69 @@
+{
+  "slug": "energizing-smoky-toast-stir-fry--italian",
+  "title": "Italian Smoky Toast",
+  "description": "A simple yet satisfying Italian-inspired dish that combines smoky flavors with crunchy toast.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "smoked mozzarella",
+      "amount": "8 oz"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Arrange bread slices on a baking sheet.",
+    "Drizzle olive oil over bread and sprinkle with minced garlic.",
+    "Top each bread slice with a slice of smoked mozzarella cheese.",
+    "Bake in the oven for 8-10 minutes or until cheese is melted and bubbly.",
+    "Remove from oven and sprinkle with chopped fresh basil.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "breakfast",
+    "snack",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-smoky-toast-stir-fry--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:18:27.283Z"
+}
