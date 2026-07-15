@@ -1,0 +1,92 @@
+{
+  "slug": "earthy-grassy-peruvian-beef-anticuchos--vegan",
+  "title": "Grilled Anticuchos-Style Tofu with Earthy Chimichurri",
+  "description": "A vegan twist on classic Peruvian anticuchos, featuring marinated tofu grilled to perfection and served with a zesty, earthy chimichurri sauce.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "peruvian aji amarillo pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "oregano",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": null
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1/4 cup",
+      "notes": "see below for homemade chimichurri sauce recipe"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Cut tofu into skewer-sized pieces.",
+    "3. In a shallow dish, whisk together soy sauce, lime juice, aji amarillo pepper, oregano, garlic, and parsley.",
+    "4. Add tofu pieces to the marinade and toss to coat.",
+    "5. Let tofu marinate for at least 30 minutes.",
+    "6. Grill tofu for 2-3 minutes per side, or until golden brown.",
+    "7. Meanwhile, prepare chimichurri sauce (see below).",
+    "8. Serve grilled tofu with chimichurri sauce and red onion garnish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "peruvian",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-grassy-peruvian-beef-anticuchos--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:36:49.862Z"
+}
