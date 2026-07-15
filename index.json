@@ -6122,14 +6122,15 @@
   },
   {
     "slug": "energizing-umami-portuguese-kielbasa-stir-fry",
-    "title": "Energizing Umami Portuguese Kielbasa Stir-fry",
+    "title": "Spicy Kielbasa Stir Fry",
     "tags": [
-      "energizing",
-      "umami",
+      "kielbasa",
+      "stir-fry",
       "portuguese",
-      "jiin-friendly"
+      "dinner",
+      "easy"
     ],
-    "cuisine": "Portuguese",
+    "cuisine": "portuguese",
     "totalTimeMin": 25,
     "shard": "e"
   },
@@ -7007,17 +7008,14 @@
   },
   {
     "slug": "exotic-crunchy-chinese-saskatoon-berries-baozi",
-    "title": "Exotic Crunchy Chinese Saskatoon Berries Baozi",
+    "title": "Saskatoon Berry Baozi Dessert",
     "tags": [
-      "chinese",
-      "crunchy",
-      "double-fry",
-      "snack",
-      "sour",
-      "vegan"
+      "saskatoon-berries",
+      "baozi",
+      "dessert"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "e"
   },
   {
