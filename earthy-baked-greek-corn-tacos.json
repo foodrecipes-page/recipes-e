@@ -1,0 +1,88 @@
+{
+  "slug": "earthy-baked-greek-corn-tacos",
+  "title": "Earthy Corn Tacos",
+  "description": "A flavorful twist on traditional tacos, featuring earthy mushrooms, baked corn, and a hint of greek yogurt.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup sliced",
+      "notes": "Earthy variety such as cremini or shiitake"
+    },
+    {
+      "name": "Corn",
+      "amount": "1 cup kernels",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tacos shells",
+      "amount": "6-8",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a bowl, toss corn kernels with 1 tablespoon olive oil, cumin, and chili powder. Spread on a baking sheet and bake for 15-20 minutes, or until lightly toasted.",
+    "3. In a separate pan, heat the remaining 1 tablespoon olive oil over medium heat. Add sliced mushrooms and cook until tender, about 5-7 minutes.",
+    "4. Warm tacos shells according to package instructions.",
+    "5. Assemble tacos by spooning mushroom mixture onto a shell, followed by toasted corn kernels, and a dollop of greek yogurt.",
+    "6. Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "earthy",
+    "baked",
+    "corn",
+    "tacos",
+    "mexican"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-baked-greek-corn-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T10:25:08.265Z"
+}
