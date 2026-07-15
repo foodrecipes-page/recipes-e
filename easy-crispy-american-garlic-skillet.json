@@ -1,0 +1,84 @@
+{
+  "slug": "easy-crispy-american-garlic-skillet",
+  "title": "Crispy Garlic American Skillet Meal",
+  "description": "A classic American-inspired skillet dish, featuring crispy garlic and easy-to-make ingredients.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "American Cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Crispy Bacon",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Skillet Hash Browns",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Scrambled Eggs",
+      "amount": "2 large eggs"
+    },
+    {
+      "name": "Chopped Fresh Chives",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cook the Skillet Hash Browns according to package instructions.",
+    "In a large skillet, cook the Crispy Bacon until crispy.",
+    "Remove the cooked bacon from the skillet and set aside.",
+    "Add the minced garlic to the skillet and cook for 1-2 minutes.",
+    "Crack the eggs into the skillet and scramble them.",
+    "Add the shredded American Cheese to the skillet and stir until melted.",
+    "Add the cooked Hash Browns and cooked bacon back into the skillet.",
+    "Stir everything together and season with salt and black pepper to taste.",
+    "Transfer the skillet to the oven and bake for 5-7 minutes, or until the cheese is bubbly.",
+    "Remove the skillet from the oven and sprinkle with chopped fresh chives.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "american",
+    "breakfast",
+    "brunch",
+    "skillet-dish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/easy-crispy-american-garlic-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T13:55:46.774Z"
+}
