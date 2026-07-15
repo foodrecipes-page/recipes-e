@@ -1,0 +1,85 @@
+{
+  "slug": "exotic-crunchy-chinese-saskatoon-berries-baozi",
+  "title": "Saskatoon Berry Baozi Dessert",
+  "description": "A sweet and exotic dessert featuring saskatoon berries and crunchy baozi crumbs.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Saskatoon Berries",
+      "amount": "250g",
+      "notes": null
+    },
+    {
+      "name": "Baozi",
+      "amount": "4 pieces",
+      "notes": "crushed into crumbs"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "100g",
+      "notes": null
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "20g",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "50ml",
+      "notes": null
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "20g",
+      "notes": null
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "5ml",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "In a bowl, mix together saskatoon berries, granulated sugar, cornstarch, and salt.",
+    "In a separate bowl, mix crushed baozi crumbs and unsalted butter until well combined.",
+    "Add the berry mixture to the baozi crumb mixture and stir until well combined.",
+    "Add water and vanilla extract to the mixture and stir until a dough forms.",
+    "Roll out the dough to a thickness of 1 cm (1/2 inch).",
+    "Cut out small squares of dough, about 5 cm (2 inches) per side.",
+    "Place a small spoonful of saskatoon berries in the center of each square.",
+    "Fold the dough over the berries to form a triangle and press the edges to seal.",
+    "Brush the tops of the baozi with unsalted butter and bake for 20-25 minutes.",
+    "Serve warm, dust with powdered sugar if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "saskatoon-berries",
+    "baozi",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-crunchy-chinese-saskatoon-berries-baozi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T13:50:41.682Z"
+}
