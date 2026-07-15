@@ -1,0 +1,68 @@
+{
+  "slug": "energizing-kenyan-herbal-toast",
+  "title": "Herbal Kenyan Energy Toast",
+  "description": "A refreshing and energizing toast infused with the flavors of Kenya, perfect for a morning pick-me-up.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Energizing Herbal Tea",
+      "amount": "1 tea bag",
+      "notes": ""
+    },
+    {
+      "name": "Whole Wheat Toast",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Mint Leaves",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Steep the energizing herbal tea in hot water for 3-5 minutes.",
+    "Toast the whole wheat bread until lightly browned.",
+    "Mash the fresh mint leaves to release their oils.",
+    "Mix the honey and cinnamon in a small bowl.",
+    "Assemble the toast by spreading the honey-cinnamon mixture on the toasted bread, then topping with the mint leaves and a teaspoon of steeped tea.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "herbal",
+    "kenyan",
+    "energizing",
+    "tea"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-kenyan-herbal-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T16:46:34.015Z"
+}
