@@ -1,0 +1,60 @@
+{
+  "slug": "energizing-smoky-toast-stir-fry--german",
+  "title": "Bratwurst mit Sauerkraut",
+  "description": "A classic German dish featuring grilled bratwurst sausage with tangy sauerkraut and crispy toast.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Bratwurst sausages",
+      "amount": "4"
+    },
+    {
+      "name": "Sauerkraut",
+      "amount": "1 head"
+    },
+    {
+      "name": "Rye bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Grill bratwurst sausages for 5-7 minutes per side, or until heated through.",
+    "3. Meanwhile, toast rye bread slices until lightly browned.",
+    "4. Spread butter on toasted bread.",
+    "5. Serve bratwurst sausages with sauerkraut and toasted bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "bratwurst",
+    "sauerkraut",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-smoky-toast-stir-fry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:17:41.840Z"
+}
