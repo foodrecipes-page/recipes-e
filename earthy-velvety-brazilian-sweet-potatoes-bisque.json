@@ -1,0 +1,71 @@
+{
+  "slug": "earthy-velvety-brazilian-sweet-potatoes-bisque",
+  "title": "Brazilian Sweet Potato Bisque",
+  "description": "A rich and creamy soup made with roasted sweet potatoes, earthy flavors, and a hint of velvety texture.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "earthly mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "velvety butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "brazilian spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roast sweet potatoes for 30 minutes, or until tender.",
+    "Sauté onion and garlic in butter until softened.",
+    "Add mushrooms and cook until they release their liquid.",
+    "Add roasted sweet potatoes, spice blend, and vegetable broth.",
+    "Puree soup in blender until smooth.",
+    "Return soup to pot and simmer for 10 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with chopped herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "vegetarian",
+    "brazilian",
+    "sweet-potato"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-velvety-brazilian-sweet-potatoes-bisque",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:36:27.508Z"
+}
