@@ -1,0 +1,85 @@
+{
+  "slug": "easy-elegant-american-pork-skillet",
+  "title": "Pan-Seared Pork Chops with American Glaze",
+  "description": "A classic American recipe featuring tender pork chops smothered in a sweet and sticky glaze, served with a side of roasted vegetables. This dish is perfect for a weeknight dinner or special occasion.",
+  "cuisine": "american",
+  "diet": [
+    "easy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork Chops (1 1/2 pounds)",
+      "amount": "",
+      "notes": "4-6 chops, depending on size"
+    },
+    {
+      "name": "Brown Sugar (1/2 cup)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Honey (2 tablespoons)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Dijon Mustard (2 tablespoons)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Apple Cider Vinegar (2 tablespoons)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt (1 teaspoon)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper (1/2 teaspoon)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil (2 tablespoons)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the pork chops with salt and black pepper.",
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Sear the pork chops for 2-3 minutes per side, or until browned and cooked to an internal temperature of 145°F.",
+    "Transfer the pork chops to a plate and cover with foil to keep warm.",
+    "Reduce heat to medium and add the remaining 1 tablespoon of olive oil to the skillet.",
+    "Add the brown sugar, honey, Dijon mustard, and apple cider vinegar to the skillet.",
+    "Bring the glaze to a simmer and cook for 2-3 minutes, or until thickened slightly.",
+    "Return the pork chops to the skillet and coat with the glaze.",
+    "Serve the pork chops hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "elegant",
+    "american",
+    "pork",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/easy-elegant-american-pork-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T13:27:00.228Z"
+}
