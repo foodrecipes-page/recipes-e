@@ -2364,18 +2364,15 @@
   },
   {
     "slug": "earthy-velvety-brazilian-sweet-potatoes-bisque",
-    "title": "Earthy Velvety Brazilian Sweet Potato Bisque",
+    "title": "Brazilian Sweet Potato Bisque",
     "tags": [
+      "soup",
+      "vegetarian",
       "brazilian",
-      "sweet-potato",
-      "bisque",
-      "curry",
-      "vegan",
-      "dairy-free",
-      "romantic"
+      "sweet-potato"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 80,
+    "totalTimeMin": 60,
     "shard": "e"
   },
   {
@@ -10004,6 +10001,18 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 45,
+    "shard": "e"
+  },
+  {
+    "slug": "earthy-grassy-peruvian-beef-anticuchos--vegan",
+    "title": "Grilled Anticuchos-Style Tofu with Earthy Chimichurri",
+    "tags": [
+      "vegan",
+      "peruvian",
+      "grilled"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 30,
     "shard": "e"
   }
 ]
