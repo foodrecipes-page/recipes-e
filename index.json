@@ -6756,18 +6756,15 @@
   },
   {
     "slug": "excitingly-sour-canadian-noodles-noodles",
-    "title": "Sour Canadian Noodle Soup",
+    "title": "Spicy Sour Noodle Soup",
     "tags": [
-      "canadian",
-      "gluten-free",
-      "noodles",
-      "one-pan",
-      "soup",
       "sour",
-      "vegan"
+      "noodle",
+      "soup",
+      "canadian"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 22,
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
