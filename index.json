@@ -554,16 +554,16 @@
   },
   {
     "slug": "earthy-baked-greek-corn-tacos",
-    "title": "Earthy Baked Greek Corn Tacos",
+    "title": "Earthy Corn Tacos",
     "tags": [
-      "greek-cuisine",
-      "one-pan",
-      "plant-based",
-      "taco-night",
-      "weeknight"
+      "earthy",
+      "baked",
+      "corn",
+      "tacos",
+      "mexican"
     ],
-    "cuisine": "Greek",
-    "totalTimeMin": 55,
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
     "shard": "e"
   },
   {
