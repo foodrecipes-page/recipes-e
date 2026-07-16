@@ -10102,5 +10102,18 @@
     "cuisine": "italian",
     "totalTimeMin": 35,
     "shard": "e"
+  },
+  {
+    "slug": "earthy-flaky-chuck-roast-crumble--chinese",
+    "title": "Crispy Roast Beef with Crumbly Topping",
+    "tags": [
+      "chinese",
+      "beef",
+      "crispy",
+      "crumbly"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 140,
+    "shard": "e"
   }
 ]
