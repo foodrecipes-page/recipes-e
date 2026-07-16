@@ -10138,5 +10138,31 @@
     "cuisine": "thai",
     "totalTimeMin": 25,
     "shard": "e"
+  },
+  {
+    "slug": "exotic-juicy-australian-rice-noodles-noodles--chinese",
+    "title": "Australian-Style Stir Fried Noodles",
+    "tags": [
+      "australian",
+      "chinese",
+      "beef",
+      "stir-fry"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "e"
+  },
+  {
+    "slug": "earthy-crispy-jamaican-celeriac-crumble--french",
+    "title": "Roasted Celeriac Gratin",
+    "tags": [
+      "celeriac",
+      "gratin",
+      "french",
+      "side dish"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
+    "shard": "e"
   }
 ]
