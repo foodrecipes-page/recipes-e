@@ -1,0 +1,78 @@
+{
+  "slug": "energizing-smoky-toast-stir-fry--vegetarian",
+  "title": "Spicy Smoky Veggie Wrap",
+  "description": "A flavorful and energizing vegetarian wrap filled with sautéed vegetables and served in a crispy whole wheat toast.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Whole wheat toast",
+      "amount": "2 slices",
+      "notes": null
+    },
+    {
+      "name": "Spinach",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "button"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Smoky eggplant",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Energizing hummus",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Cheese shreds",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a pan over medium-high heat.",
+    "2. Add a tablespoon of oil to the pan, then add the mushrooms and sauté for 2-3 minutes.",
+    "3. Add the red bell pepper and sauté for another 2-3 minutes.",
+    "4. Add the spinach and eggplant, stir-fry for 2 minutes.",
+    "5. Spread a tablespoon of hummus on each slice of whole wheat toast.",
+    "6. Assemble the wrap by placing the sautéed vegetables on top of the hummus.",
+    "7. Top with cheese shreds (if using).",
+    "8. Fold the wrap in half and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "vegetarian",
+    "wrap",
+    "saute"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-smoky-toast-stir-fry--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:48:25.894Z"
+}
