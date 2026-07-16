@@ -1,0 +1,68 @@
+{
+  "slug": "earthy-flaky-chuck-roast-crumble",
+  "title": "Roasted Earthy Flaky Crumble",
+  "description": "A hearty, comforting dessert with a crunchy topping and a rich, earthy flavor.",
+  "cuisine": "british",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "earthy mushroom",
+      "amount": "250g",
+      "notes": "varietal mix of wild mushrooms"
+    },
+    {
+      "name": "flaky pastry",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "chuck roast",
+      "amount": "50g",
+      "notes": "diced, used for the crumble topping"
+    },
+    {
+      "name": "roast potato",
+      "amount": "2",
+      "notes": "thinly sliced, used for the base of the crumble"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tbsp",
+      "notes": "for the crumble topping"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the flaky pastry and place on a baking sheet.",
+    "Arrange the thinly sliced roast potatoes on top of the pastry.",
+    "In a separate bowl, mix together the diced chuck roast, brown sugar, and a pinch of salt.",
+    "Sprinkle the crumble topping evenly over the potatoes.",
+    "Bake in the preheated oven for 25-30 minutes, or until the pastry is golden brown and the crumble is crispy.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "homemade",
+    "pastry",
+    "mushroom"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-flaky-chuck-roast-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T22:16:11.800Z"
+}
