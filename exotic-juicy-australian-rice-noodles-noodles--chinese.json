@@ -1,0 +1,74 @@
+{
+  "slug": "exotic-juicy-australian-rice-noodles-noodles--chinese",
+  "title": "Australian-Style Stir Fried Noodles",
+  "description": "A simple and flavorful Chinese-inspired dish made with Australian beef, noodles, and exotic vegetables.",
+  "cuisine": "chinese",
+  "diet": [
+    "pork",
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian beef strips",
+      "amount": "200g",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Noodles",
+      "amount": "250g",
+      "notes": "Rice noodles or egg noodles"
+    },
+    {
+      "name": "Exotic bell peppers",
+      "amount": "2",
+      "notes": "Assorted colors"
+    },
+    {
+      "name": "Australian onions",
+      "amount": "1",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "For stir-frying"
+    }
+  ],
+  "instructions": [
+    "1. Cook the noodles according to package instructions.",
+    "2. In a large wok or frying pan, heat the sesame oil to medium-high heat.",
+    "3. Add the Australian beef to the wok and stir-fry for 3-4 minutes.",
+    "4. Add the bell peppers and onions to the wok and stir-fry for another 2-3 minutes.",
+    "5. Add the cooked noodles to the wok and stir-fry for 1-2 minutes.",
+    "6. Season the noodles with rice vinegar (if using) and serve hot.",
+    "7. Garnish with sliced green onions and sesame seeds (optional).",
+    "8. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "chinese",
+    "beef",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "40g",
+    "carbs": "60g",
+    "fat": "20g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-juicy-australian-rice-noodles-noodles--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T08:06:05.291Z"
+}
