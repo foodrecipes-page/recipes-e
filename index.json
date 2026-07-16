@@ -10066,5 +10066,29 @@
     "cuisine": "italian",
     "totalTimeMin": 15,
     "shard": "e"
+  },
+  {
+    "slug": "energizing-smoky-toast-stir-fry--vegetarian",
+    "title": "Spicy Smoky Veggie Wrap",
+    "tags": [
+      "breakfast",
+      "vegetarian",
+      "wrap",
+      "saute"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 15,
+    "shard": "e"
+  },
+  {
+    "slug": "energizing-smoky-toast-stir-fry--gluten-free",
+    "title": "Smoky Energizing Stir Fry",
+    "tags": [
+      "gluten-free",
+      "quick-and-easy"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "e"
   }
 ]
