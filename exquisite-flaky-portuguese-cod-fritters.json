@@ -1,0 +1,70 @@
+{
+  "slug": "exquisite-flaky-portuguese-cod-fritters",
+  "title": "Portuguese Cod Fritters",
+  "description": "A traditional Portuguese recipe to make crispy cod fritters with a delicate balance of flavors. Serve as a snack or side dish.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Portuguese Cod",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Exquisite All-Purpose Flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Flaky Breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "1. Rinse the cod under cold water, pat dry with paper towels, and cut into small pieces.",
+    "2. In a large bowl, mix together the flour, eggs, milk, and a pinch of salt.",
+    "3. Add the chopped parsley to the bowl and mix well.",
+    "4. Add the cod pieces to the bowl and gently fold into the mixture.",
+    "5. Gradually add the breadcrumbs to the bowl and mix until the fritter mixture is smooth.",
+    "6. Heat about 2-3 inches of vegetable oil in a deep frying pan over medium heat.",
+    "7. Using a spoon, drop small portions of the fritter mixture into the hot oil.",
+    "8. Fry the fritters until they are golden brown and crispy, about 3-4 minutes per side.",
+    "9. Remove the fritters from the oil with a slotted spoon and drain on paper towels.",
+    "10. Serve the fritters hot with a side of your favorite dipping sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "cod",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exquisite-flaky-portuguese-cod-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T04:16:16.343Z"
+}
