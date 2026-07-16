@@ -1,0 +1,91 @@
+{
+  "slug": "easy-silky-malaysian-chicken-noodles--italian",
+  "title": "Creamy Chicken Fettuccine",
+  "description": "A rich and creamy Italian dish made with fettuccine noodles, chicken, and a silky sauce.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 pound boneless, skinless chicken breast",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "fettuccine noodles",
+      "amount": "1 pound",
+      "notes": "Fresh or dried"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "Freshly made whipped cream can be substituted"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup grated",
+      "notes": "Freshly shredded"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the fettuccine noodles according to package instructions.",
+    "In a large skillet, melt 2 tablespoons of butter over medium heat.",
+    "Add the diced onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Melt the remaining 2 tablespoons of butter in the skillet.",
+    "Pour in the heavy cream and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for 2-3 minutes or until it thickens slightly.",
+    "Stir in the grated parmesan cheese until melted and smooth.",
+    "Add the cooked fettuccine noodles to the sauce and toss to coat.",
+    "Return the chicken to the skillet and toss to combine.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pasta",
+    "chicken",
+    "cream sauce"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 45,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/easy-silky-malaysian-chicken-noodles--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T00:35:34.796Z"
+}
