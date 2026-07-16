@@ -1,0 +1,73 @@
+{
+  "slug": "earthy-crispy-jamaican-celeriac-crumble",
+  "title": "Roasted Jamaican Celeriac with Crispy Topping",
+  "description": "A flavorful and nutritious side dish that combines the earthy sweetness of celeriac with the crunch of crispy topping. Perfect for a weeknight dinner.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "celeriac",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "crispy",
+      "amount": "1/2 cup",
+      "notes": "crushed crackers"
+    },
+    {
+      "name": "jamaican",
+      "amount": "2 tbsp",
+      "notes": "allspice"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for roasting"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Toss the celeriac with olive oil, salt, and pepper on a baking sheet.",
+    "Roast in the oven for 20-25 minutes, or until tender and caramelized.",
+    "In a separate pan, toast the crushed crackers over medium heat until crispy.",
+    "Sprinkle the toasted crackers over the roasted celeriac.",
+    "Mix in the Jamaican allspice and toss to coat.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "celeriac",
+    "jamaican-spice",
+    "crispy-topping",
+    "roasted-vegetables"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-crispy-jamaican-celeriac-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T21:06:16.191Z"
+}
