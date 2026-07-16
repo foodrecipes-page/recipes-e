@@ -1,0 +1,67 @@
+{
+  "slug": "earthy-gooey-algerian-almond-butter-bao--gluten-free",
+  "title": "Algerian Bao with Almond Butter Filling",
+  "description": "Delicious Algerian-inspired bao filled with a rich almond butter and gooey honey filling, perfect as a snack or dessert.",
+  "cuisine": "Algerian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bao",
+      "amount": "4 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Almond Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": "Gooey honey for filling"
+    },
+    {
+      "name": "Earthly Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "Optional topping"
+    },
+    {
+      "name": "Algerian Spice Mix",
+      "amount": "1 pinch",
+      "notes": "For flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Bake the bao for 10-12 minutes or until lightly toasted.",
+    "Mix the almond butter and honey in a bowl until smooth.",
+    "Spread the almond butter mixture evenly on the inside of each bao.",
+    "Optional: Sprinkle sesame seeds on top of the filling.",
+    "Garnish with a pinch of Algerian spice mix.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "bao",
+    "snack",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 24,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-gooey-algerian-almond-butter-bao--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T02:35:57.275Z"
+}
