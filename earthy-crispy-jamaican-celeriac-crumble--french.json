@@ -1,0 +1,76 @@
+{
+  "slug": "earthy-crispy-jamaican-celeriac-crumble--french",
+  "title": "Roasted Celeriac Gratin",
+  "description": "A rich and creamy French side dish featuring roasted celeriac topped with a crunchy crumble.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "Celeriac",
+      "amount": "1 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "Jamaican allspice",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Crispy breadcrumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Earthy brown sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Crumbles",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Toss the celeriac cubes with brown sugar, allspice, salt, and pepper in a bowl.",
+    "Spread the celeriac on a baking sheet and roast for 20 minutes.",
+    "While the celeriac is roasting, mix the breadcrumbs with crumbles in a separate bowl.",
+    "After the celeriac has roasted for 20 minutes, remove it from the oven and top it with the breadcrumb mixture.",
+    "Dot the top with butter and return to the oven for an additional 10-15 minutes, or until golden brown.",
+    "Remove from the oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "celeriac",
+    "gratin",
+    "french",
+    "side dish"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-crispy-jamaican-celeriac-crumble--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T08:40:53.252Z"
+}
