@@ -10089,5 +10089,18 @@
     "cuisine": null,
     "totalTimeMin": 25,
     "shard": "e"
+  },
+  {
+    "slug": "easy-silky-malaysian-chicken-noodles--italian",
+    "title": "Creamy Chicken Fettuccine",
+    "tags": [
+      "italian",
+      "pasta",
+      "chicken",
+      "cream sauce"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "e"
   }
 ]
