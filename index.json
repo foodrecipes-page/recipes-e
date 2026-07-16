@@ -10125,5 +10125,18 @@
     "cuisine": "Algerian",
     "totalTimeMin": 25,
     "shard": "e"
+  },
+  {
+    "slug": "elegant-crispy-british-seafood-tart--thai",
+    "title": "Thai-Style Crispy Fish Cakes",
+    "tags": [
+      "thaifood",
+      "seafood",
+      "snack",
+      "appetizer"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "e"
   }
 ]
