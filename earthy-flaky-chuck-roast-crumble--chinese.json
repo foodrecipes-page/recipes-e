@@ -1,0 +1,92 @@
+{
+  "slug": "earthy-flaky-chuck-roast-crumble--chinese",
+  "title": "Crispy Roast Beef with Crumbly Topping",
+  "description": "A twist on traditional roast beef, served with a crunchy crumbly topping. This dish is a perfect blend of flavors and textures, sure to impress your family and friends.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Roast beef chuck",
+      "amount": "1.5 pounds",
+      "notes": "Choose a chuck roast with a good amount of marbling"
+    },
+    {
+      "name": "Earthly herbs",
+      "amount": "1 tablespoon",
+      "notes": "Use a combination of thyme, rosemary, and oregano"
+    },
+    {
+      "name": "Flaky pastry",
+      "amount": "1 package",
+      "notes": "Make sure to thaw the pastry first"
+    },
+    {
+      "name": "Crumbles",
+      "amount": "1 cup",
+      "notes": "You can use a store-bought crumble mix or make your own"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a good quality sesame oil for the best flavor"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Use a low-sodium soy sauce for a healthier option"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "Use a high-quality brown sugar for the best flavor"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Use fresh ginger for the best flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Use fresh garlic for the best flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Use kosher salt for the best flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Season the roast beef with earthy herbs, salt, and pepper.",
+    "Heat the sesame oil in a large Dutch oven over medium-high heat. Sear the roast beef until browned on all sides.",
+    "Transfer the roast beef to the preheated oven and roast for 20 minutes per pound.",
+    "While the roast beef is cooking, prepare the crumbly topping by mixing together the crumbles, brown sugar, ginger, and garlic.",
+    "After the roast beef has cooked for 20 minutes, remove it from the oven and brush the crumbly topping all over the top.",
+    "Return the roast beef to the oven and continue cooking for an additional 10-15 minutes, or until the crumbly topping is golden brown.",
+    "Remove the roast beef from the oven and let it rest for 10-15 minutes before slicing.",
+    "Serve the roast beef with the crumbly topping and your favorite sides."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "beef",
+    "crispy",
+    "crumbly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-flaky-chuck-roast-crumble--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T01:20:29.397Z"
+}
