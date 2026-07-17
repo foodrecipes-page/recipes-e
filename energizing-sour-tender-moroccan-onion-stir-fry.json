@@ -1,0 +1,79 @@
+{
+  "slug": "energizing-sour-tender-moroccan-onion-stir-fry",
+  "title": "Moroccan Chicken Stir Fry",
+  "description": "A flavorful and nutritious stir fry dish with the bold flavors of Moroccan spices.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "moroccan spice blend",
+      "amount": "2 teaspoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "stir-fry sauce",
+      "amount": "2 tablespoons",
+      "notes": "or substitute with soy sauce"
+    },
+    {
+      "name": "tender bell peppers",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "sour lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "cooking oil",
+      "amount": "2 tablespoons",
+      "notes": "vegetable or canola oil"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add chicken and cook until browned, about 5-6 minutes.",
+    "Remove chicken from skillet and set aside.",
+    "Add sliced onion and cook until softened, about 3-4 minutes.",
+    "Add bell peppers and cook until tender, about 4-5 minutes.",
+    "Return chicken to skillet and stir in moroccan spice blend and stir-fry sauce.",
+    "Cook for an additional 2-3 minutes or until chicken is cooked through.",
+    "Stir in sour lemon juice and season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "chicken",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-sour-tender-moroccan-onion-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T22:55:29.838Z"
+}
