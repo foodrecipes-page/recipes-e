@@ -1912,13 +1912,13 @@
   },
   {
     "slug": "earthy-russian-lentils-stew",
-    "title": "Earthy Russian Lentils Stew",
+    "title": "Russian Lentil Stew",
     "tags": [
-      "comfort-food",
-      "hearty",
-      "lentils",
+      "russian",
+      "lentil",
       "stew",
-      "vegan-friendly"
+      "comfort-food",
+      "vegetarian"
     ],
     "cuisine": "Russian",
     "totalTimeMin": 55,
@@ -10266,6 +10266,18 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 48,
+    "shard": "e"
+  },
+  {
+    "slug": "exquisite-crispy-french-beef-brochette--french",
+    "title": "Pan-Seared Beef Brochette",
+    "tags": [
+      "french",
+      "beef",
+      "main-course"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 27,
     "shard": "e"
   }
 ]
