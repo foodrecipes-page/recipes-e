@@ -4679,17 +4679,15 @@
   },
   {
     "slug": "emulsified-dense-vietnamese-rainbow-trout-mi-quang",
-    "title": "Emulsified Dense Vietnamese Rainbow Trout Mi Quang",
+    "title": "Vietnamese Rainbow Trout",
     "tags": [
-      "gluten-free",
-      "noodle-dish",
-      "pescatarian",
-      "quick-fix",
-      "seafood",
-      "vietnamese-cuisine"
+      "vietnamese",
+      "rainbowtrout",
+      "fish",
+      "gluten-free"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 23,
     "shard": "e"
   },
   {
