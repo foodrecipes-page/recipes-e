@@ -1,0 +1,82 @@
+{
+  "slug": "exotic-crunchy-moroccan-brussels-sprouts-seffa--mexican",
+  "title": "Moroccan Grilled Steak Fajitas",
+  "description": "Succulent steak and crunchy vegetables, marinated in a blend of moroccan spices, grilled to perfection and served with warm flour tortillas.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "seffa steak",
+      "amount": "1 lb",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "exotic pepper",
+      "amount": "2",
+      "notes": "seeded and sliced"
+    },
+    {
+      "name": "moroccan spice blend",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "brussels sprouts",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "crunchy cabbage",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for grilling"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together moroccan spice blend, olive oil, and salt. Add the sliced seffa steak and marinate for at least 30 minutes.",
+    "Remove the steak from the marinade and grill for 5-7 minutes per side, or until cooked to desired level of doneness.",
+    "Meanwhile, grill the sliced exotic pepper and brussels sprouts for 3-4 minutes per side, or until slightly charred.",
+    "Warm flour tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the fajitas by slicing the grilled steak against the grain and serving with the grilled vegetables, crunchy cabbage, and a sprinkle of chopped fresh cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "grilled",
+    "fajitas",
+    "steak"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-crunchy-moroccan-brussels-sprouts-seffa--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T16:21:15.052Z"
+}
