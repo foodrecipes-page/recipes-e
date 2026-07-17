@@ -1,0 +1,79 @@
+{
+  "slug": "extraordinary-roasted-american-tod-grill--japanese",
+  "title": "Yakitori-Style Chicken Skewers",
+  "description": "Grilled chicken skewers inspired by Japanese street food, typically made with bite-sized pieces of meat cooked over charcoal.",
+  "cuisine": "japanese",
+  "diet": [
+    "pork-free",
+    "lactose-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for marinating"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tbsp",
+      "notes": "for marinating"
+    },
+    {
+      "name": "roasted sesame oil",
+      "amount": "1 tsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves",
+      "notes": "for marinating"
+    },
+    {
+      "name": "grill",
+      "amount": "",
+      "notes": "for cooking"
+    },
+    {
+      "name": "american",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together soy sauce, brown sugar, and sesame oil.",
+    "Add chicken pieces to the marinade and mix well.",
+    "Let it marinate for at least 30 minutes.",
+    "Thread the marinated chicken onto skewers.",
+    "Grill the skewers for 8-10 minutes, or until chicken is cooked through.",
+    "Brush with roasted sesame oil during the last 2 minutes of grilling.",
+    "Remove from heat and let it rest for 2 minutes.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "grill",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/extraordinary-roasted-american-tod-grill--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T21:13:43.457Z"
+}
