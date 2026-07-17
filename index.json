@@ -8256,17 +8256,15 @@
   },
   {
     "slug": "exotic-syrian-lamb-tagine",
-    "title": "Exotic Syrian Lamb Tagine",
+    "title": "Syrian-Style Lamb Tagine",
     "tags": [
-      "fruity-and-savory",
-      "lamb-recipes",
-      "middle-eastern",
-      "special-occasion",
-      "syrian-cuisine",
-      "wine-braised"
+      "lamb",
+      "syrian",
+      "stew",
+      "couscous"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 180,
+    "totalTimeMin": 110,
     "shard": "e"
   },
   {
@@ -10218,6 +10216,20 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 25,
+    "shard": "e"
+  },
+  {
+    "slug": "earthy-greek-scamorza-revithia--italian",
+    "title": "Revithia and Scamorza Bruschetta",
+    "tags": [
+      "italian",
+      "appetizer",
+      "bruschetta",
+      "revithia",
+      "scamorza"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 22,
     "shard": "e"
   }
 ]
