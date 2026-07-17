@@ -1,0 +1,72 @@
+{
+  "slug": "earthy-crunchy-garlic-italian-stir-fry",
+  "title": "Garlic Stir Fry with Italian Crunch",
+  "description": "A quick and flavorful stir fry recipe combining earthy vegetables with crunchy Italian flair.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "broccoli",
+      "amount": "2 cups"
+    },
+    {
+      "name": "bell peppers (any color)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Italian breadcrumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce (or tamari)",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add minced garlic and sauté for 1 minute.",
+    "Add broccoli, bell peppers, and onion. Cook until vegetables are tender-crisp.",
+    "In a small bowl, mix Italian breadcrumbs and soy sauce. Sprinkle over vegetables.",
+    "Stir-fry for an additional 2-3 minutes, until breadcrumbs are lightly toasted.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional Italian breadcrumbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "stir-fry",
+    "garlic",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-crunchy-garlic-italian-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T18:28:47.377Z"
+}
