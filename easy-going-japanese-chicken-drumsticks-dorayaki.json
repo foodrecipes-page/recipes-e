@@ -1,0 +1,74 @@
+{
+  "slug": "easy-going-japanese-chicken-drumsticks-dorayaki",
+  "title": "Sweet Dorayaki Chicken Drumsticks",
+  "description": "Crunchy chicken drumsticks smothered in a sweet dorayaki-inspired teriyaki sauce, perfect for a quick Japanese-style dinner.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken drumsticks",
+      "amount": "1 1/2 pounds"
+    },
+    {
+      "name": "dorayaki",
+      "amount": "2"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "In a blender or food processor, combine 1/4 cup soy sauce, 2 tablespoons brown sugar, 2 tablespoons rice vinegar, and 1 tablespoon sesame oil. Blend until smooth.",
+    "Add 1-2 dorayaki to the blender and blend until well combined.",
+    "Place the chicken drumsticks in a large bowl and pour the dorayaki sauce over them. Toss to coat.",
+    "Line a baking sheet with aluminum foil or parchment paper and spray with cooking spray. Arrange the chicken drumsticks on the baking sheet.",
+    "Bake for 20-25 minutes, or until cooked through.",
+    "While the chicken is baking, toast the dorayaki slices in a toaster or under the broiler for 2-3 minutes, or until lightly browned.",
+    "Once the chicken is done, brush the dorayaki slices with a little water and place them on top of the chicken drumsticks.",
+    "Sprinkle with green onions and serve hot.",
+    "Garnish with additional green onions and dorayaki slices, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "dinner",
+    "japanese",
+    "sweet",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/easy-going-japanese-chicken-drumsticks-dorayaki",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T18:39:33.523Z"
+}
