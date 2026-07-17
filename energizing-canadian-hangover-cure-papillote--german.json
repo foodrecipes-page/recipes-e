@@ -1,0 +1,85 @@
+{
+  "slug": "energizing-canadian-hangover-cure-papillote--german",
+  "title": "German Hangover Cure Papillote",
+  "description": "A German-inspired dish to help alleviate hangovers, featuring a poached egg and Canadian bacon in a flavorful papillote.",
+  "cuisine": "german",
+  "diet": [
+    "pork-free",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Canadian Bacon",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Spinach",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Watercress",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut a piece of parchment paper to fit a small baking dish.",
+    "Place 2 slices of Canadian bacon on the parchment paper.",
+    "Place an egg on top of the Canadian bacon.",
+    "Sprinkle garlic and spinach over the egg.",
+    "Fold the parchment paper to create a papillote.",
+    "Place the papillote in a small baking dish and bake for 12-15 minutes.",
+    "Remove the papillote from the oven and sprinkle with lemon juice, salt, and black pepper.",
+    "Serve the papillote with a side of watercress and Canadian bacon."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "hangover-cure",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-canadian-hangover-cure-papillote--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T13:14:10.705Z"
+}
