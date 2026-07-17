@@ -1,0 +1,70 @@
+{
+  "slug": "exotic-earthy-egyptian-ricotta-tagine",
+  "title": "Egyptian Ricotta Tagine",
+  "description": "A unique dessert that combines the creaminess of ricotta with the exotic flavors of the Middle East.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ricotta",
+      "amount": "1 cup"
+    },
+    {
+      "name": "exotic spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "earthy honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "egyptian rose water",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tagine spice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "dried dates",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Mix ricotta, exotic spice blend, earthy honey, egyptian rose water, and tagine spice in a bowl.",
+    "Pour the mixture into a baking dish.",
+    "Bake for 20-25 minutes or until the mixture is set.",
+    "Sprinkle pistachios and dried dates on top.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ricotta",
+    "middle-eastern",
+    "dessert",
+    "exotic",
+    "honey"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-earthy-egyptian-ricotta-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T17:38:26.524Z"
+}
