@@ -1,0 +1,81 @@
+{
+  "slug": "emulsified-dense-vietnamese-rainbow-trout-mi-quang",
+  "title": "Vietnamese Rainbow Trout",
+  "description": "A flavorful and vibrant dish combining the delicacy of trout with the boldness of Vietnamese flavors.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rainbow Trout Fillets",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Mi Quang Spice Blend",
+      "amount": "1 tsp",
+      "notes": "available at Asian markets"
+    },
+    {
+      "name": "Vitamin E Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Dense Vietnamese Fish Sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Emulsified Soy Sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Rainbow Basil",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Lime Wedges",
+      "amount": "4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Rinse the trout fillets and pat them dry.",
+    "3. In a small bowl, mix together the Mi Quang Spice Blend, Vitamin E Oil, Dense Vietnamese Fish Sauce, and Emulsified Soy Sauce.",
+    "4. Brush the spice blend mixture evenly onto both sides of the trout fillets.",
+    "5. Place the trout fillets on a baking sheet lined with parchment paper.",
+    "6. Bake the trout in the preheated oven for 8-10 minutes, or until cooked through.",
+    "7. While the trout is baking, chop the fresh Rainbow Basil into small pieces.",
+    "8. Once the trout is cooked, remove it from the oven and let it rest for 2-3 minutes.",
+    "9. Serve the trout hot, garnished with chopped Rainbow Basil and a squeeze of lime juice.",
+    "10. Serve with additional lime wedges on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "rainbowtrout",
+    "fish",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/emulsified-dense-vietnamese-rainbow-trout-mi-quang",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T14:36:16.211Z"
+}
