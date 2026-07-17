@@ -5952,16 +5952,14 @@
   },
   {
     "slug": "energizing-sour-tender-moroccan-onion-stir-fry",
-    "title": "Energizing Sour Tender Moroccan Onion Stir-fry",
+    "title": "Moroccan Chicken Stir Fry",
     "tags": [
       "moroccan",
-      "sour",
-      "energizing",
-      "stir-fry",
-      "dash-friendly"
+      "chicken",
+      "stir-fry"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {
@@ -7571,14 +7569,13 @@
   },
   {
     "slug": "exotic-juicy-middle-eastern-kidney-beans-fatteh",
-    "title": "Exotic Juicy Middle Eastern Kidney Beans Fatteh",
+    "title": "Fatteh Stuffed Kidney Beans",
     "tags": [
-      "high-fiber",
+      "kidney-beans",
+      "fatteh",
       "middle-eastern",
-      "nutritious",
-      "one-pot",
-      "ovo-vegetarian",
-      "weeknight"
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 35,
@@ -10253,6 +10250,22 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
+    "slug": "easy-grilled-australian-lamb-skewers--indian",
+    "title": "Australian-Style Lamb Skewers",
+    "tags": [
+      "easy",
+      "grilled",
+      "australian",
+      "lamb",
+      "skewers",
+      "indian",
+      "barbecue"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 48,
     "shard": "e"
   }
 ]
