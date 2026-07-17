@@ -10241,5 +10241,18 @@
     "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "e"
+  },
+  {
+    "slug": "earthy-gooey-argentinian-dijon-mustard-spread-wrap--chinese",
+    "title": "Argentinian Beef Empanadas with Dijon Mustard",
+    "tags": [
+      "argentinian",
+      "beef",
+      "empanadas",
+      "chinese"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "e"
   }
 ]
