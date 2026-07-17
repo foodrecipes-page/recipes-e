@@ -7180,17 +7180,16 @@
   },
   {
     "slug": "exotic-earthy-egyptian-ricotta-tagine",
-    "title": "Exotic Earthy Egyptian Ricotta Tagine",
+    "title": "Egyptian Ricotta Tagine",
     "tags": [
-      "ayurvedic",
-      "middle-eastern",
-      "one-pan",
       "ricotta",
-      "vegetarian",
-      "weeknight"
+      "middle-eastern",
+      "dessert",
+      "exotic",
+      "honey"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 55,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {
@@ -10206,6 +10205,19 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
+    "slug": "enticingly-caramelized-korean-garlic-jjigae--chinese",
+    "title": "Korean-Style Chinese-Style Stir-Fried Jjigae",
+    "tags": [
+      "korean",
+      "chinese",
+      "stir-fry",
+      "jjigae"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "e"
   }
 ]
