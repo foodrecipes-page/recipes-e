@@ -1,0 +1,95 @@
+{
+  "slug": "enticingly-caramelized-korean-garlic-jjigae--chinese",
+  "title": "Korean-Style Chinese-Style Stir-Fried Jjigae",
+  "description": "A fusion twist on traditional stir-fry with the bold flavors of Korean jjigae. Caramelized garlic and onions add a sweet depth, while the Chinese stir-fry technique brings a delicate crunch.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Caramelized garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Caramelized onion",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Jjigae",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of sesame oil in a wok or large skillet over medium-high heat.",
+    "Add the caramelized garlic and cook for 1 minute, until fragrant.",
+    "Add the caramelized onion and cook for 2 minutes, until softened.",
+    "Add the Korean chili flakes and cook for 30 seconds, until fragrant.",
+    "Add the jjigae and cook for 2-3 minutes, until heated through.",
+    "Add the soy sauce, rice vinegar, and grated ginger. Stir-fry for 1-2 minutes, until combined.",
+    "Season with salt to taste.",
+    "Transfer to a serving platter and garnish with green onions.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "chinese",
+    "stir-fry",
+    "jjigae"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/enticingly-caramelized-korean-garlic-jjigae--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T17:53:44.888Z"
+}
