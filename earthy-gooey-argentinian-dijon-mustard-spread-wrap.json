@@ -1,0 +1,91 @@
+{
+  "slug": "earthy-gooey-argentinian-dijon-mustard-spread-wrap",
+  "title": "Argentinian Wrap",
+  "description": "A flavorful and savory wrap filled with the bold flavors of Argentina. This dish is perfect for a quick snack or lunch.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Argentinian Wrap",
+      "amount": "1",
+      "notes": "Any type of flatbread or tortilla will work."
+    },
+    {
+      "name": "Earthy Mushroom Spread",
+      "amount": "2 tbsp",
+      "notes": "You can use any type of mushroom, but earthy mushrooms work best."
+    },
+    {
+      "name": "Gooey Melted Cheese",
+      "amount": "1/4 cup",
+      "notes": "Cheddar or mozzarella work well for this recipe."
+    },
+    {
+      "name": "Dijon Mustard",
+      "amount": "1 tsp",
+      "notes": "Adding a bit of mustard adds a nice tanginess to the dish."
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped cilantro adds a nice freshness to the dish."
+    },
+    {
+      "name": "Sliced Onions",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced onions add a nice crunch to the dish."
+    },
+    {
+      "name": "Sliced Bell Peppers",
+      "amount": "1/2 cup",
+      "notes": "Bell peppers add a nice crunch and sweetness to the dish."
+    },
+    {
+      "name": "Sliced Olives",
+      "amount": "1/4 cup",
+      "notes": "Green or black olives work well for this recipe."
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": "Season to taste."
+    }
+  ],
+  "instructions": [
+    "Preheat a pan over medium heat.",
+    "Add the sliced onions and bell peppers to the pan and cook until they are tender.",
+    "Add the sliced olives to the pan and cook for an additional 2 minutes.",
+    "Add the earthy mushroom spread to the pan and cook until it is heated through.",
+    "Add the gooey melted cheese to the pan and cook until it is melted and bubbly.",
+    "Add the dijon mustard to the pan and stir to combine.",
+    "Add the sliced onions, bell peppers, and olives back to the pan and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Warm the Argentinian wrap in a pan or in the microwave.",
+    "Assemble the wrap by spooning the filling onto the center of the wrap and topping with fresh cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "wrap",
+    "lunch",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-gooey-argentinian-dijon-mustard-spread-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T21:00:59.367Z"
+}
