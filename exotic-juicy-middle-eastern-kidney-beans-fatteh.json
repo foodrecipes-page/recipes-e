@@ -1,0 +1,71 @@
+{
+  "slug": "exotic-juicy-middle-eastern-kidney-beans-fatteh",
+  "title": "Fatteh Stuffed Kidney Beans",
+  "description": "A flavorful and nutritious dish that combines the exotic flavors of middle eastern cuisine with the comfort of stuffed kidney beans.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kidney Beans",
+      "amount": "1 cup, cooked"
+    },
+    {
+      "name": "Fatteh",
+      "amount": "1 cup, crumbled"
+    },
+    {
+      "name": "Exotic Spices",
+      "amount": "1 tsp, ground",
+      "notes": "Cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "Juicy Onions",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Middle Eastern Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Eastern Olive Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large pan, heat the olive oil over medium heat.",
+    "Add the chopped onions and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the cooked kidney beans, crumbled fatteh, and exotic spices to the pan.",
+    "Mix well to combine and cook for 2-3 minutes.",
+    "Transfer the mixture to a baking dish and top with additional fatteh.",
+    "Bake in the preheated oven for 15-20 minutes, or until lightly browned.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kidney-beans",
+    "fatteh",
+    "middle-eastern",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-juicy-middle-eastern-kidney-beans-fatteh",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T23:07:48.035Z"
+}
