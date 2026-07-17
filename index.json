@@ -10183,5 +10183,16 @@
     "cuisine": "german",
     "totalTimeMin": 22,
     "shard": "e"
+  },
+  {
+    "slug": "emulsified-dense-vietnamese-rainbow-trout-mi-quang--italian",
+    "title": "Rainbow Trout with Vietnamese-Style Emulsified Sauce and Mi Quang Rice",
+    "tags": [
+      "italian",
+      "fish"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 27,
+    "shard": "e"
   }
 ]
