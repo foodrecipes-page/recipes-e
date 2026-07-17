@@ -10194,5 +10194,18 @@
     "cuisine": "italian",
     "totalTimeMin": 27,
     "shard": "e"
+  },
+  {
+    "slug": "exotic-crunchy-moroccan-brussels-sprouts-seffa--mexican",
+    "title": "Moroccan Grilled Steak Fajitas",
+    "tags": [
+      "mexican",
+      "grilled",
+      "fajitas",
+      "steak"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "e"
   }
 ]
