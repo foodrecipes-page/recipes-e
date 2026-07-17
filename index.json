@@ -1451,17 +1451,15 @@
   },
   {
     "slug": "earthy-gooey-argentinian-dijon-mustard-spread-wrap",
-    "title": "Earthy Gooey Argentinian Dijon Mustard Spread Wrap",
+    "title": "Argentinian Wrap",
     "tags": [
       "argentinian",
-      "festive",
-      "one-pan",
-      "spicy",
-      "vegan-friendly",
-      "weeknight"
+      "wrap",
+      "lunch",
+      "easy-to-make"
     ],
     "cuisine": "argentinian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
@@ -10230,6 +10228,18 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 22,
+    "shard": "e"
+  },
+  {
+    "slug": "extraordinary-roasted-american-tod-grill--japanese",
+    "title": "Yakitori-Style Chicken Skewers",
+    "tags": [
+      "chicken",
+      "grill",
+      "japanese"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
     "shard": "e"
   }
 ]
