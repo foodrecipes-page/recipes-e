@@ -1004,15 +1004,16 @@
   },
   {
     "slug": "earthy-crunchy-garlic-italian-stir-fry",
-    "title": "Earthy Crunchy Garlic Italian Stir-fry",
+    "title": "Garlic Stir Fry with Italian Crunch",
     "tags": [
       "italian",
-      "earthly",
-      "crunchy",
-      "festive"
+      "stir-fry",
+      "garlic",
+      "vegan",
+      "gluten-free"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 22,
     "shard": "e"
   },
   {
@@ -2903,17 +2904,16 @@
   },
   {
     "slug": "easy-going-japanese-chicken-drumsticks-dorayaki",
-    "title": "Easy Going Japanese Chicken Drumsticks Dorayaki",
+    "title": "Sweet Dorayaki Chicken Drumsticks",
     "tags": [
-      "chicken-recipes",
-      "dorayaki",
-      "japanese-cuisine",
-      "steamed-food",
-      "tohoku-region",
-      "vegetarian-friendly"
+      "chicken",
+      "dinner",
+      "japanese",
+      "sweet",
+      "easy"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
     "shard": "e"
   },
   {
