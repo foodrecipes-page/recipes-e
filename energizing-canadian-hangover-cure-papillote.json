@@ -1,0 +1,93 @@
+{
+  "slug": "energizing-canadian-hangover-cure-papillote",
+  "title": "Canadian Hangover Cure Papillote",
+  "description": "A savory, comforting dish to help alleviate hangover symptoms and rejuvenate your senses.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Canadian Bacon",
+      "amount": "6 slices",
+      "notes": "thawed"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Papillote Greens",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "Hangover Cure Spice Blend",
+      "amount": "1 tsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the Canadian bacon with salt and black pepper.",
+    "In a separate bowl, mix together the potatoes, onions, and garlic.",
+    "Grease a large piece of parchment paper or aluminum foil with cooking spray.",
+    "Arrange the Canadian bacon slices on the prepared paper or foil, leaving space between each slice.",
+    "Top each bacon slice with a spoonful of the potato mixture.",
+    "Sprinkle the papillote greens over the top of the potato mixture.",
+    "Drizzle the beaten egg over the greens.",
+    "Sprinkle the hangover cure spice blend over the egg.",
+    "Fold the parchment paper or foil over the ingredients to create a packet.",
+    "Place the packets in the oven and bake for 20-25 minutes or until the potatoes are tender.",
+    "Serve hot and enjoy the cure!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "breakfast",
+    "hangover-cure",
+    "papillote"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-canadian-hangover-cure-papillote",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T11:18:14.846Z"
+}
