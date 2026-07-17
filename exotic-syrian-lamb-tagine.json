@@ -1,0 +1,92 @@
+{
+  "slug": "exotic-syrian-lamb-tagine",
+  "title": "Syrian-Style Lamb Tagine",
+  "description": "A rich and aromatic stew inspired by Syrian cuisine, made with tender lamb and exotic spices.",
+  "cuisine": "Syrian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Exotic spices (cumin, coriander, cinnamon)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Syrian allspice",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes.",
+    "Add the onion, ginger, and garlic and cook until the onion is translucent, about 5 minutes.",
+    "Add the cumin, coriander, cinnamon, allspice, salt, and pepper. Cook for 1 minute.",
+    "Add the apricots and 2 cups of water. Bring to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the lamb is tender.",
+    "Skim off any excess fat and serve hot, garnished with parsley.",
+    "Serve with couscous or rice, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "syrian",
+    "stew",
+    "couscous"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-syrian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T19:25:59.079Z"
+}
