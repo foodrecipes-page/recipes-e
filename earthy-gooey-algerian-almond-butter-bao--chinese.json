@@ -1,0 +1,66 @@
+{
+  "slug": "earthy-gooey-algerian-almond-butter-bao--chinese",
+  "title": "Bao Filling with Almond Butter and Earthy Mushrooms",
+  "description": "A delicious and savory bao filling made with earthy mushrooms, gooey cheese, and almond butter, inspired by Chinese cuisine.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bao Dough",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "Earthy Mushrooms",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Gooey Cheese",
+      "amount": "1/2 cup, shredded"
+    },
+    {
+      "name": "Algerian Almonds",
+      "amount": "1/4 cup, sliced"
+    },
+    {
+      "name": "Almond Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan over medium heat.",
+    "Add butter and cook until melted.",
+    "Add sliced mushrooms and cook until tender.",
+    "Add sliced almonds and cook for 1 minute.",
+    "Add shredded cheese and stir until melted.",
+    "Mix in almond butter until well combined.",
+    "Split bao dough into individual pieces and fill with mushroom mixture.",
+    "Steam bao for 5-7 minutes or until cooked through.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "bao",
+    "mushrooms",
+    "almond-butter"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-gooey-algerian-almond-butter-bao--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T13:09:06.707Z"
+}
