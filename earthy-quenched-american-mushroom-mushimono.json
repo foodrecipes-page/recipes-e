@@ -1,0 +1,65 @@
+{
+  "slug": "earthy-quenched-american-mushroom-mushimono",
+  "title": "Earthy Mushroom Stir Fry",
+  "description": "A savory and earthy stir fry made with sautéed mushrooms and served with a side of steamed vegetables.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "button mushrooms"
+    },
+    {
+      "name": "american",
+      "amount": "2 tablespoons",
+      "notes": "soy sauce"
+    },
+    {
+      "name": "mushimono",
+      "amount": "1 tablespoon",
+      "notes": "mirin"
+    },
+    {
+      "name": "earthly",
+      "amount": "1 teaspoon",
+      "notes": "dried thyme"
+    },
+    {
+      "name": "quenched",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the soy sauce, mirin, and thyme. Stir to combine.",
+    "Continue to cook for another 2-3 minutes, until the mushrooms are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve the mushrooms over steamed vegetables."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "mushroom",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 10,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-quenched-american-mushroom-mushimono",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T11:39:00.009Z"
+}
