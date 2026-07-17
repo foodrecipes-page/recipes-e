@@ -1,0 +1,82 @@
+{
+  "slug": "emulsified-dense-vietnamese-rainbow-trout-mi-quang--italian",
+  "title": "Rainbow Trout with Vietnamese-Style Emulsified Sauce and Mi Quang Rice",
+  "description": "A unique and flavorful Italian dish combining the freshness of trout with the creaminess of Vietnamese emulsified sauce, served with a side of mi quang rice.",
+  "cuisine": "italian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "trout fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "emulsified sauce (Vietnamese-style)",
+      "amount": "1 cup",
+      "notes": "see emulsified sauce recipe"
+    },
+    {
+      "name": "mi quang rice (Vietnamese-style)",
+      "amount": "2 cups",
+      "notes": "cook according to package instructions"
+    },
+    {
+      "name": "diced onions",
+      "amount": "1",
+      "notes": "medium size"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C). Season trout with salt and pepper.",
+    "2. Place trout on a baking sheet lined with parchment paper and bake for 8-10 minutes, or until cooked through.",
+    "3. Prepare the Vietnamese emulsified sauce according to the recipe.",
+    "4. Cook the mi quang rice according to package instructions.",
+    "5. In a large skillet, heat the emulsified sauce over medium heat.",
+    "6. Add the diced onions to the skillet and cook until softened, about 3-4 minutes.",
+    "7. To serve, place a trout fillet on a plate, top with a spoonful of emulsified sauce and onions, and serve with a side of mi quang rice.",
+    "8. Garnish with chopped fresh cilantro and serve with a lemon wedge on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/emulsified-dense-vietnamese-rainbow-trout-mi-quang--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T15:43:55.889Z"
+}
