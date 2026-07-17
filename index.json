@@ -10160,5 +10160,30 @@
     "cuisine": "french",
     "totalTimeMin": 45,
     "shard": "e"
+  },
+  {
+    "slug": "earthy-gooey-algerian-almond-butter-bao--chinese",
+    "title": "Bao Filling with Almond Butter and Earthy Mushrooms",
+    "tags": [
+      "chinese",
+      "bao",
+      "mushrooms",
+      "almond-butter"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "e"
+  },
+  {
+    "slug": "energizing-canadian-hangover-cure-papillote--german",
+    "title": "German Hangover Cure Papillote",
+    "tags": [
+      "german",
+      "hangover-cure",
+      "breakfast"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 22,
+    "shard": "e"
   }
 ]
