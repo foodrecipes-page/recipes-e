@@ -1,0 +1,90 @@
+{
+  "slug": "easy-grilled-australian-lamb-skewers--indian",
+  "title": "Australian-Style Lamb Skewers",
+  "description": "Tender lamb skewers infused with the bold flavors of Indian spices, perfect for a summer barbecue.",
+  "cuisine": "indian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Australian lamb shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": "preferably with the bone for extra flavor"
+    },
+    {
+      "name": "Indian yogurt",
+      "amount": "1/2 cup",
+      "notes": "for marinating"
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Garlic paste",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 teaspoon",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together yogurt, ginger paste, garlic paste, lemon juice, garam masala, salt, and black pepper.",
+    "3. Add the lamb cubes to the marinade and mix well to coat.",
+    "4. Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "5. Thread the marinated lamb onto skewers, leaving a small space between each piece.",
+    "6. Brush the skewers with vegetable oil and season with salt and black pepper.",
+    "7. Grill the skewers for 8-10 minutes per side, or until the lamb is cooked to your desired level of doneness.",
+    "8. Let the skewers rest for 5 minutes before serving.",
+    "9. Serve hot with your favorite sides, such as basmati rice and naan bread."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 18,
+  "totalTimeMin": 48,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy",
+    "grilled",
+    "australian",
+    "lamb",
+    "skewers",
+    "indian",
+    "barbecue"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/easy-grilled-australian-lamb-skewers--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T23:24:00.378Z"
+}
