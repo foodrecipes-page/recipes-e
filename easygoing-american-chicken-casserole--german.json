@@ -1,0 +1,95 @@
+{
+  "slug": "easygoing-american-chicken-casserole--german",
+  "title": "German Chicken Casserole",
+  "description": "A hearty and comforting casserole that combines the flavors of Germany with the ease of American cuisine. This dish is perfect for a weeknight dinner.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "chopped carrot",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "chopped celery",
+      "amount": "2 stalks",
+      "notes": null
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "casserole rice",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "easiest american butter",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the casserole rice according to package instructions.",
+    "In a large skillet, sauté the chopped onion, carrot, and celery in easiest american butter until tender.",
+    "Add the diced tomatoes and cook for an additional 2 minutes.",
+    "In a separate bowl, whisk together the milk and grated cheddar cheese.",
+    "In a large mixing bowl, combine the cooked rice, chicken breast, and the milk-cheese mixture.",
+    "Add the sautéed vegetables and chopped parsley to the mixing bowl and stir until combined.",
+    "Transfer the mixture to a 9x13 inch baking dish and bake for 25-30 minutes or until the casserole is hot and the cheese is melted.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "chicken",
+    "casserole",
+    "comfort-food",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/easygoing-american-chicken-casserole--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T13:04:37.628Z"
+}
