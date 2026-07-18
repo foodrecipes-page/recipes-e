@@ -1,0 +1,91 @@
+{
+  "slug": "ebullient-mediterranean-lemon-pasta--japanese",
+  "title": "Japanese Pasta with Mediterranean Twist",
+  "description": "A fusion of Japanese flavors with a Mediterranean twist on pasta. This unique dish combines the freshness of lemon and the zing of ebullient herbs with the richness of pasta.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "8 oz (225g)",
+      "notes": ""
+    },
+    {
+      "name": "Ebullient",
+      "amount": "1 tsp (5g)",
+      "notes": "Chopped fresh herbs such as basil or parsley"
+    },
+    {
+      "name": "Mediterranean",
+      "amount": "1 tsp (5g)",
+      "notes": "Chopped olives or artichoke hearts"
+    },
+    {
+      "name": "Lemon",
+      "amount": "1/2 lemon, juiced",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp (30ml)",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp (15ml)",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove, minced",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp (5g), grated",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions until al dente.",
+    "In a large skillet, heat the sesame oil over medium-high heat. Add the garlic and ginger and cook for 1-2 minutes until fragrant.",
+    "Add the ebullient, Mediterranean, soy sauce, and lemon juice to the skillet and stir to combine.",
+    "Add the cooked pasta to the skillet and toss to coat with the sauce.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and garnish with additional ebullient if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pasta",
+    "japanese",
+    "fusion",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ebullient-mediterranean-lemon-pasta--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T11:04:50.379Z"
+}
