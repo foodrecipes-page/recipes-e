@@ -10401,5 +10401,57 @@
     "cuisine": "german",
     "totalTimeMin": 40,
     "shard": "e"
+  },
+  {
+    "slug": "exquisite-melted-canadian-cheese-lasagna--keto",
+    "title": "Keto Canadian Lasagna",
+    "tags": [
+      "keto",
+      "low-carb",
+      "lasagna",
+      "canadian"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
+    "slug": "exotic-crunchy-algerian-lamb-wrap--keto",
+    "title": "Lamb and Algerian Wrap",
+    "tags": [
+      "keto",
+      "lamb",
+      "algerian",
+      "wrap"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 25,
+    "shard": "e"
+  },
+  {
+    "slug": "extra-virgin-vivace--thai",
+    "title": "Thai Basil Stir Fry",
+    "tags": [
+      "thaibasil",
+      "stirfry",
+      "shrimp",
+      "rice"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 18,
+    "shard": "e"
+  },
+  {
+    "slug": "earthy-crispy-mexican-egg-plants-chilaquiles--chinese",
+    "title": "Crispy Chilaquiles Stir Fry",
+    "tags": [
+      "chinese",
+      "mexican",
+      "stir-fry",
+      "snack"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "e"
   }
 ]
