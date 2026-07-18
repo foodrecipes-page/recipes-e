@@ -472,16 +472,15 @@
   },
   {
     "slug": "earthly-tunisian-sun-dried-tomatoes-tagine",
-    "title": "Earthly Tunisian Sun Dried Tomatoes Tagine",
+    "title": "Tunisian Tagine with Dried Tomatoes",
     "tags": [
-      "comfort-food",
-      "mediterranean",
-      "one-pot",
-      "tunisian",
-      "vegetarian"
+      "lamb",
+      "dried-tomatoes",
+      "north-african",
+      "stew"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 50,
+    "cuisine": "North African",
+    "totalTimeMin": 110,
     "shard": "e"
   },
   {
@@ -5796,18 +5795,16 @@
   },
   {
     "slug": "energizing-shaggy-french-dish-bake",
-    "title": "Energizing Shaggy French Dish Bake",
+    "title": "French Shaggy Energizing Bake",
     "tags": [
       "breakfast",
-      "fodmap-friendly",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "brunch",
+      "french",
+      "granola",
+      "goat-cheese"
     ],
-    "cuisine": "french",
-    "totalTimeMin": 70,
+    "cuisine": "French",
+    "totalTimeMin": 20,
     "shard": "e"
   },
   {
