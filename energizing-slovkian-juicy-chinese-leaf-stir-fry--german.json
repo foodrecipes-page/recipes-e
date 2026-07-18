@@ -1,0 +1,84 @@
+{
+  "slug": "energizing-slovkian-juicy-chinese-leaf-stir-fry--german",
+  "title": "Slovakian-Style Schnitzel",
+  "description": "A classic German dish with a Slovakian twist, this breaded and fried cutlet is a hearty meal.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "4",
+      "notes": "Pounded thin"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": "For breading"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "Beaten for egg wash"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup",
+      "notes": "Panko or gluten-free"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Juicy tomatoes",
+      "amount": "2",
+      "notes": "Sliced for topping"
+    },
+    {
+      "name": "Stir fry oil",
+      "amount": "1/4 cup",
+      "notes": "For frying"
+    }
+  ],
+  "instructions": [
+    "Season the chicken with salt and pepper.",
+    "Dip each cutlet in flour, shaking off excess.",
+    "Dip the floured cutlet in beaten eggs, making sure to coat completely.",
+    "Roll the egg-coated cutlet in breadcrumbs, pressing gently to adhere.",
+    "Heat about 1/4 inch of oil in a large skillet over medium-high heat.",
+    "Add the breaded cutlet to the skillet and fry until golden brown, about 3-4 minutes per side.",
+    "Transfer the fried cutlet to a plate and top with sliced tomatoes.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "german",
+    "chicken",
+    "schnitzel"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-slovkian-juicy-chinese-leaf-stir-fry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T09:30:21.141Z"
+}
