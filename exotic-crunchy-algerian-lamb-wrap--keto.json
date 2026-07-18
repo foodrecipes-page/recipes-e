@@ -1,0 +1,80 @@
+{
+  "slug": "exotic-crunchy-algerian-lamb-wrap--keto",
+  "title": "Lamb and Algerian Wrap",
+  "description": "A keto-friendly wrap filled with lamb and Algerian spices, served with crunchy vegetables.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb mince",
+      "amount": "250g",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Algerian spices",
+      "amount": "2 tsp",
+      "notes": "Mix of cumin, coriander, and paprika"
+    },
+    {
+      "name": "Crunchy vegetables",
+      "amount": "1 cup",
+      "notes": "Shredded carrots, zucchini, and cucumber"
+    },
+    {
+      "name": "Exotic lettuce",
+      "amount": "1/2 cup",
+      "notes": "Choose a mild lettuce like romaine"
+    },
+    {
+      "name": "Wrapping",
+      "amount": "4 wraps",
+      "notes": "Low-carb tortilla wraps"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking the lamb"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "Season the lamb"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick pan to medium-high heat.",
+    "2. Add olive oil and cook the lamb mince until browned, breaking it up with a spoon as it cooks.",
+    "3. Add Algerian spices and cook for 1 minute, stirring constantly.",
+    "4. Add crunchy vegetables and cook until they start to soften.",
+    "5. Season with salt and pepper to taste.",
+    "6. Warm the wraps according to package instructions.",
+    "7. Assemble the wraps by spooning the lamb mixture onto the center of each wrap, leaving a 2-inch border around the edges.",
+    "8. Top with exotic lettuce and fold the bottom edge of the wrap up over the filling.",
+    "9. Fold in the sides and roll the wrap up tightly.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "lamb",
+    "algerian",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 6,
+    "fat": 43
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-crunchy-algerian-lamb-wrap--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T16:24:27.192Z"
+}
