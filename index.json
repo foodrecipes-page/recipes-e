@@ -9152,17 +9152,14 @@
   },
   {
     "slug": "extra-light-mexican-corn-tres-leches-flan",
-    "title": "Extra Light Mexican Corn Tres Leches Flan",
+    "title": "Tres Leches Flan",
     "tags": [
-      "bamboo-steamer",
-      "corn",
       "dessert",
-      "flan",
-      "mexican",
-      "tres-leches"
+      "latinamerican",
+      "treslechesflan"
     ],
-    "cuisine": "mexican",
-    "totalTimeMin": 75,
+    "cuisine": "Latin American",
+    "totalTimeMin": 60,
     "shard": "e"
   },
   {
@@ -10304,6 +10301,20 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 45,
+    "shard": "e"
+  },
+  {
+    "slug": "elegant-creamy-middle-eastern-lamb-tagine--italian",
+    "title": "Lamb Tagine with Italian Twist",
+    "tags": [
+      "italian",
+      "lamb",
+      "tagine",
+      "middle eastern",
+      "fusion"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 140,
     "shard": "e"
   }
 ]
