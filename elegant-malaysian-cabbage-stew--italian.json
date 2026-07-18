@@ -1,0 +1,81 @@
+{
+  "slug": "elegant-malaysian-cabbage-stew--italian",
+  "title": "Malaysian-Italian Stew",
+  "description": "A fusion of Italian and Malaysian flavors, this stew is a hearty and comforting meal. The cabbage adds a nice crunch to the dish.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "2 cups, shredded"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup, diced tomatoes"
+    },
+    {
+      "name": "elegant",
+      "amount": "1/2 cup, sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and sauté for 3-4 minutes until softened.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the diced tomatoes, italian seasoning, salt, and black pepper.",
+    "Stir well and bring to a simmer.",
+    "Add the shredded cabbage and sliced elegant.",
+    "Reduce heat to low and let it cook for 20-25 minutes or until the cabbage is tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "malaysian",
+    "stew",
+    "cabbage",
+    "elegant"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/elegant-malaysian-cabbage-stew--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T07:39:42.220Z"
+}
