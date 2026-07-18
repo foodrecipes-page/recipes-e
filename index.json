@@ -10353,5 +10353,43 @@
     "cuisine": "german",
     "totalTimeMin": 28,
     "shard": "e"
+  },
+  {
+    "slug": "ebullient-mediterranean-lemon-pasta--japanese",
+    "title": "Japanese Pasta with Mediterranean Twist",
+    "tags": [
+      "pasta",
+      "japanese",
+      "fusion",
+      "mediterranean"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 18,
+    "shard": "e"
+  },
+  {
+    "slug": "easygoing-american-chicken-casserole--french",
+    "title": "Easy American Chicken Casserole",
+    "tags": [
+      "chicken",
+      "casserole",
+      "easy"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 55,
+    "shard": "e"
+  },
+  {
+    "slug": "eggplant-delicate-italian-tempeh-lasagna--thai",
+    "title": "Thai Lasagna",
+    "tags": [
+      "thai",
+      "italian",
+      "vegetarian",
+      "vegan"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 60,
+    "shard": "e"
   }
 ]
