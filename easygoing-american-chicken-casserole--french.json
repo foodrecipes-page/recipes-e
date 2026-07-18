@@ -1,0 +1,83 @@
+{
+  "slug": "easygoing-american-chicken-casserole--french",
+  "title": "Easy American Chicken Casserole",
+  "description": "A classic American casserole with a French twist, featuring tender chicken and a creamy sauce.",
+  "cuisine": "French",
+  "diet": [
+    "Gluten-Free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Canned cream of mushroom soup",
+      "amount": "1 can (10.5 oz)",
+      "notes": ""
+    },
+    {
+      "name": "French-fried onions",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded cheddar cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook chicken breasts in a skillet over medium-high heat until browned on both sides and cooked through.",
+    "In a separate skillet, sauté the French-fried onions in butter until golden brown.",
+    "In a large mixing bowl, combine the cream of mushroom soup, shredded cheddar cheese, and cooked chicken. Stir until well combined.",
+    "In a greased 9x13-inch baking dish, arrange a layer of the chicken mixture.",
+    "Sprinkle a layer of French-fried onions on top of the chicken mixture.",
+    "Repeat the layers one more time, ending with a layer of French-fried onions on top.",
+    "Bake for 25-30 minutes or until the onions are golden brown and the casserole is hot and bubbly.",
+    "Garnish with fresh parsley before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "casserole",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/easygoing-american-chicken-casserole--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T11:14:14.634Z"
+}
