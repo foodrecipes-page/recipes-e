@@ -10389,5 +10389,19 @@
     "cuisine": "thai",
     "totalTimeMin": 60,
     "shard": "e"
+  },
+  {
+    "slug": "easygoing-american-chicken-casserole--german",
+    "title": "German Chicken Casserole",
+    "tags": [
+      "german",
+      "chicken",
+      "casserole",
+      "comfort-food",
+      "weeknight-dinner"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "e"
   }
 ]
