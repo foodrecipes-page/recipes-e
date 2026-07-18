@@ -1,0 +1,84 @@
+{
+  "slug": "energizing-slovak-tofu-stir-fry",
+  "title": "Slovak Stir Fry with Tofu",
+  "description": "A quick and easy Slovak-inspired dish made with crispy tofu and a variety of stir-fried vegetables. Serve hot over rice or noodles for a satisfying meal.",
+  "cuisine": "Slovak",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": null
+    },
+    {
+      "name": "Slovak paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "stir-fry oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add tofu and cook until golden brown, about 3-4 minutes per side.",
+    "Remove tofu from skillet and set aside.",
+    "Add garlic, onion, and bell pepper to skillet and cook until vegetables are tender.",
+    "Add carrots and cook for an additional 2-3 minutes.",
+    "Return tofu to skillet and stir in paprika and soy sauce.",
+    "Cook for an additional 1-2 minutes, until tofu is coated in sauce.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-slovak-tofu-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T14:10:47.614Z"
+}
