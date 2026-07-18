@@ -1,0 +1,77 @@
+{
+  "slug": "earthy-filipino-dish-bouncy-qq--keto",
+  "title": "Filipino Keto BBQ Pork Skewers",
+  "description": "A twist on traditional Filipino BBQ, this keto-friendly version uses pork skewers and a sweet and spicy sauce. Perfect as a dinner or snack.",
+  "cuisine": "Filipino",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": "Make sure to buy a keto-friendly cut of pork"
+    },
+    {
+      "name": "Earthly olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Bouncy balsamic vinegar",
+      "amount": "1 tablespoon",
+      "notes": "Use a sugar-free version"
+    },
+    {
+      "name": "Dish dashi powder",
+      "amount": "1 teaspoon",
+      "notes": "Optional, but adds depth of flavor"
+    },
+    {
+      "name": "QQ garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": "Optional, but adds a savory flavor"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400°F (200°C).",
+    "In a large bowl, whisk together olive oil, balsamic vinegar, dashi powder, garlic powder, salt, and pepper.",
+    "Add the pork cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated pork onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 8-10 minutes, or until the pork is cooked through.",
+    "Brush the skewers with more olive oil if needed during grilling.",
+    "Serve the skewers hot, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "keto",
+    "bbq",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 5,
+    "fat": 44
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-filipino-dish-bouncy-qq--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T20:15:42.660Z"
+}
