@@ -10279,5 +10279,17 @@
     "cuisine": "French",
     "totalTimeMin": 27,
     "shard": "e"
+  },
+  {
+    "slug": "earthy-hearty-dutch-carrots-tagine--indian",
+    "title": "Carrot Tagine Stew",
+    "tags": [
+      "indian",
+      "stew",
+      "vegetarian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "e"
   }
 ]
