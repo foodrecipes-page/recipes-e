@@ -10291,5 +10291,19 @@
     "cuisine": "indian",
     "totalTimeMin": 40,
     "shard": "e"
+  },
+  {
+    "slug": "exotic-crisp-dongbei-rice-lo-meen--french",
+    "title": "Crisp Dongbei-Style Meen in French Rice",
+    "tags": [
+      "french",
+      "dongbei",
+      "rice",
+      "meen",
+      "fusion"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
+    "shard": "e"
   }
 ]
