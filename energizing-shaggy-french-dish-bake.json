@@ -1,0 +1,73 @@
+{
+  "slug": "energizing-shaggy-french-dish-bake",
+  "title": "French Shaggy Energizing Bake",
+  "description": "A delicious French-inspired dish that combines energizing and savory flavors. Perfect for a quick breakfast or brunch.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "French Baguette",
+      "amount": "1 loaf",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "Energizing Granola",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Shaggy Goat Cheese",
+      "amount": "1/4 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "Fresh Herbs",
+      "amount": "1 tablespoon",
+      "notes": "chopped parsley or thyme"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Slice the French baguette into 1-inch thick rounds.",
+    "Spread a layer of energizing granola on each round.",
+    "Top with a dollop of shaggy goat cheese.",
+    "Garnish with chopped fresh herbs.",
+    "Season with salt and black pepper to taste.",
+    "Place the bakes on a baking sheet and bake for 10-12 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "french",
+    "granola",
+    "goat-cheese"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-shaggy-french-dish-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T18:22:13.595Z"
+}
