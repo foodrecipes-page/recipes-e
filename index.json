@@ -942,16 +942,14 @@
   },
   {
     "slug": "earthy-crumbly-tomato-spanish-crumble",
-    "title": "Earthy Crumbly Tomato Spanish Crumble",
+    "title": "Earthy Spanish Quiche",
     "tags": [
-      "earthly",
-      "crumbly",
       "spanish",
-      "shaoxing-wine",
-      "cozy"
+      "quiche",
+      "vegetarian"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 60,
     "shard": "e"
   },
   {
@@ -6342,18 +6340,15 @@
   },
   {
     "slug": "epic-smoked-turkish-meal-turkish-kisir",
-    "title": "Epic Smoked Turkish Meal Turkish Kisir",
+    "title": "Smoked Turkish Kisir Salad",
     "tags": [
-      "kisir",
-      "meal-prep",
-      "meatless",
-      "score-fat",
-      "smoked-paprika",
       "turkish",
-      "vegetarian-friendly"
+      "salad",
+      "mediterranean",
+      "vegetarian"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 25,
+    "totalTimeMin": 10,
     "shard": "e"
   },
   {
@@ -10461,6 +10456,19 @@
       "vegetarian"
     ],
     "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "e"
+  },
+  {
+    "slug": "earthy-filipino-dish-bouncy-qq--keto",
+    "title": "Filipino Keto BBQ Pork Skewers",
+    "tags": [
+      "filipino",
+      "keto",
+      "bbq",
+      "pork"
+    ],
+    "cuisine": "Filipino",
     "totalTimeMin": 25,
     "shard": "e"
   }
