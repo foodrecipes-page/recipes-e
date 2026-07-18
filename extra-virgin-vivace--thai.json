@@ -1,0 +1,81 @@
+{
+  "slug": "extra-virgin-vivace--thai",
+  "title": "Thai Basil Stir Fry",
+  "description": "A flavorful and spicy Thai stir fry made with fresh basil, chilies, and your choice of protein. Quick and easy to make, this dish is perfect for a weeknight dinner.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "pescatarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Thai Basil",
+      "amount": "handful",
+      "notes": "fresh"
+    },
+    {
+      "name": "Chili Peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet or wok over medium-high heat.",
+    "Add the garlic and chilies and stir-fry for 1 minute.",
+    "Add the shrimp and cook until pink and just cooked through, about 2-3 minutes.",
+    "Add the Thai basil and stir-fry for another minute.",
+    "Serve the shrimp and basil mixture over cooked rice.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaibasil",
+    "stirfry",
+    "shrimp",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/extra-virgin-vivace--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T16:30:05.927Z"
+}
