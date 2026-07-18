@@ -486,17 +486,15 @@
   },
   {
     "slug": "earthly-uruguayan-beef-stew",
-    "title": "Earthly Uruguayan Beef Stew",
+    "title": "Uruguayan Beef Stew",
     "tags": [
-      "beef-stew",
-      "hearty-meals",
-      "kosher-friendly",
-      "one-pot",
-      "spring-recipes",
-      "uruguayan-cuisine"
+      "beef",
+      "stew",
+      "uruguayan",
+      "lunch"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 140,
     "shard": "e"
   },
   {
