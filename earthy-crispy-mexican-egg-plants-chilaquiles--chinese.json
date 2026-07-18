@@ -1,0 +1,68 @@
+{
+  "slug": "earthy-crispy-mexican-egg-plants-chilaquiles--chinese",
+  "title": "Crispy Chilaquiles Stir Fry",
+  "description": "A unique fusion of Chinese and Mexican flavors, this crispy chilaquiles stir fry is a tasty and crunchy snack or appetizer.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chilaquiles",
+      "amount": "1 cup",
+      "notes": "torn into bite-sized pieces"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "divided"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "earthly mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "crispy tortilla strips",
+      "amount": "1/2 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the sliced mushrooms and cook until they start to brown, about 3-4 minutes.",
+    "Add the torn chilaquiles and cook for another 2-3 minutes, stirring frequently.",
+    "Add 1 tablespoon of soy sauce and stir to combine. Cook for an additional minute.",
+    "Transfer the mixture to a serving platter or individual plates.",
+    "Drizzle with the remaining 1 tablespoon of soy sauce and garnish with crispy tortilla strips.",
+    "Serve immediately and enjoy!",
+    "Optional: Add some scrambled eggs on top of the stir fry for added protein and richness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "mexican",
+    "stir-fry",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-crispy-mexican-egg-plants-chilaquiles--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T16:54:54.200Z"
+}
