@@ -1,0 +1,85 @@
+{
+  "slug": "eggplant-delicate-italian-tempeh-lasagna--thai",
+  "title": "Thai Lasagna",
+  "description": "A fusion of Italian lasagna and Thai flavors, featuring tempeh and eggplant.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tempeh",
+      "amount": "8 ounces",
+      "notes": "crumbled"
+    },
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "lasagna noodles",
+      "amount": "8-10",
+      "notes": ""
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce (optional)",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook lasagna noodles according to package instructions.",
+    "In a large skillet, heat 1 tablespoon of oil over medium heat.",
+    "Add crumbled tempeh and cook until golden brown.",
+    "Add sliced eggplant and cook until tender.",
+    "Stir in Thai red curry paste and cook for 1 minute.",
+    "Add coconut milk and brown sugar, and stir to combine.",
+    "Bring the mixture to a simmer and let cook for 5 minutes.",
+    "In a large baking dish, create a layer of tempeh and eggplant mixture.",
+    "Add a layer of cooked lasagna noodles on top.",
+    "Repeat the layers, ending with a layer of noodles.",
+    "Cover with foil and bake for 30 minutes.",
+    "Remove the foil and bake for an additional 10-15 minutes.",
+    "Let the lasagna rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "italian",
+    "vegetarian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/eggplant-delicate-italian-tempeh-lasagna--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T11:23:43.126Z"
+}
