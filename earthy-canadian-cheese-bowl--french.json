@@ -1,0 +1,88 @@
+{
+  "slug": "earthy-canadian-cheese-bowl--french",
+  "title": "French Earthy Mushroom Bowl",
+  "description": "A hearty and earthy bowl filled with the flavors of the French countryside. Perfect for a cold winter's night.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Button Mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Canadian Brie Cheese",
+      "amount": "1/4 cup, crumbled",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Bowl",
+      "amount": "1",
+      "notes": "large, shallow bowl"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Melt the butter in a large skillet over medium heat.",
+    "Add the garlic and sauté for 1-2 minutes, until fragrant.",
+    "Add the mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Stir in the thyme and cook for an additional minute.",
+    "Transfer the mushroom mixture to a large bowl.",
+    "Top with crumbled cheese and sprinkle with parsley.",
+    "Drizzle with olive oil and season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mushroom",
+    "cheese",
+    "french",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-canadian-cheese-bowl--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T17:48:12.172Z"
+}
