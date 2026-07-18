@@ -1,0 +1,91 @@
+{
+  "slug": "earthy-hearty-dutch-carrots-tagine--indian",
+  "title": "Carrot Tagine Stew",
+  "description": "A hearty and flavorful Indian-inspired stew made with carrots, earthy spices, and a hint of Dutch influence.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "earthly spice blend",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "tagine spice mix",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "dutch coconut milk",
+      "amount": "1 can",
+      "notes": null
+    },
+    {
+      "name": "chicken or veg broth",
+      "amount": "2 cups",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and garlic, sauté until softened (3-4 minutes).",
+    "Add spice blends, coriander, cumin, and cinnamon. Cook for 1 minute.",
+    "Add carrots, broth, and coconut milk. Stir well.",
+    "Bring to a boil, then reduce heat to low and simmer for 20-25 minutes.",
+    "Add tagine spice mix and adjust seasoning to taste.",
+    "Serve hot, garnished with fresh cilantro or parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-hearty-dutch-carrots-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T02:05:26.723Z"
+}
