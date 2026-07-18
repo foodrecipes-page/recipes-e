@@ -1,0 +1,80 @@
+{
+  "slug": "extra-light-mexican-corn-tres-leches-flan",
+  "title": "Tres Leches Flan",
+  "description": "A classic Latin American dessert made with eggs, milk, and three types of milk to create a moist and creamy texture.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "evaporated milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "sweetened condensed milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "a pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "In a medium bowl, whisk together eggs and sugar until well combined.",
+    "In a separate bowl, whisk together evaporated milk, sweetened condensed milk, and heavy cream.",
+    "Add vanilla extract and cinnamon to the milk mixture and whisk until combined.",
+    "Pour the milk mixture into the egg mixture and whisk until smooth.",
+    "Pour the mixture into 6 (6 oz) ramekins or custard cups.",
+    "Place the ramekins in a large baking dish and add hot water to come halfway up the sides of the ramekins.",
+    "Bake for 45-50 minutes or until set.",
+    "Remove from oven and let cool to room temperature.",
+    "Cover and refrigerate for at least 2 hours or overnight.",
+    "To serve, place a ramekin on a serving plate and pour a small amount of heavy cream over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "latinamerican",
+    "treslechesflan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 17
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/extra-light-mexican-corn-tres-leches-flan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T05:53:38.224Z"
+}
