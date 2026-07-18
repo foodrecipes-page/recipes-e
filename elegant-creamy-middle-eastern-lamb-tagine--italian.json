@@ -1,0 +1,103 @@
+{
+  "slug": "elegant-creamy-middle-eastern-lamb-tagine--italian",
+  "title": "Lamb Tagine with Italian Twist",
+  "description": "A fusion of Italian flavors and Middle Eastern spices in a hearty lamb tagine. This dish combines tender lamb with a rich and creamy sauce.",
+  "cuisine": "italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": "bone-in"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "400g",
+      "notes": "crushed"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the lamb shoulder and cook until browned on all sides, about 5-7 minutes.",
+    "Add the crushed tomatoes, honey, white wine, cumin, coriander, salt, and black pepper.",
+    "Stir well to combine and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 hours, or until the lamb is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley, if desired.",
+    "Traditionally, lamb tagine is cooked in a clay pot with a conical lid, but a Dutch oven works well too.",
+    "If using a clay pot, cook over low heat, covered, for 2-3 hours.",
+    "Check the lamb for tenderness and adjust the seasoning as needed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lamb",
+    "tagine",
+    "middle eastern",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/elegant-creamy-middle-eastern-lamb-tagine--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T06:00:16.535Z"
+}
