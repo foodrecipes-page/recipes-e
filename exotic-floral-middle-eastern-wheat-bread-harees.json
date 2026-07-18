@@ -1,0 +1,71 @@
+{
+  "slug": "exotic-floral-middle-eastern-wheat-bread-harees",
+  "title": "Harees with Rose Petals and Pistachios",
+  "description": "A traditional Middle Eastern dish made with wheat, harees, and exotic flavors.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "haleem wheat",
+      "amount": "1 cup"
+    },
+    {
+      "name": "harees",
+      "amount": "2 cups"
+    },
+    {
+      "name": "rose petals",
+      "amount": "1/4 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Soak harees in water for at least 8 hours.",
+    "Rinse and drain the harees.",
+    "In a large pot, combine wheat and harees.",
+    "Add 4 cups of water and bring to a boil.",
+    "Reduce heat and simmer for 1 hour.",
+    "Add dried rose petals and chopped pistachios.",
+    "Continue to simmer for another 30 minutes.",
+    "Add ghee and salt to taste.",
+    "Simmer for an additional 10 minutes.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "breakfast",
+    "traditional",
+    "wheat",
+    "harees"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-floral-middle-eastern-wheat-bread-harees",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T08:10:02.198Z"
+}
