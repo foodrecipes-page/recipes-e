@@ -7440,18 +7440,16 @@
   },
   {
     "slug": "exotic-floral-middle-eastern-wheat-bread-harees",
-    "title": "Exotic Floral Middle Eastern Wheat Bread Harees",
+    "title": "Harees with Rose Petals and Pistachios",
     "tags": [
-      "comfort-food",
-      "floral",
-      "grilled",
-      "low-fat",
       "middle-eastern",
-      "one-pan",
-      "vegetarian"
+      "breakfast",
+      "traditional",
+      "wheat",
+      "harees"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 35,
+    "totalTimeMin": 135,
     "shard": "e"
   },
   {
@@ -10315,6 +10313,32 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 140,
+    "shard": "e"
+  },
+  {
+    "slug": "elegant-malaysian-cabbage-stew--italian",
+    "title": "Malaysian-Italian Stew",
+    "tags": [
+      "italian",
+      "malaysian",
+      "stew",
+      "cabbage",
+      "elegant"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
+    "slug": "earthy-crisp-turkish-tomato-salad--italian",
+    "title": "Italian Tomato Salad",
+    "tags": [
+      "italian",
+      "salad",
+      "quick"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 10,
     "shard": "e"
   }
 ]
