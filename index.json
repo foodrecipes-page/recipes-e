@@ -10453,5 +10453,18 @@
     "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "e"
+  },
+  {
+    "slug": "earthy-canadian-cheese-bowl--french",
+    "title": "French Earthy Mushroom Bowl",
+    "tags": [
+      "mushroom",
+      "cheese",
+      "french",
+      "vegetarian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "e"
   }
 ]
