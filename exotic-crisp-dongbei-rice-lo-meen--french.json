@@ -1,0 +1,67 @@
+{
+  "slug": "exotic-crisp-dongbei-rice-lo-meen--french",
+  "title": "Crisp Dongbei-Style Meen in French Rice",
+  "description": "A unique fusion dish that combines the bold flavors of Dongbei cuisine with the elegance of French cooking. Crispy meen is served atop a bed of flavorful rice, making for a truly unforgettable meal.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lo",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "dongbei",
+      "amount": "2 cups",
+      "notes": "preferably cooked according to package instructions"
+    },
+    {
+      "name": "meen",
+      "amount": "1 pound",
+      "notes": "preferably cut into bite-sized pieces"
+    },
+    {
+      "name": "exotic",
+      "amount": "1 tablespoon",
+      "notes": "preferably used as a marinade"
+    },
+    {
+      "name": "crisp",
+      "amount": "1 cup",
+      "notes": "preferably used as a topping"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Marinate the meen in exotic seasoning for at least 30 minutes.",
+    "Heat a skillet over medium-high heat and sear the meen until browned on both sides.",
+    "Transfer the meen to a baking dish and bake for 10-12 minutes or until cooked through.",
+    "Cook the lo and dongbei according to package instructions.",
+    "Combine the cooked lo and dongbei in a large serving dish.",
+    "Top the rice mixture with the crispy meen and garnish with additional exotic seasoning if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "dongbei",
+    "rice",
+    "meen",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-crisp-dongbei-rice-lo-meen--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T04:38:32.062Z"
+}
