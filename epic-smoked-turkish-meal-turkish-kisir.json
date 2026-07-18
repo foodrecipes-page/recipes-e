@@ -1,0 +1,86 @@
+{
+  "slug": "epic-smoked-turkish-meal-turkish-kisir",
+  "title": "Smoked Turkish Kisir Salad",
+  "description": "A refreshing salad featuring kisir, a traditional Turkish bulgur dish, with smoked and epic flavors.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Kisir",
+      "amount": "250g",
+      "notes": "preferably homemade or store-bought"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "2 tsp",
+      "notes": "adds depth and a smoky flavor"
+    },
+    {
+      "name": "Chopped Fresh Cucumber",
+      "amount": "1 medium",
+      "notes": "refreshing crunch"
+    },
+    {
+      "name": "Chopped Red Onion",
+      "amount": "1 medium",
+      "notes": " adds a punch of flavor"
+    },
+    {
+      "name": "Chopped Red Bell Pepper",
+      "amount": "1 medium",
+      "notes": "adds sweetness and crunch"
+    },
+    {
+      "name": "Crumbled Feta Cheese (optional)",
+      "amount": "50g",
+      "notes": "adds a tangy flavor"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "a handful",
+      "notes": "garnish and freshness"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "healthy and flavorful"
+    },
+    {
+      "name": "Fresh Lemon Juice",
+      "amount": "1 tbsp",
+      "notes": "adds a burst of citrus"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine kisir, smoked paprika, chopped cucumber, red onion, and red bell pepper.",
+    "Gently toss to combine.",
+    "If using feta cheese, crumble it on top of the salad.",
+    "Drizzle extra virgin olive oil and fresh lemon juice over the salad.",
+    "Garnish with fresh parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "salad",
+    "mediterranean",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/epic-smoked-turkish-meal-turkish-kisir",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T19:18:38.772Z"
+}
