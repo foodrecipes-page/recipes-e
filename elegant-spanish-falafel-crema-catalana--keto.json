@@ -1,0 +1,87 @@
+{
+  "slug": "elegant-spanish-falafel-crema-catalana--keto",
+  "title": "Spanish-Style Falafel Crema Catalana",
+  "description": "A keto-friendly twist on the traditional Spanish dessert, combining crispy falafel with creamy crema and a hint of elegance.",
+  "cuisine": "Spanish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Falafel",
+      "amount": "1 cup, crumbled"
+    },
+    {
+      "name": "Crema",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Elegant sugar substitute",
+      "amount": "1/2 cup",
+      "notes": "(e.g., stevia or erythritol)"
+    },
+    {
+      "name": "Catalana orange zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Catalana orange juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Keto-friendly sweetener",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegan egg substitute",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Catalana spices",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a bowl, mix crumbled falafel, elegant sugar substitute, and catalana orange zest.",
+    "3. In a separate bowl, whisk together crema, keto-friendly sweetener, heavy cream, and vegan egg substitute.",
+    "4. Add catalana spices and sea salt to the crema mixture. Stir well.",
+    "5. Pour the crema mixture over the falafel mixture and mix until well combined.",
+    "6. Transfer the mixture to a baking dish.",
+    "7. Bake for 25-30 minutes, or until the top is golden brown.",
+    "8. Remove from the oven and let cool for 10 minutes.",
+    "9. Refrigerate for at least 2 hours before serving.",
+    "10. Serve chilled, garnished with additional catalana orange zest if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "spanish",
+    "dessert",
+    "crema",
+    "catalana"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 5,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/elegant-spanish-falafel-crema-catalana--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T02:39:59.681Z"
+}
