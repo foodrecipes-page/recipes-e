@@ -1,0 +1,61 @@
+{
+  "slug": "egg-drop-irish-bacon-toast",
+  "title": "Irish Bacon and Fried Egg Toast",
+  "description": "A simple yet satisfying breakfast featuring crispy Irish bacon and a fried egg on toasted bread.",
+  "cuisine": "Irish",
+  "diet": [
+    "breakfast",
+    "brunch"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Irish bacon",
+      "amount": "4 slices"
+    },
+    {
+      "name": "egg",
+      "amount": "2"
+    },
+    {
+      "name": "drop of oil",
+      "amount": "1"
+    },
+    {
+      "name": "toast",
+      "amount": "2 slices"
+    }
+  ],
+  "instructions": [
+    "1. Heat a non-stick pan over medium heat and add the drop of oil.",
+    "2. Cook the Irish bacon slices for 4-5 minutes on each side, or until crispy.",
+    "3. Crack the egg into a bowl and whisk it lightly.",
+    "4. Pour the egg mixture into the pan with the cooked bacon.",
+    "5. Cook the egg for 2-3 minutes, or until the whites are set and the yolks are cooked to your desired doneness.",
+    "6. Meanwhile, toast the bread slices until lightly browned.",
+    "7. To assemble the dish, place a slice of toasted bread on a plate, top with a slice of Irish bacon, and finish with the fried egg.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 6,
+  "totalTimeMin": 11,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "irish",
+    "bacon",
+    "egg"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/egg-drop-irish-bacon-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T06:53:35.949Z"
+}
