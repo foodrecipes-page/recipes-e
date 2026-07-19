@@ -1,0 +1,109 @@
+{
+  "slug": "earthy-charred-filipino-savoy-cabbage-ginataang-bilo-bilo--indian",
+  "title": "Savoy Cabbage Bilo Curry",
+  "description": "A twist on traditional Indian cuisine, this curry combines the earthy flavors of savoy cabbage and bilo with a tangy and aromatic blend of spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "savoy cabbage",
+      "amount": "1 head, chopped",
+      "notes": "any color"
+    },
+    {
+      "name": "bilo",
+      "amount": "1 cup, sliced",
+      "notes": "or bilo bilo, sweet potato"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in a large pan over medium heat.",
+    "Add the onion, ginger, and garlic and sauté until the onion is translucent.",
+    "Add the curry powder, turmeric, cumin, coriander, salt, and pepper. Cook for 1 minute.",
+    "Add the chopped savoy cabbage and sliced bilo. Cook for 5 minutes.",
+    "Add the coconut milk and stir to combine.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Serve hot over rice or with naan bread.",
+    "Garnish with chopped cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "vegetarian",
+    "cabbage",
+    "bilo"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-charred-filipino-savoy-cabbage-ginataang-bilo-bilo--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T22:34:16.731Z"
+}
