@@ -1,0 +1,73 @@
+{
+  "slug": "energizing-ethiopian-dish-azifa",
+  "title": "Injera Azifa",
+  "description": "A classic Ethiopian side dish made with injera, a sourdough flatbread. Azifa is a popular Ethiopian salad.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "injera",
+      "amount": "1 cup, torn"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup, grated"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup, chopped"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "green chili peppers",
+      "amount": "2, diced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon, grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the cabbage, carrots, red onion, tomatoes, and green chili peppers.",
+    "2. Add the grated ginger and olive oil to the bowl, and mix well.",
+    "3. Add the torn injera to the bowl and toss to combine.",
+    "4. Season with salt to taste.",
+    "5. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "6. Serve the Azifa chilled or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ethiopian",
+    "breakfast",
+    "salad",
+    "veggies"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-ethiopian-dish-azifa",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T12:27:03.898Z"
+}
