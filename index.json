@@ -10503,5 +10503,19 @@
     "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "e"
+  },
+  {
+    "slug": "energizing-dense-australian-sausage-pie--vegan",
+    "title": "Australian Sausage-Free Pie",
+    "tags": [
+      "australian",
+      "vegan",
+      "lentil",
+      "mushroom",
+      "pie"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 50,
+    "shard": "e"
   }
 ]
