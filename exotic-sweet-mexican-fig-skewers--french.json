@@ -1,0 +1,79 @@
+{
+  "slug": "exotic-sweet-mexican-fig-skewers--french",
+  "title": "Grilled Fig Skewers with Exotic Fruit Salsa",
+  "description": "A sweet and tangy dessert inspired by French cuisine, featuring grilled figs and exotic fruit.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Fresh figs",
+      "amount": "12-15",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Exotic fruit (such as pineapple, mango, and kiwi)",
+      "amount": "1 cup",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "French baguette",
+      "amount": "1",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "Softened"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread fig pieces, exotic fruit, and baguette pieces onto skewers.",
+    "Brush skewers with butter and season with salt and pepper.",
+    "Grill skewers for 2-3 minutes per side, or until figs are caramelized.",
+    "In a small bowl, whisk together honey and balsamic vinegar.",
+    "Serve skewers with exotic fruit salsa (honey and balsamic glaze) on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-fig-skewers",
+    "exotic-fruit-salsa",
+    "french-dessert",
+    "summer-recipe"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-sweet-mexican-fig-skewers--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T13:33:17.272Z"
+}
