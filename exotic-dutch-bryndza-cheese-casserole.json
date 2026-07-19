@@ -1,0 +1,87 @@
+{
+  "slug": "exotic-dutch-bryndza-cheese-casserole",
+  "title": "Dutch Casserole with Exotic Twist",
+  "description": "A unique combination of exotic spices and dutch comfort food, featuring bryndza cheese.",
+  "cuisine": "Dutch",
+  "diet": [
+    "Gluten Free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bryndza Cheese",
+      "amount": "250g"
+    },
+    {
+      "name": "Casserole",
+      "amount": "1 large",
+      "notes": "crushed"
+    },
+    {
+      "name": "Exotic Spices",
+      "amount": "2 tsp",
+      "notes": "curry powder and cumin"
+    },
+    {
+      "name": "Dutch Gouda Cheese",
+      "amount": "150g"
+    },
+    {
+      "name": "Butter",
+      "amount": "50g"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 cups",
+      "notes": "canned"
+    },
+    {
+      "name": "Milk",
+      "amount": "150ml"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "Melt butter in a pan over medium heat.",
+    "Add chopped onions and cook until translucent.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add crushed casserole and cook for 2 minutes.",
+    "Add exotic spices and cook for 1 minute.",
+    "Add bryndza cheese and stir until melted.",
+    "Add gouda cheese and stir until melted.",
+    "Add tomatoes and milk. Stir well.",
+    "Pour the mixture into a baking dish and top with more cheese.",
+    "Bake for 25 minutes or until golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "cheese",
+    "casserole",
+    "exotic"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 22,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-dutch-bryndza-cheese-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T01:45:05.609Z"
+}
