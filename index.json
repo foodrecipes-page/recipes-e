@@ -10510,5 +10510,19 @@
     "cuisine": "Australian",
     "totalTimeMin": 50,
     "shard": "e"
+  },
+  {
+    "slug": "elegant-spanish-falafel-crema-catalana--keto",
+    "title": "Spanish-Style Falafel Crema Catalana",
+    "tags": [
+      "keto",
+      "spanish",
+      "dessert",
+      "crema",
+      "catalana"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 45,
+    "shard": "e"
   }
 ]
