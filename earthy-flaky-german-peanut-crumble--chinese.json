@@ -1,0 +1,86 @@
+{
+  "slug": "earthy-flaky-german-peanut-crumble--chinese",
+  "title": "Peanut Crumble Wontons",
+  "description": "Crispy wontons filled with a peanut crumble mixture, a unique twist on traditional Chinese appetizers.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Wonton wrappers",
+      "amount": "1 package (12-16 wrappers)",
+      "notes": ""
+    },
+    {
+      "name": "Peanut butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Crumble (German)",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Earthly mushrooms",
+      "amount": "1 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Flaky pastry",
+      "amount": "1 sheet, crumbled",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a deep fryer to 375°F (190°C).",
+    "In a medium bowl, mix together peanut butter, crumble, scallions, and soy sauce.",
+    "Add sliced mushrooms to the bowl and mix until combined.",
+    "Place a wonton wrapper on a flat surface and place a small spoonful of the peanut crumble mixture in the center of the wrapper.",
+    "Brush the edges of the wrapper with water and fold the wrapper into a triangle, pressing the edges to seal.",
+    "Repeat with the remaining wrappers and filling.",
+    "In batches, fry the wontons until golden brown and crispy, about 2-3 minutes per side.",
+    "Drain the wontons on paper towels and serve hot with a side of soy sauce for dipping.",
+    "If desired, sprinkle with crumbled flaky pastry for garnish.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "appetizer",
+    "veggie",
+    "fried",
+    "wontons"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-flaky-german-peanut-crumble--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T13:56:40.813Z"
+}
