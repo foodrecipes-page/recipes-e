@@ -151,16 +151,14 @@
   },
   {
     "slug": "earthily-crispy-slovakian-potato-hash",
-    "title": "Earthily Crispy Slovakian Potato Hash",
+    "title": "Slovakian Hash Browns",
     "tags": [
-      "gluten-free",
-      "high-fiber",
-      "one-pan",
-      "post-workout",
-      "vegan-friendly"
+      "breakfast",
+      "slovakian",
+      "hash-browns"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 22,
     "shard": "e"
   },
   {
@@ -3700,17 +3698,16 @@
   },
   {
     "slug": "egg-drop-irish-bacon-toast",
-    "title": "Egg Drop Irish Bacon Toast",
+    "title": "Irish Bacon and Fried Egg Toast",
     "tags": [
-      "bacon",
       "breakfast",
-      "egg",
-      "gluten-free",
+      "brunch",
       "irish",
-      "whole30"
+      "bacon",
+      "egg"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 25,
+    "totalTimeMin": 11,
     "shard": "e"
   },
   {
