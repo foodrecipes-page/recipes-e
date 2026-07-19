@@ -1,0 +1,75 @@
+{
+  "slug": "easy-malaysian-feta-pasta",
+  "title": "Malaysian Pasta Feta Delight",
+  "description": "A simple and flavorful dish that combines the creaminess of feta with the spices of Malaysia. This recipe is perfect for a weeknight dinner or a quick lunch.",
+  "cuisine": "malaysian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Feta Cheese",
+      "amount": "1/2 cup crumbled"
+    },
+    {
+      "name": "Pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Easy Peanut Sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped Cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Crushed Peanuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp grated"
+    }
+  ],
+  "instructions": [
+    "Cook pasta according to package instructions.",
+    "In a blender or food processor, combine peanut sauce, soy sauce, sugar, ginger, and sesame oil. Blend until smooth.",
+    "In a large skillet, combine cooked pasta and peanut sauce mixture. Toss until pasta is well coated.",
+    "Crumble feta cheese over the pasta and toss until combined.",
+    "Sprinkle chopped cilantro and crushed peanuts over the top.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "malaysian",
+    "feta",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/easy-malaysian-feta-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T04:05:51.176Z"
+}
