@@ -10489,5 +10489,19 @@
     "cuisine": "Croatian",
     "totalTimeMin": 22,
     "shard": "e"
+  },
+  {
+    "slug": "earthy-charred-filipino-savoy-cabbage-ginataang-bilo-bilo--indian",
+    "title": "Savoy Cabbage Bilo Curry",
+    "tags": [
+      "indian",
+      "curry",
+      "vegetarian",
+      "cabbage",
+      "bilo"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "e"
   }
 ]
