@@ -1,0 +1,75 @@
+{
+  "slug": "energizing-yeast-kenyang-fish-bread",
+  "title": "Kenyan Fish Bread",
+  "description": "A hearty and flavorful bread topped with a spicy fish mixture, perfect for a Kenyan-inspired meal.",
+  "cuisine": "kenyan",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bread",
+      "amount": "1 loaf",
+      "notes": "preferably a day-old loaf"
+    },
+    {
+      "name": "Fish (tilapia or catfish)",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "Energizing",
+      "amount": "1 tablespoon",
+      "notes": "or any hot pepper of your choice"
+    },
+    {
+      "name": "Kenyang",
+      "amount": "1 teaspoon",
+      "notes": "or any other Kenyan spice blend"
+    },
+    {
+      "name": "Yeast",
+      "amount": "1 teaspoon active dry yeast",
+      "notes": "for bread"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the bread into 1-inch cubes and set aside.",
+    "In a pan, heat the energizing and kenyang over medium heat.",
+    "Add the fish pieces to the pan and cook until they're opaque and flake easily with a fork.",
+    "Stir in the salt to taste.",
+    "Add the bread cubes to the pan and toss to coat with the fish mixture.",
+    "Transfer the bread and fish mixture to a baking dish.",
+    "Bake for 15-20 minutes or until the bread is toasted and the fish is heated through.",
+    "Serve hot and enjoy!",
+    "Note: You can also grill the bread and fish mixture for a crispy exterior and a tender interior."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "fish",
+    "bread",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-yeast-kenyang-fish-bread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T21:11:54.909Z"
+}
