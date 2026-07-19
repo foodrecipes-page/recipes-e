@@ -1,0 +1,81 @@
+{
+  "slug": "energizing-filipino-sugar-adobo",
+  "title": "Filipino Chicken Adobo",
+  "description": "A classic Filipino dish made with marinated chicken cooked in vinegar, soy sauce, and garlic. This recipe is easy to make and packed with flavor.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Vinegar",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Energizing (coconut oil)",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Adobo seasoning",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Heat the coconut oil in a large pan over medium-high heat.",
+    "2. Add the chicken and cook until browned, about 5 minutes.",
+    "3. Add the garlic, black pepper, and adobo seasoning. Cook for 1 minute.",
+    "4. Pour in the vinegar and soy sauce. Stir to combine.",
+    "5. Reduce heat to low and simmer for 10-15 minutes or until the chicken is cooked through.",
+    "6. Taste and adjust the seasoning with sugar if needed.",
+    "7. Serve hot over rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "filipino",
+    "adobo"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-filipino-sugar-adobo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T01:29:40.515Z"
+}
