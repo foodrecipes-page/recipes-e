@@ -726,19 +726,15 @@
   },
   {
     "slug": "earthy-creamy-russian-beet-soup",
-    "title": "Earthy Creamy Russian Beet Soup",
+    "title": "Beet and Russian Cream Soup",
     "tags": [
-      "earthy",
-      "creamy",
-      "date-night",
-      "russian",
       "beet",
-      "dulce-de-leche",
-      "fodmap-friendly",
-      "vegetarian"
+      "russian",
+      "soup",
+      "comfort food"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 40,
+    "cuisine": "russian",
+    "totalTimeMin": 45,
     "shard": "e"
   },
   {
@@ -3063,17 +3059,16 @@
   },
   {
     "slug": "easy-hearty-chinese-pork-casserole",
-    "title": "Easy Hearty Chinese Pork Casserole",
+    "title": "Easy Chinese Pork Casserole",
     "tags": [
-      "chinese-inspired",
-      "comfort-food",
-      "hearty",
-      "low-sodium",
-      "one-pot",
-      "weeknight"
+      "easy",
+      "chinese",
+      "casserole",
+      "pork",
+      "noodles"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 60,
+    "totalTimeMin": 40,
     "shard": "e"
   },
   {
@@ -10545,6 +10540,19 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 25,
+    "shard": "e"
+  },
+  {
+    "slug": "earthy-hearty-malaysian-wild-garlic-curry--german",
+    "title": "Wild Mushroom Schnitzel",
+    "tags": [
+      "german-food",
+      "wild-mushrooms",
+      "schnitzel",
+      "garlic-butter"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
     "shard": "e"
   }
 ]
