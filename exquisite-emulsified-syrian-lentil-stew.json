@@ -1,0 +1,89 @@
+{
+  "slug": "exquisite-emulsified-syrian-lentil-stew",
+  "title": "Syrian Lentil Stew",
+  "description": "A flavorful and nutritious stew originating from Syria, made with tender lentils and a blend of aromatic spices.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Syrian lentils",
+      "amount": "1 cup",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Exquisite olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Heat-stable"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Emulsified tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "Heat-stable"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the cumin, paprika, salt, and pepper. Cook for 1 minute.",
+    "Add the lentils, stir to combine, and cook for 1 minute.",
+    "Add 4 cups of water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 30-40 minutes or until the lentils are tender.",
+    "Stir in the tomato paste and cook for an additional 10 minutes.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "lentil",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exquisite-emulsified-syrian-lentil-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T20:53:28.922Z"
+}
