@@ -1,0 +1,75 @@
+{
+  "slug": "earthy-hearty-malaysian-wild-garlic-curry--german",
+  "title": "Wild Mushroom Schnitzel",
+  "description": "A hearty German dish featuring earthy wild mushrooms, crispy schnitzel, and a side of flavorful garlic butter.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "wild mushrooms",
+      "amount": "1 cup",
+      "notes": "such as chanterelle or cremini"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "earthly panko breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "1. Prepare the wild mushrooms by cleaning and slicing them into thin strips.",
+    "2. In a shallow dish, mix together flour and curry powder.",
+    "3. Dip each pork cutlet into the flour mixture, coating both sides evenly.",
+    "4. Dip the floured cutlet into the beaten eggs, making sure to coat completely.",
+    "5. Roll the egg-coated cutlet in the panko breadcrumbs, pressing gently to adhere.",
+    "6. Heat olive oil in a large skillet over medium-high heat.",
+    "7. Sear the breaded cutlets for 2-3 minutes on each side, until golden brown.",
+    "8. Transfer the cutlets to a baking sheet and bake in a preheated oven at 375°F (190°C) for 12-15 minutes, or until cooked through.",
+    "9. Meanwhile, sauté sliced garlic in a small skillet until fragrant and lightly browned.",
+    "10. Serve the schnitzel with a side of garlic butter and sautéed wild mushrooms.",
+    "11. Garnish with chopped parsley or chives, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-food",
+    "wild-mushrooms",
+    "schnitzel",
+    "garlic-butter"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-hearty-malaysian-wild-garlic-curry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T06:11:15.564Z"
+}
