@@ -3575,17 +3575,15 @@
   },
   {
     "slug": "ebullient-irish-ham-stew",
-    "title": "Ebullient Irish Ham Stew",
+    "title": "Irish Stew",
     "tags": [
-      "cataplana",
-      "high-protein",
       "irish",
-      "one-pan",
       "stew",
-      "weeknight"
+      "beef",
+      "comfort-food"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 80,
     "shard": "e"
   },
   {
@@ -6185,17 +6183,15 @@
   },
   {
     "slug": "energizing-yeast-kenyang-fish-bread",
-    "title": "Energizing Yeast Kenyang Fish Bread",
+    "title": "Kenyan Fish Bread",
     "tags": [
-      "gluten-free",
-      "high-protein",
       "kenyan",
-      "one-pan",
-      "pescatarian",
-      "weeknight"
+      "fish",
+      "bread",
+      "lunch"
     ],
     "cuisine": "kenyan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {
@@ -8692,17 +8688,15 @@
   },
   {
     "slug": "exquisite-emulsified-syrian-lentil-stew",
-    "title": "Exquisite Emulsified Syrian Lentil Stew",
+    "title": "Syrian Lentil Stew",
     "tags": [
-      "ayurvedic-friendly",
-      "binchotan-grill",
-      "emulsified-dishes",
-      "lentil-stew",
-      "syrian-cuisine",
-      "vegetarian-options"
+      "syrian",
+      "lentil",
+      "stew",
+      "vegetarian"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 55,
     "shard": "e"
   },
   {
