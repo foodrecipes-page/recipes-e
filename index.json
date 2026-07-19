@@ -5264,18 +5264,15 @@
   },
   {
     "slug": "energizing-ethiopian-dish-azifa",
-    "title": "Ethiopian Azifa",
+    "title": "Injera Azifa",
     "tags": [
-      "breakfast",
       "ethiopian",
-      "high-protein",
-      "lunch",
-      "one-pan",
-      "snack",
-      "weeknight"
+      "breakfast",
+      "salad",
+      "veggies"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 20,
     "shard": "e"
   },
   {
