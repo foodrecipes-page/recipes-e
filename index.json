@@ -10561,5 +10561,31 @@
     "cuisine": "chinese",
     "totalTimeMin": 50,
     "shard": "e"
+  },
+  {
+    "slug": "earthy-slovakian-squid-skewers--vegetarian",
+    "title": "Slovakian Earthy Mushroom Skewers",
+    "tags": [
+      "mushrooms",
+      "skewers",
+      "slovakian",
+      "vegetarian"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 25,
+    "shard": "e"
+  },
+  {
+    "slug": "elegant-malaysian-cabbage-stew--mexican",
+    "title": "Mexican Cabbage Stew",
+    "tags": [
+      "mexican",
+      "stew",
+      "cabbage",
+      "beef"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
+    "shard": "e"
   }
 ]
