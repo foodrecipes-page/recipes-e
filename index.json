@@ -10524,5 +10524,18 @@
     "cuisine": "Spanish",
     "totalTimeMin": 45,
     "shard": "e"
+  },
+  {
+    "slug": "extraordinary-fermented-chinese-double-rise-bread-kung-pao-style-stew--vegan",
+    "title": "Vegan Kung Pao Stew",
+    "tags": [
+      "vegan",
+      "chinese",
+      "stew",
+      "spicy"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "e"
   }
 ]
