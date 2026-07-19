@@ -1,0 +1,84 @@
+{
+  "slug": "exquisite-gooey-italian-pork-lasagna",
+  "title": "Classic Italian Lasagna",
+  "description": "A traditional Italian dish made with layers of ground beef, lasagna noodles, and a blend of cheeses. A classic comfort food that's sure to please.",
+  "cuisine": "italian",
+  "diet": [
+    "non-vegetarian",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": "80/20 ground beef"
+    },
+    {
+      "name": "Lasagna Noodles",
+      "amount": "8-10 sheets",
+      "notes": "dried"
+    },
+    {
+      "name": "Exquisite Tomato Sauce",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Gooey Ricotta Cheese",
+      "amount": "16 ounces",
+      "notes": "whole milk ricotta"
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "2 teaspoons",
+      "notes": "dried"
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "8 ounces",
+      "notes": "shredded"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1 cup",
+      "notes": "shaved or grated"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook lasagna noodles according to package instructions. Drain and set aside.",
+    "In a large skillet, cook ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Stir in Italian seasoning and cook for 1 minute.",
+    "Add the tomato sauce to the skillet and stir to combine. Bring the sauce to a simmer and let cook for 10-15 minutes, stirring occasionally.",
+    "In a large bowl, combine ricotta cheese, Parmesan cheese, and a pinch of salt and pepper. Mix well to combine.",
+    "Spread a layer of the tomato sauce in the bottom of a 9x13-inch baking dish. Arrange 4 lasagna noodles on top of the sauce.",
+    "Spread half of the ricotta cheese mixture over the noodles, followed by half of the shredded mozzarella cheese.",
+    "Repeat the layers, starting with the noodles, then the tomato sauce, then the remaining ricotta cheese mixture, and finally the remaining mozzarella cheese.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Let the lasagna rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lasagna",
+    "comfort-food",
+    "beef",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 40,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exquisite-gooey-italian-pork-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T00:57:00.761Z"
+}
