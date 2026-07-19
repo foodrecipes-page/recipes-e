@@ -1,0 +1,82 @@
+{
+  "slug": "earthy-slovakian-squid-skewers--vegetarian",
+  "title": "Slovakian Earthy Mushroom Skewers",
+  "description": "Vegetarian skewers filled with earthy mushrooms and Slovakian spices, perfect for a quick and easy meal.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "button mushrooms",
+      "amount": "1 cup",
+      "notes": "cleaned and sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "Slovakian spice"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, smoked paprika, salt, and black pepper.",
+    "Add sliced mushrooms, onion, and bell pepper to the bowl and toss to coat.",
+    "Thread mushroom mixture onto skewers, leaving a small space between each piece.",
+    "Brush skewers with remaining olive oil and season with salt and pepper.",
+    "Grill skewers for 8-10 minutes, turning occasionally, or until vegetables are tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mushrooms",
+    "skewers",
+    "slovakian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 10,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-slovakian-squid-skewers--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T10:01:44.770Z"
+}
