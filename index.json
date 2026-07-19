@@ -2302,17 +2302,15 @@
   },
   {
     "slug": "earthy-ukrainian-rhubarb-pilaf",
-    "title": "Earthy Ukrainian Rhubarb Pilaf",
+    "title": "Traditional Ukrainian Rhubarb Pilaf",
     "tags": [
-      "hot-stone-plate",
-      "lacto-vegetarian",
-      "post-workout",
-      "slow-cooked",
-      "traditional-ukrainian",
-      "yeasty"
+      "ukrainian",
+      "rhubarb",
+      "pilaf",
+      "vegetarian"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "e"
   },
   {
@@ -10583,6 +10581,33 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 45,
+    "shard": "e"
+  },
+  {
+    "slug": "exotic-sweet-mexican-fig-skewers--french",
+    "title": "Grilled Fig Skewers with Exotic Fruit Salsa",
+    "tags": [
+      "grilled-fig-skewers",
+      "exotic-fruit-salsa",
+      "french-dessert",
+      "summer-recipe"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 23,
+    "shard": "e"
+  },
+  {
+    "slug": "earthy-flaky-german-peanut-crumble--chinese",
+    "title": "Peanut Crumble Wontons",
+    "tags": [
+      "chinese",
+      "appetizer",
+      "veggie",
+      "fried",
+      "wontons"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 23,
     "shard": "e"
   }
 ]
