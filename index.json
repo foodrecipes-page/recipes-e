@@ -5320,19 +5320,14 @@
   },
   {
     "slug": "energizing-filipino-sugar-adobo",
-    "title": "Energizing Filipino Sugar Adobo",
+    "title": "Filipino Chicken Adobo",
     "tags": [
-      "adobo",
-      "breakfast",
-      "brunch",
-      "fermentation",
+      "chicken",
       "filipino",
-      "lacto-vegetarian",
-      "sous-vide",
-      "sugar"
+      "adobo"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 90,
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
@@ -7100,14 +7095,12 @@
   },
   {
     "slug": "exotic-dutch-bryndza-cheese-casserole",
-    "title": "Exotic Dutch Bryndza Cheese Casserole",
+    "title": "Dutch Casserole with Exotic Twist",
     "tags": [
-      "brunch-ideas",
-      "cheese-casserole",
-      "dutch-cuisine",
-      "plant-based",
-      "ramekin-recipes",
-      "vegetarian"
+      "dutch",
+      "cheese",
+      "casserole",
+      "exotic"
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 40,
@@ -8755,16 +8748,16 @@
   },
   {
     "slug": "exquisite-gooey-italian-pork-lasagna",
-    "title": "Exquisite Gooey Italian Pork Lasagna",
+    "title": "Classic Italian Lasagna",
     "tags": [
-      "cheesy-goodness",
+      "italian",
+      "lasagna",
       "comfort-food",
-      "italian-food",
-      "pork-recipes",
-      "weeknight-meals"
+      "beef",
+      "cheese"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 65,
+    "cuisine": "italian",
+    "totalTimeMin": 60,
     "shard": "e"
   },
   {
