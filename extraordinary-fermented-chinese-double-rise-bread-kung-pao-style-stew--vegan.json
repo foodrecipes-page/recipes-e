@@ -1,0 +1,73 @@
+{
+  "slug": "extraordinary-fermented-chinese-double-rise-bread-kung-pao-style-stew--vegan",
+  "title": "Vegan Kung Pao Stew",
+  "description": "A spicy, savory, and flavorful stew made with fermented Chinese ingredients, perfect for a chilly evening.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fermented Chinese cabbage",
+      "amount": "2 heads",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Double rice vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Bread",
+      "amount": "4 slices",
+      "notes": "Crushed"
+    },
+    {
+      "name": "Kung pao sauce",
+      "amount": "1/2 cup",
+      "notes": "Make sure it's vegan"
+    },
+    {
+      "name": "Extraordinary garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large pot over medium heat.",
+    "Add the crushed bread and cook until golden brown, stirring frequently.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the shredded cabbage and cook until slightly softened.",
+    "Add the kung pao sauce, vegetable broth, and rice vinegar. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "chinese",
+    "stew",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/extraordinary-fermented-chinese-double-rise-bread-kung-pao-style-stew--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T03:58:57.789Z"
+}
