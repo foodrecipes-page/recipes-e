@@ -1,0 +1,58 @@
+{
+  "slug": "earthy-crunchy-garlic-italian-stir-fry--indian",
+  "title": "Indian-Style Stir Fry",
+  "description": "A flavorful and aromatic Indian-inspired stir fry made with earthy vegetables and crunchy textures. Perfect for a quick lunch or dinner.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "1 cup, peeled and grated"
+    },
+    {
+      "name": "sweet potatoes",
+      "amount": "1 cup, peeled and diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, thinly sliced"
+    },
+    {
+      "name": "earthly mushrooms",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add the onion and cook until softened, about 3-4 minutes.",
+    "Add the garlic and cook for another minute.",
+    "Add the sweet potatoes and carrots, and cook for 5 minutes, stirring occasionally.",
+    "Add the mushrooms and soy sauce, and stir-fry for 2-3 minutes.",
+    "Serve hot, garnished with chopped cilantro or scallions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-crunchy-garlic-italian-stir-fry--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T05:04:04.776Z"
+}
