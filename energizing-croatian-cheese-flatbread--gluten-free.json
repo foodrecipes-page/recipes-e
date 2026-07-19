@@ -1,0 +1,70 @@
+{
+  "slug": "energizing-croatian-cheese-flatbread--gluten-free",
+  "title": "Croatian Flatbread Pizza",
+  "description": "A twist on traditional pizza, using flatbread as the base and topped with cheeses and energizing ingredients. Perfect for a quick dinner or snack.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 package (6-8 pieces)",
+      "notes": null
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 cup shredded mozzarella",
+      "notes": null
+    },
+    {
+      "name": "Energizing",
+      "amount": "1/2 cup chopped fresh parsley",
+      "notes": "Add as much or as little as desired for a energy boost"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Place flatbread on a baking sheet.",
+    "Drizzle with olive oil and sprinkle with salt and pepper.",
+    "Top with shredded cheese and chopped parsley.",
+    "Bake for 10-12 minutes, or until cheese is melted and bubbly.",
+    "Remove from oven and let cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "easy",
+    "pizza"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-croatian-cheese-flatbread--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T22:00:34.486Z"
+}
