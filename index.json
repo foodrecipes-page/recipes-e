@@ -2925,16 +2925,14 @@
   },
   {
     "slug": "easy-going-portuguese-chilli-stew",
-    "title": "Easy Going Portuguese Chilli Stew",
+    "title": "Traditional Portuguese Chilli Stew",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "low-fodmap",
-      "one-pot",
-      "weeknight"
+      "portuguese",
+      "beef",
+      "stew"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 50,
+    "cuisine": "portuguese",
+    "totalTimeMin": 195,
     "shard": "e"
   },
   {
@@ -3125,16 +3123,15 @@
   },
   {
     "slug": "easy-malaysian-feta-pasta",
-    "title": "Easy Malaysian Feta Pasta",
+    "title": "Malaysian Pasta Feta Delight",
     "tags": [
-      "flexitarian",
-      "malaysian-cuisine",
-      "one-pan",
-      "pasta-lover",
-      "weeknight"
+      "easy",
+      "malaysian",
+      "feta",
+      "pasta"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 35,
+    "cuisine": "malaysian",
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
@@ -10536,6 +10533,18 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
+    "slug": "earthy-crunchy-garlic-italian-stir-fry--indian",
+    "title": "Indian-Style Stir Fry",
+    "tags": [
+      "indian",
+      "stir-fry",
+      "vegetarian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
     "shard": "e"
   }
 ]
