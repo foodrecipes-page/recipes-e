@@ -1,0 +1,88 @@
+{
+  "slug": "easy-going-portuguese-chilli-stew",
+  "title": "Traditional Portuguese Chilli Stew",
+  "description": "A hearty and flavorful stew originating from Portugal, made with tender beef, spicy chilli peppers, and rich tomatoes.",
+  "cuisine": "portuguese",
+  "diet": [
+    "easy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "500g",
+      "notes": "chuck or brisket"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chilli pepper",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 cans (400g each)",
+      "notes": "crushed"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1L",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "fresh or dried"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic, cook until softened.",
+    "Add chilli pepper, cook for 1 minute.",
+    "Add beef, cook until browned.",
+    "Add tomato, beef broth, salt, and black pepper.",
+    "Bring to a boil, then reduce heat to low.",
+    "Simmer for 1.5 hours or until beef is tender.",
+    "Add bay leaves, simmer for another 30 minutes.",
+    "Serve hot, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 180,
+  "totalTimeMin": 195,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "beef",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 55,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/easy-going-portuguese-chilli-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T04:08:22.122Z"
+}
