@@ -1,0 +1,101 @@
+{
+  "slug": "elegant-malaysian-cabbage-stew--mexican",
+  "title": "Mexican Cabbage Stew",
+  "description": "A flavorful and hearty Mexican stew made with tender cabbage, savory beef, and aromatic spices.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 medium head",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add the beef and cook until browned, about 5 minutes.",
+    "Add the onion and garlic and cook until the onion is translucent.",
+    "Add the chili powder, cumin, oregano, salt, and pepper, and cook for 1 minute.",
+    "Add the cabbage, tomatoes, beef broth, and water.",
+    "Bring to a boil, then reduce the heat to low and simmer for 30 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "stew",
+    "cabbage",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/elegant-malaysian-cabbage-stew--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T10:04:11.051Z"
+}
