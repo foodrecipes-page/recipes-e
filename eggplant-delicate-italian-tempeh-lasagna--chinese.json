@@ -1,0 +1,66 @@
+{
+  "slug": "eggplant-delicate-italian-tempeh-lasagna--chinese",
+  "title": "Cantonese-Style Tempeh Lasagna",
+  "description": "A fusion of Italian and Chinese flavors, this lasagna substitutes tempeh for meat and pairs it with eggplant.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tempeh",
+      "amount": "8 oz",
+      "notes": "crumbled"
+    },
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "lasagna",
+      "amount": "8-10 noodles",
+      "notes": null
+    },
+    {
+      "name": "delicate",
+      "amount": "2 tbsp",
+      "notes": "soy sauce"
+    },
+    {
+      "name": "italian",
+      "amount": "1 cup",
+      "notes": "marinara sauce"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a pan, sauté the eggplant slices until tender.",
+    "In another pan, cook the crumbled tempeh until browned.",
+    "Combine the marinara sauce with soy sauce and simmer.",
+    "Assemble the lasagna by layering noodles, tempeh mixture, eggplant slices, and marinara sauce.",
+    "Bake for 30 minutes or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-italian-fusion",
+    "tempeh-lasagna",
+    "vegetarian-lasagna"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/eggplant-delicate-italian-tempeh-lasagna--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T09:05:51.524Z"
+}
