@@ -1,79 +1,67 @@
 {
   "slug": "energizing-sour-tender-moroccan-onion-stir-fry",
-  "title": "Moroccan Chicken Stir Fry",
-  "description": "A flavorful and nutritious stir fry dish with the bold flavors of Moroccan spices.",
+  "title": "Moroccan Stir Fry",
+  "description": "A flavorful and nutritious stir fry with the bold flavors of Moroccan cuisine. This recipe is perfect for a quick and easy dinner.",
   "cuisine": "Moroccan",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "chicken breast",
-      "amount": "1 pound",
-      "notes": "cut into bite-sized pieces"
-    },
-    {
       "name": "onion",
-      "amount": "1 medium",
-      "notes": "sliced"
+      "amount": "1 cup",
+      "notes": "thinly sliced"
     },
     {
-      "name": "moroccan spice blend",
-      "amount": "2 teaspoons",
-      "notes": "store-bought or homemade"
+      "name": "energizing",
+      "amount": "2 cups",
+      "notes": "such as spinach or kale"
     },
     {
-      "name": "stir-fry sauce",
-      "amount": "2 tablespoons",
-      "notes": "or substitute with soy sauce"
+      "name": "tender",
+      "amount": "1 cup",
+      "notes": "such as bell peppers or zucchini"
     },
     {
-      "name": "tender bell peppers",
-      "amount": "1 large",
-      "notes": "sliced"
+      "name": "sour",
+      "amount": "2 tbsp",
+      "notes": "such as lemon juice"
     },
     {
-      "name": "sour lemon juice",
-      "amount": "2 tablespoons",
-      "notes": "freshly squeezed"
-    },
-    {
-      "name": "cooking oil",
-      "amount": "2 tablespoons",
-      "notes": "vegetable or canola oil"
+      "name": "moroccan",
+      "amount": "1 tsp",
+      "notes": "such as ras el hanout spice blend"
     }
   ],
   "instructions": [
-    "Heat oil in a large skillet or wok over medium-high heat.",
-    "Add chicken and cook until browned, about 5-6 minutes.",
-    "Remove chicken from skillet and set aside.",
-    "Add sliced onion and cook until softened, about 3-4 minutes.",
-    "Add bell peppers and cook until tender, about 4-5 minutes.",
-    "Return chicken to skillet and stir in moroccan spice blend and stir-fry sauce.",
-    "Cook for an additional 2-3 minutes or until chicken is cooked through.",
-    "Stir in sour lemon juice and season with salt and pepper to taste.",
-    "Serve hot, garnished with fresh herbs if desired."
+    "Heat 1 tbsp of oil in a large skillet over medium-high heat.",
+    "Add the sliced onion and cook until softened, about 3-4 minutes.",
+    "Add the tender ingredients and cook until they start to soften, about 4-5 minutes.",
+    "Add the energizing ingredients and cook until wilted, about 2-3 minutes.",
+    "Stir in the sour ingredient and cook for another minute.",
+    "Season with the moroccan ingredient and serve hot.",
+    "Serve immediately and enjoy!"
   ],
-  "prepTimeMin": 15,
-  "cookTimeMin": 20,
-  "totalTimeMin": 35,
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
   "servings": 4,
-  "difficulty": "medium",
+  "difficulty": "easy",
   "tags": [
     "moroccan",
-    "chicken",
-    "stir-fry"
+    "stir-fry",
+    "vegetarian",
+    "quick-dinner"
   ],
   "nutrition": {
-    "calories": 320,
-    "protein": 35,
-    "carbs": 10,
-    "fat": 12
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/energizing-sour-tender-moroccan-onion-stir-fry",
   "providerUsed": "groq",
-  "createdAt": "2026-07-15T22:55:29.838Z"
+  "createdAt": "2026-07-17T16:58:05.665Z"
 }
