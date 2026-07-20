@@ -1,0 +1,72 @@
+{
+  "slug": "easy-going-mexican-corn-elote",
+  "title": "Grilled Corn with Cotija Cheese",
+  "description": "A simple and flavorful Mexican side dish made with grilled corn, cotija cheese, and a squeeze of lime juice.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "corn",
+      "amount": "4 ears",
+      "notes": ""
+    },
+    {
+      "name": "cotija cheese",
+      "amount": "1 cup crumbled",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Shuck the corn and brush with butter.",
+    "Season with chili powder and salt.",
+    "Grill the corn for 10-12 minutes, turning frequently.",
+    "When the corn is lightly charred, remove from heat.",
+    "Sprinkle with cotija cheese and a squeeze of lime juice.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "summer",
+    "corn",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/easy-going-mexican-corn-elote",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T21:41:45.253Z"
+}
