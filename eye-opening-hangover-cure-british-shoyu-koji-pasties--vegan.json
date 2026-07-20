@@ -1,0 +1,60 @@
+{
+  "slug": "eye-opening-hangover-cure-british-shoyu-koji-pasties--vegan",
+  "title": "Koji and Shoyu Pasties",
+  "description": "Vegan pasties made with koji and shoyu for a unique flavor. Perfect as a snack or dessert.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Vegan pastry dough",
+      "amount": "1 package"
+    },
+    {
+      "name": "Koji",
+      "amount": "1 cup",
+      "notes": "Available at health food stores or online"
+    },
+    {
+      "name": "Shoyu",
+      "amount": "2 tablespoons",
+      "notes": "Vegan soy sauce"
+    },
+    {
+      "name": "British mushrooms",
+      "amount": "1 cup",
+      "notes": "Substitute with other varieties if needed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pastry dough and cut into circles.",
+    "In a pan, sauté the mushrooms and koji in shoyu until fragrant.",
+    "Place a spoonful of the mushroom mixture onto one half of the pastry circle.",
+    "Fold the other half of the pastry over the filling and seal the edges.",
+    "Bake the pasties for 20-25 minutes or until golden brown.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "snack",
+    "pasties"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/eye-opening-hangover-cure-british-shoyu-koji-pasties--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T17:01:07.273Z"
+}
