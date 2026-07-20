@@ -1,0 +1,85 @@
+{
+  "slug": "emulsified-rich-portuguese-bread-gratin--thai",
+  "title": "Thai Bread Gratin",
+  "description": "A rich and flavorful Thai-inspired gratin made with crispy bread and a creamy emulsified sauce.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bread, cubed",
+      "amount": "1 1/2 cups",
+      "notes": null
+    },
+    {
+      "name": "Portuguese bread, torn",
+      "amount": "1 cup",
+      "notes": "for topping"
+    },
+    {
+      "name": "Emulsified sauce (see below for recipe)",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Gratin cheese (such as parmesan or cheddar)",
+      "amount": "1/2 cup, grated",
+      "notes": null
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine cubed bread, emulsified sauce, gratin cheese, butter, soy sauce, fish sauce, and brown sugar. Mix until well combined.",
+    "Transfer the mixture to a 9x13-inch baking dish.",
+    "Top with torn Portuguese bread.",
+    "Bake for 20-25 minutes, or until the top is golden brown and the gratin is heated through.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "gratin",
+    "bread",
+    "emulsified",
+    "rich"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/emulsified-rich-portuguese-bread-gratin--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T16:38:38.349Z"
+}
