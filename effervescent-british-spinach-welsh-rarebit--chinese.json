@@ -1,0 +1,78 @@
+{
+  "slug": "effervescent-british-spinach-welsh-rarebit--chinese",
+  "title": "Welsh Rarebit Stir Fry",
+  "description": "A twist on the classic Welsh rarebit recipe, incorporating the bold flavors of Chinese cuisine. This dish combines the creaminess of cheese with the crunch of veggies.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Welsh rarebit",
+      "amount": "200g",
+      "notes": "Use store-bought or make your own"
+    },
+    {
+      "name": "Spinach",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Effervescent water",
+      "amount": "50ml",
+      "notes": "For added moisture"
+    },
+    {
+      "name": "British mustard",
+      "amount": "2tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cooking oil",
+      "amount": "2tbsp",
+      "notes": "Vegetable or peanut oil"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1tbsp",
+      "notes": "Optional garnish"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add the spinach and stir-fry until wilted.",
+    "Add the Welsh rarebit, effervescent water, and mustard. Stir-fry until the cheese is melted and the mixture is smooth.",
+    "Stir in the sesame seeds (if using) and soy sauce.",
+    "Cook for an additional 2-3 minutes, until the sauce has thickened.",
+    "Serve immediately, garnished with additional spinach if desired.",
+    "Cooking time: 10-12 minutes.",
+    "Rest time: 5 minutes.",
+    "Total time: 17-22 minutes.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "cheese",
+    "spinach"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/effervescent-british-spinach-welsh-rarebit--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T15:22:12.262Z"
+}
