@@ -1,0 +1,95 @@
+{
+  "slug": "earthy-uruguayan-beef-stew--thai",
+  "title": "Thai Beef Stew",
+  "description": "A hearty Thai-inspired beef stew with rich and savory flavors. Perfect for a cold evening!",
+  "cuisine": "thai",
+  "diet": [
+    "beef",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "earth",
+      "amount": "2 tablespoons",
+      "notes": "ground ginger"
+    },
+    {
+      "name": "uruguayan",
+      "amount": "2 tablespoons",
+      "notes": "achiote paste"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "beef broth"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": "cooked white rice"
+    },
+    {
+      "name": "scallions",
+      "amount": "4",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "chili peppers",
+      "amount": "2",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat. Add the sliced chili peppers and cook until fragrant, about 1 minute.",
+    "Add the beef and cook until browned, about 3-4 minutes.",
+    "Add the achiote paste and cook for 1 minute, until fragrant.",
+    "Add the beef broth, coconut milk, fish sauce, and brown sugar. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 1 1/2 hours, or until the beef is tender.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the stew over cooked white rice, garnished with thinly sliced scallions.",
+    "Serve with additional chili peppers and achiote paste on the side, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "beef-stew",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-uruguayan-beef-stew--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T17:22:24.945Z"
+}
