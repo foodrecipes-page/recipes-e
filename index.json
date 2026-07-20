@@ -5918,14 +5918,15 @@
   },
   {
     "slug": "energizing-sour-tender-moroccan-onion-stir-fry",
-    "title": "Moroccan Chicken Stir Fry",
+    "title": "Moroccan Stir Fry",
     "tags": [
       "moroccan",
-      "chicken",
-      "stir-fry"
+      "stir-fry",
+      "vegetarian",
+      "quick-dinner"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "e"
   },
   {
@@ -10621,6 +10622,32 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 17,
+    "shard": "e"
+  },
+  {
+    "slug": "emulsified-rich-portuguese-bread-gratin--thai",
+    "title": "Thai Bread Gratin",
+    "tags": [
+      "thaifood",
+      "gratin",
+      "bread",
+      "emulsified",
+      "rich"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "e"
+  },
+  {
+    "slug": "eye-opening-hangover-cure-british-shoyu-koji-pasties--vegan",
+    "title": "Koji and Shoyu Pasties",
+    "tags": [
+      "vegan",
+      "snack",
+      "pasties"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
     "shard": "e"
   }
 ]
