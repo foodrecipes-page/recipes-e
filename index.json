@@ -10674,5 +10674,18 @@
     "cuisine": "japanese",
     "totalTimeMin": 40,
     "shard": "e"
+  },
+  {
+    "slug": "ethereal-silky-ethiopian-rice-gored-gored--keto",
+    "title": "Ethereal Ethiopian Keto Bowl",
+    "tags": [
+      "keto",
+      "ethiopian",
+      "beef",
+      "rice"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 25,
+    "shard": "e"
   }
 ]
