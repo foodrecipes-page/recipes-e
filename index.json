@@ -10609,5 +10609,18 @@
     "cuisine": "chinese",
     "totalTimeMin": 23,
     "shard": "e"
+  },
+  {
+    "slug": "effervescent-british-spinach-welsh-rarebit--chinese",
+    "title": "Welsh Rarebit Stir Fry",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "cheese",
+      "spinach"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 17,
+    "shard": "e"
   }
 ]
