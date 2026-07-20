@@ -1,0 +1,67 @@
+{
+  "slug": "ethereal-silky-ethiopian-rice-gored-gored--keto",
+  "title": "Ethereal Ethiopian Keto Bowl",
+  "description": "A keto twist on traditional Ethiopian cuisine, combining ethereal spices with silky greens. Serve over a bed of rice for a satisfying and filling meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ethereal spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Silky kale",
+      "amount": "2 cups, chopped"
+    },
+    {
+      "name": "Gored beef",
+      "amount": "8 oz, sliced"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup, cooked"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove, minced"
+    }
+  ],
+  "instructions": [
+    "In a large skillet, heat 1 tbsp of coconut oil over medium-high heat.",
+    "Add the sliced gored beef and cook for 3-4 minutes, or until browned and cooked through. Set aside.",
+    "In the same skillet, add the remaining 1 tbsp of coconut oil and sauté the chopped silky kale until wilted.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the ethereal spice blend and cook for 1 minute, until fragrant.",
+    "Add the cooked gored beef back into the skillet and stir to combine with the kale and spice blend.",
+    "Serve the beef and kale mixture over a bed of cooked rice.",
+    "Enjoy your ethereal Ethiopian keto bowl!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "ethiopian",
+    "beef",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ethereal-silky-ethiopian-rice-gored-gored--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T00:38:43.570Z"
+}
