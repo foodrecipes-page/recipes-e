@@ -10662,5 +10662,18 @@
     "cuisine": "thai",
     "totalTimeMin": 105,
     "shard": "e"
+  },
+  {
+    "slug": "earthy-kenyan-celery-stew--japanese",
+    "title": "Stewed Earthy Delight",
+    "tags": [
+      "stew",
+      "vegetarian",
+      "mushrooms",
+      "sweet-potatoes"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
+    "shard": "e"
   }
 ]
