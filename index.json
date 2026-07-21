@@ -3233,16 +3233,16 @@
   },
   {
     "slug": "easy-roasted-croatian-pork-roast",
-    "title": "Easy Roasted Croatian Pork Roast",
+    "title": "Croatian Roasted Pork Roast",
     "tags": [
-      "croatian-cuisine",
-      "high-protein",
-      "lazy-sunday",
-      "one-pan",
-      "weeknight"
+      "croatian",
+      "roasted",
+      "pork",
+      "easy",
+      "dinner"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 100,
+    "totalTimeMin": 55,
     "shard": "e"
   },
   {
