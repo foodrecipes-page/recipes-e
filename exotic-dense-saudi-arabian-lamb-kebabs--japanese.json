@@ -1,0 +1,93 @@
+{
+  "slug": "exotic-dense-saudi-arabian-lamb-kebabs--japanese",
+  "title": "Japanese Lamb Kebabs",
+  "description": "A unique twist on traditional Japanese cuisine, featuring flavorful lamb kebabs infused with Saudi Arabian spices.",
+  "cuisine": "japanese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Sahlab spice mix",
+      "amount": "2 tsp",
+      "notes": "available at most Middle Eastern grocery stores"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Exotic fruit chutney",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Dense pomegranate seeds",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Arabian sumac",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "4",
+      "notes": "for serving"
+    },
+    {
+      "name": "Mint leaves",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together soy sauce, sesame oil, Sahlab spice mix, and a pinch of salt.",
+    "Add lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread lamb cubes onto skewers, leaving a small space between each piece.",
+    "Brush skewers with a little sesame oil and season with sumac (if using).",
+    "Grill skewers for 8-10 minutes per side, or until lamb is cooked to your desired level of doneness.",
+    "Transfer skewers to a plate and garnish with mint leaves and a sprinkle of sumac (if using).",
+    "Serve with lemon wedges and a side of exotic fruit chutney and pomegranate seeds (if using)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "japanese",
+    "arabian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 38
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-dense-saudi-arabian-lamb-kebabs--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T09:19:22.629Z"
+}
