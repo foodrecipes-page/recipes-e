@@ -1,0 +1,59 @@
+{
+  "slug": "effervescent-portuguese-yoghurt-dumplings--thai",
+  "title": "Thai-Style Yogurt Dumplings",
+  "description": "A refreshing twist on traditional Thai cuisine, these yogurt dumplings are a perfect snack or dessert.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dumplings",
+      "amount": "12",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Yoghurt",
+      "amount": "1 cup",
+      "notes": "plain, full-fat"
+    },
+    {
+      "name": "Portuguese",
+      "amount": "1/2 cup",
+      "notes": "sweetened condensed milk"
+    },
+    {
+      "name": "Effervescent",
+      "amount": "1/4 cup",
+      "notes": "soda water, for serving"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine dumplings, yoghurt, and portuguese. Mix until smooth and well combined.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, stir in effervescent (soda water) to give the mixture a light and airy texture.",
+    "Serve chilled, garnished with a sprinkle of sugar or a few slices of fresh fruit, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai-cuisine",
+    "dessert",
+    "snack",
+    "yoghurt-dumplings"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/effervescent-portuguese-yoghurt-dumplings--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T03:29:43.679Z"
+}
