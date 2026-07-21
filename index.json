@@ -10802,5 +10802,18 @@
     "cuisine": "mexican",
     "totalTimeMin": 35,
     "shard": "e"
+  },
+  {
+    "slug": "exotic-earthy-syrian-chicken-curry--vegetarian",
+    "title": "Syrian Chicken-Free Curry",
+    "tags": [
+      "vegetarian",
+      "syrian",
+      "curry",
+      "mushroom"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 35,
+    "shard": "e"
   }
 ]
