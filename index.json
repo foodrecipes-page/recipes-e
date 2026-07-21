@@ -10749,5 +10749,19 @@
     "cuisine": "french",
     "totalTimeMin": 25,
     "shard": "e"
+  },
+  {
+    "slug": "earthy-brazilian-almond-milk-tart--keto",
+    "title": "Keto Brazilian Tart with Almond Crust",
+    "tags": [
+      "keto",
+      "dessert",
+      "brazilian",
+      "almond",
+      "tart"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 50,
+    "shard": "e"
   }
 ]
