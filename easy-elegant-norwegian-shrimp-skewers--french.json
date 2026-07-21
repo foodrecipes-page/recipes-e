@@ -1,0 +1,81 @@
+{
+  "slug": "easy-elegant-norwegian-shrimp-skewers--french",
+  "title": "Norwegian-Style Shrimp Skewers with French Twist",
+  "description": "A delicate and elegant appetizer or side dish, perfect for a French-inspired dinner party. Succulent shrimp marinated in a mixture of Scandinavian flavors and grilled to perfection.",
+  "cuisine": "french",
+  "diet": [
+    "seafood"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together lemon juice, olive oil, garlic, parsley, dill, salt, pepper, and paprika.",
+    "Add the shrimp to the marinade and mix to coat.",
+    "Let the shrimp marinate for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "Thread the marinated shrimp onto skewers.",
+    "Grill the shrimp skewers for 8-10 minutes, or until they are pink and cooked through.",
+    "Serve the shrimp skewers hot, garnished with additional parsley and lemon wedges if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "seafood",
+    "appetizer",
+    "shrimp"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/easy-elegant-norwegian-shrimp-skewers--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T12:20:41.734Z"
+}
