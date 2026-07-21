@@ -10687,5 +10687,43 @@
     "cuisine": "Ethiopian",
     "totalTimeMin": 25,
     "shard": "e"
+  },
+  {
+    "slug": "exotic-spanish-fish-paella--gluten-free",
+    "title": "Spanish Paella with Seafood",
+    "tags": [
+      "seafood",
+      "gluten-free",
+      "spanish",
+      "paella"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 45,
+    "shard": "e"
+  },
+  {
+    "slug": "effervescent-portuguese-yoghurt-dumplings--thai",
+    "title": "Thai-Style Yogurt Dumplings",
+    "tags": [
+      "thai-cuisine",
+      "dessert",
+      "snack",
+      "yoghurt-dumplings"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
+    "shard": "e"
+  },
+  {
+    "slug": "energizing-ethiopian-vermicelli-jjigae--thai",
+    "title": "Vermicelli Jjigae Stir Fry",
+    "tags": [
+      "thaifusion",
+      "koreanfusion",
+      "vermicellistirfry"
+    ],
+    "cuisine": "thaicuisine",
+    "totalTimeMin": 25,
+    "shard": "e"
   }
 ]
