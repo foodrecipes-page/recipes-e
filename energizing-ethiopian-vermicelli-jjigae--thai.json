@@ -1,0 +1,79 @@
+{
+  "slug": "energizing-ethiopian-vermicelli-jjigae--thai",
+  "title": "Vermicelli Jjigae Stir Fry",
+  "description": "A fusion dish combining the flavors of Thai and Korean cuisines. This energizing stir-fry is made with vermicelli noodles and the spicy goodness of jjigae.",
+  "cuisine": "thaicuisine",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "vermicelli noodles",
+      "amount": "8 oz",
+      "notes": "preferably rice vermicelli"
+    },
+    {
+      "name": "Ethiopian red pepper flakes",
+      "amount": "1 tsp",
+      "notes": "spicy, adjust to taste"
+    },
+    {
+      "name": "jjigae paste",
+      "amount": "2 tbsp",
+      "notes": "Korean chili paste, adjust to taste"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "cubed"
+    },
+    {
+      "name": "snow peas",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Cook the vermicelli noodles according to the package instructions. Drain and set aside.",
+    "In a large pan, heat 1 tablespoon of oil over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the cubed tofu and cook until golden brown. Remove from the pan and set aside.",
+    "Add another tablespoon of oil to the pan, then add the sliced snow peas. Cook until they start to soften.",
+    "Add the Ethiopian red pepper flakes, jjigae paste, and cooked tofu back into the pan. Stir-fry for 2 minutes.",
+    "Add the cooked vermicelli noodles to the pan and stir-fry until well combined.",
+    "Season with salt to taste, then garnish with chopped cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifusion",
+    "koreanfusion",
+    "vermicellistirfry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-ethiopian-vermicelli-jjigae--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T03:54:59.421Z"
+}
