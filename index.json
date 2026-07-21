@@ -10763,5 +10763,17 @@
     "cuisine": "Brazilian",
     "totalTimeMin": 50,
     "shard": "e"
+  },
+  {
+    "slug": "easy-crispy-turkish-lentils-mercimek-corbasi--indian",
+    "title": "Turkish-Style Lentil Curry",
+    "tags": [
+      "lentil-curry",
+      "indian-cuisine",
+      "vegetarian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "e"
   }
 ]
