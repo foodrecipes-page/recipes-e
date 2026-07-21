@@ -1,0 +1,79 @@
+{
+  "slug": "energizing-mexican-noodles-enchiladas--vegetarian",
+  "title": "Vegetarian Enchilada Noodles",
+  "description": "A flavorful and nutritious vegetarian dish that combines the comforting taste of enchiladas with the convenience of noodles.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "energizing enchilada sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetarian enchilada filling",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook noodles according to package instructions.",
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add enchilada filling and cook until heated through.",
+    "Stir in enchilada sauce and bring to a simmer.",
+    "Add cooked noodles to the skillet and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Transfer the noodle mixture to a serving dish.",
+    "Top with shredded cheese and chopped cilantro (if using).",
+    "Cover with aluminum foil and bake in a preheated oven at 375°F (190°C) for 15-20 minutes.",
+    "Remove foil and continue baking for an additional 5-10 minutes, or until cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "mexican",
+    "noodles",
+    "enchiladas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 55,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-mexican-noodles-enchiladas--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T16:37:50.081Z"
+}
