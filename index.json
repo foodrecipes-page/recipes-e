@@ -10736,5 +10736,18 @@
     "cuisine": "japanese",
     "totalTimeMin": 33,
     "shard": "e"
+  },
+  {
+    "slug": "easy-elegant-norwegian-shrimp-skewers--french",
+    "title": "Norwegian-Style Shrimp Skewers with French Twist",
+    "tags": [
+      "french",
+      "seafood",
+      "appetizer",
+      "shrimp"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "e"
   }
 ]
