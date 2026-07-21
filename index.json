@@ -10775,5 +10775,32 @@
     "cuisine": "indian",
     "totalTimeMin": 40,
     "shard": "e"
+  },
+  {
+    "slug": "energizing-gooey-smoky-cumin-stir-fry--vegan",
+    "title": "Spicy Smoky Veggie Stir Fry",
+    "tags": [
+      "vegan",
+      "stir-fry",
+      "sweet-potatoes",
+      "kale",
+      "bell-peppers"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "e"
+  },
+  {
+    "slug": "energizing-mexican-noodles-enchiladas--vegetarian",
+    "title": "Vegetarian Enchilada Noodles",
+    "tags": [
+      "vegetarian",
+      "mexican",
+      "noodles",
+      "enchiladas"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "e"
   }
 ]
