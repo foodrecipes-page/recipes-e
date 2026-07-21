@@ -1,0 +1,90 @@
+{
+  "slug": "exotic-spanish-fish-paella--gluten-free",
+  "title": "Spanish Paella with Seafood",
+  "description": "A gluten-free twist on a classic Spanish dish, featuring succulent seafood and flavorful saffron rice.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spanish rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "Cubed"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "Peeled and deveined"
+    },
+    {
+      "name": "Mussels",
+      "amount": "1 cup",
+      "notes": "Cleaned and debearded"
+    },
+    {
+      "name": "Squid",
+      "amount": "1/2 pound",
+      "notes": "Cubed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the shrimp, mussels, and squid, and cook until the seafood is lightly browned, about 5 minutes.",
+    "Add the garlic, smoked paprika, salt, and black pepper, and cook for 1 minute.",
+    "Add the Spanish rice to the pan and stir to coat with the oil and mix with the seafood and spices.",
+    "Add 4 cups of water to the pan and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Remove the pan from the heat and let rest for 5 minutes.",
+    "Serve hot, garnished with lemon wedges and fresh parsley.",
+    "Discard any unopened mussels before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "seafood",
+    "gluten-free",
+    "spanish",
+    "paella"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 60,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-spanish-fish-paella--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T03:01:42.666Z"
+}
