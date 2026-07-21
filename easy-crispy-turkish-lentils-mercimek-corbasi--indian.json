@@ -1,0 +1,96 @@
+{
+  "slug": "easy-crispy-turkish-lentils-mercimek-corbasi--indian",
+  "title": "Turkish-Style Lentil Curry",
+  "description": "A popular Indian-inspired dish made with red lentils, spices, and a touch of Turkish flavor.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": null
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "corbasi",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion, garlic, and ginger. Cook until onion is translucent.",
+    "Add tomato, coriander powder, cumin powder, and turmeric powder. Cook for 1 minute.",
+    "Add red lentils and water. Bring to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Season with salt to taste.",
+    "Stir in corbasi, if using.",
+    "Serve hot, garnished with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil-curry",
+    "indian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/easy-crispy-turkish-lentils-mercimek-corbasi--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T15:03:26.688Z"
+}
