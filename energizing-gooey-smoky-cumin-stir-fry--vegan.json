@@ -1,0 +1,68 @@
+{
+  "slug": "energizing-gooey-smoky-cumin-stir-fry--vegan",
+  "title": "Spicy Smoky Veggie Stir Fry",
+  "description": "A flavorful and nutritious stir fry made with smoky and spicy flavors. This dish is perfect as a quick and easy meal.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gooey Sweet Potatoes",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Energizing Kale",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Smoky Bell Peppers",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Stir Fry Oil",
+      "amount": "2 tbsp",
+      "notes": "Choose a vegan oil"
+    }
+  ],
+  "instructions": [
+    "Heat the stir fry oil in a large skillet over medium-high heat.",
+    "Add the cumin and cook for 1 minute, until fragrant.",
+    "Add the bell peppers and cook for 3-4 minutes, until they start to soften.",
+    "Add the sweet potatoes and cook for another 4-5 minutes, until they are tender.",
+    "Add the kale and stir fry for 2-3 minutes, until it is wilted.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "stir-fry",
+    "sweet-potatoes",
+    "kale",
+    "bell-peppers"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-gooey-smoky-cumin-stir-fry--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T16:05:35.309Z"
+}
