@@ -1,0 +1,81 @@
+{
+  "slug": "easy-roasted-croatian-pork-roast",
+  "title": "Croatian Roasted Pork Roast",
+  "description": "A delicious and easy-to-make roast pork dish originating from Croatia, perfect for a weeknight dinner.",
+  "cuisine": "Croatian",
+  "diet": [
+    "pork-friendly",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork roast",
+      "amount": "1.5 pounds",
+      "notes": "Boneless pork loin roast"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "roasted potatoes",
+      "amount": "2-3 medium-sized",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Season the pork roast with salt, black pepper, and dried thyme.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the pork roast on all sides until browned, about 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and roast the pork for 20 minutes.",
+    "Reduce the oven temperature to 375°F (190°C) and continue roasting for an additional 20-25 minutes, or until the pork reaches an internal temperature of 145°F (63°C).",
+    "Let the pork rest for 10 minutes before slicing.",
+    "Optional: Toss the roasted potatoes with olive oil, salt, and black pepper, and roast in the oven for 20-25 minutes, or until tender."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "roasted",
+    "pork",
+    "easy",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/easy-roasted-croatian-pork-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T10:16:00.370Z"
+}
