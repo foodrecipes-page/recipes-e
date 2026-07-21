@@ -1,0 +1,92 @@
+{
+  "slug": "earthy-brazilian-almond-milk-tart--keto",
+  "title": "Keto Brazilian Tart with Almond Crust",
+  "description": "A keto dessert with a crunchy almond crust and a creamy, sweet filling inspired by the flavors of Brazil. This tart is perfect for warm weather and can be made in under an hour.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almond flour",
+      "amount": "1 1/2 cups",
+      "notes": "Make sure to use a fine ground almond flour for the best results"
+    },
+    {
+      "name": "Granulated sweetener (e.g. Swerve or Erythritol)",
+      "amount": "1/2 cup",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "4",
+      "notes": "Room temperature eggs work best"
+    },
+    {
+      "name": "Unsalted butter, melted",
+      "amount": "1/2 cup",
+      "notes": "Use a high-quality, salt-free butter"
+    },
+    {
+      "name": "Tart filling (see below for ingredients)",
+      "amount": "1 cup",
+      "notes": "You can adjust the amount of filling to your liking"
+    },
+    {
+      "name": "Tart filling ingredients:",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Earthy chocolate chips (at least 85% cocoa)",
+      "amount": "1/2 cup",
+      "notes": "Use high-quality chocolate for the best flavor"
+    },
+    {
+      "name": "Brazilian coffee",
+      "amount": "2 tablespoons",
+      "notes": "Use freshly brewed coffee for the best flavor"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1/2 cup",
+      "notes": "You can adjust the amount of cream to your liking"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "In a medium bowl, mix together the almond flour, granulated sweetener, and a pinch of salt.",
+    "Add in the melted butter and mix until the mixture is crumbly.",
+    "Press the mixture into the bottom of a 9-inch tart pan with a removable bottom.",
+    "Bake the crust for 18-20 minutes, or until lightly golden brown.",
+    "While the crust is baking, prepare the tart filling by melting the chocolate chips in a double boiler.",
+    "Remove the crust from the oven and let it cool slightly.",
+    "Pour the tart filling over the crust and smooth out the top.",
+    "Bake the tart for an additional 15-20 minutes, or until the filling is set.",
+    "Remove the tart from the oven and let it cool completely.",
+    "Once cooled, top the tart with whipped cream and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "dessert",
+    "brazilian",
+    "almond",
+    "tart"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 8,
+    "carbs": 5,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-brazilian-almond-milk-tart--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T14:22:06.055Z"
+}
