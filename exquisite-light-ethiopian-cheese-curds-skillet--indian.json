@@ -1,0 +1,82 @@
+{
+  "slug": "exquisite-light-ethiopian-cheese-curds-skillet--indian",
+  "title": "Light Indian Skillet Cheese Fritters",
+  "description": "A crispy and savory Indian-inspired snack made with melted cheese, a touch of Ethiopian spices, and a delicate skillet-cooked twist.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cheese",
+      "amount": "1 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "curds",
+      "amount": "1/2 cup crumbled",
+      "notes": ""
+    },
+    {
+      "name": "skillet",
+      "amount": "",
+      "notes": "for cooking"
+    },
+    {
+      "name": "light",
+      "amount": "1 tsp ground turmeric",
+      "notes": ""
+    },
+    {
+      "name": "exquisite",
+      "amount": "1 tsp garam masala",
+      "notes": ""
+    },
+    {
+      "name": "ethiopian",
+      "amount": "1/2 tsp berbere spice",
+      "notes": ""
+    },
+    {
+      "name": "oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the cheese, curds, turmeric, garam masala, and berbere spice.",
+    "2. Gradually add in the water and mix until a dough forms.",
+    "3. Heat the oil in a skillet over medium heat.",
+    "4. Using a spoon, drop small balls of the dough into the hot oil and flatten slightly with a spatula.",
+    "5. Cook for 2-3 minutes on each side, until golden brown and crispy.",
+    "6. Remove from oil and drain on paper towels.",
+    "7. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "snack",
+    "cheese",
+    "fried"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exquisite-light-ethiopian-cheese-curds-skillet--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T00:38:42.521Z"
+}
