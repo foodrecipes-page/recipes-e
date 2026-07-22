@@ -1,0 +1,95 @@
+{
+  "slug": "energizing-venezuelan-chickpeas-bowl--indian",
+  "title": "Venezuelan Chickpea Bowl",
+  "description": "A fusion of Indian and Venezuelan flavors in a nutritious and filling bowl dish.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups cooked",
+      "notes": ""
+    },
+    {
+      "name": "energizing greens mix",
+      "amount": "2 cups",
+      "notes": "such as kale and spinach"
+    },
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "Venezuelan-style black beans",
+      "amount": "1 cup cooked",
+      "notes": "or regular black beans with cumin and chili powder"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook quinoa according to package instructions.",
+    "Heat olive oil in a large pan over medium heat.",
+    "Add cumin, ground cumin, coriander powder, and garam masala. Cook for 1 minute.",
+    "Add cooked chickpeas, black beans, and energizing greens mix. Stir to combine.",
+    "Cook for 5-7 minutes, stirring occasionally.",
+    "Season with salt and pepper to taste.",
+    "Stir in lime juice.",
+    "Serve over quinoa in individual bowls.",
+    "Garnish with additional energizing greens mix and a drizzle of lime juice if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "vegan",
+    "gluten-free",
+    "quinoa-bowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-venezuelan-chickpeas-bowl--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T00:07:56.103Z"
+}
