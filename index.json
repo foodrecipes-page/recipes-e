@@ -10812,5 +10812,43 @@
     "cuisine": "Syrian",
     "totalTimeMin": 35,
     "shard": "e"
+  },
+  {
+    "slug": "eamatriciana-indian-almond-stir-fry--chinese",
+    "title": "Chinese Almond Stir Fry",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "almonds"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "e"
+  },
+  {
+    "slug": "energizing-ethiopian-vermicelli-jjigae--gluten-free",
+    "title": "Spicy Vermicelli Jjigae",
+    "tags": [
+      "gluten-free",
+      "spicy",
+      "ethiopian",
+      "vermicelli"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 30,
+    "shard": "e"
+  },
+  {
+    "slug": "energizing-citrusy-chinese-noodles-chow-fun--italian",
+    "title": "Citrusy Chow Fun with Italian Twist",
+    "tags": [
+      "italian",
+      "chow",
+      "fun",
+      "citrusy"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "e"
   }
 ]
