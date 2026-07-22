@@ -1,0 +1,90 @@
+{
+  "slug": "energizing-briny-thai-trout-nam-prik--indian",
+  "title": "Thai-Style Trout Tikka Masala",
+  "description": "A flavorful and aromatic Indian-inspired dish with the freshness of Thai spices and the richness of trout.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "trout",
+      "amount": "4 fillets",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "prik",
+      "amount": "2 tsp",
+      "notes": "Thai red chili flakes"
+    },
+    {
+      "name": "briny",
+      "amount": "1 cup",
+      "notes": "yogurt, for marinating"
+    },
+    {
+      "name": "nam",
+      "amount": "1 tsp",
+      "notes": "fish sauce"
+    },
+    {
+      "name": "energizing",
+      "amount": "1 tsp",
+      "notes": "garam masala"
+    },
+    {
+      "name": "nam",
+      "amount": "2 tsp",
+      "notes": "coriander powder"
+    },
+    {
+      "name": "energizing",
+      "amount": "1 tsp",
+      "notes": "cumin powder"
+    },
+    {
+      "name": "pri",
+      "amount": "1/2 tsp",
+      "notes": "turmeric powder"
+    },
+    {
+      "name": "nam",
+      "amount": "1/2 tsp",
+      "notes": "cayenne pepper"
+    },
+    {
+      "name": "briny",
+      "amount": "1/2 cup",
+      "notes": "water"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine 1/4 cup of yogurt, 1 tsp of garam masala, 1 tsp of cumin powder, 1/2 tsp of turmeric powder, and 1/2 tsp of cayenne pepper. Mix well.",
+    "2. Add the trout fillets to the marinade and coat evenly. Cover and refrigerate for at least 30 minutes.",
+    "3. Preheat the grill to medium-high heat. Remove the trout from the marinade and cook for 4-5 minutes per side, or until cooked through.",
+    "4. In a large saucepan, heat 2 tbsp of oil over medium heat. Add 1 tsp of cumin seeds and 1 tsp of coriander seeds. Cook for 1 minute, or until fragrant.",
+    "5. Add 2 cups of water, 1 cup of yogurt, 1 tsp of garam masala, 1 tsp of cumin powder, 1 tsp of coriander powder, 1/2 tsp of cayenne pepper, and 1/2 tsp of salt. Whisk well.",
+    "6. Bring the mixture to a boil, then reduce the heat to low and simmer for 5-7 minutes, or until the sauce thickens.",
+    "7. Add the cooked trout to the sauce and simmer for an additional 2-3 minutes.",
+    "8. Serve the Thai-Style Trout Tikka Masala hot, garnished with cilantro and naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "indian",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-briny-thai-trout-nam-prik--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T01:06:19.176Z"
+}
