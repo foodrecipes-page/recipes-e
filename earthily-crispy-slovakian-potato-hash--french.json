@@ -1,0 +1,76 @@
+{
+  "slug": "earthily-crispy-slovakian-potato-hash--french",
+  "title": "Crispy Hash Browns with Slovakian Twist",
+  "description": "A French-inspired side dish with the crunch of crispy hash browns and the earthy flavors of Slovakian mushrooms.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Slovakian mushrooms",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Crispy onion",
+      "amount": "1/2 cup, diced"
+    },
+    {
+      "name": "Earthily thyme",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Hash brown seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add sliced mushrooms and cook until browned, about 3-4 minutes.",
+    "Add diced onion and cook until crispy, about 2-3 minutes.",
+    "Grate potatoes and add to skillet, stirring to combine with mushroom mixture.",
+    "Season with thyme, hash brown seasoning, salt, and pepper.",
+    "Form mixture into a round shape and cook for 4-5 minutes, until crispy and golden brown.",
+    "Flip hash browns and cook for an additional 4-5 minutes, until crispy and golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "side-dish",
+    "potatoes",
+    "mushrooms",
+    "thyme",
+    "hash-browns"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthily-crispy-slovakian-potato-hash--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T03:59:03.018Z"
+}
