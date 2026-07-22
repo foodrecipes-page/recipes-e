@@ -1,0 +1,83 @@
+{
+  "slug": "energizing-citrusy-chinese-noodles-chow-fun--italian",
+  "title": "Citrusy Chow Fun with Italian Twist",
+  "description": "A refreshing and light take on traditional Chow Fun, infused with citrus flavors and Italian spices.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chow fun noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "200g",
+      "notes": "sliced"
+    },
+    {
+      "name": "lemon",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cook Chow Fun noodles according to package instructions.",
+    "In a large skillet, heat olive oil over medium heat.",
+    "Add sliced chicken breast and cook until browned, about 5 minutes.",
+    "Add minced garlic, italian seasoning, salt, and pepper. Cook for 1 minute.",
+    "Add lemon juice and stir to combine.",
+    "Add cooked Chow Fun noodles to the skillet and toss to combine.",
+    "Cook for an additional 2-3 minutes, until noodles are well coated with sauce.",
+    "Garnish with chopped green onions and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "chow",
+    "fun",
+    "citrusy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-citrusy-chinese-noodles-chow-fun--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T19:40:34.050Z"
+}
