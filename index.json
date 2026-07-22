@@ -10986,5 +10986,17 @@
     "cuisine": "french",
     "totalTimeMin": 25,
     "shard": "e"
+  },
+  {
+    "slug": "egg-free-ethiopian-herbes-de-provence-shiro--german",
+    "title": "German Shiro Frittata",
+    "tags": [
+      "german",
+      "breakfast",
+      "egg"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "e"
   }
 ]
