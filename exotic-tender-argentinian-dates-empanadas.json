@@ -1,0 +1,65 @@
+{
+  "slug": "exotic-tender-argentinian-dates-empanadas",
+  "title": "Grilled Empanadas with Date Salsa",
+  "description": "A twist on traditional empanadas, topped with a sweet and tangy date salsa. Perfect for a summer evening.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Argentinian Empanadas",
+      "amount": "4",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Dates",
+      "amount": "1 cup",
+      "notes": "Pitted"
+    },
+    {
+      "name": "Exotic Spices (e.g. Cumin, Coriander)",
+      "amount": "1 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Tender Lettuce",
+      "amount": "1 head",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing empanadas"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Brush empanadas with olive oil and grill for 2-3 minutes on each side.",
+    "Meanwhile, mix chopped dates with exotic spices and a squeeze of lime juice.",
+    "Top grilled empanadas with date salsa, chopped lettuce, and a sprinkle of salt.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "grilled",
+    "empanadas",
+    "date-salsa"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-tender-argentinian-dates-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T18:44:01.120Z"
+}
