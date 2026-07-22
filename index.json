@@ -2544,17 +2544,16 @@
   },
   {
     "slug": "easy-comforting-algerian-tofu-tagine",
-    "title": "Easy Comforting Algerian Tofu Tagine",
+    "title": "Algerian Tofu Tagine",
     "tags": [
-      "low-calorie",
-      "north-african",
-      "one-pot",
-      "vegan",
-      "vegetarian",
-      "weeknight"
+      "comforting",
+      "easy",
+      "algerian",
+      "tofu",
+      "tagine"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {
@@ -8232,17 +8231,15 @@
   },
   {
     "slug": "exotic-tender-argentinian-dates-empanadas",
-    "title": "Exotic Tender Argentinian Dates Empanadas",
+    "title": "Grilled Empanadas with Date Salsa",
     "tags": [
-      "argentinian-cuisine",
-      "date-based",
-      "empanada-recipe",
-      "shojin-friendly",
-      "special-occasion",
-      "vegan-dessert"
+      "argentinian",
+      "grilled",
+      "empanadas",
+      "date-salsa"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 23,
     "shard": "e"
   },
   {
