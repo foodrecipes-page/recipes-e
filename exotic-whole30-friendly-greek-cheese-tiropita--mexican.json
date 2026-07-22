@@ -1,0 +1,79 @@
+{
+  "slug": "exotic-whole30-friendly-greek-cheese-tiropita--mexican",
+  "title": "Greek Chicken Fajitas",
+  "description": "A twist on traditional Mexican fajitas, featuring chicken cooked with Greek seasonings and served with exotic spices.",
+  "cuisine": "mexican",
+  "diet": [
+    "whole30",
+    "friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Exotic spices (paprika, cumin, coriander)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Greek seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Greek cheese (optional)",
+      "amount": "1/4 cup crumbled",
+      "notes": ""
+    },
+    {
+      "name": "Mixed bell peppers (any color)",
+      "amount": "1 cup sliced",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 cup sliced",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a small bowl, mix together Greek seasoning, exotic spices, and lime juice.",
+    "2. Add chicken to the bowl and marinate for at least 30 minutes.",
+    "3. Heat a large skillet over medium-high heat.",
+    "4. Remove chicken from marinade, letting any excess liquid drip off.",
+    "5. Add chicken to the skillet and cook until browned and cooked through, about 5-7 minutes.",
+    "6. Add sliced onion and bell peppers to the skillet and cook until tender, about 5 minutes.",
+    "7. If using Greek cheese, crumble it over the top of the chicken and vegetables.",
+    "8. Serve hot, garnished with additional exotic spices if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "mexican",
+    "grilled",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 8,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-whole30-friendly-greek-cheese-tiropita--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T22:34:31.608Z"
+}
