@@ -1,0 +1,77 @@
+{
+  "slug": "earthy-sweet-filipino-kinako-bake--gluten-free",
+  "title": "Filipino-Style Kinako Cake",
+  "description": "A gluten-free kinako cake recipe that combines traditional Filipino flavors with the nutty taste of roasted soy flour.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "kinako powder",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup",
+      "notes": "make sure it's gluten-free"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": "use room temperature eggs"
+    },
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "melted coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Grease a 9-inch (23cm) round cake pan with coconut oil.",
+    "In a large mixing bowl, whisk together the kinako powder, almond flour, coconut sugar, and salt.",
+    "In a separate bowl, whisk together the eggs, coconut milk, melted coconut oil, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and mix until well combined.",
+    "Pour the batter into the prepared cake pan and smooth the top.",
+    "Bake for 35-40 minutes or until a toothpick inserted into the center comes out clean.",
+    "Remove from the oven and let cool in the pan for 5 minutes before transferring to a wire rack to cool completely.",
+    "Once cooled, slice the cake into 8-10 pieces and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "filipino",
+    "kinako"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-sweet-filipino-kinako-bake--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T23:23:13.990Z"
+}
