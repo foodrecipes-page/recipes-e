@@ -8104,16 +8104,14 @@
   },
   {
     "slug": "exotic-sweet-malaysian-tofu-satay",
-    "title": "Exotic Sweet Malaysian Tofu Satay",
+    "title": "Malaysian Satay Tofu",
     "tags": [
-      "grilled-tofu",
-      "malaysian-food",
-      "plant-based",
-      "romantic-dinner",
-      "sweet-and-savory"
+      "mexican-fusion",
+      "grilled",
+      "vegan"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 35,
+    "cuisine": "malaysian",
+    "totalTimeMin": 23,
     "shard": "e"
   },
   {
@@ -10973,6 +10971,20 @@
     ],
     "cuisine": null,
     "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
+    "slug": "earthily-crispy-slovakian-potato-hash--french",
+    "title": "Crispy Hash Browns with Slovakian Twist",
+    "tags": [
+      "side-dish",
+      "potatoes",
+      "mushrooms",
+      "thyme",
+      "hash-browns"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
     "shard": "e"
   }
 ]
