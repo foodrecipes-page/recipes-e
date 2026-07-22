@@ -1,0 +1,74 @@
+{
+  "slug": "elegant-portuguese-tomato-gratin",
+  "title": "Portuguese Tomato Gratins",
+  "description": "A simple yet elegant Portuguese-inspired dish featuring fresh tomatoes and creamy cheese, perfect for a light lunch or dinner.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "portuguese bread",
+      "amount": "1 baguette",
+      "notes": "preferably a day-old bread"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 large",
+      "notes": "any variety, but cherry tomatoes work well too"
+    },
+    {
+      "name": "gruyère cheese",
+      "amount": "1 cup, grated",
+      "notes": "can be substituted with other Swiss-style cheese"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Slice the bread into 1-inch (2.5 cm) thick slices and toast until lightly browned.",
+    "In a separate pan, melt the butter over medium heat. Add the garlic and cook for 1-2 minutes, until fragrant.",
+    "Arrange the toasted bread slices in a baking dish. Top each slice with a tomato half, a sprinkle of cheese, and a spoonful of the garlic butter.",
+    "Repeat the layers, finishing with a layer of cheese on top.",
+    "Bake for 15-20 minutes, until the cheese is melted and bubbly.",
+    "Garnish with chopped parsley and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "tomato",
+    "gratin",
+    "elegant",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/elegant-portuguese-tomato-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T00:53:15.035Z"
+}
