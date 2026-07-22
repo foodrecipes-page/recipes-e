@@ -4342,17 +4342,16 @@
   },
   {
     "slug": "elegant-portuguese-tomato-gratin",
-    "title": "Elegant Portuguese Tomato Gratin",
+    "title": "Portuguese Tomato Gratins",
     "tags": [
-      "elegant-dinner",
-      "gluten-free",
-      "healthy-meal",
-      "low-carb",
-      "one-pan",
-      "portuguese-food"
+      "portuguese",
+      "tomato",
+      "gratin",
+      "elegant",
+      "vegetarian"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "e"
   },
   {
@@ -10934,6 +10933,46 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 45,
+    "shard": "e"
+  },
+  {
+    "slug": "earthy-crisp-slovakian-broccoli-curry--french",
+    "title": "Slovakian Broccoli Fritters with French Twist",
+    "tags": [
+      "french",
+      "slovakian",
+      "broccoli",
+      "curry",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 18,
+    "shard": "e"
+  },
+  {
+    "slug": "energizing-briny-thai-trout-nam-prik--indian",
+    "title": "Thai-Style Trout Tikka Masala",
+    "tags": [
+      "thai",
+      "indian",
+      "fish"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
+    "slug": "exotic-dutch-bryndza-cheese-casserole--vegan",
+    "title": "Bryndza and Cheese Casserole",
+    "tags": [
+      "vegan",
+      "casserole",
+      "cheese",
+      "lacto-free"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
     "shard": "e"
   }
 ]
