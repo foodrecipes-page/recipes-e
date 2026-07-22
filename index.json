@@ -10897,5 +10897,43 @@
     "cuisine": "Filipino",
     "totalTimeMin": 50,
     "shard": "e"
+  },
+  {
+    "slug": "energizing-venezuelan-chickpeas-bowl--indian",
+    "title": "Venezuelan Chickpea Bowl",
+    "tags": [
+      "indian",
+      "vegan",
+      "gluten-free",
+      "quinoa-bowl"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "e"
+  },
+  {
+    "slug": "exquisite-light-ethiopian-cheese-curds-skillet--indian",
+    "title": "Light Indian Skillet Cheese Fritters",
+    "tags": [
+      "indian",
+      "snack",
+      "cheese",
+      "fried"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "e"
+  },
+  {
+    "slug": "energizing-french-mushroom-terrine--french",
+    "title": "French Mushroom Terrine",
+    "tags": [
+      "french",
+      "mushroom",
+      "terrine"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
+    "shard": "e"
   }
 ]
