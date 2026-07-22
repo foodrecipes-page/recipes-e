@@ -1,0 +1,89 @@
+{
+  "slug": "energizing-french-mushroom-terrine--french",
+  "title": "French Mushroom Terrine",
+  "description": "A rich and earthy French terrine made with sautéed mushrooms and served as a side dish. Perfect for special occasions.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mushrooms",
+      "amount": "2 cups, mixed varieties",
+      "notes": "Such as button, cremini, and shiitake"
+    },
+    {
+      "name": "Energizing Greens",
+      "amount": "1 bunch, chopped",
+      "notes": "Add a boost of energy to your dish."
+    },
+    {
+      "name": "French Loaf",
+      "amount": "1 baguette, cubed",
+      "notes": "The base of our terrine."
+    },
+    {
+      "name": "Terrine Meat",
+      "amount": "8 oz, cooked and crumbled",
+      "notes": "Choose a lean meat, such as chicken or turkey."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For sautéing the mushrooms."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Season to taste."
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "Season to taste."
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": "For added flavor."
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 tsp, dried",
+      "notes": "A classic French herb."
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": "For added texture."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Sauté the mushrooms in olive oil until tender, about 5 minutes.",
+    "Add the garlic, thyme, salt, and pepper to the mushrooms and stir to combine.",
+    "In a separate bowl, mix together the cubed baguette, crumbled terrine meat, and chopped energizing greens.",
+    "Layer the mushroom mixture and meat mixture in a terrine dish, ending with a layer of mushrooms on top.",
+    "Bake for 20-25 minutes, or until the bread is golden brown and the terrine is heated through.",
+    "Let cool slightly before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "mushroom",
+    "terrine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-french-mushroom-terrine--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T00:39:39.552Z"
+}
