@@ -618,16 +618,14 @@
   },
   {
     "slug": "earthy-canadian-dried-white-corn-stew",
-    "title": "Earthy Canadian Dried White Corn Stew",
+    "title": "Earthy Canadian Stew",
     "tags": [
-      "canadian-cuisine",
-      "comfort-food",
-      "dutch-oven",
-      "one-pot",
-      "vegetarian-stew"
+      "stew",
+      "beef",
+      "comfort-food"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "e"
   },
   {
@@ -10873,6 +10871,31 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 170,
+    "shard": "e"
+  },
+  {
+    "slug": "exotic-whole30-friendly-greek-cheese-tiropita--mexican",
+    "title": "Greek Chicken Fajitas",
+    "tags": [
+      "greek",
+      "mexican",
+      "grilled",
+      "chicken"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "e"
+  },
+  {
+    "slug": "earthy-sweet-filipino-kinako-bake--gluten-free",
+    "title": "Filipino-Style Kinako Cake",
+    "tags": [
+      "gluten-free",
+      "filipino",
+      "kinako"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 50,
     "shard": "e"
   }
 ]
