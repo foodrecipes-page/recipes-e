@@ -1,0 +1,85 @@
+{
+  "slug": "earthy-crisp-slovakian-broccoli-curry--french",
+  "title": "Slovakian Broccoli Fritters with French Twist",
+  "description": "A crispy and earthy take on traditional Slovakian fritters, inspired by French cuisine. This dish combines the flavors of broccoli and curry with a crunchy exterior.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Broccoli florets",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Slovakian rye flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crisp vegetable oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Earthly egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Curry powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine broccoli florets, Slovakian rye flour, curry powder, salt, and black pepper.",
+    "In a separate bowl, whisk together crisp vegetable oil and egg.",
+    "Pour wet ingredients into dry ingredients and mix until a dough forms.",
+    "Using a spoon or a cookie scoop, drop small balls of dough into hot oil and flatten slightly.",
+    "Cook for 3-4 minutes on each side, until golden brown and crispy.",
+    "Drain fritters on paper towels and sprinkle with chopped parsley.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "slovakian",
+    "broccoli",
+    "curry",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-crisp-slovakian-broccoli-curry--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T00:58:41.048Z"
+}
