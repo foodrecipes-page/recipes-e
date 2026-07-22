@@ -1,0 +1,72 @@
+{
+  "slug": "earthy-flour-stir-fry--chinese",
+  "title": "Stir Fry",
+  "description": "A simple Chinese stir fry recipe with a variety of vegetables and your choice of protein.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "earthworms (or substitute with vegetables)",
+      "amount": "1 cup",
+      "notes": "Slice and cook for 3-4 minutes"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tbsp",
+      "notes": "Optional, for thickening"
+    },
+    {
+      "name": "stir-fry sauce",
+      "amount": "1/4 cup",
+      "notes": "Available at most grocery stores"
+    },
+    {
+      "name": "fry oil",
+      "amount": "2 tbsp",
+      "notes": "Vegetable or peanut oil works well"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tbsp",
+      "notes": "For added flavor"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add the earthworms (or vegetables) and cook for 3-4 minutes, or until they start to brown.",
+    "Add the grated ginger and stir-fry sauce, and cook for another minute.",
+    "Add the flour (if using) and stir-fry for 30 seconds.",
+    "Serve the stir-fry over rice or noodles, garnished with chopped scallions.",
+    "Cook for an additional 1-2 minutes if using flour.",
+    "Season with soy sauce to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "quick-cooking"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-flour-stir-fry--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T20:45:28.073Z"
+}
