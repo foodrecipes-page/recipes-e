@@ -1,0 +1,77 @@
+{
+  "slug": "earthy-canadian-dried-white-corn-stew",
+  "title": "Earthy Canadian Stew",
+  "description": "A hearty stew made with earthy mushrooms, tender beef, and a hint of Canadian flavor. Serve with crusty bread for a warm and comforting meal.",
+  "cuisine": "Canadian",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "earthy mushrooms",
+      "amount": "1 cup",
+      "notes": "such as cremini or shiitake"
+    },
+    {
+      "name": "canadian bacon",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "white potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "corn",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Brown the beef in a large pot over medium-high heat.",
+    "Add the Canadian bacon and cook until crispy.",
+    "Add the mushrooms, thyme, and potatoes. Cook for 5 minutes.",
+    "Add the corn and vegetable broth. Bring to a boil.",
+    "Reduce heat to low and simmer for 30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "beef",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-canadian-dried-white-corn-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T23:36:53.502Z"
+}
