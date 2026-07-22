@@ -10850,5 +10850,29 @@
     "cuisine": "italian",
     "totalTimeMin": 25,
     "shard": "e"
+  },
+  {
+    "slug": "earthy-flour-stir-fry--chinese",
+    "title": "Stir Fry",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "quick-cooking"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "e"
+  },
+  {
+    "slug": "earthy-german-peeling-stew--italian",
+    "title": "Peeling Italian Stew",
+    "tags": [
+      "italian",
+      "beef",
+      "stew"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 170,
+    "shard": "e"
   }
 ]
