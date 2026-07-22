@@ -1,0 +1,80 @@
+{
+  "slug": "exotic-sweet-malaysian-tofu-satay",
+  "title": "Malaysian Satay Tofu",
+  "description": "A fusion dish combining the flavors of Malaysia and the simplicity of tofu, perfect for a quick and easy dinner.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "Extra-firm, drained and cut into skewer-sized pieces"
+    },
+    {
+      "name": "Exotic Satay Sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Sweet Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "Malaysian Chili Powder",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup chopped",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Bamboo Skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a small bowl, whisk together satay sauce, soy sauce, chili powder, and lime juice.",
+    "3. Thread tofu onto bamboo skewers, leaving a small space between each piece.",
+    "4. Brush coconut oil onto skewers and grill for 3-4 minutes per side, or until lightly charred.",
+    "5. Serve skewers with satay sauce for dipping and garnish with cilantro.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican-fusion",
+    "grilled",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-sweet-malaysian-tofu-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T03:26:49.765Z"
+}
