@@ -1,0 +1,87 @@
+{
+  "slug": "energizing-ethiopian-vermicelli-jjigae--gluten-free",
+  "title": "Spicy Vermicelli Jjigae",
+  "description": "A spicy and savory Ethiopian-inspired rice bowl dish made with vermicelli noodles and a variety of vegetables. Perfect for a gluten-free dinner option.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vermicelli noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Energizing chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": ""
+    },
+    {
+      "name": "Gluten-free soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of oil in a large pan over medium-high heat.",
+    "Add the onion and garlic and cook until softened, about 3-4 minutes.",
+    "Add the carrots and zucchini and cook for an additional 3-4 minutes.",
+    "Add the tomato and cook for 2-3 minutes, until the vegetables are tender.",
+    "Add the tofu and cook until golden brown, about 3-4 minutes.",
+    "Add the vermicelli noodles, chili flakes, and gluten-free soy sauce. Cook for an additional 2-3 minutes, until the noodles are heated through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "spicy",
+    "ethiopian",
+    "vermicelli"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-ethiopian-vermicelli-jjigae--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T19:08:02.818Z"
+}
