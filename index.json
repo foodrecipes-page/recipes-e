@@ -10997,5 +10997,19 @@
     "cuisine": "german",
     "totalTimeMin": 25,
     "shard": "e"
+  },
+  {
+    "slug": "exotic-egyptian-lentil-flatbread--indian",
+    "title": "Egyptian-Style Lentil Curry",
+    "tags": [
+      "indian",
+      "curry",
+      "lentil",
+      "vegetarian",
+      "flatbread"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "e"
   }
 ]
