@@ -1,0 +1,72 @@
+{
+  "slug": "earthy-crispy-jamaican-celeriac-crumble--chinese",
+  "title": "Crispy Jamaican Celeriac Fritters",
+  "description": "A unique fusion of Chinese and Jamaican flavors, these crispy fritters are made with celeriac and topped with a crunchy earthy crumble.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "celeriac",
+      "amount": "1 large"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "crispy jamaican spice mix",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup"
+    },
+    {
+      "name": "earthy oat crumble",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Grate the celeriac and mix with flour, eggs, and crispy jamaican spice mix.",
+    "Heat the vegetable oil in a deep frying pan to 350°F (180°C).",
+    "Using a spoon, drop small amounts of the celeriac mixture into the hot oil.",
+    "Cook the fritters for 2-3 minutes on each side, until golden brown.",
+    "Drain the fritters on paper towels and sprinkle with earthy oat crumble.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "jamaican",
+    "celeriac",
+    "fritters",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-crispy-jamaican-celeriac-crumble--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T14:06:08.044Z"
+}
