@@ -1881,16 +1881,16 @@
   },
   {
     "slug": "earthy-roasted-argentinian-beef-empanadas",
-    "title": "Earthy Roasted Argentinian Beef Empanadas",
+    "title": "Argentinian Empanadas with Roasted Beef Filling",
     "tags": [
-      "argentinian-cuisine",
-      "beef-recipes",
+      "argentinian",
+      "beef",
       "empanadas",
-      "phyllo-dough",
-      "romantic-dinner"
+      "snack",
+      "latin"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 45,
     "shard": "e"
   },
   {
@@ -6430,16 +6430,17 @@
   },
   {
     "slug": "ethereal-aerated-russian-potatoes-galette",
-    "title": "Ethereal Aerated Russian Potatoes Galette",
+    "title": "Russian Potato and Galette Casserole",
     "tags": [
-      "low-sodium",
-      "one-pan",
-      "russian-cuisine",
-      "vegetarian",
-      "weeknight"
+      "casserole",
+      "russian",
+      "european",
+      "comfort-food",
+      "potato",
+      "pastry"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 35,
+    "cuisine": "Eastern European",
+    "totalTimeMin": 55,
     "shard": "e"
   },
   {
@@ -11047,6 +11048,44 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 25,
+    "shard": "e"
+  },
+  {
+    "slug": "earthy-crispy-jamaican-celeriac-crumble--chinese",
+    "title": "Crispy Jamaican Celeriac Fritters",
+    "tags": [
+      "chinese",
+      "jamaican",
+      "celeriac",
+      "fritters",
+      "snack"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "e"
+  },
+  {
+    "slug": "eggless-light-korean-rice-stick-noodles-chilled-buckwheat-naengmyeon--gluten-free",
+    "title": "Chilled Buckwheat and Naengmyeon Noodle Salad",
+    "tags": [
+      "gluten-free",
+      "korean",
+      "salad"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
+    "shard": "e"
+  },
+  {
+    "slug": "energizing-peppery-algerian-beans-bake--thai",
+    "title": "Thai Pepper Bean Bake",
+    "tags": [
+      "thai",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 45,
     "shard": "e"
   }
 ]
