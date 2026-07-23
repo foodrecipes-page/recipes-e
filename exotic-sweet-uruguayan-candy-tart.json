@@ -1,0 +1,71 @@
+{
+  "slug": "exotic-sweet-uruguayan-candy-tart",
+  "title": "Uruguayan Sweet Tart",
+  "description": "A sweet and tangy tart inspired by Uruguayan cuisine. Made with exotic ingredients and a hint of sweetness.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Exotic Fruit (such as guanabana or passionfruit)",
+      "amount": "2 cups",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Sweet Tart Pastry",
+      "amount": "1 sheet",
+      "notes": "Pre-made or homemade"
+    },
+    {
+      "name": "Uruguayan Dulce de Leche",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Candy Pieces (such as chopped peanut brittle or caramel)",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 tablespoon",
+      "notes": "For dusting"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the sweet tart pastry and place it in a tart pan with a removable bottom.",
+    "Prick the bottom of the pastry with a fork to prevent it from bubbling up during baking.",
+    "Bake the pastry for 15-20 minutes, or until it is golden brown.",
+    "Allow the pastry to cool completely.",
+    "In a separate bowl, mix together the exotic fruit and dulce de leche.",
+    "Spoon the fruit mixture into the cooled tart shell.",
+    "Sprinkle with candy pieces, if using.",
+    "Dust with granulated sugar.",
+    "Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "sweet",
+    "tart",
+    "exotic",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-sweet-uruguayan-candy-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T15:04:17.572Z"
+}
