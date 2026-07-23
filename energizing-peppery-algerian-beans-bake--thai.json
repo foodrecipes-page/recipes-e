@@ -1,0 +1,85 @@
+{
+  "slug": "energizing-peppery-algerian-beans-bake--thai",
+  "title": "Thai Pepper Bean Bake",
+  "description": "A flavorful Thai dish made with beans, peppers, and spices. Perfect for a quick and easy meal.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "energizing peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "algerian beans",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "bake",
+      "amount": "1",
+      "notes": "sweet potato or eggplant"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp",
+      "notes": "or other oil"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the bake into 1-inch cubes and place on a baking sheet.",
+    "Drizzle with coconut oil and toss to coat.",
+    "Roast in the oven for 20-25 minutes, or until tender.",
+    "While the bake is roasting, heat the soy sauce and brown sugar in a pan over medium heat.",
+    "Add the minced garlic and grated ginger to the pan and cook for 1-2 minutes, or until fragrant.",
+    "Add the canned beans to the pan and stir to combine with the soy sauce mixture.",
+    "Once the bake is done roasting, add it to the pan with the bean mixture.",
+    "Stir to combine and cook for an additional 2-3 minutes, or until the flavors have melded together.",
+    "Serve hot, garnished with sliced energizing peppers if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 55,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-peppery-algerian-beans-bake--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T14:44:54.375Z"
+}
