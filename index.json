@@ -7850,14 +7850,12 @@
   },
   {
     "slug": "exotic-smoky-moroccan-chicken-tagine",
-    "title": "Exotic Smoky Moroccan Chicken Tagine",
+    "title": "Moroccan Chicken Tagine",
     "tags": [
-      "exotic",
-      "gluten-free",
-      "moroccan-cuisine",
-      "one-pan",
-      "post-workout",
-      "smoky"
+      "moroccan",
+      "chicken",
+      "stew",
+      "slow-cooked"
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 50,
@@ -11022,6 +11020,33 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 15,
+    "shard": "e"
+  },
+  {
+    "slug": "earthy-creamy-croatian-scamorza-pasta--chinese",
+    "title": "Scamorza Pasta Stir Fry",
+    "tags": [
+      "pasta",
+      "cheese",
+      "chinese",
+      "stir-fry",
+      "easy"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 20,
+    "shard": "e"
+  },
+  {
+    "slug": "exotic-peppery-japanese-azuki-beans-zenzai--keto",
+    "title": "Azuki Bean Keto Curry",
+    "tags": [
+      "keto",
+      "japanese",
+      "curry",
+      "azuki-beans"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 25,
     "shard": "e"
   }
 ]
