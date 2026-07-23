@@ -11111,5 +11111,30 @@
     "cuisine": "german",
     "totalTimeMin": 33,
     "shard": "e"
+  },
+  {
+    "slug": "earthy-german-peeling-stew--german",
+    "title": "Traditional German Stew",
+    "tags": [
+      "german",
+      "stew",
+      "comfort-food"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 170,
+    "shard": "e"
+  },
+  {
+    "slug": "energizing-mexican-sterbottensost-tinga--vegetarian",
+    "title": "Tinga Tostadas with Energizing Salsa",
+    "tags": [
+      "mexican",
+      "vegetarian",
+      "snack",
+      "easy"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 40,
+    "shard": "e"
   }
 ]
