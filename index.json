@@ -11085,5 +11085,31 @@
     "cuisine": "thai",
     "totalTimeMin": 45,
     "shard": "e"
+  },
+  {
+    "slug": "easy-spring-canadian-basil-stew--german",
+    "title": "Sauerbraten mit Kartoffeln",
+    "tags": [
+      "german",
+      "beef",
+      "pot-roast",
+      "sauerbraten"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 255,
+    "shard": "e"
+  },
+  {
+    "slug": "exotic-turkish-beef-flank-steak-kebabs--german",
+    "title": "German Flank Steak Kebabs",
+    "tags": [
+      "german",
+      "grilled",
+      "kebabs",
+      "flank-steak"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 33,
+    "shard": "e"
   }
 ]
