@@ -287,17 +287,16 @@
   },
   {
     "slug": "earthily-springy-russian-lamb-stew",
-    "title": "Earthily Springy Russian Lamb Stew",
+    "title": "Russian Spring Lamb Stew",
     "tags": [
-      "copper-cooking",
-      "hearty-stew",
-      "lamb-based",
-      "one-pot",
-      "russian-cuisine",
-      "spring-vegetables"
+      "russian",
+      "lamb",
+      "stew",
+      "hearty",
+      "comforting"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 110,
+    "totalTimeMin": 95,
     "shard": "e"
   },
   {
@@ -11010,6 +11009,19 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 40,
+    "shard": "e"
+  },
+  {
+    "slug": "energizing-mexican-sterbottensost-tinga--japanese",
+    "title": "Japanese Tinga Tacos",
+    "tags": [
+      "japanese",
+      "mexican",
+      "fusion",
+      "tacos"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 15,
     "shard": "e"
   }
 ]
