@@ -1,0 +1,85 @@
+{
+  "slug": "earthy-german-peeling-stew--german",
+  "title": "Traditional German Stew",
+  "description": "A hearty and comforting stew filled with earthy flavors, perfect for a cold winter night.",
+  "cuisine": "german",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Stew Meat",
+      "amount": "1 1/2 pounds",
+      "notes": "Cut into 1 1/2-inch cubes"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Peel and slice"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "Peel and cube"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Peel and chop"
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup",
+      "notes": "Dried or fresh"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Thyme",
+      "amount": "2 sprigs",
+      "notes": "Fresh or dried"
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large Dutch oven over medium-high heat.",
+    "2. Add the beef and cook until browned, about 5 minutes.",
+    "3. Remove the beef from the pot and set aside.",
+    "4. Add the onion to the pot and cook until softened, about 5 minutes.",
+    "5. Add the carrots and potatoes to the pot and cook for 5 minutes.",
+    "6. Add the red wine, beef broth, tomato paste, and thyme to the pot.",
+    "7. Stir to combine, scraping up any browned bits from the bottom of the pot.",
+    "8. Return the beef to the pot and bring the stew to a boil.",
+    "9. Reduce the heat to low and simmer, covered, for 2 1/2 hours, or until the beef is tender.",
+    "10. Season with salt and pepper to taste.",
+    "11. Serve hot, garnished with fresh thyme, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-german-peeling-stew--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T17:23:50.899Z"
+}
