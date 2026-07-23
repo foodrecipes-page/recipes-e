@@ -1,0 +1,91 @@
+{
+  "slug": "easy-spring-canadian-basil-stew--german",
+  "title": "Sauerbraten mit Kartoffeln",
+  "description": "A classic German pot roast dish made with beef, vinegar, and spices, served with boiled potatoes.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef pot roast",
+      "amount": "1 1/2 pounds",
+      "notes": "chuck or round"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1 cup",
+      "notes": "apple cider vinegar as substitute"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "4-5 medium",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine vinegar, water, onions, caraway seeds, black pepper, and salt.",
+    "Add the beef pot roast to the marinade and coat evenly.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 days or up to 5 days.",
+    "Preheat oven to 300°F (150°C).",
+    "Remove the beef from the marinade, letting any excess liquid drip off.",
+    "Place the beef in a large Dutch oven or oven-safe pot.",
+    "Add 2 cups of water to the pot and cover with a lid.",
+    "Bake for 3-4 hours or until the beef is tender.",
+    "About 30 minutes before serving, add the potatoes to the pot and continue to bake.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Slice the beef against the grain and serve with the boiled potatoes and garnish with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 240,
+  "totalTimeMin": 255,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beef",
+    "pot-roast",
+    "sauerbraten"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 55,
+    "carbs": 25,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/easy-spring-canadian-basil-stew--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T16:03:02.084Z"
+}
