@@ -1,0 +1,96 @@
+{
+  "slug": "exotic-egyptian-lentil-flatbread--indian",
+  "title": "Egyptian-Style Lentil Curry",
+  "description": "A flavorful and nutritious Indian-inspired curry made with red lentils, exotic spices, and served with warm flatbread. Perfect for a weeknight dinner.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garam masala powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "exotic spice blend",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "flatbread",
+      "amount": "4-6 pieces",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and garlic and sauté until softened.",
+    "Add cumin, coriander, turmeric, and garam masala powders and sauté for 1 minute.",
+    "Add lentils, salt, and 2 cups of water. Bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "Add exotic spice blend and stir well.",
+    "Serve hot with warm flatbread on the side.",
+    "To make flatbread, preheat a non-stick pan or griddle over medium heat.",
+    "Roll out flatbread dough into thin circles and cook for 1-2 minutes on each side.",
+    "Serve flatbread warm with curry."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "curry",
+    "lentil",
+    "vegetarian",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-egyptian-lentil-flatbread--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T07:37:57.113Z"
+}
