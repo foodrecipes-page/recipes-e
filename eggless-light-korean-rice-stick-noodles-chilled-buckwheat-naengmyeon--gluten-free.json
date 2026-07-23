@@ -1,0 +1,73 @@
+{
+  "slug": "eggless-light-korean-rice-stick-noodles-chilled-buckwheat-naengmyeon--gluten-free",
+  "title": "Chilled Buckwheat and Naengmyeon Noodle Salad",
+  "description": "A refreshing summer salad featuring chilled buckwheat and naengmyeon noodles, perfect for hot days.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Naengmyeon noodles",
+      "amount": "200g",
+      "notes": "Gluten-free naengmyeon noodles"
+    },
+    {
+      "name": "Buckwheat",
+      "amount": "100g",
+      "notes": "Cooked buckwheat"
+    },
+    {
+      "name": "Chilled rice",
+      "amount": "100g",
+      "notes": "Cooked and chilled rice"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Light soy sauce",
+      "amount": "2 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Stir-fried vegetables",
+      "amount": "100g",
+      "notes": "Stir-fried vegetables of your choice"
+    }
+  ],
+  "instructions": [
+    "Cook the naengmyeon noodles according to the package instructions.",
+    "Cook the buckwheat according to package instructions.",
+    "Chill the cooked buckwheat in the refrigerator.",
+    "Cut the chilled rice into small pieces.",
+    "Stir-fry your choice of vegetables and set aside.",
+    "In a large bowl, combine the cooked naengmyeon noodles, chilled buckwheat, and chilled rice.",
+    "Add the stir-fried vegetables and toss everything together.",
+    "Add the Korean chili flakes and light soy sauce if using, and toss again.",
+    "Serve the salad chilled and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "korean",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/eggless-light-korean-rice-stick-noodles-chilled-buckwheat-naengmyeon--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T14:34:23.221Z"
+}
