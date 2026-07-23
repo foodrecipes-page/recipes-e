@@ -8157,13 +8157,14 @@
     "slug": "exotic-sweet-uruguayan-candy-tart",
     "title": "Uruguayan Sweet Tart",
     "tags": [
-      "fancy",
-      "holiday-dessert",
-      "sweet-treats",
-      "weekend"
+      "uruguayan",
+      "sweet",
+      "tart",
+      "exotic",
+      "dessert"
     ],
-    "cuisine": "uruguayan",
-    "totalTimeMin": 65,
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 40,
     "shard": "e"
   },
   {
@@ -9232,17 +9233,14 @@
   },
   {
     "slug": "extraordinary-xanthan-british-turkey-mince-chocolate-yorkshire-pudding",
-    "title": "Extraordinary Xanthan British Turkey Mince Chocolate Yorkshire Pudding",
+    "title": "Shepherd's Pudding",
     "tags": [
-      "british",
-      "chocolate",
-      "date-night",
-      "gluten-free",
-      "keto",
-      "low-carb"
+      "shepherds-pudding",
+      "british-cuisine",
+      "meat-lovers"
     ],
     "cuisine": "British",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "e"
   },
   {
