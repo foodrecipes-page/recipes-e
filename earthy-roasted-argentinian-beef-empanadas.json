@@ -1,0 +1,101 @@
+{
+  "slug": "earthy-roasted-argentinian-beef-empanadas",
+  "title": "Argentinian Empanadas with Roasted Beef Filling",
+  "description": "A traditional Argentinian dish, these empanadas are filled with a flavorful roasted beef mixture and served as a savory snack or light meal.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "beef",
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": "80% lean"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Roasted Red Pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Empanada Dough",
+      "amount": "homemade or store-bought",
+      "notes": ""
+    },
+    {
+      "name": "Argentinian Seasoning",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the diced roasted red pepper and cook for an additional 2 minutes.",
+    "In a small bowl, beat the egg and stir in the argentinian seasoning.",
+    "Add the egg mixture to the skillet and stir to combine.",
+    "Season the mixture with salt and black pepper to taste.",
+    "On a lightly floured surface, roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Use a round cookie cutter or the rim of a glass to cut out circles of dough.",
+    "Place a tablespoon or two of the beef mixture onto the center of each dough circle.",
+    "Brush the edges of the dough with a little water and fold the dough in half to form a half-moon shape.",
+    "Press the edges together to seal the empanada and use a fork to crimp the edges.",
+    "Place the empanadas on a baking sheet lined with parchment paper and brush the tops with a little bit of water.",
+    "Bake the empanadas in the preheated oven for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "empanadas",
+    "snack",
+    "latin"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-roasted-argentinian-beef-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T14:39:22.779Z"
+}
