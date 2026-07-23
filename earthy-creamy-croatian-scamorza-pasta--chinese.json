@@ -1,0 +1,68 @@
+{
+  "slug": "earthy-creamy-croatian-scamorza-pasta--chinese",
+  "title": "Scamorza Pasta Stir Fry",
+  "description": "A quick and easy Chinese-inspired stir fry made with scamorza cheese and served with a side of pasta, blending earthy and creamy flavors.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Scamorza cheese",
+      "amount": "8 oz",
+      "notes": "Diced"
+    },
+    {
+      "name": "Pasta",
+      "amount": "8 oz",
+      "notes": "Cooked according to package directions"
+    },
+    {
+      "name": "Earthly mushrooms",
+      "amount": "1 cup",
+      "notes": "Sliced and sautéed"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "For stir frying"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    }
+  ],
+  "instructions": [
+    "Cook pasta according to package directions until al dente. Drain and set aside.",
+    "In a large skillet, heat 1 tbsp of vegetable oil over medium-high heat.",
+    "Add diced scamorza cheese and cook until it starts to melt and form a golden crust.",
+    "Add sliced mushrooms, minced garlic, and a pinch of salt. Stir fry for 3-4 minutes or until the mushrooms are tender.",
+    "Add cooked pasta to the skillet and stir to combine with the mushroom and cheese mixture.",
+    "Season with a pinch of black pepper and serve hot.",
+    "Optional: Add some chopped scallions on top for garnish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pasta",
+    "cheese",
+    "chinese",
+    "stir-fry",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-creamy-croatian-scamorza-pasta--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T10:49:43.812Z"
+}
