@@ -1,0 +1,76 @@
+{
+  "slug": "exotic-turkish-beef-flank-steak-kebabs--german",
+  "title": "German Flank Steak Kebabs",
+  "description": "Grilled flank steak kebabs with a German twist, marinated in a mix of exotic spices and served with a side of sautéed onions.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flank steak",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Turkish olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Exotic spice blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2 large"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 large"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, whisk together olive oil, spice blend, salt, and pepper.",
+    "Add the flank steak to the marinade and coat evenly.",
+    "Let the steak marinate for at least 30 minutes.",
+    "Thread the marinated steak, onions, bell peppers, and zucchini onto skewers.",
+    "Grill the kebabs for 8-10 minutes per side, or until the steak reaches an internal temperature of 135°F for medium-rare.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Sauté the sliced onions in a pan with a little bit of oil until caramelized and golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "grilled",
+    "kebabs",
+    "flank-steak"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-turkish-beef-flank-steak-kebabs--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T16:21:31.929Z"
+}
