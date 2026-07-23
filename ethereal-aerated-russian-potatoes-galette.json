@@ -1,0 +1,60 @@
+{
+  "slug": "ethereal-aerated-russian-potatoes-galette",
+  "title": "Russian Potato and Galette Casserole",
+  "description": "A hearty, comforting dish featuring sliced potatoes, a crispy galette crust, and a hint of Russian flair.",
+  "cuisine": "Eastern European",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "galette",
+      "amount": "1 sheet",
+      "notes": "thawed according to package instructions"
+    },
+    {
+      "name": "aerated",
+      "amount": "1 cup",
+      "notes": "flaky pastry dough, used for topping"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, combine the sliced potatoes and a pinch of salt.",
+    "Roll out the galette sheet to a thickness of about 1/8 inch (3 mm).",
+    "Transfer the potatoes to one half of the galette, leaving a 1-inch (2.5 cm) border around the edges.",
+    "Fold the other half of the galette over the potatoes, pressing the edges to seal.",
+    "Brush the top of the galette with a little bit of water and sprinkle with aerated pastry dough.",
+    "Bake for 35-40 minutes, or until the crust is golden brown and the potatoes are tender.",
+    "Remove from the oven and let cool for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "russian",
+    "european",
+    "comfort-food",
+    "potato",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ethereal-aerated-russian-potatoes-galette",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T14:14:32.837Z"
+}
