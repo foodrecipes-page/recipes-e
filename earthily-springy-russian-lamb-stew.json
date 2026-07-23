@@ -1,0 +1,95 @@
+{
+  "slug": "earthily-springy-russian-lamb-stew",
+  "title": "Russian Spring Lamb Stew",
+  "description": "A hearty, comforting stew originating from Russia, made with tender lamb, earthy vegetables, and springtime freshness.",
+  "cuisine": "Russian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Earthly mushrooms",
+      "amount": "8 ounces",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Spring asparagus",
+      "amount": "1 pound",
+      "notes": "Trimmed"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": "Dry"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 teaspoon",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb cubes on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Reduce heat to medium. Add more oil if needed, then sauté the onion and carrots until the onion is translucent, about 8 minutes.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the sliced asparagus and cook for 2-3 minutes, until slightly tender.",
+    "Add the browned lamb back into the pot, along with the red wine, beef broth, thyme, salt, and pepper.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 45 minutes.",
+    "Add the sliced potatoes and continue to simmer for another 20-25 minutes, until the lamb and potatoes are tender.",
+    "Season with salt and pepper to taste, then serve hot."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 70,
+  "totalTimeMin": 95,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "russian",
+    "lamb",
+    "stew",
+    "hearty",
+    "comforting"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 44,
+    "carbs": 30,
+    "fat": 27
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthily-springy-russian-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T08:40:14.241Z"
+}
