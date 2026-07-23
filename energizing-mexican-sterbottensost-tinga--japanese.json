@@ -1,0 +1,66 @@
+{
+  "slug": "energizing-mexican-sterbottensost-tinga--japanese",
+  "title": "Japanese Tinga Tacos",
+  "description": "A fusion twist on traditional Japanese cuisine, combining the flavors of Mexico with the boldness of Japanese seasonings.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tinga",
+      "amount": "250g",
+      "notes": "Shredded chicken in chipotle tomato sauce"
+    },
+    {
+      "name": "Energizing tortillas",
+      "amount": "4",
+      "notes": "Whole wheat or whole grain tortillas"
+    },
+    {
+      "name": "Sterbottensost",
+      "amount": "100g",
+      "notes": "Swedish Västerbottensost cheese, crumbled"
+    },
+    {
+      "name": "Japanese seasoning blend",
+      "amount": "2 tsp",
+      "notes": "Combine soy sauce, sake, and mirin"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "1. In a pan, heat 1 tsp of sesame oil over medium-high.",
+    "2. Add the tinga and cook for 3-4 minutes, until heated through.",
+    "3. Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "4. Assemble the tacos by spooning the tinga onto a tortilla, followed by a sprinkle of sterbottensost cheese.",
+    "5. Drizzle with Japanese seasoning blend and garnish with sesame seeds.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "mexican",
+    "fusion",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-mexican-sterbottensost-tinga--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T08:49:22.543Z"
+}
