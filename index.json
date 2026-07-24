@@ -11246,5 +11246,19 @@
     "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "e"
+  },
+  {
+    "slug": "epic-smoked-turkish-meal-turkish-kisir--thai",
+    "title": "Thai Smoked Meat Kisir",
+    "tags": [
+      "thai",
+      "smoked-meat",
+      "kisir",
+      "lunch",
+      "rice-bowl"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "e"
   }
 ]
