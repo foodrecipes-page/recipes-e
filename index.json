@@ -11173,5 +11173,18 @@
     "cuisine": "French",
     "totalTimeMin": 18,
     "shard": "e"
+  },
+  {
+    "slug": "energizing-croatian-cheese-flatbread--japanese",
+    "title": "Japanese Croation Flatbread",
+    "tags": [
+      "fusion",
+      "japanese",
+      "croatian",
+      "snack"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 12,
+    "shard": "e"
   }
 ]
