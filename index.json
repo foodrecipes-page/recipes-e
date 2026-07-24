@@ -11198,5 +11198,42 @@
     "cuisine": "Indian",
     "totalTimeMin": 140,
     "shard": "e"
+  },
+  {
+    "slug": "energizing-filipino-fish-skewers--vegan",
+    "title": "Vegan Filipino-Style Tofu Skewers",
+    "tags": [
+      "vegan",
+      "filipino",
+      "skewers"
+    ],
+    "cuisine": "filipino",
+    "totalTimeMin": 25,
+    "shard": "e"
+  },
+  {
+    "slug": "egg-drop-irish-bacon-toast--italian",
+    "title": "Italian Bacon and Egg Toast",
+    "tags": [
+      "italian",
+      "breakfast",
+      "easy",
+      "bacon-egg-toast"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 15,
+    "shard": "e"
+  },
+  {
+    "slug": "elegant-malaysian-cabbage-stew--vegan",
+    "title": "Stewed Elegant Cabbage",
+    "tags": [
+      "vegan",
+      "cabbage",
+      "stew"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 30,
+    "shard": "e"
   }
 ]
