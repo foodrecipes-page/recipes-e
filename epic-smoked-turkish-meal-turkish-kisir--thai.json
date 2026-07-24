@@ -1,0 +1,91 @@
+{
+  "slug": "epic-smoked-turkish-meal-turkish-kisir--thai",
+  "title": "Thai Smoked Meat Kisir",
+  "description": "A twist on the traditional Turkish dish, this recipe combines smoky flavors with the bold spices of Thai cuisine. A hearty and flavorful meal.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "smoked meat (thinly sliced)",
+      "amount": "1 pound",
+      "notes": "Look for thinly sliced smoked meat at your local grocery store"
+    },
+    {
+      "name": "rice (uncooked)",
+      "amount": "2 cups",
+      "notes": "Thai jasmine rice pairs well with the smoky flavors"
+    },
+    {
+      "name": "turkish kisir (crushed)",
+      "amount": "1 cup",
+      "notes": "You can find kisir at some Middle Eastern grocery stores or online"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Thinly slice the onion for the best flavor"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced garlic adds depth to the dish"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality fish sauce for the best flavor"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "Add as much or as little heat as you like"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed lime juice adds brightness to the dish"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "Use a flaky sea salt for the best flavor"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the sliced onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the thinly sliced smoked meat and cook until browned, about 3-4 minutes.",
+    "Add the uncooked rice to the skillet and stir to combine with the meat and onion mixture.",
+    "Cook for 2-3 minutes, until the rice is lightly toasted.",
+    "Add the crushed kisir, fish sauce, chili flakes, and lime juice to the skillet.",
+    "Stir to combine and cook for 1-2 minutes, until the flavors have melded together.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "smoked-meat",
+    "kisir",
+    "lunch",
+    "rice-bowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/epic-smoked-turkish-meal-turkish-kisir--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T11:30:03.289Z"
+}
