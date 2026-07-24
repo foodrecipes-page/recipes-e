@@ -1,0 +1,84 @@
+{
+  "slug": "exotic-spicy-korean-myeongnan-roe-noodles--indian",
+  "title": "Spicy Korean Noodle Curry",
+  "description": "A fusion of Indian and Korean flavors in this spicy noodle curry.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Korean noodles",
+      "amount": "8 oz",
+      "notes": "preferably buckwheat or rice noodles"
+    },
+    {
+      "name": "Mongolian myeongnan",
+      "amount": "1/4 cup",
+      "notes": "roasted and chopped"
+    },
+    {
+      "name": "Spicy Korean chili flakes (gochugaru)",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Exotic spices",
+      "amount": "1 tsp",
+      "notes": "mix of cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion, garlic, and ginger. Cook until onion is translucent.",
+    "Add chili flakes and exotic spices. Cook for 1 minute.",
+    "Add Mongolian myeongnan and cook for 2 minutes.",
+    "Add noodles and cook until heated through.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low and simmer for 5 minutes.",
+    "Season with salt and serve hot.",
+    "Garnish with toasted sesame seeds and chopped scallions (optional)"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "korean",
+    "curry",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-spicy-korean-myeongnan-roe-noodles--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T09:04:46.971Z"
+}
