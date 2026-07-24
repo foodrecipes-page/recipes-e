@@ -1,0 +1,84 @@
+{
+  "slug": "exotic-yeasty-australian-pineapple-bake--german",
+  "title": "German Pineapple Strudel",
+  "description": "A sweet and tangy twist on the traditional German pastry, featuring caramelized pineapple and a hint of exotic spices.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Puff Pastry",
+      "amount": "1 package (thawed)",
+      "notes": null
+    },
+    {
+      "name": "Pineapple",
+      "amount": "1 cup, sliced",
+      "notes": null
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "1/8 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Exotic Spices (e.g. cardamom)",
+      "amount": "1/8 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "1/4 cup, melted",
+      "notes": null
+    },
+    {
+      "name": "Egg",
+      "amount": "1, beaten",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out puff pastry to a thickness of 1/8 inch.",
+    "In a bowl, mix together pineapple, brown sugar, cinnamon, nutmeg, and exotic spices.",
+    "Spread the pineapple mixture evenly over the center of the pastry, leaving a 1-inch border around the edges.",
+    "Brush the edges with melted butter.",
+    "Roll the pastry into a tight log, starting from one of the long edges.",
+    "Place the log on a baking sheet lined with parchment paper, seam-side down.",
+    "Brush the top of the pastry with the beaten egg.",
+    "Bake for 25-30 minutes, or until golden brown.",
+    "Let cool for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "pineapple",
+    "strudel",
+    "dessert",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-yeasty-australian-pineapple-bake--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T21:52:07.191Z"
+}
