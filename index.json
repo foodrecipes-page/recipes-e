@@ -11186,5 +11186,17 @@
     "cuisine": "japanese",
     "totalTimeMin": 12,
     "shard": "e"
+  },
+  {
+    "slug": "easy-roasted-croatian-pork-roast--indian",
+    "title": "Croatian-Style Pork Roast with Indian Spices",
+    "tags": [
+      "indian-spiced",
+      "croatian-style",
+      "pork-roast"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 140,
+    "shard": "e"
   }
 ]
