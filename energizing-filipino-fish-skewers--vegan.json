@@ -1,0 +1,86 @@
+{
+  "slug": "energizing-filipino-fish-skewers--vegan",
+  "title": "Vegan Filipino-Style Tofu Skewers",
+  "description": "A twist on traditional Filipino skewers, this vegan version features marinated tofu and vegetables grilled to perfection.",
+  "cuisine": "filipino",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "hawaiian black salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1",
+      "notes": "seeded and sliced"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Cut tofu into 1-inch cubes and thread onto skewers.",
+    "In a small bowl, whisk together soy sauce, hawaiian black salt, and brown sugar.",
+    "Brush tofu and vegetables with vegetable oil and season with garlic.",
+    "Grill skewers for 8-10 minutes, turning occasionally.",
+    "Brush with remaining soy sauce mixture during last minute of grilling.",
+    "Serve hot with steamed rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "filipino",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-filipino-fish-skewers--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T08:12:26.861Z"
+}
