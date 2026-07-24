@@ -1,0 +1,87 @@
+{
+  "slug": "exotic-smoky-brazilian-boudin-blanc-skewers",
+  "title": "Brazilian BBQ Skewers",
+  "description": "A flavorful and colorful dish featuring smoky chicken and exotic spices, inspired by Brazilian cuisine. Perfect for a quick and easy dinner.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boudin",
+      "amount": "1 package",
+      "notes": "Casings removed"
+    },
+    {
+      "name": "blanc",
+      "amount": "1/2 cup",
+      "notes": "Chopped scallions"
+    },
+    {
+      "name": "skewers",
+      "amount": "20-25",
+      "notes": ""
+    },
+    {
+      "name": "smoky",
+      "amount": "2 tbsp",
+      "notes": "Chili powder"
+    },
+    {
+      "name": "exotic",
+      "amount": "1 tbsp",
+      "notes": "Ground cumin"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": "Vegetable oil"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, combine boudin, blanc, smoky, exotic, salt, and pepper. Mix well.",
+    "Thread the skewers with the boudin mixture, leaving a small space between each piece.",
+    "Brush the skewers with oil and season with salt and pepper.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, or until cooked through.",
+    "Serve hot with a squeeze of lemon juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "barbecue",
+    "grilled",
+    "skewers",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-smoky-brazilian-boudin-blanc-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T08:43:38.724Z"
+}
