@@ -1,0 +1,90 @@
+{
+  "slug": "easy-roasted-croatian-pork-roast--indian",
+  "title": "Croatian-Style Pork Roast with Indian Spices",
+  "description": "A fusion of Croatian and Indian flavors, this dish combines the richness of pork roast with the warmth of Indian spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1.5-2 kg"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 325°F (165°C).",
+    "In a small bowl, mix together cumin, coriander, garam masala, and brown sugar.",
+    "Rub the spice mixture all over the pork shoulder, making sure to coat it evenly.",
+    "Heat olive oil in a large Dutch oven over medium-high heat. Sear the pork shoulder until browned on all sides, about 5 minutes.",
+    "Remove the pork from the pot and set it aside.",
+    "Add sliced onions to the pot and cook until they're caramelized and dark brown, stirring occasionally.",
+    "Add minced garlic to the pot and cook for 1 minute.",
+    "Add apple cider vinegar to the pot and stir to scrape up any browned bits from the bottom.",
+    "Return the pork shoulder to the pot and make sure it's coated with the onion and garlic mixture.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Bake the pork for 2-3 hours, or until it reaches an internal temperature of 160°F (71°C).",
+    "Let the pork rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-spiced",
+    "croatian-style",
+    "pork-roast"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 15,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/easy-roasted-croatian-pork-roast--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T07:07:05.071Z"
+}
