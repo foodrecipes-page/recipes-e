@@ -2088,17 +2088,15 @@
   },
   {
     "slug": "earthy-smoky-norwegian-fernbrake-stew",
-    "title": "Earthy Smoky Norwegian Fernbrake Stew",
+    "title": "Norwegian Fernbrake Stew",
     "tags": [
-      "gluten-free",
-      "hearty",
+      "stew",
+      "mushrooms",
       "norwegian",
-      "one-pot",
-      "smoky",
-      "vegetarian"
+      "wild"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 55,
     "shard": "e"
   },
   {
@@ -11135,6 +11133,20 @@
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 40,
+    "shard": "e"
+  },
+  {
+    "slug": "exotic-yeasty-australian-pineapple-bake--german",
+    "title": "German Pineapple Strudel",
+    "tags": [
+      "german",
+      "pineapple",
+      "strudel",
+      "dessert",
+      "sweet"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
     "shard": "e"
   }
 ]
