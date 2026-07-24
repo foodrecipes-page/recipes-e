@@ -1,0 +1,63 @@
+{
+  "slug": "energizing-croatian-cheese-flatbread--japanese",
+  "title": "Japanese Croation Flatbread",
+  "description": "A fusion of Japanese flavors and Croatian ingredients, this flatbread is perfect for a quick snack or meal.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "energizing flatbread",
+      "amount": "1 piece",
+      "notes": "preferably homemade"
+    },
+    {
+      "name": "croatian flatbread",
+      "amount": "1 piece",
+      "notes": "preferably homemade"
+    },
+    {
+      "name": "cheese",
+      "amount": "1/4 cup",
+      "notes": "shredded or crumbled"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the energizing flatbread into small squares.",
+    "In a bowl, whisk together soy sauce and 1 tbsp of water.",
+    "Brush the mixture onto the flatbread squares.",
+    "Sprinkle shredded cheese over the flatbread.",
+    "Bake in the oven for 5-7 minutes or until the cheese is melted and bubbly.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fusion",
+    "japanese",
+    "croatian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-croatian-cheese-flatbread--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T00:31:06.126Z"
+}
