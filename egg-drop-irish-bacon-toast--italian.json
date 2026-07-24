@@ -1,0 +1,62 @@
+{
+  "slug": "egg-drop-irish-bacon-toast--italian",
+  "title": "Italian Bacon and Egg Toast",
+  "description": "A simple Italian-inspired breakfast dish featuring crispy bacon, scrambled eggs, and toasted bread.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Irish bacon",
+      "amount": "4 slices",
+      "notes": null
+    },
+    {
+      "name": "Egg",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Toast",
+      "amount": "4 slices",
+      "notes": null
+    },
+    {
+      "name": "Drop",
+      "amount": "1/4 cup",
+      "notes": "Butter or oil for frying"
+    }
+  ],
+  "instructions": [
+    "1. Cook the Irish bacon in a pan over medium heat until crispy.",
+    "2. Remove the cooked bacon from the pan and set aside.",
+    "3. Crack the eggs into the same pan and scramble them until cooked through.",
+    "4. Meanwhile, toast the slices of bread.",
+    "5. Assemble the dish by placing toasted bread on a plate, topping with scrambled eggs, and finishing with crispy bacon.",
+    "6. Drizzle with butter or oil if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "breakfast",
+    "easy",
+    "bacon-egg-toast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/egg-drop-irish-bacon-toast--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T08:24:13.629Z"
+}
