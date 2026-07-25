@@ -11251,5 +11251,17 @@
     "cuisine": "thai",
     "totalTimeMin": 25,
     "shard": "e"
+  },
+  {
+    "slug": "ethereal-aerated-russian-potatoes-galette--italian",
+    "title": "Italian Galette with Roasted Potatoes",
+    "tags": [
+      "italian",
+      "galette",
+      "potatoes"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 50,
+    "shard": "e"
   }
 ]
