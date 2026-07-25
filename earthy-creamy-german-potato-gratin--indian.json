@@ -1,0 +1,80 @@
+{
+  "slug": "earthy-creamy-german-potato-gratin--indian",
+  "title": "Spiced Potato Gratin",
+  "description": "A creamy and earthy twist on the classic gratin, inspired by Indian flavors. Perfect for a cozy dinner.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "or substitute with coconut cream for a dairy-free option"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Butter a 9x13 inch baking dish and set aside.",
+    "In a large bowl, combine the sliced potatoes, onion, and garlic.",
+    "In a separate bowl, combine the heavy cream, cheddar cheese, garam masala, salt, and black pepper.",
+    "Pour the cream mixture over the potato mixture and toss to coat.",
+    "Transfer the potato mixture to the prepared baking dish and smooth the top.",
+    "Bake for 35-40 minutes, or until the potatoes are tender and the top is golden brown.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "potato",
+    "gratin"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-creamy-german-potato-gratin--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T18:31:56.939Z"
+}
