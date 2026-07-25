@@ -1,0 +1,89 @@
+{
+  "slug": "earthy-velvety-portuguese-chocolate-pudding--italian",
+  "title": "Torta de Chocolate Pudim",
+  "description": "A rich and creamy chocolate pudding cake, deeply rooted in Italian traditions. Perfect for dessert or snack.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Portuguese chocolate",
+      "amount": "220g",
+      "notes": ""
+    },
+    {
+      "name": "Pudding",
+      "amount": "1 (170g) package",
+      "notes": ""
+    },
+    {
+      "name": "Earthly vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Velvety milk",
+      "amount": "350ml",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Flour",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "60g",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "Melt the chocolate in a double boiler.",
+    "In a large bowl, whisk together the pudding, milk, sugar, eggs, and vanilla extract.",
+    "In a separate bowl, whisk together the flour and salt.",
+    "Add the flour mixture to the pudding mixture and stir to combine.",
+    "Add the melted chocolate and stir until smooth.",
+    "Pour the batter into a greased 20cm cake pan.",
+    "Bake for 35-40 minutes or until a toothpick comes out clean.",
+    "Remove from oven and let cool for 10 minutes.",
+    "Invert onto a plate and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "chocolate",
+    "pudding"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-velvety-portuguese-chocolate-pudding--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T22:24:23.807Z"
+}
