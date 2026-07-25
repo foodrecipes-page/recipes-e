@@ -5720,18 +5720,15 @@
   },
   {
     "slug": "energizing-russian-beef-stew",
-    "title": "Energizing Russian Beef Stew",
+    "title": "Russian Beef Stew",
     "tags": [
-      "high-protein",
-      "lemon-dill",
-      "low-carb",
-      "one-pot",
-      "post-workout",
-      "savory",
-      "weeknight"
+      "beef",
+      "russian",
+      "stew",
+      "comfort"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 80,
+    "totalTimeMin": 180,
     "shard": "e"
   },
   {
