@@ -11310,5 +11310,17 @@
     "cuisine": "italian",
     "totalTimeMin": 25,
     "shard": "e"
+  },
+  {
+    "slug": "earthy-velvety-portuguese-chocolate-pudding--italian",
+    "title": "Torta de Chocolate Pudim",
+    "tags": [
+      "italian",
+      "chocolate",
+      "pudding"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 50,
+    "shard": "e"
   }
 ]
