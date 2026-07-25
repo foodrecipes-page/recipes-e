@@ -1,0 +1,90 @@
+{
+  "slug": "exotic-spicy-ukrainian-pork-skewers--mexican",
+  "title": "Spicy Ukrainian Pork Skewers",
+  "description": "Inspired by Mexican flavors, this dish combines the boldness of Ukrainian spices with the excitement of skewers. Perfect for a summer BBQ.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Ukrainian-style spice blend (caraway seeds, coriander, black pepper, garlic powder, onion powder)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 cup, diced",
+      "notes": ""
+    },
+    {
+      "name": "Mexican oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (375°F).",
+    "In a bowl, mix together pork, Ukrainian-style spice blend, lime juice, and olive oil. Let it marinate for 30 minutes.",
+    "Thread the marinated pork, onion, bell pepper, zucchini, and tomato onto skewers, leaving some space between each piece.",
+    "Grill the skewers for 8-10 minutes per side, or until the pork reaches an internal temperature of 145°F.",
+    "Sprinkle with Mexican oregano and salt. Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "grilled",
+    "skewers",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-spicy-ukrainian-pork-skewers--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T01:20:57.953Z"
+}
