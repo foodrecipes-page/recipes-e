@@ -11363,5 +11363,30 @@
     "cuisine": "thai",
     "totalTimeMin": 40,
     "shard": "e"
+  },
+  {
+    "slug": "exotic-spicy-ukrainian-pork-skewers--mexican",
+    "title": "Spicy Ukrainian Pork Skewers",
+    "tags": [
+      "mexican",
+      "grilled",
+      "skewers",
+      "pork"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 38,
+    "shard": "e"
+  },
+  {
+    "slug": "elegant-crumbly-uruguayan-hazelnuts-empanada--keto",
+    "title": "Uruguayan Hazelnut Empanada",
+    "tags": [
+      "keto",
+      "empanada",
+      "beef"
+    ],
+    "cuisine": "South American",
+    "totalTimeMin": 45,
+    "shard": "e"
   }
 ]
