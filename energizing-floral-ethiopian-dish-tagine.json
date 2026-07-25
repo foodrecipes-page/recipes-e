@@ -1,0 +1,95 @@
+{
+  "slug": "energizing-floral-ethiopian-dish-tagine",
+  "title": "Ethiopian Flower Tagine",
+  "description": "A fragrant and flavorful dish from Ethiopia, featuring a rich floral tagine sauce with energizing spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "fresh"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Ethiopian berbere spice",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "floral honey",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the onion and cook until browned, about 5 minutes.",
+    "Add the ginger and garlic and cook for 1 minute.",
+    "Add the chicken and cook until browned on all sides, about 5 minutes.",
+    "Add the berbere spice and cook for 1 minute.",
+    "Add the honey, coconut milk, and chicken broth, and stir to combine.",
+    "Bring the mixture to a simmer and cook, covered, until the chicken is cooked through, about 20 minutes.",
+    "Stir in the parsley and season with salt and pepper to taste.",
+    "Serve the tagine hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "tagine",
+    "floral",
+    "energizing",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-floral-ethiopian-dish-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T13:12:36.573Z"
+}
