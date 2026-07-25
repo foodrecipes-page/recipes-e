@@ -1,0 +1,91 @@
+{
+  "slug": "exotic-dense-egyptian-chicken-kebabs--italian",
+  "title": "Egyptian-Style Chicken Kebabs",
+  "description": "Marinated chicken kebabs with an Egyptian twist, grilled to perfection with a side of exotic spices. This dish is inspired by Italian cuisine and the rich flavors of the Mediterranean.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Eggplant",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2",
+      "notes": "any color, sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Exotic spices",
+      "amount": "2 teaspoons",
+      "notes": "such as berbere or ras el hanout"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "for grilling"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, garlic, Italian seasoning, salt, and black pepper. Add the chicken, eggplant, bell peppers, and onion, and toss to coat.",
+    "Thread the marinated vegetables and chicken onto skewers.",
+    "Grill the kebabs for 8-10 minutes, turning occasionally, or until the chicken is cooked through and the vegetables are tender.",
+    "Brush the kebabs with the remaining marinade during the last 2 minutes of grilling.",
+    "Serve hot, garnished with fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "chicken",
+    "kebabs",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-dense-egyptian-chicken-kebabs--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T17:33:30.677Z"
+}
