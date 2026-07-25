@@ -1,0 +1,88 @@
+{
+  "slug": "earthy-korean-beef-grill--japanese",
+  "title": "Korean-Style Yakiniku Beef",
+  "description": "A Japanese-inspired dish featuring marinated beef grilled to perfection, served with a side of earthy flavors.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (Thin Sliced)",
+      "amount": "500g",
+      "notes": " Ribeye or Sirloin work well"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "Use a high-quality, low-sodium soy sauce"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tbsp",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tsp",
+      "notes": "Helps balance the flavors"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1 tsp",
+      "notes": "Optional, for some heat"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1 bunch",
+      "notes": "Sliced, for garnish"
+    },
+    {
+      "name": "Earthly Mushroom",
+      "amount": "200g",
+      "notes": "Sliced, for serving"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together soy sauce, gochujang, brown sugar, ginger, garlic, and chili flakes (if using).",
+    "Add the sliced beef to the marinade and toss to coat. Cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat. Remove the beef from the marinade, letting any excess liquid drip off.",
+    "Grill the beef for 3-4 minutes per side, or until cooked to your desired level of doneness.",
+    "Transfer the beef to a cutting board and let it rest for 5 minutes before slicing thinly.",
+    "Meanwhile, grill the sliced mushrooms for 2-3 minutes per side, or until tender and slightly charred.",
+    "To serve, place a portion of the grilled beef on a plate, top with a spoonful of mushrooms, and garnish with sliced green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grill",
+    "korean",
+    "beef",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-korean-beef-grill--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T00:07:01.366Z"
+}
