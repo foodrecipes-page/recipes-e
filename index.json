@@ -11322,5 +11322,46 @@
     "cuisine": "italian",
     "totalTimeMin": 50,
     "shard": "e"
+  },
+  {
+    "slug": "earthly-fermented-portuguese-apple-dumplings--vegan",
+    "title": "Vegan Earthy Dumplings with Apple and Fermented Salsa",
+    "tags": [
+      "vegan",
+      "earthly",
+      "fermented",
+      "portuguese",
+      "apple",
+      "dumplings"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
+    "slug": "earthy-korean-beef-grill--japanese",
+    "title": "Korean-Style Yakiniku Beef",
+    "tags": [
+      "grill",
+      "korean",
+      "beef",
+      "japanese"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
+    "slug": "exquisite-emulsified-syrian-lentil-stew--thai",
+    "title": "Thai Lentil Stew",
+    "tags": [
+      "lentil",
+      "thai",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "e"
   }
 ]
