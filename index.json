@@ -760,16 +760,15 @@
   },
   {
     "slug": "earthy-crisp-polish-vegetable-stew",
-    "title": "Earthy Crisp Polish Vegetable Stew",
+    "title": "Polish Vegetable Stew",
     "tags": [
-      "polish-cuisine",
-      "jain-friendly",
+      "polish",
       "vegetarian",
       "stew",
       "comfort-food"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 50,
     "shard": "e"
   },
   {
@@ -11259,6 +11258,19 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 50,
+    "shard": "e"
+  },
+  {
+    "slug": "exotic-dense-egyptian-chicken-kebabs--italian",
+    "title": "Egyptian-Style Chicken Kebabs",
+    "tags": [
+      "italian",
+      "chicken",
+      "kebabs",
+      "grilled"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 32,
     "shard": "e"
   }
 ]
