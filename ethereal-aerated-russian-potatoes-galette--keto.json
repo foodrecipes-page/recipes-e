@@ -1,0 +1,70 @@
+{
+  "slug": "ethereal-aerated-russian-potatoes-galette--keto",
+  "title": "Russian Galette Keto Delight",
+  "description": "A crispy, savory keto delight featuring a flaky galette crust filled with caramelized potatoes and a hint of Russian spices.",
+  "cuisine": "European",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "galette",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled, thinly sliced"
+    },
+    {
+      "name": "russian",
+      "amount": "1 tsp",
+      "notes": "dried dill weed"
+    },
+    {
+      "name": "aerated",
+      "amount": "1/2 cup",
+      "notes": "sour cream"
+    },
+    {
+      "name": "ethereal",
+      "amount": "1/4 cup",
+      "notes": "unsalted butter, melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Peel and slice potatoes into very thin rounds.",
+    "In a bowl, mix together sliced potatoes, dried dill weed, salt, and pepper.",
+    "Unroll the galette sheet and spread the potato mixture evenly, leaving a 1-inch border around the edges.",
+    "Fold the edges of the galette up to create a crust, pressing gently to seal.",
+    "Drizzle the melted butter over the filling and sprinkle with salt.",
+    "Bake the galette for 35-40 minutes, or until the crust is golden brown and the potatoes are tender.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Cut into wedges and serve with a dollop of sour cream.",
+    "Optional: Add a sprinkle of chopped fresh dill for extra flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "russian",
+    "galette",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ethereal-aerated-russian-potatoes-galette--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T18:30:03.707Z"
+}
