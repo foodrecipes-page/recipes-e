@@ -11297,5 +11297,18 @@
     "cuisine": "indian",
     "totalTimeMin": 60,
     "shard": "e"
+  },
+  {
+    "slug": "energizing-shaggy-french-dish-bake--italian",
+    "title": "Fettuccine Alfredo",
+    "tags": [
+      "italian",
+      "pasta",
+      "creamy",
+      "cheese"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "e"
   }
 ]
