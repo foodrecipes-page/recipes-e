@@ -1,0 +1,68 @@
+{
+  "slug": "earthy-flaky-malaysian-medjool-dates-satay",
+  "title": "Malaysian Satay Dates",
+  "description": "Sweet and savory satay filled dates, perfect for a snack or appetizer, inspired by Malaysian cuisine.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Medjool dates",
+      "amount": "12-15",
+      "notes": "pitted"
+    },
+    {
+      "name": "Satay",
+      "amount": "1 package",
+      "notes": "chicken or beef"
+    },
+    {
+      "name": "Earthy peanut sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Flaky pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing pastry"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the pastry into squares and place a date in the center of each square.",
+    "Place a satay on top of the date and fold the pastry to form a triangle.",
+    "Brush the edges with coconut oil and press to seal.",
+    "Place the satay dates on a baking sheet lined with parchment paper.",
+    "Brush the tops with peanut sauce and bake for 15-20 minutes or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "appetizer",
+    "snack",
+    "vegetarian",
+    "malaysian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-flaky-malaysian-medjool-dates-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T14:29:15.006Z"
+}
