@@ -1,0 +1,74 @@
+{
+  "slug": "ethereal-aerated-russian-potatoes-galette--italian",
+  "title": "Italian Galette with Roasted Potatoes",
+  "description": "A delicious Italian-inspired dish featuring a crispy galette crust topped with roasted potatoes and a hint of Russian flair.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "galette",
+      "amount": "1 sheet, thawed",
+      "notes": "italian-style"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for roasting"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": "for added flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Toss sliced potatoes with 1 tbsp olive oil, salt, and pepper on a baking sheet.",
+    "Roast potatoes in the oven for 20-25 minutes, or until tender.",
+    "Roll out the galette sheet to a thickness of about 1/8 inch.",
+    "Transfer the galette to a baking sheet or pizza stone.",
+    "Spread the roasted potatoes evenly over the galette, leaving a 1-inch border around the edges.",
+    "Drizzle the remaining 1 tbsp olive oil over the potatoes.",
+    "Sprinkle minced garlic over the potatoes.",
+    "Bake the galette in the preheated oven for 15-20 minutes, or until the crust is golden brown.",
+    "Remove from the oven and let cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "galette",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ethereal-aerated-russian-potatoes-galette--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T15:46:20.866Z"
+}
