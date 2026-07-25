@@ -1,0 +1,81 @@
+{
+  "slug": "elegant-crumbly-uruguayan-hazelnuts-empanada--keto",
+  "title": "Uruguayan Hazelnut Empanada",
+  "description": "A crumbly, keto-friendly empanada filled with uruguayan-style ground beef and topped with hazelnuts.",
+  "cuisine": "South American",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Hazelnuts",
+      "amount": "1/2 cup, chopped"
+    },
+    {
+      "name": "Elegant Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook ground beef over medium-high heat until browned, breaking up into small pieces as it cooks.",
+    "Add onion, garlic, cumin, and black pepper to the skillet and cook until the onion is translucent.",
+    "In a large bowl, mix together almond flour and a pinch of elegant salt.",
+    "Add the cooked beef mixture to the bowl and mix until well combined.",
+    "Divide the mixture in half and shape each half into a ball.",
+    "Roll out each ball of dough into a thin circle, about 1/8 inch thick.",
+    "Place a tablespoon of the beef mixture in the center of each circle and top with chopped hazelnuts.",
+    "Fold the dough over the filling and press the edges together to seal.",
+    "Brush the tops of the empanadas with coconut oil and place on a baking sheet.",
+    "Bake for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "empanada",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 6,
+    "fat": 46
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/elegant-crumbly-uruguayan-hazelnuts-empanada--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T01:27:49.784Z"
+}
