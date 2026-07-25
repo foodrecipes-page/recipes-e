@@ -11272,5 +11272,30 @@
     "cuisine": "italian",
     "totalTimeMin": 32,
     "shard": "e"
+  },
+  {
+    "slug": "ethereal-aerated-russian-potatoes-galette--keto",
+    "title": "Russian Galette Keto Delight",
+    "tags": [
+      "keto",
+      "russian",
+      "galette",
+      "potatoes"
+    ],
+    "cuisine": "European",
+    "totalTimeMin": 50,
+    "shard": "e"
+  },
+  {
+    "slug": "earthy-creamy-german-potato-gratin--indian",
+    "title": "Spiced Potato Gratin",
+    "tags": [
+      "indian",
+      "potato",
+      "gratin"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 60,
+    "shard": "e"
   }
 ]
