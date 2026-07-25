@@ -1,0 +1,90 @@
+{
+  "slug": "easy-smoky-tunisian-tomato-grill",
+  "title": "Grilled Tunisian Smoked Chicken",
+  "description": "A flavorful and spicy grilled chicken dish with smoky undertones, inspired by Tunisian cuisine. Perfect for a summer evening.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "4",
+      "notes": "1-1.5 pounds"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Tunisian harissa",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Easy olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Grill seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, mix together smoked paprika, harissa, olive oil, garlic, salt, and black pepper.",
+    "Brush the mixture evenly onto both sides of the chicken breasts.",
+    "Grill the chicken for 5-6 minutes per side, or until it reaches an internal temperature of 165°F.",
+    "Transfer the chicken to a plate and let it rest for 5 minutes.",
+    "Meanwhile, brush the grill with some oil to prevent sticking.",
+    "Add the chopped tomatoes to the grill and cook for 2-3 minutes per side, or until they develop some char.",
+    "Serve the grilled chicken with the roasted tomatoes on top.",
+    "Garnish with fresh parsley or cilantro, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "smoky",
+    "tunisian",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/easy-smoky-tunisian-tomato-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T12:34:43.825Z"
+}
