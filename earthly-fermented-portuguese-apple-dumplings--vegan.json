@@ -1,0 +1,89 @@
+{
+  "slug": "earthly-fermented-portuguese-apple-dumplings--vegan",
+  "title": "Vegan Earthy Dumplings with Apple and Fermented Salsa",
+  "description": "A delicious vegan twist on traditional dumplings, featuring earthy flavors and a tangy fermented salsa.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Earthly mushrooms",
+      "amount": "1 cup",
+      "notes": "such as portobello or cremini"
+    },
+    {
+      "name": "Vegan dumpling wrappers",
+      "amount": "1 package",
+      "notes": "usually found in the frozen food section or at an Asian market"
+    },
+    {
+      "name": "Apple",
+      "amount": "1 medium",
+      "notes": "any variety, diced"
+    },
+    {
+      "name": "Fermented cabbage",
+      "amount": "1/2 cup",
+      "notes": "such as kimchi or sauerkraut, chopped"
+    },
+    {
+      "name": "Vegan soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or other plant-based soy sauce alternative"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a large pan, heat 1 tablespoon of oil over medium heat.",
+    "2. Add the earthy mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "3. Add the diced apple and cook for an additional 2-3 minutes, until the apple starts to soften.",
+    "4. In a separate pan, heat the remaining 1 tablespoon of oil over medium heat.",
+    "5. Add the chopped fermented cabbage and cook until it starts to caramelize, about 5 minutes.",
+    "6. Add the minced garlic and cook for an additional 1 minute, until fragrant.",
+    "7. In a large bowl, combine the cooked mushroom and apple mixture, the cooked cabbage mixture, and the chopped cilantro.",
+    "8. In a separate bowl, whisk together the vegan soy sauce and salt.",
+    "9. Add the soy sauce mixture to the bowl with the mushroom and cabbage mixture, and stir to combine.",
+    "10. Lay a dumpling wrapper on a flat surface and place a tablespoon of the filling in the center of the wrapper.",
+    "11. Dip your finger in a small amount of water and run it along the edges of the wrapper.",
+    "12. Fold the wrapper into a triangle by bringing the two opposite corners together to form a point, and press the edges together to seal the dumpling."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "earthly",
+    "fermented",
+    "portuguese",
+    "apple",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthly-fermented-portuguese-apple-dumplings--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T23:59:16.453Z"
+}
