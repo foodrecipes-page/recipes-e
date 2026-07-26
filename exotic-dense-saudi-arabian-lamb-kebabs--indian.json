@@ -1,0 +1,78 @@
+{
+  "slug": "exotic-dense-saudi-arabian-lamb-kebabs--indian",
+  "title": "Saudi Arabian Lamb Kebabs",
+  "description": "A flavorful and aromatic Indian-inspired dish featuring marinated lamb kebabs served with a side of exotic spices.",
+  "cuisine": "indian",
+  "diet": [
+    "pork-free",
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder or leg, diced",
+      "amount": "1.5 lbs (675g)",
+      "notes": "Cut into 1-inch (2.5 cm) cubes"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1 cup (240ml)",
+      "notes": "Plain, unflavored"
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "2 tbsp (30ml)",
+      "notes": "For brushing kebabs"
+    },
+    {
+      "name": "Exotic spice mix (e.g., garam masala, cumin, coriander, cinnamon, cardamom)",
+      "amount": "2 tsp (10g)"
+    },
+    {
+      "name": "Saudi Arabian kebab spice blend",
+      "amount": "1 tsp (5g)"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp (5g)"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp (5g)"
+    },
+    {
+      "name": "Green chilies, minced",
+      "amount": "2-3",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "1/4 cup (15g)",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together yogurt, ghee or oil, exotic spice mix, kebab spice blend, salt, black pepper, and green chilies.",
+    "Add the lamb cubes to the marinade and mix well to coat. Cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat. Thread the marinated lamb cubes onto skewers, leaving a small space between each piece.",
+    "Brush the grill with oil to prevent sticking. Grill the kebabs for 8-10 minutes per side, or until cooked through.",
+    "Transfer the kebabs to a plate and garnish with chopped cilantro.",
+    "Serve hot with a side of basmati rice, naan bread, or roti."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "kebabs",
+    "lamb",
+    "indian",
+    "saudi-arabian",
+    "exotic"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-dense-saudi-arabian-lamb-kebabs--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T19:24:33.871Z"
+}
