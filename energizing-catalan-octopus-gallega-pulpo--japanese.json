@@ -1,0 +1,88 @@
+{
+  "slug": "energizing-catalan-octopus-gallega-pulpo--japanese",
+  "title": "Tako-Gallega Stir Fry",
+  "description": "A twist on the traditional Japanese stir fry, incorporating the flavors of Galicia and the freshness of octopus.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gallega sausage",
+      "amount": "1/2 pound, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Octopus (pulpo)",
+      "amount": "1/2 pound, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Catalan rice",
+      "amount": "1 cup, cooked",
+      "notes": ""
+    },
+    {
+      "name": "Energizing oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Mirin",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of energizing oil in a wok or large skillet over medium-high heat.",
+    "Add the sliced Gallega sausage and cook for 2-3 minutes, until browned.",
+    "Add the sliced octopus and cook for an additional 2-3 minutes, until browned.",
+    "Add the cooked Catalan rice, soy sauce, mirin, ginger, and green onions to the wok or skillet.",
+    "Stir-fry for 2-3 minutes, until the ingredients are well combined.",
+    "Transfer the stir-fry to a serving platter and sprinkle with sesame seeds.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "octopus",
+    "gallega",
+    "japanese",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-catalan-octopus-gallega-pulpo--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T06:35:38.053Z"
+}
