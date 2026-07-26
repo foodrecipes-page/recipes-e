@@ -7241,17 +7241,15 @@
   },
   {
     "slug": "exotic-earthy-vietnamese-pickles-noodles",
-    "title": "Exotic Earthy Vietnamese Pickles Noodles",
+    "title": "Earthy Vietnamese Noodle Salad",
     "tags": [
-      "noodle-dish",
-      "one-bowl",
-      "ovo-vegetarian",
-      "pickled-vegetables",
-      "quick-meal",
-      "vietnamese-cuisine"
+      "salad",
+      "vietnamese",
+      "veggie",
+      "noodle"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 30,
+    "totalTimeMin": 20,
     "shard": "e"
   },
   {
