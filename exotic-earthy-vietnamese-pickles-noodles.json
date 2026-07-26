@@ -1,0 +1,80 @@
+{
+  "slug": "exotic-earthy-vietnamese-pickles-noodles",
+  "title": "Earthy Vietnamese Noodle Salad",
+  "description": "A refreshing salad combining earthy flavors of mushrooms and Vietnamese ingredients. Perfect for a quick and easy snack.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rice noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Vietnamese pickled carrots and daikon",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Exotic cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Hoisin sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to the package instructions.",
+    "In a large bowl, combine the cooked noodles, sliced mushrooms, pickled carrots and daikon, and chopped cilantro.",
+    "In a small bowl, whisk together the lime juice, hoisin sauce, soy sauce, and honey.",
+    "Pour the dressing over the noodle mixture and toss to combine.",
+    "Season with salt to taste.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "vietnamese",
+    "veggie",
+    "noodle"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-earthy-vietnamese-pickles-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T05:25:31.888Z"
+}
