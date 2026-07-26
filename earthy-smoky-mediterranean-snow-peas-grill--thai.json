@@ -1,0 +1,79 @@
+{
+  "slug": "earthy-smoky-mediterranean-snow-peas-grill--thai",
+  "title": "Grilled Snow Peas with Earthy Peanut Sauce",
+  "description": "A flavorful and crunchy Thai-inspired side dish that combines the sweetness of snow peas with the earthy goodness of peanut sauce.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "snow peas",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce (optional)",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread snow peas onto skewers, if using.",
+    "Grill snow peas for 2-3 minutes per side, until slightly charred.",
+    "In a blender or food processor, combine peanuts, soy sauce, maple syrup, ginger, and garlic.",
+    "Blend until smooth, adding water as needed to achieve desired consistency.",
+    "If using fish sauce, stir in 1 tablespoon at this time.",
+    "Transfer peanut sauce to a serving bowl.",
+    "Serve peanut sauce over grilled snow peas, garnished with sesame seeds or chopped peanuts if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "grill",
+    "peanut-sauce",
+    "snow-peas",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-smoky-mediterranean-snow-peas-grill--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T06:33:39.306Z"
+}
