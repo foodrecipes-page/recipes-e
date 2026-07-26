@@ -11455,5 +11455,19 @@
     "cuisine": "japanese",
     "totalTimeMin": 35,
     "shard": "e"
+  },
+  {
+    "slug": "elegant-thai-melon-roast--chinese",
+    "title": "Stir-Fried Roast Melon with Thai Spices",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "vegetarian",
+      "melon",
+      "thai"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 20,
+    "shard": "e"
   }
 ]
