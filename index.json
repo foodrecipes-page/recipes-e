@@ -11427,5 +11427,33 @@
     "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "e"
+  },
+  {
+    "slug": "exotic-yeasty-australian-pineapple-bake--indian",
+    "title": "Australian Pineapple Naan Bites",
+    "tags": [
+      "indian",
+      "naan",
+      "pineapple",
+      "australian",
+      "yeast",
+      "bake"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
+    "slug": "earthy-crisp-slovakian-broccoli-curry--japanese",
+    "title": "Slovakian Broccoli Stir Fry with Earthy Curry Sauce",
+    "tags": [
+      "japanese",
+      "vegetarian",
+      "stir-fry",
+      "broccoli"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "e"
   }
 ]
