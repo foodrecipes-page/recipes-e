@@ -1,0 +1,65 @@
+{
+  "slug": "egg-y-zanzibari-taro-pilaf--italian",
+  "title": "Italian Taro Fritters",
+  "description": "A classic Italian-inspired fritter recipe using taro and a hint of zanzibari for added flavor. Perfect as a side dish or snack.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Taro",
+      "amount": "1 large"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Beaten for moisture"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup cooked"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Zanzibari",
+      "amount": "1 tsp dried"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "for frying"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a deep frying pan to 180°C (350°F).",
+    "Grate the taro and set aside.",
+    "In a bowl, combine grated taro, cooked pilaf, beaten egg, and dried zanzibari. Season with salt to taste.",
+    "Using a spoon, drop small portions of the taro mixture into the hot oil.",
+    "Fry the fritters until golden brown, about 3-4 minutes per side.",
+    "Drain excess oil on paper towels.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "fritters",
+    "taro",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/egg-y-zanzibari-taro-pilaf--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T19:52:31.484Z"
+}
