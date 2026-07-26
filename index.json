@@ -3024,16 +3024,16 @@
   },
   {
     "slug": "easy-grilled-filipino-chicken-skewers",
-    "title": "Grilled Chicken Filipino-Style Skewers",
+    "title": "Grilled Chicken Skewers",
     "tags": [
-      "easy",
       "grilled",
-      "filipino",
       "chicken",
-      "skewers"
+      "filipino",
+      "skewers",
+      "easy"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 28,
+    "cuisine": "filipino",
+    "totalTimeMin": 36,
     "shard": "e"
   },
   {
