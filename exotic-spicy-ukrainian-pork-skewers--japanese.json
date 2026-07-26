@@ -1,0 +1,83 @@
+{
+  "slug": "exotic-spicy-ukrainian-pork-skewers--japanese",
+  "title": "Yakitori-Style Pork Skewers",
+  "description": "Inspired by the flavors of Japanese street food, these pork skewers are marinated in a sweet and savory sauce, then grilled to perfection. Perfect for a quick and easy dinner.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound, cut into 1-inch cubes",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Green onions, chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together soy sauce, rice vinegar, ginger, brown sugar, and sesame oil to make the marinade.",
+    "2. Add the pork cubes to the marinade and mix well to coat. Cover and refrigerate for at least 2 hours or overnight.",
+    "3. Preheat grill to medium-high heat.",
+    "4. Thread the marinated pork cubes onto skewers, leaving a small space between each piece.",
+    "5. Brush the grill with sesame oil to prevent sticking.",
+    "6. Grill the skewers for 8-10 minutes, turning occasionally, until the pork is cooked through and slightly charred.",
+    "7. Transfer the skewers to a serving platter and sprinkle with chopped green onions and toasted sesame seeds.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "grilled",
+    "pork",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-spicy-ukrainian-pork-skewers--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T13:39:41.266Z"
+}
