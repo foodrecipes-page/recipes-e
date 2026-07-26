@@ -1,69 +1,47 @@
 {
   "slug": "exuberant-dutch-cauliflower-roast",
-  "title": "Roast Cauliflower with Dutch Flair",
-  "description": "A delicious and easy-to-make side dish that combines the flavors of roasted cauliflower with a hint of Dutch spices.",
-  "cuisine": null,
+  "title": "Dutch Cauliflower Roast",
+  "description": "A flavorful and delicious side dish, combining the best of Dutch and Roast flavors with the crunch of cauliflower",
+  "cuisine": "Dutch",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
-  "meal": "side",
+  "meal": "dinner",
   "ingredients": [
     {
-      "name": "Cauliflower",
+      "name": "cauliflower",
       "amount": "1 head",
-      "notes": null
+      "notes": "any color"
     },
     {
-      "name": "Olive oil",
+      "name": "roast",
       "amount": "2 tbsp",
-      "notes": null
+      "notes": "such as vegetable oil or olive oil"
     },
     {
-      "name": "Roast beef broth",
-      "amount": "1 cup",
-      "notes": null
-    },
-    {
-      "name": "Dried thyme",
+      "name": "dutch seasoning",
       "amount": "1 tsp",
-      "notes": null
+      "notes": "such as paprika, garlic powder, onion powder"
     },
     {
-      "name": "Salt",
-      "amount": "1 tsp",
-      "notes": null
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
     },
     {
-      "name": "Black pepper",
-      "amount": "1 tsp",
-      "notes": null
-    },
-    {
-      "name": "Garlic powder",
-      "amount": "1 tsp",
-      "notes": null
-    },
-    {
-      "name": "Dutch mustard",
-      "amount": "1 tsp",
-      "notes": null
-    },
-    {
-      "name": "Chopped fresh parsley",
-      "amount": "1 tsp",
-      "notes": null
+      "name": "pepper",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
     }
   ],
   "instructions": [
     "Preheat the oven to 425°F (220°C).",
-    "Rinse the cauliflower and break it into florets.",
-    "Place the cauliflower on a baking sheet and drizzle with olive oil.",
-    "Sprinkle the thyme, salt, pepper, garlic powder, and Dutch mustard over the cauliflower.",
-    "Pour the roast beef broth over the cauliflower and toss to coat.",
-    "Roast in the preheated oven for 20-25 minutes, or until tender and golden brown.",
-    "Remove from the oven and sprinkle with chopped parsley.",
-    "Serve hot and enjoy!"
+    "Rinse the cauliflower and remove any leaves or stems.",
+    "Cut the cauliflower into florets and place on a baking sheet.",
+    "Drizzle the roast over the cauliflower and sprinkle with Dutch seasoning, salt, and pepper.",
+    "Toss the cauliflower to coat evenly with the seasonings and oil.",
+    "Roast in the preheated oven for 20-25 minutes, or until the cauliflower is tender and lightly browned.",
+    "Remove from the oven and serve hot."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -71,19 +49,19 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "roasted",
     "cauliflower",
-    "dutch",
-    "side-dish"
+    "roast",
+    "side-dish",
+    "dutch"
   ],
   "nutrition": {
-    "calories": 120,
-    "protein": 5,
+    "calories": 100,
+    "protein": 2,
     "carbs": 20,
     "fat": 5
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/exuberant-dutch-cauliflower-roast",
   "providerUsed": "groq",
-  "createdAt": "2026-07-20T13:38:37.397Z"
+  "createdAt": "2026-07-21T17:33:02.081Z"
 }
