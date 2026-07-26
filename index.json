@@ -9270,14 +9270,14 @@
   },
   {
     "slug": "exuberant-dutch-cauliflower-roast",
-    "title": "Roast Cauliflower with Dutch Flair",
+    "title": "Dutch Cauliflower Roast",
     "tags": [
-      "roasted",
       "cauliflower",
-      "dutch",
-      "side-dish"
+      "roast",
+      "side-dish",
+      "dutch"
     ],
-    "cuisine": null,
+    "cuisine": "Dutch",
     "totalTimeMin": 35,
     "shard": "e"
   },
