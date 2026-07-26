@@ -11509,5 +11509,30 @@
     "cuisine": "indian",
     "totalTimeMin": 50,
     "shard": "e"
+  },
+  {
+    "slug": "egg-y-zanzibari-taro-pilaf--italian",
+    "title": "Italian Taro Fritters",
+    "tags": [
+      "italian",
+      "fritters",
+      "taro",
+      "snack"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 18,
+    "shard": "e"
+  },
+  {
+    "slug": "energizing-russian-beef-stew--french",
+    "title": "Russian Beef Stew",
+    "tags": [
+      "beef",
+      "stew",
+      "french-cuisine"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 175,
+    "shard": "e"
   }
 ]
