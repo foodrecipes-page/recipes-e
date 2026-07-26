@@ -1,0 +1,73 @@
+{
+  "slug": "elegant-thai-melon-roast--chinese",
+  "title": "Stir-Fried Roast Melon with Thai Spices",
+  "description": "A unique and flavorful Chinese-inspired dish that combines the sweetness of roast melon with the savory flavors of Thai spices.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Roast melon",
+      "amount": "1",
+      "notes": "Any variety, such as honeydew or cantaloupe"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "Available in most Asian grocery stores"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "Optional, for added depth of flavor"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add ginger and garlic and stir-fry for 1 minute, until fragrant.",
+    "Add curry paste and stir-fry for another minute.",
+    "Add roast melon and stir-fry for 2-3 minutes, until slightly tender.",
+    "Add soy sauce (if using) and stir-fry for another minute.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately, garnished with fresh herbs (optional)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "vegetarian",
+    "melon",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/elegant-thai-melon-roast--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T11:44:55.898Z"
+}
