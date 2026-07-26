@@ -1,0 +1,91 @@
+{
+  "slug": "earthly-fermented-portuguese-apple-dumplings--mexican",
+  "title": "Fermented Pork Dumplings with Earthy Salsa",
+  "description": "A fusion of mexican and portuguese flavors, these fermented pork dumplings are served with a earthy salsa made from portuguese ingredients.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fermented Pork",
+      "amount": "1 lb",
+      "notes": "available in portuguese markets"
+    },
+    {
+      "name": "Dumpling Wrappers",
+      "amount": "1 package",
+      "notes": "available in most supermarkets"
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Earthy Salsa",
+      "amount": "1 cup",
+      "notes": "see instructions for preparation"
+    },
+    {
+      "name": "Portuguese Olive Oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the fermented pork, cumin, chili powder, salt, and black pepper. Mix until just combined.",
+    "Add the dumpling wrappers to the bowl and mix until the wrappers are evenly coated with the pork mixture.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Heat 1 tbsp of portuguese olive oil in a large skillet over medium-high heat. Add the dumplings and cook until golden brown on the bottom, about 3-4 minutes.",
+    "Flip the dumplings and cook for an additional 3-4 minutes, until golden brown on the other side.",
+    "While the dumplings are cooking, prepare the earthy salsa by combining the apple cider vinegar, chopped fresh cilantro, and 1/4 cup of water in a blender or food processor. Blend until smooth.",
+    "Once the dumplings are cooked, serve them hot with the earthy salsa spooned over the top.",
+    "Garnish with additional chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "portuguese",
+    "fermented",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthly-fermented-portuguese-apple-dumplings--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T19:18:54.575Z"
+}
