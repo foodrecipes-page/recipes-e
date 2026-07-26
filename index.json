@@ -11482,5 +11482,32 @@
     "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "e"
+  },
+  {
+    "slug": "earthly-fermented-portuguese-apple-dumplings--mexican",
+    "title": "Fermented Pork Dumplings with Earthy Salsa",
+    "tags": [
+      "mexican",
+      "portuguese",
+      "fermented",
+      "dumplings"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
+    "slug": "exotic-dense-saudi-arabian-lamb-kebabs--indian",
+    "title": "Saudi Arabian Lamb Kebabs",
+    "tags": [
+      "kebabs",
+      "lamb",
+      "indian",
+      "saudi-arabian",
+      "exotic"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 50,
+    "shard": "e"
   }
 ]
