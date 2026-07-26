@@ -1,86 +1,85 @@
 {
   "slug": "easy-grilled-filipino-chicken-skewers",
-  "title": "Grilled Chicken Filipino-Style Skewers",
-  "description": "A flavorful and easy-to-make grilled chicken recipe inspired by Filipino cuisine, perfect for a quick weeknight dinner. This dish is a great way to enjoy the smoky flavor of grilled chicken with a tangy and sweet glaze.",
-  "cuisine": "Filipino",
+  "title": "Grilled Chicken Skewers",
+  "description": "A classic Filipino dish made with marinated chicken, grilled to perfection on skewers.",
+  "cuisine": "filipino",
   "diet": [
     "gluten-free",
-    "pescatarian",
-    "vegetarian"
+    "dairy-free"
   ],
-  "meal": "dinner",
+  "meal": "lunch",
   "ingredients": [
     {
-      "name": "boneless, skinless chicken breast",
-      "amount": "1.5 pounds",
-      "notes": "cut into 1-inch pieces"
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
     },
     {
-      "name": "fish sauce",
-      "amount": "2 tablespoons",
-      "notes": "optional"
-    },
-    {
-      "name": "grated ginger",
-      "amount": "2 inches",
-      "notes": "about 2 tablespoons"
-    },
-    {
-      "name": "brown sugar",
-      "amount": "2 tablespoons",
-      "notes": "or to taste"
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing skewers"
     },
     {
       "name": "soy sauce",
+      "amount": "1/4 cup",
+      "notes": "for marinade"
+    },
+    {
+      "name": "vinegar",
       "amount": "2 tablespoons",
-      "notes": "or to taste"
+      "notes": "for marinade"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
     },
     {
       "name": "black pepper",
       "amount": "to taste",
-      "notes": ""
+      "notes": "for seasoning"
     },
     {
-      "name": "bamboo skewers",
-      "amount": "10-12",
-      "notes": "soaked in water for 30 minutes"
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped (for garnish)"
     },
     {
-      "name": "vegetable oil",
-      "amount": "2 tablespoons",
-      "notes": "or as needed"
+      "name": "bell peppers",
+      "amount": "1 cup",
+      "notes": "cut into 1-inch pieces"
     }
   ],
   "instructions": [
     "Preheat grill to medium-high heat.",
-    "Thread chicken onto bamboo skewers, leaving a small space between each piece.",
-    "In a small bowl, whisk together fish sauce, ginger, brown sugar, and soy sauce.",
-    "Brush the mixture onto both sides of the chicken.",
+    "In a large bowl, whisk together soy sauce, vinegar, and garlic.",
+    "Add chicken to the marinade and mix until coated. Cover and refrigerate for at least 30 minutes.",
+    "Thread chicken and bell peppers onto skewers. Brush with vegetable oil.",
+    "Grill skewers for 8-10 minutes per side, or until chicken is cooked through.",
     "Season with black pepper to taste.",
-    "Grill the skewers for 8-10 minutes per side, or until the chicken is cooked through.",
-    "Brush with vegetable oil during the last 2 minutes of grilling.",
-    "Let the skewers rest for 5 minutes before serving."
+    "Garnish with chopped green onions.",
+    "Serve immediately."
   ],
-  "prepTimeMin": 10,
-  "cookTimeMin": 18,
-  "totalTimeMin": 28,
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "easy",
     "grilled",
-    "filipino",
     "chicken",
-    "skewers"
+    "filipino",
+    "skewers",
+    "easy"
   ],
   "nutrition": {
-    "calories": 340,
-    "protein": 40,
+    "calories": 320,
+    "protein": 35,
     "carbs": 10,
     "fat": 12
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/easy-grilled-filipino-chicken-skewers",
   "providerUsed": "groq",
-  "createdAt": "2026-07-19T13:42:32.224Z"
+  "createdAt": "2026-07-21T08:45:59.909Z"
 }
