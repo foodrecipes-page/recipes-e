@@ -1,0 +1,79 @@
+{
+  "slug": "earthy-crisp-slovakian-broccoli-curry--japanese",
+  "title": "Slovakian Broccoli Stir Fry with Earthy Curry Sauce",
+  "description": "A Japanese-inspired stir fry with a unique Slovakian twist, featuring fresh broccoli and a rich earthy curry sauce.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Slovakian Curry Powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Earthy Mushroom Broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Crisp Broccoli",
+      "amount": "1 bunch",
+      "notes": "fresh"
+    },
+    {
+      "name": "Brown Rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Cook the brown rice according to package instructions.",
+    "Marinate the broccoli in soy sauce for 10 minutes.",
+    "Heat 1 tablespoon of sesame oil in a wok or large skillet over medium-high heat.",
+    "Add the broccoli to the wok and cook for 3-4 minutes, or until tender.",
+    "Add the Slovakian curry powder to the wok and stir for 1 minute.",
+    "Pour in the earthy mushroom broth and bring the mixture to a simmer.",
+    "Reduce heat to low and let the sauce simmer for 5 minutes.",
+    "Serve the broccoli and curry sauce over cooked brown rice.",
+    "Garnish with chopped green onions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "vegetarian",
+    "stir-fry",
+    "broccoli"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-crisp-slovakian-broccoli-curry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T10:27:29.751Z"
+}
