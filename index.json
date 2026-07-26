@@ -11469,5 +11469,18 @@
     "cuisine": "chinese",
     "totalTimeMin": 20,
     "shard": "e"
+  },
+  {
+    "slug": "exotic-spicy-ukrainian-pork-skewers--japanese",
+    "title": "Yakitori-Style Pork Skewers",
+    "tags": [
+      "japanese",
+      "grilled",
+      "pork",
+      "skewers"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "e"
   }
 ]
