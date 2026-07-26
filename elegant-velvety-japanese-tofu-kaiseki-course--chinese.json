@@ -1,0 +1,67 @@
+{
+  "slug": "elegant-velvety-japanese-tofu-kaiseki-course--chinese",
+  "title": "Kaiseki-Inspired Tofu Soup",
+  "description": "A delicate and soothing soup inspired by the Japanese kaiseki cuisine, featuring tofu and elegant flavors.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Japanese Tofu",
+      "amount": "200g"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "1L"
+    },
+    {
+      "name": "Elegant Mushrooms",
+      "amount": "100g"
+    },
+    {
+      "name": "Velvety Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Course Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "4",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. In a large pot, combine vegetable broth and Japanese tofu.",
+    "2. Bring the mixture to a gentle simmer over medium heat.",
+    "3. Add elegant mushrooms and cook until they're tender.",
+    "4. Stir in velvety soy sauce and course black pepper.",
+    "5. Taste and adjust the seasoning as needed.",
+    "6. Serve the soup hot, garnished with green onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kaiseki",
+    "vegan",
+    "tofu",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/elegant-velvety-japanese-tofu-kaiseki-course--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T21:27:28.016Z"
+}
