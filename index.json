@@ -11534,5 +11534,18 @@
     "cuisine": "French",
     "totalTimeMin": 175,
     "shard": "e"
+  },
+  {
+    "slug": "elegant-velvety-japanese-tofu-kaiseki-course--chinese",
+    "title": "Kaiseki-Inspired Tofu Soup",
+    "tags": [
+      "kaiseki",
+      "vegan",
+      "tofu",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "e"
   }
 ]
