@@ -11400,5 +11400,32 @@
     "cuisine": "portuguese",
     "totalTimeMin": 55,
     "shard": "e"
+  },
+  {
+    "slug": "earthy-smoky-mediterranean-snow-peas-grill--thai",
+    "title": "Grilled Snow Peas with Earthy Peanut Sauce",
+    "tags": [
+      "thai",
+      "grill",
+      "peanut-sauce",
+      "snow-peas",
+      "side-dish"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 18,
+    "shard": "e"
+  },
+  {
+    "slug": "energizing-catalan-octopus-gallega-pulpo--japanese",
+    "title": "Tako-Gallega Stir Fry",
+    "tags": [
+      "octopus",
+      "gallega",
+      "japanese",
+      "stir-fry"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "e"
   }
 ]
