@@ -1,0 +1,57 @@
+{
+  "slug": "ezzy-springy-ethipian-daikon-pilaf--gluten-free",
+  "title": "Spicy Daikon Stir Fry",
+  "description": "A simple and flavorful stir fry made with daikon, springy, and a hint of spice. Perfect for a gluten-free meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Daikon",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Springy",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ethiopian spices (e.g. berbere)",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add daikon and cook until tender, about 5 minutes.",
+    "Add springy and cook until heated through.",
+    "Mix in Ethiopian spices.",
+    "Stir-fry for an additional 2 minutes.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "gluten-free",
+    "daikon",
+    "ethiopian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ezzy-springy-ethipian-daikon-pilaf--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T00:11:57.548Z"
+}
