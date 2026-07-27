@@ -11613,5 +11613,31 @@
     "cuisine": "australian",
     "totalTimeMin": 27,
     "shard": "e"
+  },
+  {
+    "slug": "exquisite-light-ethiopian-cheese-curds-skillet--vegan",
+    "title": "Ethiopian-Inspired Skillet Curry",
+    "tags": [
+      "vegan",
+      "ethiopian",
+      "curry",
+      "skillet"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 25,
+    "shard": "e"
+  },
+  {
+    "slug": "ezzy-springy-ethipian-daikon-pilaf--gluten-free",
+    "title": "Spicy Daikon Stir Fry",
+    "tags": [
+      "stir-fry",
+      "gluten-free",
+      "daikon",
+      "ethiopian"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 12,
+    "shard": "e"
   }
 ]
