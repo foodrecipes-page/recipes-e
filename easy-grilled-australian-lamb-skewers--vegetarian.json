@@ -1,0 +1,82 @@
+{
+  "slug": "easy-grilled-australian-lamb-skewers--vegetarian",
+  "title": "Grilled Vegetable Skewers with Chimichurri",
+  "description": "A flavorful and colorful vegetarian skewer dish that combines the taste of grilled vegetables with the tanginess of Argentinean-style chimichurri sauce.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb's Lettuce",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "2"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "2"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "amount": "1 pint"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a small bowl, whisk together red wine vinegar, olive oil, minced garlic, salt, and pepper for the chimichurri sauce.",
+    "3. Thread lamb's lettuce, red bell pepper, zucchini, red onion, mushrooms, and cherry tomatoes onto skewers.",
+    "4. Brush the skewers with olive oil and season with salt and pepper.",
+    "5. Grill the skewers for 10-12 minutes, turning occasionally, until the vegetables are tender.",
+    "6. Serve the grilled skewers with the chimichurri sauce on the side.",
+    "7. Garnish with fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "grilled",
+    "australian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/easy-grilled-australian-lamb-skewers--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T23:34:44.564Z"
+}
