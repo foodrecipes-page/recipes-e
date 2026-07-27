@@ -11666,5 +11666,17 @@
     "cuisine": "french",
     "totalTimeMin": 25,
     "shard": "e"
+  },
+  {
+    "slug": "energizing-smoky-irish-chicken-grill--vegetarian",
+    "title": "Irish Smoked Grilled Vegetables",
+    "tags": [
+      "irish",
+      "grilled",
+      "vegetarian"
+    ],
+    "cuisine": "irish",
+    "totalTimeMin": 25,
+    "shard": "e"
   }
 ]
