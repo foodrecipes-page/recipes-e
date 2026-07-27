@@ -1,0 +1,63 @@
+{
+  "slug": "egg-y-zanzibari-taro-pilaf--gluten-free",
+  "title": "Taro and Pilaf Fritter with Zanzibari",
+  "description": "A crispy and savory fritter made with taro and pilaf, flavored with the unique taste of zanzibari. Perfect for a gluten-free dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Taro",
+      "amount": "2 large"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "Egg",
+      "amount": "2"
+    },
+    {
+      "name": "Y",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Zanzibari",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Grate the taro and set aside.",
+    "In a large bowl, combine the cooked pilaf, grated taro, egg, and y.",
+    "Add the zanzibari and mix well.",
+    "Heat a non-stick pan with a small amount of oil over medium heat.",
+    "Using a spoon, drop small portions of the taro mixture into the pan.",
+    "Fry until golden brown and crispy, flipping halfway through.",
+    "Serve hot with your favorite chutney or raita.",
+    "Note: Be careful not to overcrowd the pan, fry in batches if necessary."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "indian",
+    "vegan-optional"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/egg-y-zanzibari-taro-pilaf--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T22:03:57.332Z"
+}
