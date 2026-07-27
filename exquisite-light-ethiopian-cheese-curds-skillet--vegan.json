@@ -1,0 +1,82 @@
+{
+  "slug": "exquisite-light-ethiopian-cheese-curds-skillet--vegan",
+  "title": "Ethiopian-Inspired Skillet Curry",
+  "description": "A vegan skillet curry with a light, exotic flavor profile inspired by Ethiopian cuisine.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Exquisite light oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Curds",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Skillet",
+      "amount": null,
+      "notes": "For cooking"
+    },
+    {
+      "name": "Ethiopian spice blend",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a skillet over medium-high heat.",
+    "Add the onion and cook until softened, about 3-4 minutes.",
+    "Add the garlic and cook for an additional minute.",
+    "Add the curds and cook, stirring occasionally, until they start to brown, about 5-6 minutes.",
+    "Add the Ethiopian spice blend, salt, and black pepper. Stir to combine.",
+    "Reduce heat to medium-low and simmer, stirring occasionally, for 10-12 minutes.",
+    "Serve hot, garnished with additional Ethiopian spice blend if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "ethiopian",
+    "curry",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exquisite-light-ethiopian-cheese-curds-skillet--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T00:07:38.147Z"
+}
