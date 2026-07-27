@@ -11654,5 +11654,17 @@
     "cuisine": "Middle Eastern",
     "totalTimeMin": 45,
     "shard": "e"
+  },
+  {
+    "slug": "energizing-australian-hake-flamb-8e--french",
+    "title": "Pan-Seared Hake with Australian Flambé Sauce",
+    "tags": [
+      "french",
+      "seafood",
+      "spicy"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "e"
   }
 ]
