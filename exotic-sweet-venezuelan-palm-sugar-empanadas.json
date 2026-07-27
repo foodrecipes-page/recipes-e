@@ -1,0 +1,75 @@
+{
+  "slug": "exotic-sweet-venezuelan-palm-sugar-empanadas",
+  "title": "Palm Sugar Empanadas",
+  "description": "A sweet and crispy empanada dessert filled with palm sugar and exotic flavors, inspired by Venezuelan cuisine.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Empanada dough",
+      "amount": "1 package",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "1 cup",
+      "notes": "crushed or ground"
+    },
+    {
+      "name": "Exotic fruit jam",
+      "amount": "1/2 cup",
+      "notes": "such as guava or mango"
+    },
+    {
+      "name": "Venezuelan vanilla extract",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Venezuelan shortening",
+      "amount": "1/4 cup",
+      "notes": "such as manteca or lard"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the empanada dough to a thickness of 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a small spoonful of palm sugar in the center of each dough circle.",
+    "Add a few drops of exotic fruit jam and a pinch of Venezuelan vanilla extract.",
+    "Fold the dough in half to form a triangle or a square shape, and press the edges together to seal.",
+    "Brush the tops of the empanadas with Venezuelan shortening and sprinkle with sugar.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!",
+    "Optional: dust with powdered sugar before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "empanada",
+    "palm sugar",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-sweet-venezuelan-palm-sugar-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T06:05:44.882Z"
+}
