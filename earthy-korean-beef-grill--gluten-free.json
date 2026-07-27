@@ -1,0 +1,91 @@
+{
+  "slug": "earthy-korean-beef-grill--gluten-free",
+  "title": "Korean-Style BBQ Beef",
+  "description": "A gluten-free, Korean-inspired BBQ beef recipe. Marinate beef in a mixture of soy sauce, garlic, and sugar, then grill to perfection.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flank Steak",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch thick slices"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Earthly Gochujang",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine soy sauce, garlic, sugar, ginger, and chili flakes.",
+    "Blend until smooth, then transfer the marinade to a large bowl.",
+    "Add the sliced beef to the marinade and toss to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat the grill to medium-high heat.",
+    "Remove the beef from the marinade and shake off any excess.",
+    "Grill the beef for 3-4 minutes per side, or until cooked to your desired level of doneness.",
+    "Transfer the beef to a cutting board and let it rest for 5 minutes.",
+    "In a small bowl, whisk together the gochujang and brown sugar.",
+    "Brush the glaze over the beef during the last minute of grilling.",
+    "Slice the beef against the grain and serve with green onions and additional gochujang glaze, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "gluten-free",
+    "bbq",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-korean-beef-grill--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T22:48:01.142Z"
+}
