@@ -1,0 +1,88 @@
+{
+  "slug": "exquisite-briny-middle-eastern-lamb-kibbeh--keto",
+  "title": "Keto Middle Eastern Lamb Kibbeh",
+  "description": "A keto twist on traditional Middle Eastern lamb kibbeh, featuring a crispy exterior and flavorful interior.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound",
+      "notes": "Ground lamb"
+    },
+    {
+      "name": "Middle eastern spice blend",
+      "amount": "2 tablespoons",
+      "notes": "Available at most Middle Eastern markets"
+    },
+    {
+      "name": "Exquisite eggs",
+      "amount": "2",
+      "notes": "Large eggs"
+    },
+    {
+      "name": "Briny feta cheese",
+      "amount": "1/2 cup",
+      "notes": "Crumble into small pieces"
+    },
+    {
+      "name": "Middle eastern bulgur",
+      "amount": "1/2 cup",
+      "notes": "Rinse and drain well"
+    },
+    {
+      "name": "Eastern olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large mixing bowl, combine ground lamb, Middle eastern spice blend, salt, and black pepper. Mix well with your hands until just combined.",
+    "Add the bulgur to the lamb mixture and mix until just combined. Do not overmix.",
+    "Crack in the eggs and mix until the mixture is just holding together.",
+    "Using your hands, shape the mixture into small patties, about 1 1/2 inches in diameter and 1/2 inch thick.",
+    "Heat the eastern olive oil in a large skillet over medium-high heat.",
+    "When the oil is hot, add a few of the patties to the skillet and fry until golden brown on both sides, about 3-4 minutes per side.",
+    "Transfer the kibbeh to a baking sheet lined with parchment paper and bake in the preheated oven for 15-20 minutes, or until cooked through.",
+    "While the kibbeh is baking, crumble the briny feta cheese into small pieces and set aside.",
+    "Once the kibbeh is done, remove it from the oven and let it cool for a few minutes.",
+    "Serve the kibbeh hot, topped with crumbled feta cheese and any other desired toppings."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "middle eastern",
+    "lamb",
+    "kibbeh",
+    "crispy",
+    "flavorful"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 33,
+    "carbs": 5,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exquisite-briny-middle-eastern-lamb-kibbeh--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T00:56:13.750Z"
+}
