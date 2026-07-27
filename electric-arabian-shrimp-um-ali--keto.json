@@ -1,0 +1,83 @@
+{
+  "slug": "electric-arabian-shrimp-um-ali--keto",
+  "title": "Keto Shrimp Ali Wrap",
+  "description": "A flavorful keto wrap filled with succulent shrimp, crunchy vegetables, and creamy sauce, all wrapped in a low-carb tortilla.",
+  "cuisine": "Arabian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "12 large",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Ali Wrap Tortilla",
+      "amount": "4 low-carb",
+      "notes": "6 inches in diameter"
+    },
+    {
+      "name": "Electric Fries Seasoning",
+      "amount": "1 tsp",
+      "notes": "for serving"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Keto Ranch Dressing",
+      "amount": "4 tbsp",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Season the shrimp with salt and pepper.",
+    "3. Grill the shrimp for 2-3 minutes per side, or until pink and cooked through.",
+    "4. Warm the Ali Wrap tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "5. Assemble the wraps by spreading 1 tablespoon of Keto Ranch Dressing on each tortilla, followed by 3 grilled shrimp, 1/4 cup of sliced cucumber, 1/4 cup of sliced tomato, and 1/4 cup of thinly sliced red onion.",
+    "6. Top each wrap with chopped cilantro and a sprinkle of Electric Fries Seasoning.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "low-carb",
+    "arabian",
+    "wrap",
+    "shrimp"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 5,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/electric-arabian-shrimp-um-ali--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T08:02:25.448Z"
+}
