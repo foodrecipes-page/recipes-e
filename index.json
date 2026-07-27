@@ -11547,5 +11547,45 @@
     "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "e"
+  },
+  {
+    "slug": "egg-y-zanzibari-taro-pilaf--gluten-free",
+    "title": "Taro and Pilaf Fritter with Zanzibari",
+    "tags": [
+      "gluten-free",
+      "indian",
+      "vegan-optional"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 25,
+    "shard": "e"
+  },
+  {
+    "slug": "exotic-silky-peruvian-fish-ceviche-clasico--italian",
+    "title": "Peruvian Ceviche Italian-Style",
+    "tags": [
+      "italian",
+      "peruvian",
+      "ceviche",
+      "fish",
+      "appetizer",
+      "fusion"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "e"
+  },
+  {
+    "slug": "earthy-korean-beef-grill--gluten-free",
+    "title": "Korean-Style BBQ Beef",
+    "tags": [
+      "korean",
+      "gluten-free",
+      "bbq",
+      "beef"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 32,
+    "shard": "e"
   }
 ]
