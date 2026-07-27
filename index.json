@@ -11702,5 +11702,18 @@
     "cuisine": "Mediterranean",
     "totalTimeMin": 170,
     "shard": "e"
+  },
+  {
+    "slug": "energizing-russian-beef-stew--vegetarian",
+    "title": "Hearty Russian Stew",
+    "tags": [
+      "russian",
+      "vegetarian",
+      "stew",
+      "energizing"
+    ],
+    "cuisine": "russian",
+    "totalTimeMin": 40,
+    "shard": "e"
   }
 ]
