@@ -1,0 +1,78 @@
+{
+  "slug": "energizing-australian-hake-flamb-8e--french",
+  "title": "Pan-Seared Hake with Australian Flambé Sauce",
+  "description": "A French-inspired dish featuring pan-seared hake served with a spicy Australian flambé sauce, made with energizing ingredients.",
+  "cuisine": "french",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Hake fillets",
+      "amount": "4",
+      "notes": "Fresh, skin removed"
+    },
+    {
+      "name": "Australian bush tomato",
+      "amount": "1/2 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Energizing chili flakes",
+      "amount": "1 tsp",
+      "notes": "Add to taste"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Flambé sauce",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "1. Season the hake fillets with salt, pepper, and a pinch of energizing chili flakes.",
+    "2. In a large skillet, melt 1 tablespoon of butter over medium heat.",
+    "3. Add the hake fillets and sear for 3-4 minutes on each side, or until cooked through.",
+    "4. Remove the hake from the skillet and set aside.",
+    "5. In the same skillet, add the remaining 1 tablespoon of butter and the chopped Australian bush tomato.",
+    "6. Cook for 1-2 minutes, or until the tomato is softened and fragrant.",
+    "7. Stir in the flambé sauce and bring to a simmer.",
+    "8. Return the hake to the skillet and spoon some of the sauce over the top.",
+    "9. Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "seafood",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-australian-hake-flamb-8e--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T02:17:08.961Z"
+}
