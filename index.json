@@ -11715,5 +11715,19 @@
     "cuisine": "russian",
     "totalTimeMin": 40,
     "shard": "e"
+  },
+  {
+    "slug": "electric-arabian-shrimp-um-ali--keto",
+    "title": "Keto Shrimp Ali Wrap",
+    "tags": [
+      "keto",
+      "low-carb",
+      "arabian",
+      "wrap",
+      "shrimp"
+    ],
+    "cuisine": "Arabian",
+    "totalTimeMin": 18,
+    "shard": "e"
   }
 ]
