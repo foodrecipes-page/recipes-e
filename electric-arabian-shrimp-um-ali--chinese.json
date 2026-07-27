@@ -1,0 +1,97 @@
+{
+  "slug": "electric-arabian-shrimp-um-ali--chinese",
+  "title": "Ali's Shrimp Stir Fry",
+  "description": "A quick and easy Chinese-inspired stir fry with succulent shrimp and a blend of aromatic spices, served over a bed of fluffy rice.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Large Shrimp",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Electric Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Arabian Spice Mix",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Ali's Special Sauce (soy sauce, hoisin sauce, rice vinegar)",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup cooked",
+      "notes": null
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup chopped",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove minced",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece grated",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add garlic and ginger, stir-fry for 1 minute.",
+    "Add shrimp, stir-fry until pink and cooked through.",
+    "Add electric pepper, Arabian spice mix, and Ali's Special Sauce. Stir-fry for 1 minute.",
+    "Add cooked rice, scallions, and salt. Stir-fry for 2 minutes.",
+    "Serve immediately and enjoy!",
+    "Cook time may vary based on personal preference for doneness.",
+    "Cook to an internal temperature of 145°F for the shrimp.",
+    "Serve with additional scallions and Ali's Special Sauce if desired.",
+    "Garnish with sesame seeds and serve with steamed vegetables.",
+    "Reheating leftovers, add a small amount of water to prevent drying."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "shrimp",
+    "chinese",
+    "stir-fry",
+    "easy",
+    "30-minutes-or-less"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/electric-arabian-shrimp-um-ali--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T04:23:50.830Z"
+}
