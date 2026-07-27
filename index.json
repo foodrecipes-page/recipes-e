@@ -8152,17 +8152,15 @@
   },
   {
     "slug": "exotic-sweet-venezuelan-palm-sugar-empanadas",
-    "title": "Exotic Sweet Venezuelan Palm Sugar Empanadas",
+    "title": "Palm Sugar Empanadas",
     "tags": [
-      "exotic",
-      "fried",
-      "low-glycemic",
-      "south-american",
-      "sweet",
-      "vegetarian"
+      "dessert",
+      "empanada",
+      "palm sugar",
+      "venezuelan"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 50,
     "shard": "e"
   },
   {
@@ -11691,6 +11689,18 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 18,
+    "shard": "e"
+  },
+  {
+    "slug": "easy-tender-mediterranean-lamb-tagine--vegan",
+    "title": "Tender Lamb Tagine",
+    "tags": [
+      "lamb",
+      "mediterranean",
+      "tagine"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 170,
     "shard": "e"
   }
 ]
