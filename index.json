@@ -11587,5 +11587,31 @@
     "cuisine": "Korean",
     "totalTimeMin": 32,
     "shard": "e"
+  },
+  {
+    "slug": "energizing-german-oats-pudding--japanese",
+    "title": "Japanese Oat Pudding",
+    "tags": [
+      "japanese",
+      "oat-pudding",
+      "dessert",
+      "healthy"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 10,
+    "shard": "e"
+  },
+  {
+    "slug": "easy-grilled-australian-lamb-skewers--vegetarian",
+    "title": "Grilled Vegetable Skewers with Chimichurri",
+    "tags": [
+      "easy",
+      "grilled",
+      "australian",
+      "vegetarian"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 27,
+    "shard": "e"
   }
 ]
