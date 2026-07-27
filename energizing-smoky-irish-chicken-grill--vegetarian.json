@@ -1,0 +1,77 @@
+{
+  "slug": "energizing-smoky-irish-chicken-grill--vegetarian",
+  "title": "Irish Smoked Grilled Vegetables",
+  "description": "A flavorful vegetarian dish with smoky grilled vegetables inspired by Irish cuisine, perfect for a quick and easy meal.",
+  "cuisine": "irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Energizing Ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Irish Red Potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Yellow Bell Pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Cut the potatoes, zucchini, bell pepper, and onion into 1-inch pieces.",
+    "In a large bowl, mix together smoked paprika, ginger, salt, and pepper.",
+    "Add the vegetables to the bowl and toss to coat with the spice mixture.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the vegetables for 5-7 minutes per side, or until tender and lightly charred.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "grilled",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-smoky-irish-chicken-grill--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T03:14:01.797Z"
+}
