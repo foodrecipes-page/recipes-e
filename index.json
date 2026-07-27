@@ -11639,5 +11639,20 @@
     "cuisine": "Ethiopian",
     "totalTimeMin": 12,
     "shard": "e"
+  },
+  {
+    "slug": "exquisite-briny-middle-eastern-lamb-kibbeh--keto",
+    "title": "Keto Middle Eastern Lamb Kibbeh",
+    "tags": [
+      "keto",
+      "middle eastern",
+      "lamb",
+      "kibbeh",
+      "crispy",
+      "flavorful"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 45,
+    "shard": "e"
   }
 ]
