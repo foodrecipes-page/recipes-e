@@ -1,0 +1,68 @@
+{
+  "slug": "energizing-german-oats-pudding--japanese",
+  "title": "Japanese Oat Pudding",
+  "description": "A Japanese-inspired oat pudding dessert with a unique twist.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "1 cup",
+      "notes": "old-fashioned oats"
+    },
+    {
+      "name": "milk",
+      "amount": "2 cups",
+      "notes": "whole milk or dairy alternative"
+    },
+    {
+      "name": "pandan extract",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "energizing granola",
+      "amount": "1/4 cup",
+      "notes": "add crunch and flavor"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine oats, milk, and pandan extract (if using).",
+    "Bring to a simmer over medium heat, whisking occasionally.",
+    "Reduce heat to low and cook, stirring frequently, until oats have absorbed most of the liquid, about 5-7 minutes.",
+    "Remove from heat and stir in honey until dissolved.",
+    "Let cool slightly, then stir in energizing granola.",
+    "Spoon into individual serving cups or a large serving dish.",
+    "Refrigerate until chilled, at least 2 hours.",
+    "Serve chilled, garnished with additional granola or a drizzle of honey (if desired)."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "oat-pudding",
+    "dessert",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-german-oats-pudding--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T22:55:16.521Z"
+}
