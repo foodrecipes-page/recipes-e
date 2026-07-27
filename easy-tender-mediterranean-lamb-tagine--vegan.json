@@ -1,0 +1,102 @@
+{
+  "slug": "easy-tender-mediterranean-lamb-tagine--vegan",
+  "title": "Tender Lamb Tagine",
+  "description": "A flavorful Mediterranean-inspired stew cooked in a traditional tagine, perfect for a special occasion. Unfortunately, this recipe cannot be vegan as it features lamb as the main ingredient.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Season the lamb with salt and black pepper.",
+    "2. Heat the olive oil in a large tagine or Dutch oven over medium-high heat.",
+    "3. Sear the lamb until browned on all sides, about 5 minutes.",
+    "4. Remove the lamb from the pot and set aside.",
+    "5. Reduce the heat to medium and add the onion to the pot.",
+    "6. Cook the onion until softened, about 5 minutes.",
+    "7. Add the garlic and ginger to the pot and cook for 1 minute.",
+    "8. Stir in the cumin, cinnamon, and paprika. Cook for 1 minute.",
+    "9. Add the browned lamb back to the pot and pour in enough water to cover the lamb.",
+    "10. Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 2 1/2 hours, or until the lamb is tender.",
+    "11. Skim any excess fat from the surface of the stew.",
+    "12. Taste and adjust the seasoning as needed.",
+    "13. Serve the lamb hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "lamb",
+    "mediterranean",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/easy-tender-mediterranean-lamb-tagine--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T05:58:49.562Z"
+}
