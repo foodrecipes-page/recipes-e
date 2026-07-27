@@ -11678,5 +11678,19 @@
     "cuisine": "irish",
     "totalTimeMin": 25,
     "shard": "e"
+  },
+  {
+    "slug": "electric-arabian-shrimp-um-ali--chinese",
+    "title": "Ali's Shrimp Stir Fry",
+    "tags": [
+      "shrimp",
+      "chinese",
+      "stir-fry",
+      "easy",
+      "30-minutes-or-less"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 18,
+    "shard": "e"
   }
 ]
