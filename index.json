@@ -11741,5 +11741,17 @@
     "cuisine": "italian",
     "totalTimeMin": 20,
     "shard": "e"
+  },
+  {
+    "slug": "earthily-roasted-australian-lamb-stir-fry--vegan",
+    "title": "Lamb Stir Fry with Australian Vegetables",
+    "tags": [
+      "stir-fry",
+      "australian",
+      "vegan"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 35,
+    "shard": "e"
   }
 ]
