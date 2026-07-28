@@ -1,0 +1,78 @@
+{
+  "slug": "earthy-smoky-norwegian-fernbrake-stew--thai",
+  "title": "Smoky Thai Stew",
+  "description": "A hearty and aromatic Thai stew made with smoky flavors and earthy undertones. Serve over steamed rice for a comforting meal.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fernbrake",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "earthly spices",
+      "amount": "2 tsp",
+      "notes": "blend of earthy spices"
+    },
+    {
+      "name": "smoky sauce",
+      "amount": "1/4 cup",
+      "notes": "make with smoked chili peppers and soy sauce"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "galangal",
+      "amount": "1 piece",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add galangal and cook until fragrant.",
+    "Add fernbrake and cook until it starts to soften.",
+    "Add stew, smoky sauce, and kaffir lime leaves.",
+    "Stir to combine and bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Season with earthly spices to taste.",
+    "Serve over steamed rice and garnish with chopped kaffir lime leaves."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "stew",
+    "veggie",
+    "comfort"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-smoky-norwegian-fernbrake-stew--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T18:16:07.870Z"
+}
