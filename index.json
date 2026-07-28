@@ -11793,5 +11793,18 @@
     "cuisine": "Ethiopian",
     "totalTimeMin": 30,
     "shard": "e"
+  },
+  {
+    "slug": "earthy-smoky-norwegian-fernbrake-stew--thai",
+    "title": "Smoky Thai Stew",
+    "tags": [
+      "thai",
+      "stew",
+      "veggie",
+      "comfort"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
+    "shard": "e"
   }
 ]
