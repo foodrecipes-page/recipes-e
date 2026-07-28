@@ -590,15 +590,15 @@
   },
   {
     "slug": "earthy-brazilian-broccoli-fried-rice",
-    "title": "earthy brazillian broccoli fried-rice",
+    "title": "Brazilian-Style Fried Rice Bowl",
     "tags": [
       "brazilian",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "fried",
+      "rice",
+      "vegetarian"
     ],
-    "cuisine": "brazilian",
-    "totalTimeMin": 40,
+    "cuisine": "Brazilian",
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {
@@ -11752,6 +11752,46 @@
     ],
     "cuisine": "australian",
     "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
+    "slug": "earthy-midnight-craving-japanese-dates-tofu-dashi--chinese",
+    "title": "Japanese-Style Dashi Tofu Stir Fry",
+    "tags": [
+      "chinese",
+      "japanese",
+      "stir-fry",
+      "tofu"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "e"
+  },
+  {
+    "slug": "earthy-smoky-norwegian-fernbrake-stew--german",
+    "title": "Smoky Fernbrake Stew",
+    "tags": [
+      "german",
+      "stew",
+      "hearty",
+      "vegetarian",
+      "comfortfood"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 50,
+    "shard": "e"
+  },
+  {
+    "slug": "exquisite-light-ethiopian-cheese-curds-skillet--vegetarian",
+    "title": "Ethiopian Skillet Frittata",
+    "tags": [
+      "ethiopian",
+      "breakfast",
+      "frittata",
+      "vegetarian"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 30,
     "shard": "e"
   }
 ]
