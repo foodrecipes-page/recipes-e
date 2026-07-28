@@ -1,0 +1,80 @@
+{
+  "slug": "easy-elegant-argentinian-smoked-mackerel-empanadas--italian",
+  "title": "Smoked Mackerel Pâté with Toasted Bread",
+  "description": "A creamy and elegant Italian-inspired appetizer featuring smoked mackerel, perfect for a dinner party.",
+  "cuisine": "italian",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked mackerel",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cream cheese",
+      "amount": "4 ounces"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "toasted bread",
+      "amount": "1 baguette"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Drain the liquid from the smoked mackerel and flake it into a bowl.",
+    "Add the butter, garlic, lemon juice, and cream cheese to the bowl with the mackerel.",
+    "Mix the ingredients until smooth.",
+    "Stir in the parsley.",
+    "Season the pâté with salt and black pepper to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, toast the bread until it is lightly browned.",
+    "Spread the smoked mackerel pâté on the toasted bread.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "appetizer",
+    "fish",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/easy-elegant-argentinian-smoked-mackerel-empanadas--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T12:57:47.553Z"
+}
