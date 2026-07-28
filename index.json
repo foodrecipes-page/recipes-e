@@ -11728,5 +11728,18 @@
     "cuisine": "Arabian",
     "totalTimeMin": 18,
     "shard": "e"
+  },
+  {
+    "slug": "easy-elegant-argentinian-smoked-mackerel-empanadas--italian",
+    "title": "Smoked Mackerel Pâté with Toasted Bread",
+    "tags": [
+      "italian",
+      "appetizer",
+      "fish",
+      "easy"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 20,
+    "shard": "e"
   }
 ]
