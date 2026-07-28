@@ -11806,5 +11806,34 @@
     "cuisine": "thai",
     "totalTimeMin": 30,
     "shard": "e"
+  },
+  {
+    "slug": "exquisite-light-ethiopian-cheese-curds-skillet--chinese",
+    "title": "Light Ethiopian Skillet Cheese Fritters (Chinese-Style)",
+    "tags": [
+      "ethiopian",
+      "chinese-food",
+      "cheese-fritters",
+      "skillet-recipe"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 23,
+    "shard": "e"
+  },
+  {
+    "slug": "earthy-dense-middle-eastern-beef-tagine--french",
+    "title": "Beef Tagine with French Flair",
+    "tags": [
+      "beef",
+      "tagine",
+      "middle eastern",
+      "french",
+      "moroccan",
+      "slow cooker",
+      "stew"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 170,
+    "shard": "e"
   }
 ]
