@@ -1,0 +1,95 @@
+{
+  "slug": "earthy-brazilian-broccoli-fried-rice",
+  "title": "Brazilian-Style Fried Rice Bowl",
+  "description": "A flavorful and filling dish inspired by the streets of Brazil, featuring crispy fried rice, earthy vegetables, and a hint of Brazilian spices.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brazilian rice",
+      "amount": "2 cups cooked",
+      "notes": ""
+    },
+    {
+      "name": "broccoli florets",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "earthly mushrooms",
+      "amount": "1 cup sliced",
+      "notes": ""
+    },
+    {
+      "name": "frying oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup diced",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves minced",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of frying oil in a large skillet over medium-high heat.",
+    "Add the diced onion and sauté until translucent, about 3-4 minutes.",
+    "Add the minced garlic and sauté for an additional 1 minute.",
+    "Add the sliced mushrooms and sauté until tender, about 4-5 minutes.",
+    "Add the broccoli florets and cook until tender, about 3-4 minutes.",
+    "In a separate pan, heat the remaining 1 tablespoon of frying oil over medium heat.",
+    "Add the cooked Brazilian rice and stir-fry until lightly browned, about 2-3 minutes.",
+    "Add the cooked vegetables to the rice and stir-fry until well combined.",
+    "Season with cumin, paprika, salt, and black pepper to taste.",
+    "Serve the Brazilian-style fried rice bowl hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "fried",
+    "rice",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-brazilian-broccoli-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T17:41:42.379Z"
+}
