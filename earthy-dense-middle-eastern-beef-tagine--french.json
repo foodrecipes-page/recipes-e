@@ -1,0 +1,97 @@
+{
+  "slug": "earthy-dense-middle-eastern-beef-tagine--french",
+  "title": "Beef Tagine with French Flair",
+  "description": "A classic Moroccan tagine with a French twist, featuring tender beef and aromatic spices.",
+  "cuisine": "French",
+  "diet": [
+    "meat",
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (short ribs)",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Middle Eastern spices",
+      "amount": "2 tablespoons",
+      "notes": "a mix of cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "Earthy mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Dense olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Eastern dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Tagine",
+      "amount": "1 unit",
+      "notes": "a traditional Moroccan clay pot"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the beef with salt, black pepper, and Middle Eastern spices.",
+    "Heat the olive oil in the tagine over medium-high heat.",
+    "Sear the beef until browned on all sides, then remove and set aside.",
+    "Add the sliced mushrooms to the tagine and cook until they release their moisture and start to brown.",
+    "Add the chopped olives, dried apricots, and beef broth to the tagine.",
+    "Return the beef to the tagine and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 1/2 hours, or until the beef is tender.",
+    "Serve the beef and sauce hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "tagine",
+    "middle eastern",
+    "french",
+    "moroccan",
+    "slow cooker",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-dense-middle-eastern-beef-tagine--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T19:49:50.866Z"
+}
