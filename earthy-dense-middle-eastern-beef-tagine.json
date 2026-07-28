@@ -1,0 +1,103 @@
+{
+  "slug": "earthy-dense-middle-eastern-beef-tagine",
+  "title": "Moroccan Beef Tagine",
+  "description": "A hearty and flavorful stew originating from the Middle East, made with tender beef and aromatic spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dried apricots",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "Beef short ribs",
+      "amount": "2 lbs",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "sweet"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "kosher"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Reduce heat to medium and cook the onion until softened, about 5 minutes.",
+    "Add garlic, ginger, cumin, cinnamon, turmeric, paprika, salt, and pepper. Cook for 1 minute.",
+    "Add the browned beef back to the pot, along with the dried apricots and 2 cups of water.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Braise for 2 1/2 hours, or until the beef is tender and the sauce has thickened.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "moroccan",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-dense-middle-eastern-beef-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T10:31:36.479Z"
+}
