@@ -1,0 +1,89 @@
+{
+  "slug": "exotic-sweet-malaysian-tofu-satay--indian",
+  "title": "Satay Tofu Skewers with Spiced Peanut Sauce",
+  "description": "A fusion of Indian and Malaysian flavors, these satay tofu skewers are marinated in a blend of spices and served with a creamy peanut sauce.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "exotic spices",
+      "amount": "1 tsp",
+      "notes": "coriander, cumin, and turmeric"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sweet chili sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "malaysian peanut sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "satay sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "toasted peanuts",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Cut the tofu into 1-inch cubes and set aside.",
+    "2. In a blender or food processor, combine the exotic spices, peanut butter, sweet chili sauce, and coconut milk. Blend until smooth.",
+    "3. Add the satay sauce and blend until well combined.",
+    "4. Thread the tofu cubes onto skewers and brush with the peanut sauce.",
+    "5. Heat the oil in a large skillet over medium-high heat. Add the tofu skewers and cook for 3-4 minutes on each side, until golden brown.",
+    "6. Serve the satay tofu skewers with additional peanut sauce for dipping.",
+    "7. Garnish with toasted peanuts and chopped cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "malaysian",
+    "tofu",
+    "sauce",
+    "peanut"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-sweet-malaysian-tofu-satay--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T20:35:50.240Z"
+}
