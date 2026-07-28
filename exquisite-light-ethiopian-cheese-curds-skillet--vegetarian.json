@@ -1,0 +1,78 @@
+{
+  "slug": "exquisite-light-ethiopian-cheese-curds-skillet--vegetarian",
+  "title": "Ethiopian Skillet Frittata",
+  "description": "A flavorful, vegetarian frittata made with Ethiopian spices and light ingredients, perfect for a quick breakfast or brunch.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "skillet",
+      "amount": "",
+      "notes": "for cooking"
+    },
+    {
+      "name": "exquisite cheese",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "curds",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "light",
+      "amount": "1/2 cup",
+      "notes": "sliced mushrooms"
+    },
+    {
+      "name": "Ethiopian",
+      "amount": "2 tsp",
+      "notes": "Berbere spice mix"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In the skillet, cook the mushrooms over medium heat until they're tender.",
+    "In a large bowl, whisk together the eggs, cheese, curds, Berbere spice mix, salt, and black pepper.",
+    "Pour the egg mixture over the mushrooms in the skillet.",
+    "Cook the frittata over medium heat until the edges start to set.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the frittata is set and golden brown.",
+    "Remove the skillet from the oven and let the frittata cool for a few minutes.",
+    "Slice the frittata into wedges and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ethiopian",
+    "breakfast",
+    "frittata",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 18,
+    "carbs": 8,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exquisite-light-ethiopian-cheese-curds-skillet--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T17:44:06.413Z"
+}
