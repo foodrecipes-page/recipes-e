@@ -1,0 +1,61 @@
+{
+  "slug": "energizing-german-oats-pudding--gluten-free",
+  "title": "German Oats Pudding",
+  "description": "A traditional German-inspired oats pudding that's perfect for a comforting breakfast or snack, made with energizing ingredients.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "pudding mix",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, combine the oats, milk, and pudding mix. Cook over medium heat, stirring constantly, until the mixture comes to a boil.",
+    "Reduce the heat to low and simmer for 5 minutes, stirring occasionally.",
+    "Remove the saucepan from the heat and stir in the honey and vanilla extract.",
+    "Let the pudding cool to room temperature.",
+    "Refrigerate the pudding for at least 2 hours or overnight.",
+    "Serve the pudding chilled, garnished with your choice of toppings."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "oats",
+    "pudding",
+    "gluten-free",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-german-oats-pudding--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T20:20:45.231Z"
+}
