@@ -11835,5 +11835,32 @@
     "cuisine": "French",
     "totalTimeMin": 170,
     "shard": "e"
+  },
+  {
+    "slug": "energizing-german-oats-pudding--gluten-free",
+    "title": "German Oats Pudding",
+    "tags": [
+      "oats",
+      "pudding",
+      "gluten-free",
+      "breakfast"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 60,
+    "shard": "e"
+  },
+  {
+    "slug": "exotic-sweet-malaysian-tofu-satay--indian",
+    "title": "Satay Tofu Skewers with Spiced Peanut Sauce",
+    "tags": [
+      "indian",
+      "malaysian",
+      "tofu",
+      "sauce",
+      "peanut"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "e"
   }
 ]
