@@ -11862,5 +11862,18 @@
     "cuisine": "indian",
     "totalTimeMin": 25,
     "shard": "e"
+  },
+  {
+    "slug": "energizing-german-oats-pudding--vegetarian",
+    "title": "German Oat Pudding",
+    "tags": [
+      "german",
+      "oat-pudding",
+      "dessert",
+      "vegetarian"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 15,
+    "shard": "e"
   }
 ]
