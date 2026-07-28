@@ -1,0 +1,79 @@
+{
+  "slug": "earthy-smoky-norwegian-fernbrake-stew--german",
+  "title": "Smoky Fernbrake Stew",
+  "description": "A hearty German stew made with earthy fernbrake and smoky flavors.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fernbrake",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Dried Norwegian Kjøttkaker",
+      "amount": "1/2 cup, sliced"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Earthy Mushroom Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Potato",
+      "amount": "2 large, peeled and cubed"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 large, peeled and sliced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic and sauté until softened, about 5 minutes.",
+    "Add fernbrake, smoked paprika, and earthy mushroom powder; stir to combine.",
+    "Add Norwegian Kjøttkaker and stir to combine.",
+    "Add vegetable broth, potato, and carrots; bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 30 minutes or until vegetables are tender.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "stew",
+    "hearty",
+    "vegetarian",
+    "comfortfood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-smoky-norwegian-fernbrake-stew--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T17:11:37.395Z"
+}
