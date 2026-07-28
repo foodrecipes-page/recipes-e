@@ -1,0 +1,74 @@
+{
+  "slug": "earthy-midnight-craving-japanese-dates-tofu-dashi--chinese",
+  "title": "Japanese-Style Dashi Tofu Stir Fry",
+  "description": "A simple and savory Chinese-inspired stir fry dish made with Japanese dashi broth and pan-seared tofu.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "dashi",
+      "amount": "2 cups",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "earthly mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "japanese soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "craving chili flakes",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "dates",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a wok or large skillet over medium-high heat.",
+    "Add the tofu and cook until golden brown, about 3-4 minutes. Remove from wok and set aside.",
+    "In the same wok, add another tablespoon of oil and stir-fry the mushrooms until they're tender.",
+    "Pour in the dashi broth and bring to a simmer.",
+    "Return the tofu to the wok and add the soy sauce and chili flakes (if using). Cook for an additional 1-2 minutes.",
+    "Stir in the chopped dates and cook for 30 seconds.",
+    "Season with salt to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "japanese",
+    "stir-fry",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-midnight-craving-japanese-dates-tofu-dashi--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T16:52:04.583Z"
+}
