@@ -1,0 +1,82 @@
+{
+  "slug": "exquisite-light-ethiopian-cheese-curds-skillet--chinese",
+  "title": "Light Ethiopian Skillet Cheese Fritters (Chinese-Style)",
+  "description": "A unique fusion of Chinese and Ethiopian flavors, these crispy fritters are both light and savory. Serve as a snack or appetizer.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "exquisite light flour",
+      "amount": "1 1/2 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "curds",
+      "amount": "1/2 cup",
+      "notes": "ricotta cheese"
+    },
+    {
+      "name": "skillet cheese",
+      "amount": "1/2 cup",
+      "notes": "cheddar cheese, shredded"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": "warm water"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "Ethiopian spice blend",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, whisk together flour, Ethiopian spice blend, and salt.",
+    "Add curds and mix until just combined.",
+    "Gradually add warm water and mix until a dough forms.",
+    "Knead dough for 5 minutes until smooth.",
+    "Divide dough into 4-6 equal pieces.",
+    "Shape each piece into a ball and flatten slightly into a disk.",
+    "Heat 1/4 cup vegetable oil in a skillet over medium heat.",
+    "When oil is hot, add 2-3 fritters to the skillet.",
+    "Cook for 2-3 minutes or until golden brown, flipping halfway through.",
+    "Repeat with remaining fritters.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "chinese-food",
+    "cheese-fritters",
+    "skillet-recipe"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exquisite-light-ethiopian-cheese-curds-skillet--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T19:47:54.569Z"
+}
