@@ -1044,16 +1044,15 @@
   },
   {
     "slug": "earthy-dense-middle-eastern-beef-tagine",
-    "title": "Earthy Dense Middle-Eastern Beef Tagine",
+    "title": "Moroccan Beef Tagine",
     "tags": [
       "beef",
-      "date-night",
-      "high-protein",
-      "lacto-vegetarian",
-      "middle-eastern"
+      "stew",
+      "moroccan",
+      "tagine"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 40,
+    "totalTimeMin": 180,
     "shard": "e"
   },
   {
