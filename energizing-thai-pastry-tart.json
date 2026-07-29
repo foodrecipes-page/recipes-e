@@ -1,0 +1,84 @@
+{
+  "slug": "energizing-thai-pastry-tart",
+  "title": "Thai Energizing Tart",
+  "description": "A sweet and savory pastry filled with a Thai-inspired filling to give you a boost of energy.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Pastry crust",
+      "amount": "1 sheet",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Tamarind paste",
+      "amount": "2 tablespoons",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Coconut sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Almond milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Energizing powder",
+      "amount": "1 teaspoon",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Shredded coconut",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the pastry crust and place it in a tart pan.",
+    "In a blender, combine the tamarind paste, coconut sugar, almond milk, energizing powder, and shredded coconut. Blend until smooth.",
+    "Pour the filling into the pastry crust.",
+    "Sprinkle the chopped fresh mint leaves on top of the filling.",
+    "Bake the tart for 35-40 minutes, or until the crust is golden brown.",
+    "Remove the tart from the oven and let it cool for 10 minutes.",
+    "Serve the tart warm, garnished with additional fresh mint leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "energizing",
+    "pastry",
+    "tart"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/energizing-thai-pastry-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T04:59:59.431Z"
+}
