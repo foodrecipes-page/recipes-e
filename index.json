@@ -2730,16 +2730,15 @@
   },
   {
     "slug": "easy-elegant-ukrainian-pastry-pie",
-    "title": "Easy Elegant Ukrainian Pastry Pie",
+    "title": "Ukrainian Apple Pie",
     "tags": [
-      "bitter-dessert",
-      "easy-pastry",
-      "midnight-craving",
-      "sugar-free",
-      "ukrainian-cuisine"
+      "ukrainian",
+      "pastry",
+      "pie",
+      "dessert"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 55,
+    "cuisine": "ukrainian",
+    "totalTimeMin": 75,
     "shard": "e"
   },
   {
@@ -5968,16 +5967,15 @@
   },
   {
     "slug": "energizing-thai-pastry-tart",
-    "title": "Energizing Thai Pastry Tart",
+    "title": "Thai Energizing Tart",
     "tags": [
-      "cheese-based",
-      "easy-dessert",
-      "high-protein",
-      "raw-friendly",
-      "weeknight"
+      "thaifood",
+      "energizing",
+      "pastry",
+      "tart"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 60,
+    "totalTimeMin": 55,
     "shard": "e"
   },
   {
@@ -11638,17 +11636,15 @@
   },
   {
     "slug": "exquisite-briny-middle-eastern-lamb-kibbeh--keto",
-    "title": "Keto Middle Eastern Lamb Kibbeh",
+    "title": "Keto Eastern Lamb Kibbeh",
     "tags": [
       "keto",
-      "middle eastern",
       "lamb",
       "kibbeh",
-      "crispy",
-      "flavorful"
+      "middle-eastern"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "e"
   },
   {
