@@ -11875,5 +11875,17 @@
     "cuisine": "german",
     "totalTimeMin": 15,
     "shard": "e"
+  },
+  {
+    "slug": "exquisite-buttery-polish-basmati-rice-pilaf--japanese",
+    "title": "Delicate Japanese Pilaf",
+    "tags": [
+      "japanese",
+      "rice",
+      "pilaf"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "e"
   }
 ]
