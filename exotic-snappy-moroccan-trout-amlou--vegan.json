@@ -1,0 +1,76 @@
+{
+  "slug": "exotic-snappy-moroccan-trout-amlou--vegan",
+  "title": "Moroccan Amlou Stuffed Sweet Potato",
+  "description": "A flavorful and nutritious vegan dish, perfect for a warm evening. Sweet potatoes are stuffed with a delicious mixture of amlou, exotic spices, and crunchy snacks.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "4"
+    },
+    {
+      "name": "amlou",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "exotic spices (cinnamon, ginger, turmeric)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "snappy peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "date syrup (optional)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Wash and poke the sweet potatoes with a fork to allow steam to escape.",
+    "Rub the sweet potatoes with olive oil and place them on a baking sheet.",
+    "Bake for 45-60 minutes, or until tender.",
+    "While the sweet potatoes are baking, mix together amlou, exotic spices, salt, and pepper in a bowl.",
+    "When the sweet potatoes are done, let them cool for a few minutes.",
+    "Slice them in half lengthwise and scoop out some of the flesh to make room for the filling.",
+    "Fill the sweet potatoes with the amlou mixture, snappy peas, and a drizzle of date syrup (if using).",
+    "Serve warm, garnished with lemon juice and a sprinkle of exotic spices.",
+    "Optional: top with toasted nuts or seeds for added crunch."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "moroccan",
+    "sweet-potato"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-snappy-moroccan-trout-amlou--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T00:58:46.519Z"
+}
