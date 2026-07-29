@@ -1,0 +1,81 @@
+{
+  "slug": "elegant-thai-melon-roast--french",
+  "title": "French Melon Tart with Roast Almonds",
+  "description": "A sweet and elegant dessert featuring a melon filling atop a buttery pastry crust, finished with toasted roast almonds.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 1/4 cups"
+    },
+    {
+      "name": "Confectioners' sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Almond extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Roast almonds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Melon (cantaloupe or honeydew)",
+      "amount": "3 cups"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Line a baking sheet with parchment paper.",
+    "In a medium bowl, whisk together flour, confectioners' sugar, and salt. Add the cold butter and use a pastry blender or your fingers to work it into the flour mixture until it resembles coarse crumbs.",
+    "Press the mixture into a 9-inch (23cm) tart pan with a removable bottom. Chill in the freezer for 10 minutes.",
+    "Line the tart shell with parchment paper and fill with pie weights or dried beans. Bake for 15 minutes.",
+    "Remove the parchment paper and pie weights or beans. Return the tart shell to the oven and bake for an additional 5 minutes.",
+    "In a large bowl, whisk together the granulated sugar, almond extract, and egg. Add the melon and stir until well combined.",
+    "Pour the melon mixture into the tart shell and smooth the top.",
+    "Bake for 25-30 minutes or until the filling is set.",
+    "While the tart is baking, toast the roast almonds in a 350°F (180°C) oven for 5-7 minutes or until fragrant.",
+    "Remove the tart from the oven and let it cool to room temperature.",
+    "Sprinkle the toasted roast almonds over the top of the tart before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "french-dessert",
+    "tart",
+    "melon"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/elegant-thai-melon-roast--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T00:54:54.032Z"
+}
