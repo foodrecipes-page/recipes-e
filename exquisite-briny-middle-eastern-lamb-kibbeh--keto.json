@@ -1,7 +1,7 @@
 {
   "slug": "exquisite-briny-middle-eastern-lamb-kibbeh--keto",
-  "title": "Keto Middle Eastern Lamb Kibbeh",
-  "description": "A keto twist on traditional Middle Eastern lamb kibbeh, featuring a crispy exterior and flavorful interior.",
+  "title": "Keto Eastern Lamb Kibbeh",
+  "description": "A keto twist on the traditional Middle Eastern dish, featuring lamb and kibbeh in a flavorful and savory recipe.",
   "cuisine": "Middle Eastern",
   "diet": [
     "keto"
@@ -9,80 +9,61 @@
   "meal": "lunch",
   "ingredients": [
     {
-      "name": "Lamb",
-      "amount": "1 pound",
-      "notes": "Ground lamb"
+      "name": "ground lamb",
+      "amount": "1 pound"
     },
     {
-      "name": "Middle eastern spice blend",
-      "amount": "2 tablespoons",
-      "notes": "Available at most Middle Eastern markets"
+      "name": "kibbeh",
+      "amount": "1 package (crushed)"
     },
     {
-      "name": "Exquisite eggs",
-      "amount": "2",
-      "notes": "Large eggs"
+      "name": "exquisite olive oil",
+      "amount": "2 tablespoons"
     },
     {
-      "name": "Briny feta cheese",
-      "amount": "1/2 cup",
-      "notes": "Crumble into small pieces"
+      "name": "middle eastern spices",
+      "amount": "1 teaspoon (mix of cumin, coriander, cinnamon)"
     },
     {
-      "name": "Middle eastern bulgur",
-      "amount": "1/2 cup",
-      "notes": "Rinse and drain well"
+      "name": "briny feta cheese",
+      "amount": "1/4 cup (crumbled)"
     },
     {
-      "name": "Eastern olive oil",
-      "amount": "2 tablespoons",
-      "notes": "For frying"
+      "name": "eggs",
+      "amount": "2"
     },
     {
-      "name": "Salt",
-      "amount": "1 teaspoon",
-      "notes": "To taste"
-    },
-    {
-      "name": "Black pepper",
-      "amount": "1/2 teaspoon",
-      "notes": "To taste"
+      "name": "almond flour",
+      "amount": "1/4 cup"
     }
   ],
   "instructions": [
     "Preheat oven to 400°F (200°C).",
-    "In a large mixing bowl, combine ground lamb, Middle eastern spice blend, salt, and black pepper. Mix well with your hands until just combined.",
-    "Add the bulgur to the lamb mixture and mix until just combined. Do not overmix.",
-    "Crack in the eggs and mix until the mixture is just holding together.",
-    "Using your hands, shape the mixture into small patties, about 1 1/2 inches in diameter and 1/2 inch thick.",
-    "Heat the eastern olive oil in a large skillet over medium-high heat.",
-    "When the oil is hot, add a few of the patties to the skillet and fry until golden brown on both sides, about 3-4 minutes per side.",
-    "Transfer the kibbeh to a baking sheet lined with parchment paper and bake in the preheated oven for 15-20 minutes, or until cooked through.",
-    "While the kibbeh is baking, crumble the briny feta cheese into small pieces and set aside.",
-    "Once the kibbeh is done, remove it from the oven and let it cool for a few minutes.",
-    "Serve the kibbeh hot, topped with crumbled feta cheese and any other desired toppings."
+    "In a large bowl, combine ground lamb, kibbeh, olive oil, middle eastern spices, and eggs. Mix well with your hands until just combined.",
+    "Transfer the mixture to a baking dish and shape into a flat layer.",
+    "Sprinkle almond flour and feta cheese on top of the lamb mixture.",
+    "Bake for 25-30 minutes, or until the lamb is cooked through and the top is golden brown.",
+    "Remove from oven and let rest for 5 minutes before slicing and serving."
   ],
-  "prepTimeMin": 20,
+  "prepTimeMin": 10,
   "cookTimeMin": 25,
-  "totalTimeMin": 45,
+  "totalTimeMin": 35,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
     "keto",
-    "middle eastern",
     "lamb",
     "kibbeh",
-    "crispy",
-    "flavorful"
+    "middle-eastern"
   ],
   "nutrition": {
     "calories": 540,
-    "protein": 33,
-    "carbs": 5,
-    "fat": 45
+    "protein": 44,
+    "carbs": 6,
+    "fat": 43
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/exquisite-briny-middle-eastern-lamb-kibbeh--keto",
   "providerUsed": "groq",
-  "createdAt": "2026-07-22T00:56:13.750Z"
+  "createdAt": "2026-07-23T04:34:15.011Z"
 }
