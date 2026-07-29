@@ -1,0 +1,87 @@
+{
+  "slug": "exuberant-dutch-cauliflower-roast--mexican",
+  "title": "Roasted Cauliflower Tacos",
+  "description": "A delicious and easy Mexican-inspired dish featuring roasted cauliflower in a flavorful taco.",
+  "cuisine": "mexican",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "amount": "1 head"
+    },
+    {
+      "name": "roast",
+      "amount": "1 tsp",
+      "notes": "dried Mexican oregano"
+    },
+    {
+      "name": "dutch",
+      "amount": "1 tsp",
+      "notes": "paprika"
+    },
+    {
+      "name": "exuberant",
+      "amount": "1 tsp",
+      "notes": "cumin"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Rinse the cauliflower and remove the leaves and stem.",
+    "Cut the cauliflower into florets.",
+    "In a large bowl, mix together the oregano, paprika, cumin, salt, and pepper.",
+    "Add the cauliflower to the bowl and toss to coat with the spice mixture.",
+    "Drizzle with olive oil and toss to coat.",
+    "Spread the cauliflower on a baking sheet and roast for 20-25 minutes, or until tender and lightly browned.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the roasted cauliflower onto a tortilla and topping with cheese.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "cauliflower",
+    "tacos",
+    "vegetarian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exuberant-dutch-cauliflower-roast--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T00:08:17.835Z"
+}
