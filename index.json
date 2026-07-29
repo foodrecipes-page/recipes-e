@@ -11927,5 +11927,29 @@
     "cuisine": "mexican",
     "totalTimeMin": 45,
     "shard": "e"
+  },
+  {
+    "slug": "elegant-thai-melon-roast--french",
+    "title": "French Melon Tart with Roast Almonds",
+    "tags": [
+      "french-dessert",
+      "tart",
+      "melon"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 60,
+    "shard": "e"
+  },
+  {
+    "slug": "exotic-snappy-moroccan-trout-amlou--vegan",
+    "title": "Moroccan Amlou Stuffed Sweet Potato",
+    "tags": [
+      "vegan",
+      "moroccan",
+      "sweet-potato"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 60,
+    "shard": "e"
   }
 ]
