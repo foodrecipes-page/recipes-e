@@ -1,0 +1,73 @@
+{
+  "slug": "earthy-canadian-dried-white-corn-stew--gluten-free",
+  "title": "Earthy Canadian Stew",
+  "description": "A hearty and comforting stew made with earthy vegetables and Canadian beef. Perfect for a cold winter night.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian beef stew meat",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Earthy mushrooms",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "White potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Corn",
+      "amount": "1 cup frozen",
+      "notes": ""
+    },
+    {
+      "name": "Stew",
+      "amount": "4 cups beef broth",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Add mushrooms, thyme, and potatoes. Cook for 5 minutes.",
+    "Add beef broth and bring to a boil.",
+    "Reduce heat to low and simmer for 30 minutes.",
+    "Add corn and cook for an additional 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "canadian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/earthy-canadian-dried-white-corn-stew--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T00:02:07.262Z"
+}
