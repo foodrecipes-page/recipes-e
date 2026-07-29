@@ -1,0 +1,96 @@
+{
+  "slug": "exotic-snappy-moroccan-trout-amlou",
+  "title": "Pan-Seared Trout with Moroccan Amlou Sauce",
+  "description": "A delicate trout dish served with a rich and nutty amlou sauce, inspired by the flavors of Morocco.",
+  "cuisine": "moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "trout fillet",
+      "amount": "4",
+      "notes": "fresh and of good quality"
+    },
+    {
+      "name": "exotic spice blend",
+      "amount": "1 tsp",
+      "notes": "available at most middle-eastern markets"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "use a high-quality oil with a distinct flavor"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": "ground and toasted"
+    },
+    {
+      "name": "prunes",
+      "amount": "1/4 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "apricot jam",
+      "amount": "2 tbsp",
+      "notes": "available at most middle-eastern markets"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "amlou (almond paste)",
+      "amount": "2 tbsp",
+      "notes": "available at most middle-eastern markets"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. In a small bowl, mix together the exotic spice blend, garlic, and lemon juice.",
+    "2. Season the trout fillet with salt and pepper to taste.",
+    "3. Heat the olive oil in a large skillet over medium-high heat.",
+    "4. Add the trout fillet to the skillet, skin side up, and sear for 2-3 minutes.",
+    "5. Flip the trout over and cook for an additional 2-3 minutes, or until cooked through.",
+    "6. While the trout is cooking, heat the ground almonds and diced prunes in a small saucepan over medium heat, stirring constantly.",
+    "7. Add the apricot jam and amlou to the saucepan, stirring to combine.",
+    "8. Simmer the sauce for 2-3 minutes, or until heated through.",
+    "9. To serve, place the cooked trout on a plate and spoon the amlou sauce over the top.",
+    "10. Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "fish",
+    "almonds",
+    "apricot",
+    "jam"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/exotic-snappy-moroccan-trout-amlou",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T23:50:15.607Z"
+}
