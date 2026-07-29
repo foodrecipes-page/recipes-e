@@ -1,0 +1,95 @@
+{
+  "slug": "easy-elegant-ukrainian-pastry-pie",
+  "title": "Ukrainian Apple Pie",
+  "description": "A traditional Ukrainian-style apple pie with a flaky pastry crust, perfect for a cozy dessert.",
+  "cuisine": "ukrainian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Apples (2 cups, sliced)",
+      "amount": "",
+      "notes": "Any variety of apple, but Granny Smith works well"
+    },
+    {
+      "name": "Pastry dough (homemade or store-bought)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar (1 cup)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour (1 cup)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon (1/2 tsp)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Lemon zest (1 tsp)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice (1 tbsp)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Egg (beaten, 1)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter (1/4 cup, melted)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Water (1 tbsp)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pastry dough to a thickness of 1/8 inch.",
+    "Transfer the dough to a 9-inch pie dish.",
+    "In a separate bowl, mix together the sliced apples, granulated sugar, cinnamon, lemon zest, and lemon juice.",
+    "Fill the pie crust with the apple mixture and dot the top with the beaten egg.",
+    "Roll out the remaining pastry dough to a thickness of 1/8 inch.",
+    "Use a pastry cutter or a knife to create a decorative border.",
+    "Place the border on top of the pie and crimp the edges to seal.",
+    "Cut a few slits in the top crust to allow steam to escape.",
+    "Brush the top crust with the melted butter and sprinkle with water.",
+    "Bake the pie for 45-50 minutes, or until the crust is golden brown and the apples are tender.",
+    "Remove the pie from the oven and let it cool on a wire rack for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "pastry",
+    "pie",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 324,
+    "protein": 2,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/easy-elegant-ukrainian-pastry-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T03:56:34.893Z"
+}
