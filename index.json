@@ -7901,17 +7901,16 @@
   },
   {
     "slug": "exotic-snappy-moroccan-trout-amlou",
-    "title": "Exotic Snappy Moroccan Trout Amlou",
+    "title": "Pan-Seared Trout with Moroccan Amlou Sauce",
     "tags": [
-      "kosher-friendly",
-      "midnight-craving",
-      "moroccan-cuisine",
-      "seafood",
-      "snappy",
-      "yeasty"
+      "moroccan",
+      "fish",
+      "almonds",
+      "apricot",
+      "jam"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 27,
+    "cuisine": "moroccan",
+    "totalTimeMin": 20,
     "shard": "e"
   },
   {
@@ -11886,6 +11885,47 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 35,
+    "shard": "e"
+  },
+  {
+    "slug": "elegant-thai-melon-roast--gluten-free",
+    "title": "Thai-Style Grilled Melon",
+    "tags": [
+      "thai",
+      "grilled",
+      "melon",
+      "dessert",
+      "gluten-free"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 13,
+    "shard": "e"
+  },
+  {
+    "slug": "earthy-canadian-dried-white-corn-stew--gluten-free",
+    "title": "Earthy Canadian Stew",
+    "tags": [
+      "beef",
+      "stew",
+      "canadian",
+      "gluten-free"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 50,
+    "shard": "e"
+  },
+  {
+    "slug": "exuberant-dutch-cauliflower-roast--mexican",
+    "title": "Roasted Cauliflower Tacos",
+    "tags": [
+      "mexican",
+      "cauliflower",
+      "tacos",
+      "vegetarian",
+      "easy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
     "shard": "e"
   }
 ]
